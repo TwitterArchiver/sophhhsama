@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2053102115002745277",
+    "created_at": "2026-05-09T13:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053102115002745277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eweisi32/statu…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/eweisi32/status/2053076952961958211",
+          "start": 78,
+          "url": "https://t.co/c7FTraHUT0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053102115002745277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053076952961958211",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小猫还真试过神经痛\n练琴练的 我家钢琴琴键特别重（比三角琴还重一点点） 有一阵子没练 重新每天练1-2个小时 然后就手前臂神经疼了 是类似有一种刺刺的痛感 https://t.co/c7FTraHUT0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2053102115002745277",
+        "created_at": "2026-05-09T13:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053102115002745277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eweisi32/statu…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/eweisi32/status/2053076952961958211",
+              "start": 78,
+              "url": "https://t.co/c7FTraHUT0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053102115002745277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053076952961958211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小猫还真试过神经痛\n练琴练的 我家钢琴琴键特别重（比三角琴还重一点点） 有一阵子没练 重新每天练1-2个小时 然后就手前臂神经疼了 是类似有一种刺刺的痛感 https://t.co/c7FTraHUT0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933114395854610432",
+        "conversation_id": "2053076878580171213",
+        "created_at": "2026-05-09T11:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053076952961958211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053076952961958211",
+        "in_reply_to_user_id": "1933114395854610432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053076878580171213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神经痛啥感觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 好朋友萌 @slclst @Cheeseduck111 @djzi237149 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "djzi237149"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 347,
+          "like_count": 18129,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 2572
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "这里是一个乐子，一个oder，一个餐劵逼，一个神经病，一个人，一个小女孩。互fo私信 接塔罗占卜\n我闺蜜@Xxkg3g",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 52,
+                "username": "Xxkg3g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mvrtin98341",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mvrtin98341",
+                "start": 0,
+                "url": "https://t.co/tYaSleR9lr"
+              }
+            ]
+          }
+        },
+        "id": "1933114395854610432",
+        "location": "骚扰我先打钱。",
+        "name": "蚀蛊",
+        "pinned_tweet_id": "2050247792346411493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 477,
+          "like_count": 1470,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 623
+        },
+        "url": "https://t.co/tYaSleR9lr",
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

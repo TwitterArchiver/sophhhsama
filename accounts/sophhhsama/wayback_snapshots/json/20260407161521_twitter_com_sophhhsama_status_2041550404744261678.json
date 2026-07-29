@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2041550404744261678",
+    "created_at": "2026-04-07T16:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T17:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041550404744261678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/altigaytor/sta…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/altigaytor/status/2041330446974308773",
+          "start": 33,
+          "url": "https://t.co/mIDWDkbPeP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041550404744261678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041330446974308773",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然小猫没有BPD（吧？）\n不过真的拜托不要把精神病患当成癖好… https://t.co/mIDWDkbPeP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 304,
+        "media_key": "16_2041330440301129728",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFRDOFNXMAAuvTl.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFRDOFNXMAAuvTl.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2041550404744261678",
+        "created_at": "2026-04-07T16:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T17:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041550404744261678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/altigaytor/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/altigaytor/status/2041330446974308773",
+              "start": 33,
+              "url": "https://t.co/mIDWDkbPeP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041550404744261678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041330446974308773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然小猫没有BPD（吧？）\n不过真的拜托不要把精神病患当成癖好… https://t.co/mIDWDkbPeP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2041330440301129728"
+          ]
+        },
+        "author_id": "1748559986605846528",
+        "conversation_id": "2041330446974308773",
+        "created_at": "2026-04-07T01:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041330446974308773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7TUUsSDJ89",
+              "end": 213,
+              "expanded_url": "https://x.com/altigaytor/status/2041330446974308773/photo/1",
+              "media_key": "16_2041330440301129728",
+              "start": 190,
+              "url": "https://t.co/7TUUsSDJ89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041330446974308773",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 28448,
+          "like_count": 2987,
+          "quote_count": 53,
+          "reply_count": 31,
+          "retweet_count": 834
+        },
+        "reply_settings": "everyone",
+        "text": "NSO anime is making a lot of people too comfortable fetishizing BPD and saying they want a BPD girlfriend. i promise you the point of NSO is not to tell you to be like Ame/get a gf like Ame https://t.co/7TUUsSDJ89"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417784971001856/HVUfHILV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 306,
+          "like_count": 9365,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 1428
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T04:16:13.000Z",
+        "description": "珊瑚宮心海 . ⋅˚₊‧ ଳ⋆.ೃ࿔*:･ \" the depths of a person's https://t.co/hRXwWDmrTp run deep . \" || pfp by ;; 阿稳同学_ on bilibili || he/him",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "heart.⠀",
+                "end": 72,
+                "expanded_url": "http://heart.xn--6ii",
+                "start": 49,
+                "url": "https://t.co/hRXwWDmrTp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "altigaytor.straw.page",
+                "end": 23,
+                "expanded_url": "https://altigaytor.straw.page/",
+                "start": 0,
+                "url": "https://t.co/2WM0szwLBg"
+              }
+            ]
+          }
+        },
+        "id": "1748559986605846528",
+        "location": "scaralayla CEO | Yoru #1 fan",
+        "name": "ali !! ☂️💫 CEO",
+        "pinned_tweet_id": "1927512633730543762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036713271823134720/JAtSGuaS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2977,
+          "following_count": 2586,
+          "like_count": 38214,
+          "listed_count": 48,
+          "media_count": 7267,
+          "tweet_count": 32693
+        },
+        "url": "https://t.co/2WM0szwLBg",
+        "username": "altigaytor",
+        "verified": false
+      }
+    ]
+  }
+}

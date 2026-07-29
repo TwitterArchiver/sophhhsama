@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2060218952618541338",
+    "created_at": "2026-05-29T05:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060238126929400302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818920358403256320",
+          "start": 0,
+          "username": "xuanyu_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060238126929400302",
+    "in_reply_to_user_id": "1818920358403256320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060218952618541338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuanyu_awa 还有化竞的吗 加油哦～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_2060218945106497536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdeNw6aUAATfVk.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2060218952618541338",
+        "created_at": "2026-05-29T05:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060238126929400302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818920358403256320",
+              "start": 0,
+              "username": "xuanyu_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060238126929400302",
+        "in_reply_to_user_id": "1818920358403256320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060218952618541338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanyu_awa 还有化竞的吗 加油哦～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060218945106497536"
+          ]
+        },
+        "author_id": "1818920358403256320",
+        "conversation_id": "2060218952618541338",
+        "created_at": "2026-05-29T04:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060218952618541338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7r3TYs8keH",
+              "end": 31,
+              "expanded_url": "https://x.com/xuanyu_awa/status/2060218952618541338/photo/1",
+              "media_key": "3_2060218945106497536",
+              "start": 8,
+              "url": "https://t.co/7r3TYs8keH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060218952618541338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只剩一百天了😭 https://t.co/7r3TYs8keH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 363,
+          "like_count": 22031,
+          "listed_count": 2,
+          "media_count": 362,
+          "tweet_count": 3064
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-01T08:03:18.000Z",
+        "description": "mtf🍥🏳️‍⚧️/birthday:2010.4.14/hrt:2024.3.16/CChOer（省一倒数的废物……）/高一物化生/彩笔音游人/精神状态随机/坐标重庆主城/欢迎来找我聊天哦",
+        "id": "1818920358403256320",
+        "location": "重庆",
+        "name": "萱雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054504636170817941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619597285576704/qBOYoEc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3180,
+          "following_count": 3766,
+          "like_count": 36000,
+          "listed_count": 6,
+          "media_count": 117,
+          "tweet_count": 1253
+        },
+        "username": "xuanyu_awa",
+        "verified": false
+      }
+    ]
+  }
+}

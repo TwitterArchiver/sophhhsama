@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2041875303547523396",
+    "created_at": "2026-04-08T13:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T14:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041875303547523396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds0/status/2…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/hgds0/status/2041855909757178309",
+          "start": 21,
+          "url": "https://t.co/jn26WkbQi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041875303547523396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041855909757178309",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想发给他\n等他没那么累再发吧\n没什么好说 https://t.co/jn26WkbQi3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 747,
+        "media_key": "3_2041855892015202304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYhHZYawAAlmxp.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2041875303547523396",
+        "created_at": "2026-04-08T13:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041875303547523396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds0/status/2…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/hgds0/status/2041855909757178309",
+              "start": 21,
+              "url": "https://t.co/jn26WkbQi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041875303547523396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041855909757178309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想发给他\n等他没那么累再发吧\n没什么好说 https://t.co/jn26WkbQi3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041855892015202304"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2041855909757178309",
+        "created_at": "2026-04-08T12:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041855909757178309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jH5X22UnF",
+              "end": 26,
+              "expanded_url": "https://x.com/hgds0/status/2041855909757178309/photo/1",
+              "media_key": "3_2041855892015202304",
+              "start": 3,
+              "url": "https://t.co/7jH5X22UnF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041855909757178309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1068,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "代了 https://t.co/7jH5X22UnF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417784971001856/HVUfHILV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 309,
+          "like_count": 9609,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 1466
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96254,
+          "following_count": 2486,
+          "like_count": 43977,
+          "listed_count": 138,
+          "media_count": 3951,
+          "tweet_count": 8335
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

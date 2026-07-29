@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2041110102220927058",
+    "created_at": "2026-04-06T11:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T12:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041110102220927058"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aureliax17qwq/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/aureliax17qwq/status/2041072472150376863",
+          "start": 7,
+          "url": "https://t.co/uCKuUOG3QN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041110102220927058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041072472150376863",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么神仙结局 https://t.co/uCKuUOG3QN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2041110102220927058",
+        "created_at": "2026-04-06T11:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041110102220927058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aureliax17qwq/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/aureliax17qwq/status/2041072472150376863",
+              "start": 7,
+              "url": "https://t.co/uCKuUOG3QN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041110102220927058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041072472150376863",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么神仙结局 https://t.co/uCKuUOG3QN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2041072470778880000"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2041072472150376863",
+        "created_at": "2026-04-06T08:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041072472150376863"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041072472150376863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 819,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "结局1.你死了\n你死后父母再也不用担心你。\n用原本留给你的钱，四处旅行。\n你的鲨鲨玩偶也被别人照顾好了。\n生活也平静了下来。\n你的下一世将会是你想要的性别。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417784971001856/HVUfHILV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 301,
+          "like_count": 8980,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1356
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费但失败的心理委员，可以把我当树洞｜mtf｜06｜重抑｜INFP｜已炸柜｜💊｜想倾诉或聊天可以tg找我说话（或者私信哦～）|tg：https://t.co/5kLEQoTlFF |最爱的小孩@dnshu135734｜我永远爱你们❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 93,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 70,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 248,
+          "like_count": 5914,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 1558
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

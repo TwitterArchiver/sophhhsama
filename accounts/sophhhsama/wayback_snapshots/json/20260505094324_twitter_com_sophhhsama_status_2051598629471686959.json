@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2051227934543802539",
+    "created_at": "2026-05-05T09:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T10:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051598629471686959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1859757935267807235",
+          "start": 0,
+          "username": "kafka_ww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051598629471686959",
+    "in_reply_to_user_id": "1859757935267807235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051597720054632582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kafka_ww 是这样的呢🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2051227934543802539",
+        "created_at": "2026-05-05T09:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051598629471686959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1859757935267807235",
+              "start": 0,
+              "username": "kafka_ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051598629471686959",
+        "in_reply_to_user_id": "1859757935267807235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051597720054632582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kafka_ww 是这样的呢🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859757935267807235",
+        "conversation_id": "2051227934543802539",
+        "created_at": "2026-05-05T09:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051597720054632582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223415775278428160",
+              "start": 0,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051597720054632582",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051227934543802539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophhhsama 英国排gic要好久好久好久好久🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 389,
+          "like_count": 16875,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 2393
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T00:37:08.000Z",
+        "description": "猫医生指导下的抑郁康复日记\n\n「この白い壁の部屋では、时間は太阳の目を避けたようだ」",
+        "id": "1859757935267807235",
+        "name": "小小卡",
+        "pinned_tweet_id": "2005887758754295912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992821090159382528/WovY5l-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 128,
+          "like_count": 241,
+          "listed_count": 6,
+          "media_count": 148,
+          "tweet_count": 752
+        },
+        "username": "kafka_ww",
+        "verified": false
+      }
+    ]
+  }
+}

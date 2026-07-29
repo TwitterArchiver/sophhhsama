@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023734100469882880",
+        "3_2023734100482551808"
+      ],
+      "media_source_tweet_id": [
+        "2023734109948780657",
+        "2023734109948780657"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2024042344870285737",
+    "created_at": "2026-02-18T08:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T09:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024042344870285737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646843799526686722",
+          "start": 3,
+          "username": "Nevme011"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hRlzBO9xrz",
+          "end": 37,
+          "expanded_url": "https://x.com/Nevme011/status/2023734109948780657/photo/1",
+          "media_key": "3_2023734100469882880",
+          "start": 14,
+          "url": "https://t.co/hRlzBO9xrz"
+        },
+        {
+          "display_url": "pic.x.com/hRlzBO9xrz",
+          "end": 37,
+          "expanded_url": "https://x.com/Nevme011/status/2023734109948780657/photo/1",
+          "media_key": "3_2023734100482551808",
+          "start": 14,
+          "url": "https://t.co/hRlzBO9xrz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024042344870285737",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023734109948780657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nevme011: https://t.co/hRlzBO9xrz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 827,
+        "media_key": "3_2023734100469882880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBW_cTJaIAA6Plv.jpg",
+        "width": 1062
+      },
+      {
+        "height": 760,
+        "media_key": "3_2023734100482551808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBW_cTMbcAAe8nW.jpg",
+        "width": 1143
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023734100469882880",
+            "3_2023734100482551808"
+          ],
+          "media_source_tweet_id": [
+            "2023734109948780657",
+            "2023734109948780657"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2024042344870285737",
+        "created_at": "2026-02-18T08:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T09:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024042344870285737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646843799526686722",
+              "start": 3,
+              "username": "Nevme011"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRlzBO9xrz",
+              "end": 37,
+              "expanded_url": "https://x.com/Nevme011/status/2023734109948780657/photo/1",
+              "media_key": "3_2023734100469882880",
+              "start": 14,
+              "url": "https://t.co/hRlzBO9xrz"
+            },
+            {
+              "display_url": "pic.x.com/hRlzBO9xrz",
+              "end": 37,
+              "expanded_url": "https://x.com/Nevme011/status/2023734109948780657/photo/1",
+              "media_key": "3_2023734100482551808",
+              "start": 14,
+              "url": "https://t.co/hRlzBO9xrz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024042344870285737",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023734109948780657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nevme011: https://t.co/hRlzBO9xrz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023734100469882880",
+            "3_2023734100482551808"
+          ]
+        },
+        "author_id": "1646843799526686722",
+        "conversation_id": "2023734109948780657",
+        "created_at": "2026-02-17T12:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023734109948780657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRlzBO9xrz",
+              "end": 23,
+              "expanded_url": "https://x.com/Nevme011/status/2023734109948780657/photo/1",
+              "media_key": "3_2023734100469882880",
+              "start": 0,
+              "url": "https://t.co/hRlzBO9xrz"
+            },
+            {
+              "display_url": "pic.x.com/hRlzBO9xrz",
+              "end": 23,
+              "expanded_url": "https://x.com/Nevme011/status/2023734109948780657/photo/1",
+              "media_key": "3_2023734100482551808",
+              "start": 0,
+              "url": "https://t.co/hRlzBO9xrz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023734109948780657",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 10379,
+          "like_count": 557,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hRlzBO9xrz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 64,
+          "like_count": 1058,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 253
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-14T11:52:20.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/Nevme",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/Nevme",
+                "start": 0,
+                "url": "https://t.co/AbwMTNMycO"
+              }
+            ]
+          }
+        },
+        "id": "1646843799526686722",
+        "name": "كأِف",
+        "pinned_tweet_id": "1997430569777414390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882580298104832/dRmRDk03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9072,
+          "following_count": 407,
+          "like_count": 8529,
+          "listed_count": 4,
+          "media_count": 505,
+          "tweet_count": 17347
+        },
+        "url": "https://t.co/AbwMTNMycO",
+        "username": "Nevme011",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2050981534832759083",
+    "created_at": "2026-05-03T16:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T17:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050981534832759083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dqadopt/status…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/dqadopt/status/2050871293734695268",
+          "start": 31,
+          "url": "https://t.co/LLlMvawhhN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050981534832759083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050871293734695268",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好好看的bouquet\n小猫什么时候才能收到喜欢的人送的花呢 https://t.co/LLlMvawhhN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050871282942816256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYokNvbMAA7hXp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050871282703724544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYokM2a8AArenJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050871282653347840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYokMqaQAA8ATJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050871282640838656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYokMnbYAAY84G.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2050981534832759083",
+        "created_at": "2026-05-03T16:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050981534832759083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dqadopt/status…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/dqadopt/status/2050871293734695268",
+              "start": 31,
+              "url": "https://t.co/LLlMvawhhN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050981534832759083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050871293734695268",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好好看的bouquet\n小猫什么时候才能收到喜欢的人送的花呢 https://t.co/LLlMvawhhN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050871282942816256",
+            "3_2050871282703724544",
+            "3_2050871282653347840",
+            "3_2050871282640838656"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050871293734695268",
+        "created_at": "2026-05-03T09:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050871293734695268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8mJUYQVNYe",
+              "end": 128,
+              "expanded_url": "https://x.com/DQadopt/status/2050871293734695268/photo/1",
+              "media_key": "3_2050871282942816256",
+              "start": 105,
+              "url": "https://t.co/8mJUYQVNYe"
+            },
+            {
+              "display_url": "pic.x.com/8mJUYQVNYe",
+              "end": 128,
+              "expanded_url": "https://x.com/DQadopt/status/2050871293734695268/photo/1",
+              "media_key": "3_2050871282703724544",
+              "start": 105,
+              "url": "https://t.co/8mJUYQVNYe"
+            },
+            {
+              "display_url": "pic.x.com/8mJUYQVNYe",
+              "end": 128,
+              "expanded_url": "https://x.com/DQadopt/status/2050871293734695268/photo/1",
+              "media_key": "3_2050871282653347840",
+              "start": 105,
+              "url": "https://t.co/8mJUYQVNYe"
+            },
+            {
+              "display_url": "pic.x.com/8mJUYQVNYe",
+              "end": 128,
+              "expanded_url": "https://x.com/DQadopt/status/2050871293734695268/photo/1",
+              "media_key": "3_2050871282640838656",
+              "start": 105,
+              "url": "https://t.co/8mJUYQVNYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050871293734695268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3358,
+          "like_count": 105,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "见面送的花\n今天中午吃的日料！这几天和小鸟吃了好多好吃的！\n和小鸟一起看恐怖片（现在也在酒店里躺着一起看\n给小鸟换了个小米17哼哼哼小鸟习惯用小米\n很幸福很幸福，小鸟特别特别漂亮可爱我这头猪拱了一颗绝美好白菜 https://t.co/8mJUYQVNYe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 387,
+          "like_count": 16407,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 2351
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2207,
+          "following_count": 338,
+          "like_count": 3167,
+          "listed_count": 1,
+          "media_count": 355,
+          "tweet_count": 3810
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2022396568150659144",
+    "created_at": "2026-02-13T19:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T20:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022396568150659144"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022396568150659144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "亚硝酸盐中毒的特效药是亚甲蓝（methylene blue），1–2 mg/kg 以葡萄糖稀释后缓慢静注（5–10分钟）。通常10–30分钟起效，峰值在30–60分钟。越早用越好。\n\n严重中毒可在10分钟至数小时内发生心脏骤停，无固定时限。若已长时间脑缺氧或摄入量极大，单用亚甲蓝可能难以逆转。发现后请立即送医，途中尽量吸氧，不要依赖催吐或活性炭。\n\n希望再没有人用到吧\n\n辛苦了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亚硝酸盐中毒的特效药是亚甲蓝（methylene blue），1–2 mg/kg 以葡萄糖稀释后缓慢静注（5–10分钟）。通常10–30分钟起效，峰值在30–60分钟。越早用越好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2022396568150659144",
+        "created_at": "2026-02-13T19:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T20:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022396568150659144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022396568150659144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "亚硝酸盐中毒的特效药是亚甲蓝（methylene blue），1–2 mg/kg 以葡萄糖稀释后缓慢静注（5–10分钟）。通常10–30分钟起效，峰值在30–60分钟。越早用越好。\n\n严重中毒可在10分钟至数小时内发生心脏骤停，无固定时限。若已长时间脑缺氧或摄入量极大，单用亚甲蓝可能难以逆转。发现后请立即送医，途中尽量吸氧，不要依赖催吐或活性炭。\n\n希望再没有人用到吧\n\n辛苦了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亚硝酸盐中毒的特效药是亚甲蓝（methylene blue），1–2 mg/kg 以葡萄糖稀释后缓慢静注（5–10分钟）。通常10–30分钟起效，峰值在30–60分钟。越早用越好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 58,
+          "like_count": 750,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 165
+        },
+        "username": "sophhhsama",
+        "verified": true
+      }
+    ]
+  }
+}

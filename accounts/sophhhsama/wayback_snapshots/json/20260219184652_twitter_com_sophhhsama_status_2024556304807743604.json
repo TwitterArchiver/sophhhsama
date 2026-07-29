@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2024064819469697170",
+    "created_at": "2026-02-19T18:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T19:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024556304807743604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1889273834479693824",
+          "start": 0,
+          "username": "xvxnuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024556304807743604",
+    "in_reply_to_user_id": "1889273834479693824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024064819469697170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xvxnuo 偷了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2024064819469697170",
+        "created_at": "2026-02-19T18:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T19:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024556304807743604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1889273834479693824",
+              "start": 0,
+              "username": "xvxnuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024556304807743604",
+        "in_reply_to_user_id": "1889273834479693824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024064819469697170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvxnuo 偷了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889273834479693824",
+        "conversation_id": "2024064819469697170",
+        "created_at": "2026-02-18T10:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024064819469697170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024064819469697170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 52414,
+          "like_count": 915,
+          "quote_count": 15,
+          "reply_count": 32,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "察觉到对面不喜欢我了，我就会退出聊天界面，长按取消置顶，更改备注，删除聊天记录，清理微信后台，长按关机机然后跳河"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. spam account. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 67,
+          "like_count": 1281,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 284
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-11T11:22:47.000Z",
+        "description": "我和你有什么好说的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xnuo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xnuo1",
+                "start": 0,
+                "url": "https://t.co/MGovzs8e0S"
+              }
+            ]
+          }
+        },
+        "id": "1889273834479693824",
+        "name": "诺诺许",
+        "pinned_tweet_id": "2024026006546178319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022304589597564928/cDFdjVka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 29,
+          "like_count": 14080,
+          "listed_count": 6,
+          "media_count": 128,
+          "tweet_count": 3474
+        },
+        "url": "https://t.co/MGovzs8e0S",
+        "username": "xvxnuo",
+        "verified": false
+      }
+    ]
+  }
+}

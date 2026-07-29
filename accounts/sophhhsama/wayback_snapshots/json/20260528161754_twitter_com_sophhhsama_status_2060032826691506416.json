@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2060032826691506416",
+    "created_at": "2026-05-28T16:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060032826691506416"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ymkxxxxxxxx/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/ymkxxxxxxxx/status/2060022823905853613",
+          "start": 7,
+          "url": "https://t.co/SvDBKR3fuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060032826691506416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060022823905853613",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "照顾好自己喵 https://t.co/SvDBKR3fuk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_2060022796751867904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJar0bWaEAAadxR.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2060032826691506416",
+        "created_at": "2026-05-28T16:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060032826691506416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ymkxxxxxxxx/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ymkxxxxxxxx/status/2060022823905853613",
+              "start": 7,
+              "url": "https://t.co/SvDBKR3fuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060032826691506416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060022823905853613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "照顾好自己喵 https://t.co/SvDBKR3fuk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060022796751867904"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2060022823905853613",
+        "created_at": "2026-05-28T15:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060022823905853613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MuraMswudi",
+              "end": 63,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2060022823905853613/photo/1",
+              "media_key": "3_2060022796751867904",
+              "start": 40,
+              "url": "https://t.co/MuraMswudi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060022823905853613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上推还是少看那些令人难受的信息比较好，还有一些关于沉重话题的讨论\n照顾好自己。 https://t.co/MuraMswudi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 359,
+          "like_count": 21976,
+          "listed_count": 2,
+          "media_count": 362,
+          "tweet_count": 3034
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花、花花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n  HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com/",
+                "start": 0,
+                "url": "https://t.co/yl6lD17MBA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "梦花 𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 655,
+          "like_count": 8578,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1893
+        },
+        "url": "https://t.co/yl6lD17MBA",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

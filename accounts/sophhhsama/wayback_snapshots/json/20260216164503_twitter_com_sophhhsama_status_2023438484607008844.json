@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2023288736101077143",
+    "created_at": "2026-02-16T16:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T17:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023438484607008844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2000617411247251456",
+          "start": 0,
+          "username": "yupi996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023438484607008844",
+    "in_reply_to_user_id": "2000617411247251456",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023288736101077143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yupi996 how the table has turned"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1602,
+        "media_key": "3_2023270084354142208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQZbAaacAA3npv.jpg",
+        "width": 1202
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2023288736101077143",
+        "created_at": "2026-02-16T16:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023438484607008844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2000617411247251456",
+              "start": 0,
+              "username": "yupi996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023438484607008844",
+        "in_reply_to_user_id": "2000617411247251456",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023288736101077143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yupi996 how the table has turned"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023270084354142208"
+          ]
+        },
+        "author_id": "2000617411247251456",
+        "conversation_id": "2023288736101077143",
+        "created_at": "2026-02-16T06:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023288736101077143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fygM2THuMN",
+              "end": 32,
+              "expanded_url": "https://x.com/yupi996/status/2023288736101077143/photo/1",
+              "media_key": "3_2023270084354142208",
+              "start": 9,
+              "url": "https://t.co/fygM2THuMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023288736101077143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 14050,
+          "like_count": 254,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "说的是我没错了🤣 https://t.co/fygM2THuMN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 62,
+          "like_count": 948,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 225
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-15T17:22:30.000Z",
+        "description": "专注 AI + 编程教育 | 编程导航站长 https://t.co/89dNxo4a3J\n⭐️ 全网 200w 关注，独立开发→腾讯全栈→创业中\n😈 项目狂魔，10+上线产品，GitHub 20k+ followers\n❤️ 感谢关注，目标 2w 粉！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "codefather.cn",
+                "end": 45,
+                "expanded_url": "http://codefather.cn",
+                "start": 22,
+                "url": "https://t.co/89dNxo4a3J"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/liyupi",
+                "end": 23,
+                "expanded_url": "https://github.com/liyupi",
+                "start": 0,
+                "url": "https://t.co/zfKcqO4pft"
+              }
+            ]
+          }
+        },
+        "id": "2000617411247251456",
+        "location": "China",
+        "name": "程序员鱼皮",
+        "pinned_tweet_id": "2000880272112542163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000617981035044864/5pXwSkUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14126,
+          "following_count": 211,
+          "like_count": 153,
+          "listed_count": 74,
+          "media_count": 86,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/zfKcqO4pft",
+        "username": "yupi996",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2020532502805278999",
+    "created_at": "2026-02-08T16:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T17:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020532502805278999"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2020532502805278999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚才出门的时候看到一个外卖小哥的私家车被开罚单（那个印度小哥刚从店里拿外卖出来拿车，看到一个黑人交警在拍他的车，然后那个外卖小哥真差点给那个交警跪下了（说可不可以不开罚单））\n那结果当然就是罚单照开，毕竟交警也看kpi呢（漏报被投诉\n印度小哥抱着外卖包坐在驾驶座呆了十几秒 半天白干了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2020532502805278999",
+        "created_at": "2026-02-08T16:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T17:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020532502805278999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020532502805278999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才出门的时候看到一个外卖小哥的私家车被开罚单（那个印度小哥刚从店里拿外卖出来拿车，看到一个黑人交警在拍他的车，然后那个外卖小哥真差点给那个交警跪下了（说可不可以不开罚单））\n那结果当然就是罚单照开，毕竟交警也看kpi呢（漏报被投诉\n印度小哥抱着外卖包坐在驾驶座呆了十几秒 半天白干了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "aspiring med student, i also like programming, macroeconomics, tokenomics\nZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh 🍥",
+        "pinned_tweet_id": "2020096493814685890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 44,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 63
+        },
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

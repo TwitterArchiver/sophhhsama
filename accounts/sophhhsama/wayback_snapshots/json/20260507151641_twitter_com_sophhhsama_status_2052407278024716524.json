@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2052407278024716524",
+    "created_at": "2026-05-07T15:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052407278024716524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oe3iigfqrq9473…",
+          "end": 115,
+          "expanded_url": "https://twitter.com/oe3iigfqrq9473/status/2052405078729122000",
+          "start": 92,
+          "url": "https://t.co/z9GsPSOVIS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052407278024716524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052405078729122000",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊回忆都回来了\n香港这个装药的小袋子\n前边写着多久吃多少\n不过好像自从上中学就没看到过了\n可能已经比较少看医生了\n有病就吃点成药和维C 什么幸福伤风素之类的（有人听说过这个吗w） https://t.co/z9GsPSOVIS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2052405042913959936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHubgy4bYAAQ0x_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2052407278024716524",
+        "created_at": "2026-05-07T15:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052407278024716524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oe3iigfqrq9473…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/oe3iigfqrq9473/status/2052405078729122000",
+              "start": 92,
+              "url": "https://t.co/z9GsPSOVIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052407278024716524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052405078729122000",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊回忆都回来了\n香港这个装药的小袋子\n前边写着多久吃多少\n不过好像自从上中学就没看到过了\n可能已经比较少看医生了\n有病就吃点成药和维C 什么幸福伤风素之类的（有人听说过这个吗w） https://t.co/z9GsPSOVIS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052405042913959936"
+          ]
+        },
+        "author_id": "2044392328966680576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052405078729122000",
+        "created_at": "2026-05-07T15:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052405078729122000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NU74qAQzrB",
+              "end": 30,
+              "expanded_url": "https://x.com/OE3IIGFQRQ9473/status/2052405078729122000/photo/1",
+              "media_key": "3_2052405042913959936",
+              "start": 7,
+              "url": "https://t.co/NU74qAQzrB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052405078729122000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這是何物？！ https://t.co/NU74qAQzrB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 好朋友萌 @slclst @Cheeseduck111 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 346,
+          "like_count": 17601,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 2497
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T12:28:23.000Z",
+        "description": "11年 順女 LGBTQ全友好 交友大歡迎\n本垢@FanQie_QianQian \n這裏是我的情緒垃圾桶 日常碎碎念（極多（\n負能過多 如果讓你感到不適我很抱歉 請屏蔽喵_(._.)_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/241BETQBPK"
+              }
+            ]
+          }
+        },
+        "id": "2044392328966680576",
+        "location": "看看你身後呢🤤",
+        "name": "芊芊/番茄操蛋9.0",
+        "pinned_tweet_id": "2050870299605020804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050602502027153408/qsJOFkPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 75,
+          "like_count": 1356,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1107
+        },
+        "url": "https://t.co/241BETQBPK",
+        "username": "OE3IIGFQRQ9473",
+        "verified": false
+      }
+    ]
+  }
+}

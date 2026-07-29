@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2025108304045953362",
+    "created_at": "2026-02-21T09:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T10:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025137447789605020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1867432957113204736",
+          "start": 0,
+          "username": "owO123qwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025137447789605020",
+    "in_reply_to_user_id": "1867432957113204736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025108304045953362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owO123qwe 外圈贴贴😌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2025108299750998016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqhROZagAAMSxh.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2025108304045953362",
+        "created_at": "2026-02-21T09:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T10:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025137447789605020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1867432957113204736",
+              "start": 0,
+              "username": "owO123qwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025137447789605020",
+        "in_reply_to_user_id": "1867432957113204736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025108304045953362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owO123qwe 外圈贴贴😌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025108299750998016"
+          ]
+        },
+        "author_id": "1867432957113204736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2025108304045953362",
+        "created_at": "2026-02-21T07:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025108304045953362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2022962389520629760/tWtTsVa2?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2022962389520629760/tWtTsVa2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/7ljXDE7Vq1"
+            },
+            {
+              "display_url": "pic.x.com/eg6s4RSTMG",
+              "end": 64,
+              "expanded_url": "https://x.com/owO123qwe/status/2025108304045953362/photo/1",
+              "media_key": "3_2025108299750998016",
+              "start": 41,
+              "url": "https://t.co/eg6s4RSTMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025108304045953362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 127,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/7ljXDE7Vq1 https://t.co/eg6s4RSTMG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. spam account. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 70,
+          "like_count": 1419,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 308
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-13T04:55:02.000Z",
+        "description": "想要救济世界的天使|会发日常和梗图|喜欢所有人|正在努力活着|希望世界毁灭|不见证|od抽烟喝酒自残|07|166|双相|HRT.24.10.3|MtF|无性别|双性恋|ODer|互fo.请私信|可爱的睦头: @AiYin16898  爱人:@banyaqwqa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "AiYin16898"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "banyaqwqa"
+              }
+            ]
+          }
+        },
+        "id": "1867432957113204736",
+        "name": "小然🍥",
+        "pinned_tweet_id": "2014159501797318753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009579488129187840/g48sr7Cf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 582,
+          "like_count": 5055,
+          "listed_count": 7,
+          "media_count": 317,
+          "tweet_count": 2112
+        },
+        "username": "owO123qwe",
+        "verified": false
+      }
+    ]
+  }
+}

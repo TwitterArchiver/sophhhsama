@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2060553388962820187",
+    "created_at": "2026-05-30T06:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060602300406624728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990034028322570240",
+          "start": 0,
+          "username": "vintcessun"
+        },
+        {
+          "end": 19,
+          "id": "1888402541253435392",
+          "start": 12,
+          "username": "qxgy88"
+        },
+        {
+          "end": 32,
+          "id": "1749307986449985536",
+          "start": 20,
+          "username": "RiverdotInc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060602300406624728",
+    "in_reply_to_user_id": "1990034028322570240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060600695385174460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vintcessun @qxgy88 @RiverdotInc 已关～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2060553388962820187",
+        "created_at": "2026-05-30T06:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060602300406624728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990034028322570240",
+              "start": 0,
+              "username": "vintcessun"
+            },
+            {
+              "end": 19,
+              "id": "1888402541253435392",
+              "start": 12,
+              "username": "qxgy88"
+            },
+            {
+              "end": 32,
+              "id": "1749307986449985536",
+              "start": 20,
+              "username": "RiverdotInc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060602300406624728",
+        "in_reply_to_user_id": "1990034028322570240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060600695385174460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vintcessun @qxgy88 @RiverdotInc 已关～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990034028322570240",
+        "conversation_id": "2060553388962820187",
+        "created_at": "2026-05-30T05:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060600695385174460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1888402541253435392",
+              "start": 0,
+              "username": "qxgy88"
+            },
+            {
+              "end": 20,
+              "id": "1749307986449985536",
+              "start": 8,
+              "username": "RiverdotInc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060600695385174460",
+        "in_reply_to_user_id": "1888402541253435392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060553388962820187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qxgy88 @RiverdotInc 收到！感谢～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 380,
+          "like_count": 22157,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 3105
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-16T12:27:53.000Z",
+        "description": "AI｜开源｜纳指100\n学生\n天天刷 paper、GitHub 和美股新闻\n偶尔写诗",
+        "id": "1990034028322570240",
+        "name": "恒星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054828909582225408/r6AimQV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 598,
+          "like_count": 748,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1572
+        },
+        "username": "vintcessun",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-09T01:40:43.000Z",
+        "description": "日拱一卒的加密爱好者🔥｜空投｜撸毛 ~\nAmbassador @spaace_io\n所有内容均不作为投资建议\n商务TG：@qcsmbflll\n🌈蓝v互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "spaace_io"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "qcsmbflll"
+              }
+            ]
+          }
+        },
+        "id": "1888402541253435392",
+        "location": "Hong Kong",
+        "name": "禹攸🐬TermMax",
+        "pinned_tweet_id": "2060537284953555229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905839690227261440/OWcn0IS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13589,
+          "following_count": 12328,
+          "like_count": 84358,
+          "listed_count": 36,
+          "media_count": 1525,
+          "tweet_count": 76341
+        },
+        "username": "qxgy88",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-22T05:48:41.000Z",
+        "description": "River is building a chain-abstraction stablecoin system that connects assets, liquidity, and yield across multiple chains.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/river.inc",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/river.inc",
+                "start": 0,
+                "url": "https://t.co/aHpDN8u8sG"
+              }
+            ]
+          }
+        },
+        "id": "1749307986449985536",
+        "name": "River",
+        "pinned_tweet_id": "2026657502033752153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056639387564376064/z5gjEPKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204189,
+          "following_count": 33,
+          "like_count": 13113,
+          "listed_count": 238,
+          "media_count": 704,
+          "tweet_count": 1572
+        },
+        "url": "https://t.co/aHpDN8u8sG",
+        "username": "RiverdotInc",
+        "verified": true
+      }
+    ]
+  }
+}

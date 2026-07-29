@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2042045876382671285",
+    "created_at": "2026-04-09T01:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042045876382671285"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sophhhsama/sta…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/sophhhsama/status/2041874071407775951",
+          "start": 25,
+          "url": "https://t.co/UKIulHzwI1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042045876382671285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041874071407775951",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好的\n没有定…\n\n早上好呀喵\n今天大家也要加油哦 https://t.co/UKIulHzwI1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2042045876382671285",
+        "created_at": "2026-04-09T01:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042045876382671285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sophhhsama/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/sophhhsama/status/2041874071407775951",
+              "start": 25,
+              "url": "https://t.co/UKIulHzwI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042045876382671285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041874071407775951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好的\n没有定…\n\n早上好呀喵\n今天大家也要加油哦 https://t.co/UKIulHzwI1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2041874071407775951",
+        "created_at": "2026-04-08T13:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041874071407775951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041874071407775951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打算… 今晚下单\n定5.18单程机票和酒店5.18-5.20\n目标地 北爱尔兰 Belfast…\n吗\n其实连下单都太累不想做了\n怎么这样\n啊啊啊啊啊啊\n机票大概迟点定\n等药到了再算\nbzd…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "pinned_tweet_id": "2041875303547523396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417784971001856/HVUfHILV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 309,
+          "like_count": 9689,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 1477
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

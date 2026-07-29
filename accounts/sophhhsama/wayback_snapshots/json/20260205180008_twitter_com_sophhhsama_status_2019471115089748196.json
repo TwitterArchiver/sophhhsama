@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019070720131870720"
+      ],
+      "media_source_tweet_id": [
+        "2019070730143695296"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2019471115089748196",
+    "created_at": "2026-02-05T18:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T19:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019471115089748196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1344259202240237569",
+          "start": 3,
+          "username": "Hixlan1996"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uuy2eh2UmS",
+          "end": 58,
+          "expanded_url": "https://x.com/Hixlan1996/status/2019070730143695296/photo/1",
+          "media_key": "3_2019070720131870720",
+          "start": 35,
+          "url": "https://t.co/Uuy2eh2UmS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019471115089748196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019070730143695296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hixlan1996: 我就说手机不能买曲面屏，还有救吗家人 https://t.co/Uuy2eh2UmS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1541,
+        "media_key": "3_2019070720131870720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUuH1naMAA97N4.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019070720131870720"
+          ],
+          "media_source_tweet_id": [
+            "2019070730143695296"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2019471115089748196",
+        "created_at": "2026-02-05T18:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T19:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019471115089748196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1344259202240237569",
+              "start": 3,
+              "username": "Hixlan1996"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uuy2eh2UmS",
+              "end": 58,
+              "expanded_url": "https://x.com/Hixlan1996/status/2019070730143695296/photo/1",
+              "media_key": "3_2019070720131870720",
+              "start": 35,
+              "url": "https://t.co/Uuy2eh2UmS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019471115089748196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019070730143695296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hixlan1996: 我就说手机不能买曲面屏，还有救吗家人 https://t.co/Uuy2eh2UmS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019070720131870720"
+          ]
+        },
+        "author_id": "1344259202240237569",
+        "conversation_id": "2019070730143695296",
+        "created_at": "2026-02-04T15:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T16:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019070730143695296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uuy2eh2UmS",
+              "end": 42,
+              "expanded_url": "https://x.com/Hixlan1996/status/2019070730143695296/photo/1",
+              "media_key": "3_2019070720131870720",
+              "start": 19,
+              "url": "https://t.co/Uuy2eh2UmS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019070730143695296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 173901,
+          "like_count": 1268,
+          "quote_count": 5,
+          "reply_count": 90,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "我就说手机不能买曲面屏，还有救吗家人 https://t.co/Uuy2eh2UmS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "aspiring med student, i also like programming",
+        "id": "1223415775278428160",
+        "name": "sophhh 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 37,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 28
+        },
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-30T12:29:12.000Z",
+        "description": "",
+        "id": "1344259202240237569",
+        "location": "劳改农场",
+        "name": "析析",
+        "pinned_tweet_id": "1837047835105149288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880818249467867136/qZIcxKvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26810,
+          "following_count": 341,
+          "like_count": 13538,
+          "listed_count": 99,
+          "media_count": 3365,
+          "tweet_count": 20395
+        },
+        "username": "Hixlan1996",
+        "verified": true
+      }
+    ]
+  }
+}

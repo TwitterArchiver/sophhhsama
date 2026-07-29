@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2027257721003635149",
+    "created_at": "2026-02-27T07:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T08:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027286230006997003"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "恭喜",
+          "probability": 0.7695,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1960198897827282944",
+          "start": 0,
+          "username": "maomaosukinyaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027286230006997003",
+    "in_reply_to_user_id": "1960198897827282944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027257721003635149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomaosukinyaa 恭喜捏喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027257700820594688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJEI1WWMAASEyt.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2027257721003635149",
+        "created_at": "2026-02-27T07:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027286230006997003"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "恭喜",
+              "probability": 0.7695,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1960198897827282944",
+              "start": 0,
+              "username": "maomaosukinyaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027286230006997003",
+        "in_reply_to_user_id": "1960198897827282944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027257721003635149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomaosukinyaa 恭喜捏喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027257700820594688"
+          ]
+        },
+        "author_id": "1960198897827282944",
+        "conversation_id": "2027257721003635149",
+        "created_at": "2026-02-27T05:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027257721003635149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fbc1b7Zkss",
+              "end": 52,
+              "expanded_url": "https://x.com/maomaosukinyaa/status/2027257721003635149/photo/1",
+              "media_key": "3_2027257700820594688",
+              "start": 29,
+              "url": "https://t.co/Fbc1b7Zkss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027257721003635149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶诶诶？Σ( ° △ °|||)︴怎么就百fo了  好快 https://t.co/Fbc1b7Zkss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | Aspiring med student. spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 95,
+          "like_count": 1991,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 387
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-26T04:33:47.000Z",
+        "description": "MTF/生产日期200807/无证含🍥/hrt20260126/新人xyn/同类互fo/天残党/",
+        "id": "1960198897827282944",
+        "location": "america",
+        "name": "nya🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027163854027808768/aHituPXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 210,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 48
+        },
+        "username": "maomaosukinyaa",
+        "verified": false
+      }
+    ]
+  }
+}

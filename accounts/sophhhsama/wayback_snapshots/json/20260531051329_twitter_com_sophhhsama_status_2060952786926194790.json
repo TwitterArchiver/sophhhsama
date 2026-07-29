@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2060888006882685370",
+    "created_at": "2026-05-31T05:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060952786926194790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2046417309879951360",
+          "start": 0,
+          "username": "UnclePaoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060952786926194790",
+    "in_reply_to_user_id": "2046417309879951360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060888006882685370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UnclePaoX 互关一下～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2060888006882685370",
+        "created_at": "2026-05-31T05:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060952786926194790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2046417309879951360",
+              "start": 0,
+              "username": "UnclePaoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060952786926194790",
+        "in_reply_to_user_id": "2046417309879951360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060888006882685370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UnclePaoX 互关一下～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046417309879951360",
+        "conversation_id": "2060888006882685370",
+        "created_at": "2026-05-31T00:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T01:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060888006882685370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/unclepaox/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/unclepaox/status/2058549849692508606",
+              "start": 8,
+              "url": "https://t.co/85KAXjEgYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060888006882685370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1149,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058549849692508606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有漏的，请留言 https://t.co/85KAXjEgYQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 436,
+          "like_count": 22431,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 3173
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-21T02:37:26.000Z",
+        "description": "深耕互联网二十年｜江湖人送外号:老鲍\n\n一夜七次不伤身｜项目全栈实战派\n\n分享一线干货｜拒绝空谈\n\nDaily insights & hands-on strategies\n\n想要财务自由？关注我 带你飞",
+        "id": "2046417309879951360",
+        "location": "东京热",
+        "name": "老鲍叔",
+        "pinned_tweet_id": "2059153028952035639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046418098820100096/QQibhfUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 555,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 910
+        },
+        "username": "UnclePaoX",
+        "verified": true
+      }
+    ]
+  }
+}

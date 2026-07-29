@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2060438363509768544",
+    "created_at": "2026-05-30T06:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060602934950281468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1481988885748064258",
+          "start": 0,
+          "username": "00Sindirella"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060602934950281468",
+    "in_reply_to_user_id": "1481988885748064258",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060438363509768544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@00Sindirella hiya～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1389,
+        "media_key": "3_2060438352671678464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJglw9yWIAAyqQI.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2060438363509768544",
+        "created_at": "2026-05-30T06:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060602934950281468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1481988885748064258",
+              "start": 0,
+              "username": "00Sindirella"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060602934950281468",
+        "in_reply_to_user_id": "1481988885748064258",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060438363509768544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@00Sindirella hiya～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060438352671678464"
+          ]
+        },
+        "author_id": "1481988885748064258",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060438363509768544",
+        "created_at": "2026-05-29T19:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060438363509768544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SGSxvXmSax",
+              "end": 99,
+              "expanded_url": "https://x.com/00Sindirella/status/2060438363509768544/photo/1",
+              "media_key": "3_2060438352671678464",
+              "start": 76,
+              "url": "https://t.co/SGSxvXmSax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060438363509768544",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 67336,
+          "like_count": 862,
+          "quote_count": 8,
+          "reply_count": 1855,
+          "retweet_count": 198
+        },
+        "reply_settings": "everyone",
+        "text": "Easiest way to gain 800 followers \n\nJust say = Hello 👋 let follow you 🙋‍♀️🔔 https://t.co/SGSxvXmSax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 384,
+          "like_count": 22158,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 3109
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-14T13:57:54.000Z",
+        "description": "Social media expert 🙋‍♀️💕.                 For advertising and collaborations 📩",
+        "id": "1481988885748064258",
+        "name": "Sindirella 💕",
+        "pinned_tweet_id": "2060590327203795410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969499148769488896/b5PiRsoi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43287,
+          "following_count": 12494,
+          "like_count": 10151,
+          "listed_count": 67,
+          "media_count": 1184,
+          "tweet_count": 17169
+        },
+        "username": "00Sindirella",
+        "verified": true
+      }
+    ]
+  }
+}

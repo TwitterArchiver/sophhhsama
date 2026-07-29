@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062120072928505856",
+        "3_2062120072894967808"
+      ],
+      "media_source_tweet_id": [
+        "2062120077848367113",
+        "2062120077848367113"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2062205285708484742",
+    "created_at": "2026-06-03T16:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062205285708484742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1046755659008499714",
+          "start": 3,
+          "username": "_tao0524_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bBkGgjIGdW",
+          "end": 121,
+          "expanded_url": "https://x.com/_tao0524_/status/2062120077848367113/photo/1",
+          "media_key": "3_2062120072928505856",
+          "start": 98,
+          "url": "https://t.co/bBkGgjIGdW"
+        },
+        {
+          "display_url": "pic.x.com/bBkGgjIGdW",
+          "end": 121,
+          "expanded_url": "https://x.com/_tao0524_/status/2062120077848367113/photo/1",
+          "media_key": "3_2062120072894967808",
+          "start": 98,
+          "url": "https://t.co/bBkGgjIGdW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062205285708484742",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 537
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062120077848367113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_tao0524_: 5年前と現在。\n私の性別が変わっても変わらずに、「どんな君でも愛してるよ！」と大きな愛で丸ごと包み込んでくれる彼。\nそんな彼が、本当に愛おしくて大好きです👦🏻❤️￼ https://t.co/bBkGgjIGdW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2062120072928505856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4fR98bMAAStv6.jpg",
+        "width": 959
+      },
+      {
+        "height": 3020,
+        "media_key": "3_2062120072894967808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4fR90bcAAy_aT.jpg",
+        "width": 2416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062120072928505856",
+            "3_2062120072894967808"
+          ],
+          "media_source_tweet_id": [
+            "2062120077848367113",
+            "2062120077848367113"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2062205285708484742",
+        "created_at": "2026-06-03T16:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062205285708484742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1046755659008499714",
+              "start": 3,
+              "username": "_tao0524_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBkGgjIGdW",
+              "end": 121,
+              "expanded_url": "https://x.com/_tao0524_/status/2062120077848367113/photo/1",
+              "media_key": "3_2062120072928505856",
+              "start": 98,
+              "url": "https://t.co/bBkGgjIGdW"
+            },
+            {
+              "display_url": "pic.x.com/bBkGgjIGdW",
+              "end": 121,
+              "expanded_url": "https://x.com/_tao0524_/status/2062120077848367113/photo/1",
+              "media_key": "3_2062120072894967808",
+              "start": 98,
+              "url": "https://t.co/bBkGgjIGdW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062205285708484742",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 537
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062120077848367113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_tao0524_: 5年前と現在。\n私の性別が変わっても変わらずに、「どんな君でも愛してるよ！」と大きな愛で丸ごと包み込んでくれる彼。\nそんな彼が、本当に愛おしくて大好きです👦🏻❤️￼ https://t.co/bBkGgjIGdW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062120072928505856",
+            "3_2062120072894967808"
+          ]
+        },
+        "author_id": "1046755659008499714",
+        "conversation_id": "2062120077848367113",
+        "created_at": "2026-06-03T10:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062120077848367113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBkGgjIGdW",
+              "end": 106,
+              "expanded_url": "https://x.com/_tao0524_/status/2062120077848367113/photo/1",
+              "media_key": "3_2062120072928505856",
+              "start": 83,
+              "url": "https://t.co/bBkGgjIGdW"
+            },
+            {
+              "display_url": "pic.x.com/bBkGgjIGdW",
+              "end": 106,
+              "expanded_url": "https://x.com/_tao0524_/status/2062120077848367113/photo/1",
+              "media_key": "3_2062120072894967808",
+              "start": 83,
+              "url": "https://t.co/bBkGgjIGdW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062120077848367113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1787,
+          "impression_count": 3039740,
+          "like_count": 16129,
+          "quote_count": 519,
+          "reply_count": 428,
+          "retweet_count": 537
+        },
+        "reply_settings": "everyone",
+        "text": "5年前と現在。\n私の性別が変わっても変わらずに、「どんな君でも愛してるよ！」と大きな愛で丸ごと包み込んでくれる彼。\nそんな彼が、本当に愛おしくて大好きです👦🏻❤️￼ https://t.co/bBkGgjIGdW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 471,
+          "like_count": 23093,
+          "listed_count": 2,
+          "media_count": 370,
+          "tweet_count": 3243
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-01T13:36:11.000Z",
+        "description": "コスメ スキンケア 美容医療 /インスタ📸💫→https://t.co/fb4FSUXu3E",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/_tao0524_",
+                "end": 46,
+                "expanded_url": "http://Instagram.com/_tao0524_",
+                "start": 23,
+                "url": "https://t.co/fb4FSUXu3E"
+              }
+            ]
+          }
+        },
+        "id": "1046755659008499714",
+        "location": "🗼",
+        "name": "たお",
+        "pinned_tweet_id": "2005921089910956437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933201221395124224/eNw1Rw08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106347,
+          "following_count": 693,
+          "like_count": 22998,
+          "listed_count": 166,
+          "media_count": 480,
+          "tweet_count": 9320
+        },
+        "username": "_tao0524_",
+        "verified": false
+      }
+    ]
+  }
+}

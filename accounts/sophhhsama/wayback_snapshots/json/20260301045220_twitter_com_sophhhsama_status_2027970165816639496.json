@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2027800396073472202",
+    "created_at": "2026-03-01T04:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T05:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027970165816639496"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "恭喜",
+          "probability": 0.7695,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774264719773409280",
+          "start": 0,
+          "username": "KissaHsgsta1106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027970165816639496",
+    "in_reply_to_user_id": "1774264719773409280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027800396073472202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KissaHsgsta1106 恭喜耶喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2027800396073472202",
+        "created_at": "2026-03-01T04:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T05:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027970165816639496"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "恭喜",
+              "probability": 0.7695,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774264719773409280",
+              "start": 0,
+              "username": "KissaHsgsta1106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027970165816639496",
+        "in_reply_to_user_id": "1774264719773409280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027800396073472202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KissaHsgsta1106 恭喜耶喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774264719773409280",
+        "conversation_id": "2027800396073472202",
+        "created_at": "2026-02-28T17:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T18:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027800396073472202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027800396073472202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1561,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和我妈提前出柜了 👉👈\n结果还意外地顺利？\n和她聊了这一年半以来的困扰，说了现在正在练伪音，还有高考后上大学准备开始HRT的打算。\n她完全接受了，只是提醒我用药谨慎\n所以我这是算半个家长党了吗 ("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | Aspiring med student. spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 99,
+          "like_count": 2210,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 409
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-31T02:37:37.000Z",
+        "description": "",
+        "id": "1774264719773409280",
+        "location": "乌茨约基，拉普兰",
+        "name": "赫尔辛基的猫 🇫🇮🇪🇪",
+        "pinned_tweet_id": "1835918114938290560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026333489222852608/kmg485Kv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 715,
+          "like_count": 34634,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 1284
+        },
+        "username": "KissaHsgsta1106",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2060375860834869442",
+    "created_at": "2026-05-30T09:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060652780000281001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1510775205064753153",
+          "start": 0,
+          "username": "ruihanmeimei01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060652780000281001",
+    "in_reply_to_user_id": "1510775205064753153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060375860834869442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruihanmeimei01 这种情况直接打12345政务热线转野生动物保护"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10379,
+        "height": 1920,
+        "media_key": "13_2060374977946460161",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060374977946460161/img/OeN2bqObPs7rqnRE.jpg",
+        "public_metrics": {
+          "view_count": 826886
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060374977946460161/vid/avc1/720x1280/nUZufHgdM6JK8CBn.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060374977946460161/vid/avc1/320x568/nt9iz4ecO2K-H0AE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060374977946460161/vid/avc1/480x852/HlXXO-r4nyUBEPKW.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060374977946460161/vid/avc1/1080x1920/ASzv-VyjI9Rq4jjt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060374977946460161/pl/LxoJdSZ5gaHr3dBq.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2060375860834869442",
+        "created_at": "2026-05-30T09:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060652780000281001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1510775205064753153",
+              "start": 0,
+              "username": "ruihanmeimei01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060652780000281001",
+        "in_reply_to_user_id": "1510775205064753153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060375860834869442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruihanmeimei01 这种情况直接打12345政务热线转野生动物保护"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060374977946460161"
+          ]
+        },
+        "author_id": "1510775205064753153",
+        "conversation_id": "2060375860834869442",
+        "created_at": "2026-05-29T15:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060375860834869442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8J079Xc2NK",
+              "end": 52,
+              "expanded_url": "https://x.com/ruihanmeimei01/status/2060375860834869442/video/1",
+              "media_key": "13_2060374977946460161",
+              "start": 29,
+              "url": "https://t.co/8J079Xc2NK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060375860834869442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 1870678,
+          "like_count": 1052,
+          "quote_count": 7,
+          "reply_count": 378,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "女子半年没回来，发现家里有很多蛋，网友：是不是蛇蛋？？？ https://t.co/8J079Xc2NK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 399,
+          "like_count": 22202,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 3123
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-04T00:24:25.000Z",
+        "description": "分享中国崛起故事、科技变化、历史真相、热点新闻事件！中国の崛起の物語、科学技術の変化、歴史の真実、注目のニュース事件を共有します。Sharing stories of China's rise, technological changes, historical truth",
+        "id": "1510775205064753153",
+        "name": "锐汉街评",
+        "pinned_tweet_id": "2060375860834869442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995327192532967424/DFZX9CP9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165199,
+          "following_count": 12322,
+          "like_count": 25991,
+          "listed_count": 229,
+          "media_count": 4808,
+          "tweet_count": 26751
+        },
+        "username": "ruihanmeimei01",
+        "verified": true
+      }
+    ]
+  }
+}

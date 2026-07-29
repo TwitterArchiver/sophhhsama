@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2047307953254850607",
+    "created_at": "2026-04-23T13:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047307953254850607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "701710585423990785",
+          "start": 3,
+          "username": "Uekawakuyuurei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047307953254850607",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 264
+    },
+    "referenced_tweets": [
+      {
+        "id": "1429933098897051649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uekawakuyuurei: 好想在死之前喝上一大杯冰可乐呢……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2047307953254850607",
+        "created_at": "2026-04-23T13:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047307953254850607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "701710585423990785",
+              "start": 3,
+              "username": "Uekawakuyuurei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047307953254850607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 264
+        },
+        "referenced_tweets": [
+          {
+            "id": "1429933098897051649",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uekawakuyuurei: 好想在死之前喝上一大杯冰可乐呢……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "701710585423990785",
+        "conversation_id": "1429933098897051649",
+        "created_at": "2021-08-23T22:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2021-08-23T22:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1429933098897051649"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1429933098897051649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 0,
+          "like_count": 3524,
+          "quote_count": 544,
+          "reply_count": 1729,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "好想在死之前喝上一大杯冰可乐呢……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/修猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 360,
+          "like_count": 13437,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 1999
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-22T10:10:15.000Z",
+        "description": "",
+        "id": "701710585423990785",
+        "name": "蛍",
+        "pinned_tweet_id": "1390210883184250885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1378912446782394368/icyGMaK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14510,
+          "following_count": 1195,
+          "like_count": 75297,
+          "listed_count": 102,
+          "media_count": 108,
+          "tweet_count": 2865
+        },
+        "username": "Uekawakuyuurei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2074480358117064740",
+    "created_at": "2026-07-07T17:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074539476437676528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1887069376031182848",
+          "start": 0,
+          "username": "Mirro_zinuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074539476437676528",
+    "in_reply_to_user_id": "1887069376031182848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074480358117064740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mirro_zinuo 超強的誒！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2074480354069561344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoI5BXXwAA37EF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2074480354056896512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoI5BUWgAAvG-K.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2074480354048487424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoI5BSWMAALv6N.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2074480354044399616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoI5BRX0AAiXx-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2074480358117064740",
+        "created_at": "2026-07-07T17:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074539476437676528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887069376031182848",
+              "start": 0,
+              "username": "Mirro_zinuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074539476437676528",
+        "in_reply_to_user_id": "1887069376031182848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074480358117064740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mirro_zinuo 超強的誒！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074480354069561344",
+            "3_2074480354056896512",
+            "3_2074480354048487424",
+            "3_2074480354044399616"
+          ]
+        },
+        "author_id": "1887069376031182848",
+        "conversation_id": "2074480358117064740",
+        "created_at": "2026-07-07T13:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074480358117064740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4FHsvjCVFj",
+              "end": 107,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2074480358117064740/photo/1",
+              "media_key": "3_2074480354069561344",
+              "start": 84,
+              "url": "https://t.co/4FHsvjCVFj"
+            },
+            {
+              "display_url": "pic.x.com/4FHsvjCVFj",
+              "end": 107,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2074480358117064740/photo/1",
+              "media_key": "3_2074480354056896512",
+              "start": 84,
+              "url": "https://t.co/4FHsvjCVFj"
+            },
+            {
+              "display_url": "pic.x.com/4FHsvjCVFj",
+              "end": 107,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2074480358117064740/photo/1",
+              "media_key": "3_2074480354048487424",
+              "start": 84,
+              "url": "https://t.co/4FHsvjCVFj"
+            },
+            {
+              "display_url": "pic.x.com/4FHsvjCVFj",
+              "end": 107,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2074480358117064740/photo/1",
+              "media_key": "3_2074480354044399616",
+              "start": 84,
+              "url": "https://t.co/4FHsvjCVFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074480358117064740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天，把我們團結在一起的，不是團結法，不是恐嚇，不是強制，而是共同的價值與良知。\n\n苗博雅議員說：「我們去做一件事，不是因為知道會成功，而是因為那是我們認為對的事。」\n\n我願以自己的能力，為未來種下善因，也盼它結出一些善果。至於將來究竟如何，只問耕耘、不問收穫，但求無愧於心。而我相信，這份無愧，正是美好未來的基石。\n\n正如曼德拉所說：「我們所懷抱的理想、最深切的夢想與熱切的期望，或許窮盡一生也難以實現。但這並不是重點。只要知道自己在有生之年盡了本分、不負眾人所託，這本身就是一種可貴的經歷，一種輝煌的成就。」"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1209,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "今天，把我們團結在一起的，不是團結法，不是恐嚇，不是強制，而是共同的價值與良知。\n\n苗博雅議員說：「我們去做一件事，不是因為知道會成功，而是因為那是我們認為對的事。」 https://t.co/4FHsvjCVFj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 468,
+          "like_count": 26613,
+          "listed_count": 2,
+          "media_count": 380,
+          "tweet_count": 3504
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-05T09:23:14.000Z",
+        "description": "牢糯復活一年了🎉 /愛種哈密瓜🍈❓🇹🇼/永遠懷念舊號@fugu_JUN/脆和推同id/是以前叫源菌的生物/05年老阿姨離異帶倆娃❌/MtF🏳️‍⚧️/hrt 2019/退役oier/退役地偶/占卜神秘學🔮/日常發瘋/想要被世界喜歡/對異性戀我是不贊成也不反對的/焦慮型依戀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "fugu_JUN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kamaboko.ngo",
+                "end": 23,
+                "expanded_url": "http://www.kamaboko.ngo",
+                "start": 0,
+                "url": "https://t.co/T24e8vg2iF"
+              }
+            ]
+          }
+        },
+        "id": "1887069376031182848",
+        "location": "@KamabokoNGO",
+        "name": "梓糯🏳️‍⚧️🇹🇼🇨🇦",
+        "pinned_tweet_id": "1961844598973567241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887069534986924032/_g2-66nA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 218,
+          "like_count": 5004,
+          "listed_count": 10,
+          "media_count": 278,
+          "tweet_count": 1581
+        },
+        "url": "https://t.co/T24e8vg2iF",
+        "username": "Mirro_zinuo",
+        "verified": true
+      }
+    ]
+  }
+}

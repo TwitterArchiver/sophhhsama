@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2020097330192814357",
+    "created_at": "2026-02-07T11:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T12:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020097330192814357"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds0/status/2…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/hgds0/status/2019993658683191495",
+          "start": 4,
+          "url": "https://t.co/KzNG4oTgKB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020097330192814357",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019993658683191495",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "甘蔗我 https://t.co/KzNG4oTgKB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_2019993653083844608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAh1hmybMAAFfr1.jpg",
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2020097330192814357",
+        "created_at": "2026-02-07T11:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020097330192814357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds0/status/2…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/hgds0/status/2019993658683191495",
+              "start": 4,
+              "url": "https://t.co/KzNG4oTgKB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020097330192814357",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019993658683191495",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甘蔗我 https://t.co/KzNG4oTgKB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019993653083844608"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2019993658683191495",
+        "created_at": "2026-02-07T04:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T05:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019993658683191495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/da44nuMbJc",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/2019993658683191495/photo/1",
+              "media_key": "3_2019993653083844608",
+              "start": 0,
+              "url": "https://t.co/da44nuMbJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019993658683191495",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6992,
+          "like_count": 471,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/da44nuMbJc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "aspiring med student, i also like programming",
+        "id": "1223415775278428160",
+        "name": "sophhh 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 41,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 44
+        },
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删/推广自辩",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2018295902021341195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97820,
+          "following_count": 2581,
+          "like_count": 43916,
+          "listed_count": 140,
+          "media_count": 3657,
+          "tweet_count": 8019
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

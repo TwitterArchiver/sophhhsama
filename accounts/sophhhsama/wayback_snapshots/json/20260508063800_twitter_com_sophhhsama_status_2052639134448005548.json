@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2052639134448005548",
+    "created_at": "2026-05-08T06:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T07:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052639134448005548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/57ame/status/2…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/57ame/status/2052635728950300872",
+          "start": 14,
+          "url": "https://t.co/DEtN1Dm2xv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052639134448005548",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052635728950300872",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "生きてた！めっちゃ良かった https://t.co/DEtN1Dm2xv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2052635716392554496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxtTwjbkAA492R.jpg",
+        "width": 2256
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2052635716904271872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxtTydbwAAVnR_.jpg",
+        "width": 2256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2052639134448005548",
+        "created_at": "2026-05-08T06:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052639134448005548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/57ame/status/2…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/57ame/status/2052635728950300872",
+              "start": 14,
+              "url": "https://t.co/DEtN1Dm2xv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052639134448005548",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052635728950300872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生きてた！めっちゃ良かった https://t.co/DEtN1Dm2xv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052635716392554496",
+            "3_2052635716904271872"
+          ]
+        },
+        "author_id": "1249607798221967360",
+        "conversation_id": "2052635728950300872",
+        "created_at": "2026-05-08T06:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052635728950300872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kmmtC9ZdQj",
+              "end": 108,
+              "expanded_url": "https://x.com/57ame/status/2052635728950300872/photo/1",
+              "media_key": "3_2052635716392554496",
+              "start": 85,
+              "url": "https://t.co/kmmtC9ZdQj"
+            },
+            {
+              "display_url": "pic.x.com/kmmtC9ZdQj",
+              "end": 108,
+              "expanded_url": "https://x.com/57ame/status/2052635728950300872/photo/1",
+              "media_key": "3_2052635716904271872",
+              "start": 85,
+              "url": "https://t.co/kmmtC9ZdQj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052635728950300872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 529,
+          "like_count": 62,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "5月7日です。\n今退院の許可が降りて、かかりつけ医まで向かっているところです。\n\n昨日はお騒がせして申し訳ございませんでした。なんとか一命を取り留めることができました。 https://t.co/kmmtC9ZdQj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 好朋友萌 @slclst @Cheeseduck111 @djzi237149 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "djzi237149"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 348,
+          "like_count": 17826,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 2542
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T07:58:22.000Z",
+        "description": "つゆりです（╹◡╹）\n\nサブ　@sgw_ghost\n働　@szm8_bot\n　　https://t.co/EV9BLgvF6b",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "sgw_ghost"
+              },
+              {
+                "end": 37,
+                "start": 28,
+                "username": "szm8_bot"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/57ame_",
+                "end": 63,
+                "expanded_url": "https://www.instagram.com/57ame_",
+                "start": 40,
+                "url": "https://t.co/EV9BLgvF6b"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "57ame.base.shop",
+                "end": 23,
+                "expanded_url": "http://57ame.base.shop",
+                "start": 0,
+                "url": "https://t.co/rYueIJsshO"
+              }
+            ]
+          }
+        },
+        "id": "1249607798221967360",
+        "name": "5月7日",
+        "pinned_tweet_id": "2051950095789367385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831704718684647426/2T_1dqGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7237,
+          "following_count": 82,
+          "like_count": 12374,
+          "listed_count": 46,
+          "media_count": 520,
+          "tweet_count": 875
+        },
+        "url": "https://t.co/rYueIJsshO",
+        "username": "57ame",
+        "verified": false
+      }
+    ]
+  }
+}

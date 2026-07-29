@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2020454804170948608"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2020454870155669836",
+    "created_at": "2026-02-08T11:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T12:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020454870155669836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iQUAT6fxUu",
+          "end": 62,
+          "expanded_url": "https://x.com/sophhhsama/status/2020454870155669836/video/1",
+          "media_key": "13_2020454804170948608",
+          "start": 39,
+          "url": "https://t.co/iQUAT6fxUu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020454870155669836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大姐：教我怎么养生的医生都死了\n今天的不快敬手中的杯，明日的哀愁沉瓶中的淬。 https://t.co/iQUAT6fxUu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13348,
+        "height": 720,
+        "media_key": "13_2020454804170948608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020454804170948608/img/o76x17lWXVLcjvof.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020454804170948608/vid/avc1/480x270/OU7FBv4ISP_Nbxt7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020454804170948608/vid/avc1/640x360/91rmN0ZVe3u4Qyev.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020454804170948608/vid/avc1/1280x720/HayNRJhguYGph6Em.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020454804170948608/pl/UjjJAoyL6nCil2UJ.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020454804170948608"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2020454870155669836",
+        "created_at": "2026-02-08T11:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T12:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020454870155669836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iQUAT6fxUu",
+              "end": 62,
+              "expanded_url": "https://x.com/sophhhsama/status/2020454870155669836/video/1",
+              "media_key": "13_2020454804170948608",
+              "start": 39,
+              "url": "https://t.co/iQUAT6fxUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020454870155669836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大姐：教我怎么养生的医生都死了\n今天的不快敬手中的杯，明日的哀愁沉瓶中的淬。 https://t.co/iQUAT6fxUu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "aspiring med student, i also like programming, macroeconomics, tokenomics\nZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh 🍥",
+        "pinned_tweet_id": "2020096493814685890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 42,
+          "like_count": 472,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 59
+        },
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

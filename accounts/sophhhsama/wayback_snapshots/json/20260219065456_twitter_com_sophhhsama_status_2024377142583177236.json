@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024082307012071424",
+        "3_2024082307020414976"
+      ],
+      "media_source_tweet_id": [
+        "2024082315345825817",
+        "2024082315345825817"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2024377142583177236",
+    "created_at": "2026-02-19T06:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T07:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024377142583177236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942776216970485760",
+          "start": 3,
+          "username": "marigbld"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q8mVq2nVFx",
+          "end": 70,
+          "expanded_url": "https://x.com/marigbld/status/2024082315345825817/photo/1",
+          "media_key": "3_2024082307012071424",
+          "start": 47,
+          "url": "https://t.co/Q8mVq2nVFx"
+        },
+        {
+          "display_url": "pic.x.com/Q8mVq2nVFx",
+          "end": 70,
+          "expanded_url": "https://x.com/marigbld/status/2024082315345825817/photo/1",
+          "media_key": "3_2024082307020414976",
+          "start": 47,
+          "url": "https://t.co/Q8mVq2nVFx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024377142583177236",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 257
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024082315345825817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @marigbld: lace skirt over jeans \n\na thread https://t.co/Q8mVq2nVFx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 753,
+        "media_key": "3_2024082307012071424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBb8IlmbkAAVc_j.jpg",
+        "width": 753
+      },
+      {
+        "height": 738,
+        "media_key": "3_2024082307020414976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBb8Iloa4AAV6WD.jpg",
+        "width": 738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024082307012071424",
+            "3_2024082307020414976"
+          ],
+          "media_source_tweet_id": [
+            "2024082315345825817",
+            "2024082315345825817"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2024377142583177236",
+        "created_at": "2026-02-19T06:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024377142583177236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942776216970485760",
+              "start": 3,
+              "username": "marigbld"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q8mVq2nVFx",
+              "end": 70,
+              "expanded_url": "https://x.com/marigbld/status/2024082315345825817/photo/1",
+              "media_key": "3_2024082307012071424",
+              "start": 47,
+              "url": "https://t.co/Q8mVq2nVFx"
+            },
+            {
+              "display_url": "pic.x.com/Q8mVq2nVFx",
+              "end": 70,
+              "expanded_url": "https://x.com/marigbld/status/2024082315345825817/photo/1",
+              "media_key": "3_2024082307020414976",
+              "start": 47,
+              "url": "https://t.co/Q8mVq2nVFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024377142583177236",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024082315345825817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @marigbld: lace skirt over jeans \n\na thread https://t.co/Q8mVq2nVFx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024082307012071424",
+            "3_2024082307020414976"
+          ]
+        },
+        "author_id": "1942776216970485760",
+        "conversation_id": "2024082315345825817",
+        "created_at": "2026-02-18T11:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024082315345825817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q8mVq2nVFx",
+              "end": 56,
+              "expanded_url": "https://x.com/marigbld/status/2024082315345825817/photo/1",
+              "media_key": "3_2024082307012071424",
+              "start": 33,
+              "url": "https://t.co/Q8mVq2nVFx"
+            },
+            {
+              "display_url": "pic.x.com/Q8mVq2nVFx",
+              "end": 56,
+              "expanded_url": "https://x.com/marigbld/status/2024082315345825817/photo/1",
+              "media_key": "3_2024082307020414976",
+              "start": 33,
+              "url": "https://t.co/Q8mVq2nVFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024082315345825817",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 304,
+          "impression_count": 27362,
+          "like_count": 1450,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "lace skirt over jeans \n\na thread https://t.co/Q8mVq2nVFx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 65,
+          "like_count": 1185,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 272
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T02:42:11.000Z",
+        "description": "🍄",
+        "id": "1942776216970485760",
+        "name": "zhay ★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948557742077345797/HXyQi1No_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 265,
+          "like_count": 865,
+          "listed_count": 0,
+          "media_count": 416,
+          "tweet_count": 2158
+        },
+        "username": "marigbld",
+        "verified": false
+      }
+    ]
+  }
+}

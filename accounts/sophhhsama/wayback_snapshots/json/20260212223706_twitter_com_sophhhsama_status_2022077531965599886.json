@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2021913403468788117",
+    "created_at": "2026-02-12T22:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T23:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022077531965599886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2534694942",
+          "start": 0,
+          "username": "zzNeutrino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022077531965599886",
+    "in_reply_to_user_id": "2534694942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021913403468788117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzNeutrino 那么智力泡沫也会爆破呢\n过于复杂的意识往往失败在忘记怎么想得简单点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2021913403468788117",
+        "created_at": "2026-02-12T22:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T23:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022077531965599886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2534694942",
+              "start": 0,
+              "username": "zzNeutrino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022077531965599886",
+        "in_reply_to_user_id": "2534694942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021913403468788117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzNeutrino 那么智力泡沫也会爆破呢\n过于复杂的意识往往失败在忘记怎么想得简单点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2534694942",
+        "conversation_id": "2021913403468788117",
+        "created_at": "2026-02-12T11:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021913403468788117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021913403468788117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 27946,
+          "like_count": 394,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "人类正在经历第一次智力的恶性通胀，普通的智力未来毫无价值，只有大智慧、远见、决断力、胆量、运气才具备稀缺性。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 55,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 149
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-30T09:49:55.000Z",
+        "description": "发现的乐趣！",
+        "id": "2534694942",
+        "name": "我吹呀吹",
+        "pinned_tweet_id": "2006971062270177342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1031446587220754432/8DI9khzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20714,
+          "following_count": 2077,
+          "like_count": 11134,
+          "listed_count": 93,
+          "media_count": 457,
+          "tweet_count": 3667
+        },
+        "username": "zzNeutrino",
+        "verified": false
+      }
+    ]
+  }
+}

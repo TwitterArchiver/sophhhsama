@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2032080049952661612",
+    "created_at": "2026-03-12T13:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T14:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032080049952661612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxxxx62778/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/xxxxx62778/status/2032003124190208335",
+          "start": 7,
+          "url": "https://t.co/gnrKRdcMwP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032080049952661612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032003124190208335",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "馋哭了呜呜呜 https://t.co/gnrKRdcMwP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032002885827870720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDMf29BWwAAokgi.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032002971366801412",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDMf77rbQAQhdT1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2032080049952661612",
+        "created_at": "2026-03-12T13:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032080049952661612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxxxx62778/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/xxxxx62778/status/2032003124190208335",
+              "start": 7,
+              "url": "https://t.co/gnrKRdcMwP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032080049952661612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032003124190208335",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "馋哭了呜呜呜 https://t.co/gnrKRdcMwP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032002885827870720",
+            "3_2032002971366801412"
+          ]
+        },
+        "author_id": "1799331977205796864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2032003124190208335",
+        "created_at": "2026-03-12T07:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T08:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032003124190208335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lLFI1Jd684",
+              "end": 46,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2032003124190208335/photo/1",
+              "media_key": "3_2032002885827870720",
+              "start": 23,
+              "url": "https://t.co/lLFI1Jd684"
+            },
+            {
+              "display_url": "pic.x.com/lLFI1Jd684",
+              "end": 46,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2032003124190208335/photo/1",
+              "media_key": "3_2032002971366801412",
+              "start": 23,
+              "url": "https://t.co/lLFI1Jd684"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032003124190208335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3462,
+          "like_count": 166,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路过的推友可以拿一个热辣香骨鸡O(∩_∩)O https://t.co/lLFI1Jd684"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | 是sophie吖 | spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 95,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhh小猫🍥",
+        "pinned_tweet_id": "2031762452187070902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028253766047166464/6nF3n9OY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 203,
+          "like_count": 5116,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T06:45:56.000Z",
+        "description": "°. ⑅♡⑅ °. +. °. ⑅♡⑅ °. +. °.\n希望你因为拥有小咪的陪伴而幸福",
+        "id": "1799331977205796864",
+        "location": "⌯^⑅˶º ᵕ º˶^",
+        "name": "/•᷅‎‎•᷄\\୭⋆°✩ ๋࣭",
+        "pinned_tweet_id": "2031628371965390951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002547322463600640/hm5xe4nX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2924,
+          "following_count": 39,
+          "like_count": 37974,
+          "listed_count": 3,
+          "media_count": 4159,
+          "tweet_count": 15347
+        },
+        "username": "Xxxxx62778",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2047909402469110259",
+    "created_at": "2026-04-25T09:06:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T10:06:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047965525561540952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1804811384880033792",
+          "start": 0,
+          "username": "Chuyang8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047965525561540952",
+    "in_reply_to_user_id": "1804811384880033792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047909402469110259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chuyang8964 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2047909402469110259",
+        "created_at": "2026-04-25T09:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047965525561540952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1804811384880033792",
+              "start": 0,
+              "username": "Chuyang8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047965525561540952",
+        "in_reply_to_user_id": "1804811384880033792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047909402469110259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chuyang8964 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804811384880033792",
+        "conversation_id": "2047909402469110259",
+        "created_at": "2026-04-25T05:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047909402469110259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047909402469110259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2490,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挨操真爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 369,
+          "like_count": 13890,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 2091
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T09:39:17.000Z",
+        "description": "人生如我精彩跌宕",
+        "id": "1804811384880033792",
+        "location": "中国",
+        "name": "初阳",
+        "pinned_tweet_id": "2034149255666143553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007462168724418563/X4VPBGCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3038,
+          "following_count": 622,
+          "like_count": 5031,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 714
+        },
+        "username": "Chuyang8964",
+        "verified": false
+      }
+    ]
+  }
+}

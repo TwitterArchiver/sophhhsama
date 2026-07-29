@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2074325692578505193",
+    "created_at": "2026-07-08T12:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074840011699048783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1680039839209775107",
+          "start": 0,
+          "username": "A1tk0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074840011699048783",
+    "in_reply_to_user_id": "1680039839209775107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074325692578505193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1tk0 啊啊啊天呐 好甜好甜\n仲要係香港人\n祝99啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2074325692578505193",
+        "created_at": "2026-07-08T12:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074840011699048783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1680039839209775107",
+              "start": 0,
+              "username": "A1tk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074840011699048783",
+        "in_reply_to_user_id": "1680039839209775107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074325692578505193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1tk0 啊啊啊天呐 好甜好甜\n仲要係香港人\n祝99啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680039839209775107",
+        "conversation_id": "2074325692578505193",
+        "created_at": "2026-07-07T02:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074325692578505193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074325692578505193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2019年，爸爸投资失败，亏了一大笔钱。外公也脑中卒进了医院。那时出门还会看到“反送中”的人群，当时整个世界都是乱的。\n\n外公脱离危险那天，爸爸看淡了很多事，他说只要活着就好了，只要重要的人在一起，有爱就好了。\n\n最近我拥有了，除了家人外的，重要的人。我抱着她的时候，她在啜泣。我记得她跟我说过自己可以独自面对很多事，也记得第一次牵手时的那句“你只能一直和我”。\n\n只要，只能，only。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1364,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2019年，爸爸投资失败，亏了一大笔钱。外公也脑中卒进了医院。那时出门还会看到“反送中”的人群，当时整个世界都是乱的。\n\n外公脱离危险那天，爸爸看淡了很多事，他说只要活着就好了，只要重要的人在一起，有爱就好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 468,
+          "like_count": 26687,
+          "listed_count": 2,
+          "media_count": 380,
+          "tweet_count": 3508
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-15T02:21:33.000Z",
+        "description": "🇭🇰 cat. proudly obsessed with one special puppy: @u7ed2x2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "u7ed2x2"
+              }
+            ]
+          }
+        },
+        "id": "1680039839209775107",
+        "name": "Altko",
+        "pinned_tweet_id": "2074325692578505193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072997765794402304/5vR1_EWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 592,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "A1tk0",
+        "verified": true
+      }
+    ]
+  }
+}

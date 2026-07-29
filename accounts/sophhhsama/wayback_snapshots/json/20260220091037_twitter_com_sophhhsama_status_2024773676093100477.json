@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024488857727541248"
+      ],
+      "media_source_tweet_id": [
+        "2024488859787051116"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2024773676093100477",
+    "created_at": "2026-02-20T09:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T10:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024773676093100477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882414942852349952",
+          "start": 3,
+          "username": "assassinei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q7xvPeyGqr",
+          "end": 39,
+          "expanded_url": "https://x.com/assassinei/status/2024488859787051116/photo/1",
+          "media_key": "3_2024488857727541248",
+          "start": 16,
+          "url": "https://t.co/Q7xvPeyGqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024773676093100477",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 388
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024488859787051116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @assassinei: https://t.co/Q7xvPeyGqr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 656,
+        "media_key": "3_2024488857727541248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBht49CWIAAgRu8.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024488857727541248"
+          ],
+          "media_source_tweet_id": [
+            "2024488859787051116"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2024773676093100477",
+        "created_at": "2026-02-20T09:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T10:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024773676093100477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882414942852349952",
+              "start": 3,
+              "username": "assassinei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q7xvPeyGqr",
+              "end": 39,
+              "expanded_url": "https://x.com/assassinei/status/2024488859787051116/photo/1",
+              "media_key": "3_2024488857727541248",
+              "start": 16,
+              "url": "https://t.co/Q7xvPeyGqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024773676093100477",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 388
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024488859787051116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @assassinei: https://t.co/Q7xvPeyGqr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024488857727541248"
+          ]
+        },
+        "author_id": "1882414942852349952",
+        "conversation_id": "2024488859787051116",
+        "created_at": "2026-02-19T14:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024488859787051116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q7xvPeyGqr",
+              "end": 23,
+              "expanded_url": "https://x.com/assassinei/status/2024488859787051116/photo/1",
+              "media_key": "3_2024488857727541248",
+              "start": 0,
+              "url": "https://t.co/Q7xvPeyGqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024488859787051116",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 43464,
+          "like_count": 2626,
+          "quote_count": 12,
+          "reply_count": 3,
+          "retweet_count": 388
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Q7xvPeyGqr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. spam account. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 68,
+          "like_count": 1333,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 293
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-23T13:08:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zyo.se/lit",
+                "end": 23,
+                "expanded_url": "https://zyo.se/lit",
+                "start": 0,
+                "url": "https://t.co/qCHqutqaCY"
+              }
+            ]
+          }
+        },
+        "id": "1882414942852349952",
+        "location": "Sao Paulo, Brazil",
+        "name": "kuno",
+        "pinned_tweet_id": "2024517552047591666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024680337058500608/QT0AL6e6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4084,
+          "following_count": 487,
+          "like_count": 4363,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 2070
+        },
+        "url": "https://t.co/qCHqutqaCY",
+        "username": "assassinei",
+        "verified": false
+      }
+    ]
+  }
+}

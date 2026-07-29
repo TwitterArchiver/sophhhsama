@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2043526577112355099",
+    "created_at": "2026-04-13T06:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043579544347578451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1991810120607739904",
+          "start": 0,
+          "username": "GuanQiao6316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043579544347578451",
+    "in_reply_to_user_id": "1991810120607739904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043526577112355099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuanQiao6316 呜啊啊啊啊啊啊啊\n贴贴喵😎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2043526569067794432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwQlmZb0AAI1tA.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2043526577112355099",
+        "created_at": "2026-04-13T06:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043579544347578451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991810120607739904",
+              "start": 0,
+              "username": "GuanQiao6316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043579544347578451",
+        "in_reply_to_user_id": "1991810120607739904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043526577112355099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuanQiao6316 呜啊啊啊啊啊啊啊\n贴贴喵😎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043526569067794432"
+          ]
+        },
+        "author_id": "1991810120607739904",
+        "conversation_id": "2043526577112355099",
+        "created_at": "2026-04-13T03:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043526577112355099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "查看 @GuanQiao6316 的 X 互动圈 - NekoCircle (Yahoo 搜索)",
+              "display_url": "circle.catsuki.cc/yahoo/GuanQiao…",
+              "end": 29,
+              "expanded_url": "https://circle.catsuki.cc/yahoo/GuanQiao6316",
+              "start": 6,
+              "status": 200,
+              "title": "GuanQiao6316 的互动圈",
+              "unwound_url": "https://circle.catsuki.cc/yahoo/GuanQiao6316",
+              "url": "https://t.co/0SIo2fcslE"
+            },
+            {
+              "display_url": "pic.x.com/pMLPjUvPBu",
+              "end": 53,
+              "expanded_url": "https://x.com/GuanQiao6316/status/2043526577112355099/photo/1",
+              "media_key": "3_2043526569067794432",
+              "start": 30,
+              "url": "https://t.co/pMLPjUvPBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043526577112355099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的互动圈\nhttps://t.co/0SIo2fcslE https://t.co/pMLPjUvPBu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 320,
+          "like_count": 10742,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 1614
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T10:05:39.000Z",
+        "description": "INTJ 画画人 音乐品味很杂 喜欢分享日常 谢谢喜欢 （祝我雅思早点考出分儿）",
+        "id": "1991810120607739904",
+        "name": "C.M.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042818847225626624/FT3Vq1ey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 157,
+          "like_count": 3184,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1040
+        },
+        "username": "GuanQiao6316",
+        "verified": false
+      }
+    ]
+  }
+}

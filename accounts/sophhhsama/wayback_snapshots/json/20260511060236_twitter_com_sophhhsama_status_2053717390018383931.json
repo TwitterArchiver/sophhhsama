@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2053717390018383931",
+    "created_at": "2026-05-11T06:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053717390018383931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuriano3479/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/yuriano3479/status/2053379586789179622",
+          "start": 17,
+          "url": "https://t.co/vGhs2lBoNG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053717390018383931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053379586789179622",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点想试试\n暑假买几根玩玩awa https://t.co/vGhs2lBoNG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053379546226008064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8R0WnaoAAIIF2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2053717390018383931",
+        "created_at": "2026-05-11T06:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053717390018383931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuriano3479/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/yuriano3479/status/2053379586789179622",
+              "start": 17,
+              "url": "https://t.co/vGhs2lBoNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053717390018383931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053379586789179622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点想试试\n暑假买几根玩玩awa https://t.co/vGhs2lBoNG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053379546226008064"
+          ]
+        },
+        "author_id": "1727277830025973760",
+        "conversation_id": "2053379586789179622",
+        "created_at": "2026-05-10T07:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053379586789179622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R1rb1zvd1R",
+              "end": 39,
+              "expanded_url": "https://x.com/yuriano3479/status/2053379586789179622/photo/1",
+              "media_key": "3_2053379546226008064",
+              "start": 16,
+              "url": "https://t.co/R1rb1zvd1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053379586789179622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 983,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友赏赐我了一根雪茄（qié） https://t.co/R1rb1zvd1R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n好姐姐 @tingxinzhongyu 好朋友萌 @slclst @Cheeseduck111 @djzi237149 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 83,
+                "start": 76,
+                "username": "slclst"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "djzi237149"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 337,
+          "like_count": 18632,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 2640
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:48:32.000Z",
+        "description": "我是优理。我喜欢猫和烟 喜欢我就请关注吧^什么都发｜中文/日本語/Eng｜如果消失请移步@anoyurii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "anoyurii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/8020909Yo7hsb",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/8020909Yo7hsb",
+                "start": 0,
+                "url": "https://t.co/dUGLHyy8uQ"
+              }
+            ]
+          }
+        },
+        "id": "1727277830025973760",
+        "location": "天国",
+        "name": "yuriiano",
+        "pinned_tweet_id": "2038174961668669522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037149597009928198/mPcUl3UR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 371,
+          "like_count": 5468,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 1696
+        },
+        "url": "https://t.co/dUGLHyy8uQ",
+        "username": "yuriano3479",
+        "verified": false
+      }
+    ]
+  }
+}

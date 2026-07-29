@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2036724965618106805",
+    "created_at": "2026-03-25T08:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T09:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036724965618106805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoniu6161/st…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/xiaoniu6161/status/2036593137754550635",
+          "start": 56,
+          "url": "https://t.co/zfPgK7J68v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036724965618106805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036593137754550635",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯…\n这应该算是滥用吧？（从他的身高体重/BMI）\n滥用像Mounjaro这种的GLP-1强效药\n只能说小心吧 https://t.co/zfPgK7J68v"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29715,
+        "height": 1920,
+        "media_key": "13_2036593081487892480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036593081487892480/img/G0L63CFmMz1hcXmL.jpg",
+        "public_metrics": {
+          "view_count": 304737
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036593081487892480/pl/VWDNj_n3_QrQzT5Z.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036593081487892480/vid/avc1/720x1280/PMPhGlTx98xqxyeW.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036593081487892480/vid/avc1/1080x1920/FSZV1pexSBwv2drk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036593081487892480/vid/avc1/480x852/JWhySSnResA2yoDW.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036593081487892480/vid/avc1/320x568/wyn0SOQXahA-fuZR.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2036724965618106805",
+        "created_at": "2026-03-25T08:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T09:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036724965618106805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoniu6161/st…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/xiaoniu6161/status/2036593137754550635",
+              "start": 56,
+              "url": "https://t.co/zfPgK7J68v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036724965618106805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036593137754550635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯…\n这应该算是滥用吧？（从他的身高体重/BMI）\n滥用像Mounjaro这种的GLP-1强效药\n只能说小心吧 https://t.co/zfPgK7J68v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036593081487892480"
+          ]
+        },
+        "author_id": "1240545827333914624",
+        "conversation_id": "2036593137754550635",
+        "created_at": "2026-03-24T23:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T00:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036593137754550635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9E2zIr9FY",
+              "end": 174,
+              "expanded_url": "https://x.com/Xiaoniu6161/status/2036593137754550635/video/1",
+              "media_key": "13_2036593081487892480",
+              "start": 151,
+              "url": "https://t.co/E9E2zIr9FY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036593137754550635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 292,
+          "impression_count": 556613,
+          "like_count": 504,
+          "quote_count": 16,
+          "reply_count": 142,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "日本著名网红 Yubisu 身高 170 厘米，体重 47 公斤，身材非常苗条。\n她买了一种名为Manjaro的药物，这种药主要用于治疗2型糖尿病，但在日本非常流行，类似于减肥药Ozempic。从诊所拿到药后，她一进门就给自己注射了。医生拍下了她注射的视频，并立即将其发布到网上，见证人们对瘦得痴迷。 https://t.co/E9E2zIr9FY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtcat | 小猫与sophie共同操作 想到什么发什么 | 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 227,
+          "like_count": 6584,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 932
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-19T07:49:29.000Z",
+        "description": "预测市场群：https://t.co/ZKHf21DTKM\n币圈交流群：https://t.co/TU11hhS4xP\n美股交流群：https://t.co/pMSN66D3Dd\n链上盈利过亿实时喊单记录：https://t.co/oD1wI5RXXT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/polymarket88",
+                "end": 29,
+                "expanded_url": "https://t.me/polymarket88",
+                "start": 6,
+                "url": "https://t.co/ZKHf21DTKM"
+              },
+              {
+                "display_url": "t.me/xiaoniu616",
+                "end": 59,
+                "expanded_url": "https://t.me/xiaoniu616",
+                "start": 36,
+                "url": "https://t.co/TU11hhS4xP"
+              },
+              {
+                "display_url": "t.me/xiaoniu8181",
+                "end": 89,
+                "expanded_url": "https://t.me/xiaoniu8181",
+                "start": 66,
+                "url": "https://t.co/pMSN66D3Dd"
+              },
+              {
+                "display_url": "t.me/niuxiong",
+                "end": 126,
+                "expanded_url": "https://t.me/niuxiong",
+                "start": 103,
+                "url": "https://t.co/oD1wI5RXXT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "web3.bitget.com/share/1BEusP?i…",
+                "end": 23,
+                "expanded_url": "https://web3.bitget.com/share/1BEusP?inviteCode=x9Warg",
+                "start": 0,
+                "url": "https://t.co/vzQKEX2NX5"
+              }
+            ]
+          }
+        },
+        "id": "1240545827333914624",
+        "location": "BG 钱包 最丝滑链上体验 meme  合约 美股 理财",
+        "name": "小牛",
+        "pinned_tweet_id": "1991399214539219264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970869381488939008/BHPIOtLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146664,
+          "following_count": 994,
+          "like_count": 3897,
+          "listed_count": 1383,
+          "media_count": 12045,
+          "tweet_count": 27641
+        },
+        "url": "https://t.co/vzQKEX2NX5",
+        "username": "Xiaoniu6161",
+        "verified": true
+      }
+    ]
+  }
+}

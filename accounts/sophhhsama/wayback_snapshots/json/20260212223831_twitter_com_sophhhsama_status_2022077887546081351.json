@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2021961810585563453",
+    "created_at": "2026-02-12T22:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T23:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022077887546081351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2000826943206555649",
+          "start": 0,
+          "username": "pingapingu002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022077887546081351",
+    "in_reply_to_user_id": "2000826943206555649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021961810585563453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingapingu002 咪咪起开 到我了🙃"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3481,
+        "height": 960,
+        "media_key": "7_2021961689487622145",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2021961689487622145/pu/img/8sjoGlWsl827on7S.jpg",
+        "public_metrics": {
+          "view_count": 5796
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021961689487622145/pu/vid/avc1/320x426/jOdLBS3MhwhcpjYi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021961689487622145/pu/vid/avc1/480x640/V6X_Rd16qgD52OKe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021961689487622145/pu/vid/avc1/720x960/RcclMVl0eCjRmiK_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2021961689487622145/pu/pl/sIWLeaaFcciWZinN.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2021961810585563453",
+        "created_at": "2026-02-12T22:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T23:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022077887546081351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000826943206555649",
+              "start": 0,
+              "username": "pingapingu002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022077887546081351",
+        "in_reply_to_user_id": "2000826943206555649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021961810585563453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingapingu002 咪咪起开 到我了🙃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2021961689487622145"
+          ]
+        },
+        "author_id": "2000826943206555649",
+        "conversation_id": "2021961810585563453",
+        "created_at": "2026-02-12T14:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021961810585563453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0EAXtatOo3",
+              "end": 28,
+              "expanded_url": "https://x.com/pingapingu002/status/2021961810585563453/video/1",
+              "media_key": "7_2021961689487622145",
+              "start": 5,
+              "url": "https://t.co/0EAXtatOo3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021961810585563453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 14626,
+          "like_count": 692,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "突发恶疾 https://t.co/0EAXtatOo3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 55,
+          "like_count": 700,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 150
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-16T07:15:27.000Z",
+        "description": "我是异性恋😇不聊骚不约清水推 叫我壮壮爸或者困困就好\n上一个号的互关们你们私我一下我回关，淡推不聊天不处对象也不打游戏",
+        "id": "2000826943206555649",
+        "location": "码粒纳帮我注册了新号码粒纳好",
+        "name": "睡觉睡觉困困困2.0",
+        "pinned_tweet_id": "2003843366426234896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003163752800354307/w-eF7K_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 200,
+          "like_count": 2461,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 665
+        },
+        "username": "pingapingu002",
+        "verified": false
+      }
+    ]
+  }
+}

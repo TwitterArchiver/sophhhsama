@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2028479355324657861",
+    "created_at": "2026-03-02T14:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T15:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028479355324657861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 27,
+          "id": "1720665183188922368",
+          "start": 22,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/loveforeversfy…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/loveforeversfy/status/2028458869878612430",
+          "start": 28,
+          "url": "https://t.co/DirOFsypor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028479355324657861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028458869878612430",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "分析我的推文，判断我的 mbti 和精神疾病@grok https://t.co/DirOFsypor"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2028479355324657861",
+        "created_at": "2026-03-02T14:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028479355324657861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1720665183188922368",
+              "start": 22,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/loveforeversfy…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/loveforeversfy/status/2028458869878612430",
+              "start": 28,
+              "url": "https://t.co/DirOFsypor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028479355324657861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028458869878612430",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "分析我的推文，判断我的 mbti 和精神疾病@grok https://t.co/DirOFsypor"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599012090517540869",
+        "conversation_id": "2028458869878612430",
+        "created_at": "2026-03-02T13:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028458869878612430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1720665183188922368",
+              "start": 22,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Aloevce/status/2028429544026206318",
+              "start": 28,
+              "url": "https://t.co/Z6PuHEEIFd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028458869878612430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 7,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028429544026206318",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "分析我的推文，判断我的 mbti 和精神疾病@grok https://t.co/Z6PuHEEIFd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | Aspiring med student. spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028253766047166464/6nF3n9OY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 116,
+          "like_count": 2416,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 436
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8199335,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6267,
+          "media_count": 8522798,
+          "tweet_count": 111163133
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2020501726831497717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 1537,
+          "like_count": 32986,
+          "listed_count": 8,
+          "media_count": 1084,
+          "tweet_count": 10511
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

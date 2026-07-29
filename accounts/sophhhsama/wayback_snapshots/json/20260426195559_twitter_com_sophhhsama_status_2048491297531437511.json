@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048491289805836289"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2048491297531437511",
+    "created_at": "2026-04-26T19:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T20:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048491297531437511"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b9SF9GT1GE",
+          "end": 108,
+          "expanded_url": "https://x.com/sophhhsama/status/2048491297531437511/photo/1",
+          "media_key": "3_2048491289805836289",
+          "start": 85,
+          "url": "https://t.co/b9SF9GT1GE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048491297531437511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挂一下吧\n将用于日常买糖吃住\n估计六月（如果成功）休学后情况就\n不太可预测惹喵\n到时候如果真得搬出去的话也找找工作回馈一下大家\n600fo抽奖可能叒得推迟了\n抱歉啦喵喵 https://t.co/b9SF9GT1GE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2048491289805836289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2z-YZb0AESc-0.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048491289805836289"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2048491297531437511",
+        "created_at": "2026-04-26T19:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T20:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048491297531437511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9SF9GT1GE",
+              "end": 108,
+              "expanded_url": "https://x.com/sophhhsama/status/2048491297531437511/photo/1",
+              "media_key": "3_2048491289805836289",
+              "start": 85,
+              "url": "https://t.co/b9SF9GT1GE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048491297531437511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂一下吧\n将用于日常买糖吃住\n估计六月（如果成功）休学后情况就\n不太可预测惹喵\n到时候如果真得搬出去的话也找找工作回馈一下大家\n600fo抽奖可能叒得推迟了\n抱歉啦喵喵 https://t.co/b9SF9GT1GE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048368707320377344/3VPiergw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 376,
+          "like_count": 14293,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 2152
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

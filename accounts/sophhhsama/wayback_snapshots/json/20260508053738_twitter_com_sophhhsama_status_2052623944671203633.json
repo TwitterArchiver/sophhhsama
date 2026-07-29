@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2052623944671203633",
+    "created_at": "2026-05-08T05:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T06:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052623944671203633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/178161021185w/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/178161021185w/status/2052552151180955913",
+          "start": 18,
+          "url": "https://t.co/F03a0aURKR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052623944671203633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052552151180955913",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么吃这么好喵\n呃啊啊我也要我也要 https://t.co/F03a0aURKR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2052623944671203633",
+        "created_at": "2026-05-08T05:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052623944671203633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/178161021185w/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/178161021185w/status/2052552151180955913",
+              "start": 18,
+              "url": "https://t.co/F03a0aURKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052623944671203633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052552151180955913",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么吃这么好喵\n呃啊啊我也要我也要 https://t.co/F03a0aURKR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712342569609506816",
+        "conversation_id": "2052330879004139612",
+        "created_at": "2026-05-08T00:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T01:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052552151180955913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052552151180955913",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052330879004139612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 我只懂在pr药效里吃蒸羊羔、蒸熊掌、蒸鹿尾儿、烧花鸭、烧雏鸡、烧子鹅，卤猪、卤鸭、酱鸡、腊肉、松花、小肚儿、晾肉、香肠儿，什锦苏盘儿、熏鸡白肚儿、清蒸八宝猪、江米酿鸭子，罐儿野鸡、罐儿鹌鹑、卤什件儿、卤子鹅、山鸡、兔脯、菜蟒、银鱼、清蒸哈士蟆!烩腰丝、烩鸭腰、烩鸭条、清拌鸭丝儿、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 好朋友萌 @slclst @Cheeseduck111 @djzi237149 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "djzi237149"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 348,
+          "like_count": 17811,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 2539
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T05:41:05.000Z",
+        "description": "希望这一生不再看见色情和木桶饭/ 本账号一切内容由AI生成 All content on this account is AI-generated",
+        "id": "1712342569609506816",
+        "name": "abas@8964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048983533595856896/u6NVaA99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 20,
+          "like_count": 726,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 126
+        },
+        "username": "178161021185w",
+        "verified": false
+      }
+    ]
+  }
+}

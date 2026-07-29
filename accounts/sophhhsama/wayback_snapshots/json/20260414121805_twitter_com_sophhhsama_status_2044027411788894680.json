@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2044027411788894680",
+    "created_at": "2026-04-14T12:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044027411788894680"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 249,
+          "expanded_url": "https://twitter.com/amber_toffee/status/2043740939890360359",
+          "start": 226,
+          "url": "https://t.co/OxfsJkvpXZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044027411788894680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043740939890360359",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请允许我在你的timeline上养小小猫\n因为如果timeline上有小小猫在睡觉会很可爱\n\n  ⦮ ⦯ ⟆ ~              ⦮ ⦯ ⟆ ~              \n          ⦮ ⦯ ⟆ ~                  ⦮ ⦯ ⟆ ~\n   ⦮ ⦯ ⟆ ~                                 ⦮ ⦯ ⟆ ~\n               ~ ⦮ ⦯ ⟆          ⦮ ⦯ ⟆ ~ https://t.co/OxfsJkvpXZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2044027411788894680",
+        "created_at": "2026-04-14T12:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044027411788894680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 249,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2043740939890360359",
+              "start": 226,
+              "url": "https://t.co/OxfsJkvpXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044027411788894680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043740939890360359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请允许我在你的timeline上养小小猫\n因为如果timeline上有小小猫在睡觉会很可爱\n\n  ⦮ ⦯ ⟆ ~              ⦮ ⦯ ⟆ ~              \n          ⦮ ⦯ ⟆ ~                  ⦮ ⦯ ⟆ ~\n   ⦮ ⦯ ⟆ ~                                 ⦮ ⦯ ⟆ ~\n               ~ ⦮ ⦯ ⟆          ⦮ ⦯ ⟆ ~ https://t.co/OxfsJkvpXZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2043740939890360359",
+        "created_at": "2026-04-13T17:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043740939890360359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043740939890360359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 41791,
+          "like_count": 2329,
+          "quote_count": 9,
+          "reply_count": 55,
+          "retweet_count": 270
+        },
+        "reply_settings": "everyone",
+        "text": "请允许我在你的timeline上养水母\n因为如果timeline上有水母在漂会很可爱\n\n  ଳ~              ଳ~               ଳ~\n          ଳ~                  ଳ~\n   ଳ~                                 ଳ~\n               ~ଳ          ଳ~\n ଳ~                               ଳ~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 326,
+          "like_count": 11224,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 1674
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ ⚢ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24379,
+          "following_count": 2732,
+          "like_count": 40637,
+          "listed_count": 11,
+          "media_count": 598,
+          "tweet_count": 21694
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

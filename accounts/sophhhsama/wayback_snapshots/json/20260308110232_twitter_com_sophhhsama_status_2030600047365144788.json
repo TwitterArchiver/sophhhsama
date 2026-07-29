@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030600043208593409"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2030600047365144788",
+    "created_at": "2026-03-08T11:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T12:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030600047365144788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Y5WlyE1bv",
+          "end": 153,
+          "expanded_url": "https://x.com/sophhhsama/status/2030600047365144788/photo/1",
+          "media_key": "3_2030600043208593409",
+          "start": 130,
+          "url": "https://t.co/4Y5WlyE1bv"
+        },
+        {
+          "display_url": "x.com/ayawo11_/statu…",
+          "end": 177,
+          "expanded_url": "https://twitter.com/ayawo11_/status/1992929727628423251",
+          "start": 154,
+          "url": "https://t.co/Y6CJaOgBOp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030600047365144788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992929727628423251",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谈恋爱到底啥感觉？牵手到底啥感觉？拥抱到底啥感觉？一起吃饭到底啥感觉？一起看电影到底啥感觉？有人哄到底啥感觉？有人撑腰到底啥感觉？一起散步到底啥感觉？埋肩抱到底啥感觉？背后抱到底啥感觉？摸头到底啥感觉？捏脸到底啥感觉？手背贴脸到底啥感觉？十指相扣到底啥感觉？ https://t.co/4Y5WlyE1bv https://t.co/Y6CJaOgBOp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 544,
+        "media_key": "3_2030600043208593409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4j-xBXUAE7hOO.jpg",
+        "width": 685
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030600043208593409"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2030600047365144788",
+        "created_at": "2026-03-08T11:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T12:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030600047365144788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Y5WlyE1bv",
+              "end": 153,
+              "expanded_url": "https://x.com/sophhhsama/status/2030600047365144788/photo/1",
+              "media_key": "3_2030600043208593409",
+              "start": 130,
+              "url": "https://t.co/4Y5WlyE1bv"
+            },
+            {
+              "display_url": "x.com/ayawo11_/statu…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/ayawo11_/status/1992929727628423251",
+              "start": 154,
+              "url": "https://t.co/Y6CJaOgBOp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030600047365144788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992929727628423251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谈恋爱到底啥感觉？牵手到底啥感觉？拥抱到底啥感觉？一起吃饭到底啥感觉？一起看电影到底啥感觉？有人哄到底啥感觉？有人撑腰到底啥感觉？一起散步到底啥感觉？埋肩抱到底啥感觉？背后抱到底啥感觉？摸头到底啥感觉？捏脸到底啥感觉？手背贴脸到底啥感觉？十指相扣到底啥感觉？ https://t.co/4Y5WlyE1bv https://t.co/Y6CJaOgBOp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697158457450012672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1992929727628423251",
+        "created_at": "2025-11-24T12:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T13:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992929727628423251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992929727628423251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 177152,
+          "like_count": 1238,
+          "quote_count": 31,
+          "reply_count": 126,
+          "retweet_count": 179
+        },
+        "reply_settings": "everyone",
+        "text": "谈恋爱到底啥感觉？牵手到底啥感觉？拥抱到底啥感觉？一起吃饭到底啥感觉？一起看电影到底啥感觉？有人哄到底啥感觉？有人撑腰到底啥感觉？一起散步到底啥感觉？埋肩抱到底啥感觉？背后抱到底啥感觉？摸头到底啥感觉？捏脸到底啥感觉？手背贴脸到底啥感觉？十指相扣到底啥感觉？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | 是sophie吖 | spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 95,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhh小猫🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028253766047166464/6nF3n9OY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 152,
+          "like_count": 3688,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 581
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-31T08:04:48.000Z",
+        "description": "当朋友圈玩 看到有趣的碎碎念都会关注喵不聊骚不约｜本人素质低下^ ^｜有喜欢的小男生了所以不看私信咪｜置顶推广转发推广自辨",
+        "id": "1697158457450012672",
+        "location": "家有娇夫甜蜜中( ̀⌄ ́",
+        "name": "小夜",
+        "pinned_tweet_id": "1983883542334730360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976204301942083584/u2mumVAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2998,
+          "following_count": 135,
+          "like_count": 4177,
+          "listed_count": 6,
+          "media_count": 227,
+          "tweet_count": 3027
+        },
+        "username": "ayawo11_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2060029859003236674",
+    "created_at": "2026-05-31T05:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060952552519213469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "860208763420250112",
+          "start": 0,
+          "username": "MalditaSummer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060952552519213469",
+    "in_reply_to_user_id": "860208763420250112",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060029859003236674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MalditaSummer And… that’s a dream job for many. Not saying if that’s acceptable or not, but this job would sound ridiculously good for many. Hopefully you’ll find a job that suits your lifestyle~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2060029859003236674",
+        "created_at": "2026-05-31T05:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060952552519213469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "860208763420250112",
+              "start": 0,
+              "username": "MalditaSummer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060952552519213469",
+        "in_reply_to_user_id": "860208763420250112",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060029859003236674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MalditaSummer And… that’s a dream job for many. Not saying if that’s acceptable or not, but this job would sound ridiculously good for many. Hopefully you’ll find a job that suits your lifestyle~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "860208763420250112",
+        "conversation_id": "2060029859003236674",
+        "created_at": "2026-05-28T16:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060029859003236674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060029859003236674",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 438,
+          "impression_count": 548597,
+          "like_count": 17483,
+          "quote_count": 135,
+          "reply_count": 815,
+          "retweet_count": 2067
+        },
+        "reply_settings": "everyone",
+        "text": "No me molesta trabajar, pero me molesta el concepto de trabajar 7-8 horas al día y luego volver a casa con solo unas 5 horas para mí, que incluyen tomar el autobús, cocinar y prepararme para el día siguiente. Esto no es vida."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 435,
+          "like_count": 22430,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 3172
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-04T19:05:25.000Z",
+        "description": "Iba a poner algo bonito pero me dio flojera. #Publicidad DM 📩",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 45,
+                "tag": "Publicidad"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/MalditaSummer/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/MalditaSummer/",
+                "start": 0,
+                "url": "https://t.co/pTvT7o3jW9"
+              }
+            ]
+          }
+        },
+        "id": "860208763420250112",
+        "location": "México",
+        "name": "Maldita Summer",
+        "pinned_tweet_id": "1310038210064642048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/981029025157140480/EzQvS3Za_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496768,
+          "following_count": 980,
+          "like_count": 5364,
+          "listed_count": 247,
+          "media_count": 3050,
+          "tweet_count": 63060
+        },
+        "url": "https://t.co/pTvT7o3jW9",
+        "username": "MalditaSummer",
+        "verified": true
+      }
+    ]
+  }
+}

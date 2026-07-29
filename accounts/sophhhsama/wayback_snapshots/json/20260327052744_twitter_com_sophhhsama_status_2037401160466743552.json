@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2037401160466743552",
+    "created_at": "2026-03-27T05:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T06:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037401160466743552"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037401160466743552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天这学期最后一天\n不想上了太累了\n看看猫妈让不让\n打算去超市买点魔爪小蛋糕吃\n然后狠狠喝醉好好睡一觉\n想要重开也得等到六月考完试之后…\n大概那时候也没什么想留住的了\n\n真的说不上我有没有尽力\n反正我也不想面对\n只是仅存的意志力在半推半就罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2037401160466743552",
+        "created_at": "2026-03-27T05:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037401160466743552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037401160466743552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天这学期最后一天\n不想上了太累了\n看看猫妈让不让\n打算去超市买点魔爪小蛋糕吃\n然后狠狠喝醉好好睡一觉\n想要重开也得等到六月考完试之后…\n大概那时候也没什么想留住的了\n\n真的说不上我有没有尽力\n反正我也不想面对\n只是仅存的意志力在半推半就罢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtcat | 小猫/sophie 想到什么发什么 | 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 232,
+          "like_count": 7013,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 992
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

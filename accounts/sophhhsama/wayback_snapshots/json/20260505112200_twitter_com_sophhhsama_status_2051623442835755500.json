@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2051623442835755500",
+    "created_at": "2026-05-05T11:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T12:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051623442835755500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1813393863819587584",
+          "start": 3,
+          "username": "Babydoll675482"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051623442835755500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051529697524375894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Babydoll675482: 我们都不要猜测对方了，好吗？我喜欢你，只要你也喜欢我，我们就认真相爱吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2051623442835755500",
+        "created_at": "2026-05-05T11:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051623442835755500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1813393863819587584",
+              "start": 3,
+              "username": "Babydoll675482"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051623442835755500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051529697524375894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Babydoll675482: 我们都不要猜测对方了，好吗？我喜欢你，只要你也喜欢我，我们就认真相爱吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813393863819587584",
+        "conversation_id": "2051529697524375894",
+        "created_at": "2026-05-05T05:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051529697524375894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051529697524375894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1073,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我们都不要猜测对方了，好吗？我喜欢你，只要你也喜欢我，我们就认真相爱吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 389,
+          "like_count": 16904,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 2394
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T02:03:02.000Z",
+        "description": "",
+        "id": "1813393863819587584",
+        "location": "🚪88/188/388 只回复门槛口令",
+        "name": "坏狗",
+        "pinned_tweet_id": "1813867672997925198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041874154241343488/4arKGg9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 53,
+          "like_count": 8257,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 2110
+        },
+        "username": "Babydoll675482",
+        "verified": false
+      }
+    ]
+  }
+}

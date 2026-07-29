@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2041012104044450019",
+    "created_at": "2026-04-06T04:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T05:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041012104044450019"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0twt012/status…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/0twt012/status/2040907963469312181",
+          "start": 67,
+          "url": "https://t.co/Hc6w9M4F13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041012104044450019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040907963469312181",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我很怕伤害你\n不过自私的猫猫有时候又会自相矛盾的忍不住抓的太紧绷\n很坏呢 猫猫的模样确实不太可爱\n好点了\n猫猫脑子只是有点晕晕的感觉 https://t.co/Hc6w9M4F13"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2041012104044450019",
+        "created_at": "2026-04-06T04:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041012104044450019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0twt012/status…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/0twt012/status/2040907963469312181",
+              "start": 67,
+              "url": "https://t.co/Hc6w9M4F13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041012104044450019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040907963469312181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很怕伤害你\n不过自私的猫猫有时候又会自相矛盾的忍不住抓的太紧绷\n很坏呢 猫猫的模样确实不太可爱\n好点了\n猫猫脑子只是有点晕晕的感觉 https://t.co/Hc6w9M4F13"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2040907963469312181",
+        "created_at": "2026-04-05T21:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T22:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040907963469312181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040907963469312181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 484,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当一个人真心爱你时 他们最大的恐惧不是失去你 而是伤害你 但当一个人只爱你给他们的感觉时他们最大的恐惧是失去与你的联系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie 想到什么发什么 07 | 大笨蛋 @Cheeseduck111 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417784971001856/HVUfHILV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 299,
+          "like_count": 8917,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 1340
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/💬//碎碎念//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//🈲搬运//有些不是文案是我自己写的不要再问我了//聊天找@lovemore0102只通过🚪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "lovemore0102"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri（私信回不了版）",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2052,
+          "following_count": 197,
+          "like_count": 1000,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

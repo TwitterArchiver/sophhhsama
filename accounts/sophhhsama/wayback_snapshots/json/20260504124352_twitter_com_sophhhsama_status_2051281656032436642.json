@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051281651645161472"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2051215924334878946",
+    "created_at": "2026-05-04T12:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T13:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051281656032436642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1536716629505359872",
+          "start": 0,
+          "username": "cigsafterdrug"
+        },
+        {
+          "end": 31,
+          "id": "1684269091849404416",
+          "start": 15,
+          "username": "hg3551019177402"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yiaqUxbYVb",
+          "end": 70,
+          "expanded_url": "https://x.com/sophhhsama/status/2051281656032436642/photo/1",
+          "media_key": "3_2051281651645161472",
+          "start": 47,
+          "url": "https://t.co/yiaqUxbYVb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051281656032436642",
+    "in_reply_to_user_id": "1536716629505359872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051215924334878946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cigsafterdrug @hg3551019177402 这个闻着有种奇妙的酸味（？） https://t.co/yiaqUxbYVb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051281651645161472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHedy0SWIAA6lGB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051215910388809729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdiALBawAE3rj5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051215910451765248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdiALQbYAAn1Ie.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051281651645161472"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2051215924334878946",
+        "created_at": "2026-05-04T12:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051281656032436642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            },
+            {
+              "end": 31,
+              "id": "1684269091849404416",
+              "start": 15,
+              "username": "hg3551019177402"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yiaqUxbYVb",
+              "end": 70,
+              "expanded_url": "https://x.com/sophhhsama/status/2051281656032436642/photo/1",
+              "media_key": "3_2051281651645161472",
+              "start": 47,
+              "url": "https://t.co/yiaqUxbYVb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051281656032436642",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051215924334878946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug @hg3551019177402 这个闻着有种奇妙的酸味（？） https://t.co/yiaqUxbYVb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051215910388809729",
+            "3_2051215910451765248"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2051215924334878946",
+        "created_at": "2026-05-04T08:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051215924334878946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1684269091849404416",
+              "start": 2,
+              "username": "hg3551019177402"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w2dbqGOCT5",
+              "end": 72,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2051215924334878946/photo/1",
+              "media_key": "3_2051215910388809729",
+              "start": 49,
+              "url": "https://t.co/w2dbqGOCT5"
+            },
+            {
+              "display_url": "pic.x.com/w2dbqGOCT5",
+              "end": 72,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2051215924334878946/photo/1",
+              "media_key": "3_2051215910451765248",
+              "start": 49,
+              "url": "https://t.co/w2dbqGOCT5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051215924334878946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 503,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "是从@hg3551019177402 买的黑魔鬼！好帅( ´▽｀)\n支持12喵！支持12谢谢喵！ https://t.co/w2dbqGOCT5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 389,
+          "like_count": 16629,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 2371
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 370,
+          "like_count": 23765,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1927
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "干点烟代，电子烟纸烟 第一个老板被我开除了，太黑了，第二个已经是我好兄弟了，可散发，邮费12买的多包邮，也有电子烟，什么都有，问一些高端稀缺的电子烟（日韩）可能要等一下好兄弟问价格。",
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2050964173111321004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 747,
+          "like_count": 18198,
+          "listed_count": 1,
+          "media_count": 647,
+          "tweet_count": 9294
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

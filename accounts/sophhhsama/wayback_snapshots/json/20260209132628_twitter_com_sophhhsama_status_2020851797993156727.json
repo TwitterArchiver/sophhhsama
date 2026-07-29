@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2020724715279773702",
+    "created_at": "2026-02-09T13:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T14:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020851797993156727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911628907842818049",
+          "start": 0,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020851797993156727",
+    "in_reply_to_user_id": "1911628907842818049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020724715279773702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codyhunk 老板你想sha谁？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2020724707281293313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsOaj5bUAE8cdV.jpg",
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2020724715279773702",
+        "created_at": "2026-02-09T13:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T14:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020851797993156727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020851797993156727",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020724715279773702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 老板你想sha谁？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020724707281293313"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "2020724715279773702",
+        "created_at": "2026-02-09T05:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T06:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020724715279773702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MdbzeKRN4",
+              "end": 26,
+              "expanded_url": "https://x.com/codyhunk/status/2020724715279773702/photo/1",
+              "media_key": "3_2020724707281293313",
+              "start": 3,
+              "url": "https://t.co/6MdbzeKRN4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020724715279773702",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 79120,
+          "like_count": 1431,
+          "quote_count": 4,
+          "reply_count": 45,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "哭了 https://t.co/6MdbzeKRN4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2020096493814685890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 48,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 74
+        },
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10865,
+          "following_count": 1713,
+          "like_count": 22933,
+          "listed_count": 29,
+          "media_count": 5006,
+          "tweet_count": 7940
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

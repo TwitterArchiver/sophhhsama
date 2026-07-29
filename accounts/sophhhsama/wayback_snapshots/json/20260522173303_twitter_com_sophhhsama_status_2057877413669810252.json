@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2057873109273682293",
+    "created_at": "2026-05-22T17:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057877413669810252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2046295889103441921",
+          "start": 0,
+          "username": "Xie_miaoyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057877413669810252",
+    "in_reply_to_user_id": "2046295889103441921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057874907724472472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xie_miaoyu 抱抱哇&gt;&lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2057873109273682293",
+        "created_at": "2026-05-22T17:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057877413669810252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2046295889103441921",
+              "start": 0,
+              "username": "Xie_miaoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057877413669810252",
+        "in_reply_to_user_id": "2046295889103441921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057874907724472472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xie_miaoyu 抱抱哇&gt;&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046295889103441921",
+        "conversation_id": "2057873109273682293",
+        "created_at": "2026-05-22T17:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057874907724472472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223415775278428160",
+              "start": 0,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057874907724472472",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057873109273682293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophhhsama (抱一下)现在静下来专心升学才是最重要的，好好休息，好好复习。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 357,
+          "like_count": 20946,
+          "listed_count": 2,
+          "media_count": 353,
+          "tweet_count": 2899
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-20T18:32:40.000Z",
+        "description": "「盯……」\n\n▷1月1日生｜看成分回fo｜不主动私信关注(社恐)\n▷Live2D｜日语練習｜VRC｜VTB｜战雷｜日常｜絵｜心理｜树洞\n▷心理稳定｜不自杀自残｜PTSD｜强迫症｜社恐｜多重人格\n▷前急性自杀干预行动者｜旧绩2/26｜大学生心理健康协会(持证)干事｜首都大学生心理健康联盟成员",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@drvb_nyame?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@drvb_nyame?si=rkW4s0_GpvsKSGPp",
+                "start": 0,
+                "url": "https://t.co/ZTuDjcTr2J"
+              }
+            ]
+          }
+        },
+        "id": "2046295889103441921",
+        "location": "北京/厦门/坟堆里",
+        "name": "Nyame | コミュ障猫",
+        "pinned_tweet_id": "2055015648452018221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047657374497054720/9Z5YmAkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 36,
+          "like_count": 1409,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 389
+        },
+        "url": "https://t.co/ZTuDjcTr2J",
+        "username": "Xie_miaoyu",
+        "verified": true
+      }
+    ]
+  }
+}

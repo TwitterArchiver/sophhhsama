@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2052109423368147166",
+    "created_at": "2026-05-06T19:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T20:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052109423368147166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/57ame/status/2…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/57ame/status/2052017605658198152",
+          "start": 18,
+          "url": "https://t.co/G7H0eYvhPH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052109423368147166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052017605658198152",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "四月中就关注他惹 看来还是…… 嗯 https://t.co/G7H0eYvhPH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2052017489941590016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHo7CPjbcAA2YjY.jpg",
+        "width": 4000
+      },
+      {
+        "duration_ms": 21431,
+        "height": 1280,
+        "media_key": "7_2052017534380199936",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2052017534380199936/pu/img/_vhv847REsQbZGdZ.jpg",
+        "public_metrics": {
+          "view_count": 21960
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052017534380199936/pu/vid/avc1/320x568/Ys-OkjQ6gI2QFFMw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052017534380199936/pu/vid/avc1/480x852/9rhwt6LW-kYOKa4q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052017534380199936/pu/vid/avc1/720x1280/SPWrpg-j1ys32x83.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2052017534380199936/pu/pl/yS-rsH0uRVqdpzca.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2052109423368147166",
+        "created_at": "2026-05-06T19:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T20:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052109423368147166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/57ame/status/2…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/57ame/status/2052017605658198152",
+              "start": 18,
+              "url": "https://t.co/G7H0eYvhPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052109423368147166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052017605658198152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "四月中就关注他惹 看来还是…… 嗯 https://t.co/G7H0eYvhPH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052017489941590016",
+            "7_2052017534380199936"
+          ]
+        },
+        "author_id": "1249607798221967360",
+        "conversation_id": "2052017605658198152",
+        "created_at": "2026-05-06T13:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052017605658198152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mWKm4lwnQ2",
+              "end": 52,
+              "expanded_url": "https://x.com/57ame/status/2052017605658198152/video/1",
+              "media_key": "3_2052017489941590016",
+              "start": 29,
+              "url": "https://t.co/mWKm4lwnQ2"
+            },
+            {
+              "display_url": "pic.x.com/mWKm4lwnQ2",
+              "end": 52,
+              "expanded_url": "https://x.com/57ame/status/2052017605658198152/video/1",
+              "media_key": "7_2052017534380199936",
+              "start": 29,
+              "url": "https://t.co/mWKm4lwnQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052017605658198152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 298,
+          "impression_count": 68946,
+          "like_count": 1776,
+          "quote_count": 121,
+          "reply_count": 1,
+          "retweet_count": 122
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "レタス840t　OD\n（ジフェンヒドラミン8400mg） https://t.co/mWKm4lwnQ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 好朋友萌 @slclst @Cheeseduck111 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 345,
+          "like_count": 17301,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 2464
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T07:58:22.000Z",
+        "description": "つゆりです（╹◡╹）\n\nサブ　@sgw_ghost\n働　@szm8_bot\n　　https://t.co/EV9BLgvF6b",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "sgw_ghost"
+              },
+              {
+                "end": 37,
+                "start": 28,
+                "username": "szm8_bot"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/57ame_",
+                "end": 63,
+                "expanded_url": "https://www.instagram.com/57ame_",
+                "start": 40,
+                "url": "https://t.co/EV9BLgvF6b"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "57ame.base.shop",
+                "end": 23,
+                "expanded_url": "http://57ame.base.shop",
+                "start": 0,
+                "url": "https://t.co/rYueIJsshO"
+              }
+            ]
+          }
+        },
+        "id": "1249607798221967360",
+        "name": "5月7日",
+        "pinned_tweet_id": "2051950095789367385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831704718684647426/2T_1dqGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6020,
+          "following_count": 82,
+          "like_count": 12396,
+          "listed_count": 45,
+          "media_count": 519,
+          "tweet_count": 872
+        },
+        "url": "https://t.co/rYueIJsshO",
+        "username": "57ame",
+        "verified": false
+      }
+    ]
+  }
+}

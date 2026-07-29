@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2042543132756041938",
+    "created_at": "2026-04-10T10:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T11:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042543132756041938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ripo0079/statu…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/ripo0079/status/2042504393753575606",
+          "start": 41,
+          "url": "https://t.co/9UJdzAxuUi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042543132756041938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042504393753575606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不只是这样\n在成为理想的自己前\n努力活下去吧\n不然怎么能看到未来那个可爱的自己呢 https://t.co/9UJdzAxuUi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2042543132756041938",
+        "created_at": "2026-04-10T10:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042543132756041938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ripo0079/statu…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/ripo0079/status/2042504393753575606",
+              "start": 41,
+              "url": "https://t.co/9UJdzAxuUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042543132756041938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042504393753575606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不只是这样\n在成为理想的自己前\n努力活下去吧\n不然怎么能看到未来那个可爱的自己呢 https://t.co/9UJdzAxuUi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "193648759",
+        "conversation_id": "2042504393753575606",
+        "created_at": "2026-04-10T07:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042504393753575606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042504393753575606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1929,
+          "like_count": 114,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "想是女人、就必须在是女人之前话下去\n\n跨性别、别死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417784971001856/HVUfHILV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 311,
+          "like_count": 10018,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 1519
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2042211394763034677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8379,
+          "following_count": 1390,
+          "like_count": 70577,
+          "listed_count": 123,
+          "media_count": 4286,
+          "tweet_count": 53739
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

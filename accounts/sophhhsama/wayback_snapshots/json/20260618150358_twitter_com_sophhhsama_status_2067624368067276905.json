@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2067624368067276905",
+    "created_at": "2026-06-18T15:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067624368067276905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/17nuun/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/17nuun/status/2067598783031250948",
+          "start": 12,
+          "url": "https://t.co/R3FuKHkIOi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067624368067276905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067598783031250948",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唔——— 猫猫也会这样 https://t.co/R3FuKHkIOi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2067624368067276905",
+        "created_at": "2026-06-18T15:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067624368067276905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/17nuun/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/17nuun/status/2067598783031250948",
+              "start": 12,
+              "url": "https://t.co/R3FuKHkIOi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067624368067276905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067598783031250948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唔——— 猫猫也会这样 https://t.co/R3FuKHkIOi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2067598783031250948",
+        "created_at": "2026-06-18T13:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067598783031250948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067598783031250948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又ptsd？或者恐音症犯了...\n好难受\n听到母亲打哈欠的声音或者咀嚼声或者姐姐的什么声音就忍不住的难受，忍不住的扇自己或者锤什么东西。\n只有母亲和姐姐会让17难受\n这个症状给医生说过\n可是医生从来都不在意\n可是每天都会难受\n每天都会呜....\n\n好痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 466,
+          "like_count": 24994,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 3390
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞|sub|mtf|06|心境情感障碍|infp|💊|想要倾诉或者聊天可以找我说话|聊天请私信|最爱的小孩@dnshu135734|小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067504461292179924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 630,
+          "like_count": 364,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 675
+        },
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026922309332668416"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2026922312759456000",
+    "created_at": "2026-02-26T07:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T08:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026922312759456000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uqpR9FSfDM",
+          "end": 111,
+          "expanded_url": "https://x.com/sophhhsama/status/2026922312759456000/photo/1",
+          "media_key": "3_2026922309332668416",
+          "start": 88,
+          "url": "https://t.co/uqpR9FSfDM"
+        },
+        {
+          "display_url": "x.com/luoji3500/stat…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/luoji3500/status/2012540258965967297",
+          "start": 112,
+          "url": "https://t.co/WBUw1c2b8m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026922312759456000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012540258965967297",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真想切蛋了😭\n抗yy药越吃越清醒 能听到一点自己的想法了 不过怎么是想自切啊喂 \n想想自切可以直接出柜+光明正大吃激素又不用抗雄\n休养就跟家里说出去玩了不回家w\n暑假行动？？ https://t.co/uqpR9FSfDM https://t.co/WBUw1c2b8m"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2026922312759456000].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2026922312759456000",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2026922312759456000"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 152,
+        "media_key": "3_2026922309332668416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCETGesWkAAnKBb.jpg",
+        "width": 160
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2012540130481893377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-36lfWXcAEAAQG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2012540129055801344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-36laCXAAAXW52.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2012540128833544192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-36lZNXoAAdiHS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2012540129789837312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-36lcxXgAApzXZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012540130481893377",
+            "3_2012540129055801344",
+            "3_2012540128833544192",
+            "3_2012540129789837312"
+          ]
+        },
+        "author_id": "1972898838219513856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2012540258965967297",
+        "created_at": "2026-01-17T14:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012540258965967297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NoSim1DnjI",
+              "end": 34,
+              "expanded_url": "https://x.com/Luoji3500/status/2012540258965967297/photo/1",
+              "media_key": "3_2012540130481893377",
+              "start": 11,
+              "url": "https://t.co/NoSim1DnjI"
+            },
+            {
+              "display_url": "pic.x.com/NoSim1DnjI",
+              "end": 34,
+              "expanded_url": "https://x.com/Luoji3500/status/2012540258965967297/photo/1",
+              "media_key": "3_2012540129055801344",
+              "start": 11,
+              "url": "https://t.co/NoSim1DnjI"
+            },
+            {
+              "display_url": "pic.x.com/NoSim1DnjI",
+              "end": 34,
+              "expanded_url": "https://x.com/Luoji3500/status/2012540258965967297/photo/1",
+              "media_key": "3_2012540128833544192",
+              "start": 11,
+              "url": "https://t.co/NoSim1DnjI"
+            },
+            {
+              "display_url": "pic.x.com/NoSim1DnjI",
+              "end": 34,
+              "expanded_url": "https://x.com/Luoji3500/status/2012540258965967297/photo/1",
+              "media_key": "3_2012540129789837312",
+              "start": 11,
+              "url": "https://t.co/NoSim1DnjI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012540258965967297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 32898,
+          "like_count": 171,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "补一下之前的蛋蛋图吧 https://t.co/NoSim1DnjI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | Aspiring med student. spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 92,
+          "like_count": 1914,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 374
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-30T05:38:45.000Z",
+        "description": "MTF",
+        "id": "1972898838219513856",
+        "name": "高冷高松灯🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004021523246731266/NcAmRbCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3477,
+          "following_count": 419,
+          "like_count": 779,
+          "listed_count": 6,
+          "media_count": 43,
+          "tweet_count": 181
+        },
+        "username": "Luoji3500",
+        "verified": false
+      }
+    ]
+  }
+}

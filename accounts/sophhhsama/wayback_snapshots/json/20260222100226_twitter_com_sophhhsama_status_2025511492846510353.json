@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2025506747226743104",
+    "created_at": "2026-02-22T10:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025511492846510353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1595655567623831552",
+          "start": 0,
+          "username": "aaaamingming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025511492846510353",
+    "in_reply_to_user_id": "1595655567623831552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025511008446644440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaamingming 声音好听捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2025506747226743104",
+        "created_at": "2026-02-22T10:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025511492846510353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1595655567623831552",
+              "start": 0,
+              "username": "aaaamingming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025511492846510353",
+        "in_reply_to_user_id": "1595655567623831552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025511008446644440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaamingming 声音好听捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595655567623831552",
+        "conversation_id": "2025506747226743104",
+        "created_at": "2026-02-22T10:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025511008446644440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223415775278428160",
+              "start": 0,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025511008446644440",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025510056725233966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophhhsama 断断续续两年多，然后近半年顿悟开始往声线练"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. spam account. 18, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 84,
+          "like_count": 1590,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 329
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-24T05:48:36.000Z",
+        "description": "mtf（默认自己是顺女） 不挂旗是我想专注自己★ 我本是自由的风 永远在向前★///逐渐rle ing 庆祝主播学会了伪音/直接索要微信🚪99",
+        "id": "1595655567623831552",
+        "location": "武汉",
+        "name": "明明快要睡着了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960740118777749509/v1DRZq85_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5574,
+          "following_count": 210,
+          "like_count": 633,
+          "listed_count": 28,
+          "media_count": 118,
+          "tweet_count": 360
+        },
+        "username": "aaaamingming",
+        "verified": false
+      }
+    ]
+  }
+}

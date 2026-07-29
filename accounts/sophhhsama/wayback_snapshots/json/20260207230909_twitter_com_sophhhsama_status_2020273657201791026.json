@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2020273657201791026",
+    "created_at": "2026-02-07T23:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T00:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020273657201791026"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Boris",
+          "probability": 0.4887,
+          "start": 17,
+          "type": "Person"
+        },
+        {
+          "end": 47,
+          "normalized_text": "Claude Code",
+          "probability": 0.5181,
+          "start": 37,
+          "type": "Other"
+        },
+        {
+          "end": 107,
+          "normalized_text": "Claude Code",
+          "probability": 0.5629,
+          "start": 97,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "159337660",
+          "start": 3,
+          "username": "bcherny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020273657201791026",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5627
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017742741636321619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bcherny: I'm Boris and I created Claude Code. I wanted to quickly share a few tips for using Claude Code, sourced directly from the Cla…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2020273657201791026",
+        "created_at": "2026-02-07T23:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T00:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020273657201791026"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Boris",
+              "probability": 0.4887,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 47,
+              "normalized_text": "Claude Code",
+              "probability": 0.5181,
+              "start": 37,
+              "type": "Other"
+            },
+            {
+              "end": 107,
+              "normalized_text": "Claude Code",
+              "probability": 0.5629,
+              "start": 97,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "159337660",
+              "start": 3,
+              "username": "bcherny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020273657201791026",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5627
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017742741636321619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bcherny: I'm Boris and I created Claude Code. I wanted to quickly share a few tips for using Claude Code, sourced directly from the Cla…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "159337660",
+        "conversation_id": "2017742741636321619",
+        "created_at": "2026-01-31T23:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T00:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017742741636321619"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Boris",
+              "probability": 0.4821,
+              "start": 4,
+              "type": "Other"
+            },
+            {
+              "end": 34,
+              "normalized_text": "Claude Code",
+              "probability": 0.6085,
+              "start": 24,
+              "type": "Other"
+            },
+            {
+              "end": 94,
+              "normalized_text": "Claude Code",
+              "probability": 0.5426,
+              "start": 84,
+              "type": "Other"
+            },
+            {
+              "end": 133,
+              "normalized_text": "Claude Code",
+              "probability": 0.6407,
+              "start": 123,
+              "type": "Other"
+            },
+            {
+              "end": 168,
+              "normalized_text": "Claude",
+              "probability": 0.4346,
+              "start": 163,
+              "type": "Other"
+            },
+            {
+              "end": 255,
+              "normalized_text": "Claude Code",
+              "probability": 0.5203,
+              "start": 245,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017742741636321619",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I'm Boris and I created Claude Code. I wanted to quickly share a few tips for using Claude Code, sourced directly from the Claude Code team. The way the team uses Claude is different than how I use it. Remember: there is no one right way to use Claude Code -- everyones' setup is different. You should experiment to see what works for you!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100737,
+          "impression_count": 8312466,
+          "like_count": 49401,
+          "quote_count": 704,
+          "reply_count": 869,
+          "retweet_count": 5627
+        },
+        "reply_settings": "everyone",
+        "text": "I'm Boris and I created Claude Code. I wanted to quickly share a few tips for using Claude Code, sourced directly from the Claude Code team. The way the team uses Claude is different than how I use it. Remember: there is no one right way to use Claude Code -- everyones' setup is"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "aspiring med student, i also like programming, macroeconomics, tokenomics\nZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 43,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 50
+        },
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-25T03:08:49.000Z",
+        "description": "Claude Code @anthropicai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "anthropicai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "borischerny.com",
+                "end": 23,
+                "expanded_url": "https://borischerny.com",
+                "start": 0,
+                "url": "https://t.co/5khvjT8C1W"
+              }
+            ]
+          }
+        },
+        "id": "159337660",
+        "location": "San Francisco",
+        "name": "Boris Cherny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902044548936953856/J2jeik0t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245668,
+          "following_count": 129,
+          "like_count": 1800,
+          "listed_count": 2413,
+          "media_count": 43,
+          "tweet_count": 1019
+        },
+        "url": "https://t.co/5khvjT8C1W",
+        "username": "bcherny",
+        "verified": true
+      }
+    ]
+  }
+}

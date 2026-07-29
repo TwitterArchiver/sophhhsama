@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2037826701942759424",
+        "3_2037826701993054208",
+        "3_2037826701984739329",
+        "3_2037826701980479488"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2037826720447779235",
+    "created_at": "2026-03-28T09:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T10:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037826720447779235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0xRhXHNn9W",
+          "end": 106,
+          "expanded_url": "https://x.com/sophhhsama/status/2037826720447779235/video/1",
+          "media_key": "13_2037826701942759424",
+          "start": 83,
+          "url": "https://t.co/0xRhXHNn9W"
+        },
+        {
+          "display_url": "pic.x.com/0xRhXHNn9W",
+          "end": 106,
+          "expanded_url": "https://x.com/sophhhsama/status/2037826720447779235/video/1",
+          "media_key": "3_2037826701993054208",
+          "start": 83,
+          "url": "https://t.co/0xRhXHNn9W"
+        },
+        {
+          "display_url": "pic.x.com/0xRhXHNn9W",
+          "end": 106,
+          "expanded_url": "https://x.com/sophhhsama/status/2037826720447779235/video/1",
+          "media_key": "3_2037826701984739329",
+          "start": 83,
+          "url": "https://t.co/0xRhXHNn9W"
+        },
+        {
+          "display_url": "pic.x.com/0xRhXHNn9W",
+          "end": 106,
+          "expanded_url": "https://x.com/sophhhsama/status/2037826720447779235/video/1",
+          "media_key": "3_2037826701980479488",
+          "start": 83,
+          "url": "https://t.co/0xRhXHNn9W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037826720447779235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "梦回去年圣诞\n今年要处理的事情有点多\n下一次回去也不知道什么时候了\n可能想去北方走走\n（视频里的声音不是本喵的🙃\n视频一是深圳\n图二🇭🇰 图三🇲🇴 图四珠海唐家湾😋 https://t.co/0xRhXHNn9W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1533,
+        "height": 960,
+        "media_key": "13_2037826701942759424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037826701942759424/img/G5uxW_Z2wm6kvwqB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037826701942759424/vid/avc1/320x426/0-0Pn-yxey5P0fMG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037826701942759424/vid/avc1/480x640/g-_Eve_YN2OtchTf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037826701942759424/vid/avc1/720x960/-E1ay8rLCAbEMLOk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037826701942759424/pl/is9G9g0-LD6TrWYS.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037826701993054208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfQlq4aEAAj2VC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037826701984739329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfQlq2bMAEi95y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037826701980479488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfQlq1aMAAIwVa.jpg",
+        "width": 1745
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037826701942759424",
+            "3_2037826701993054208",
+            "3_2037826701984739329",
+            "3_2037826701980479488"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037826720447779235",
+        "created_at": "2026-03-28T09:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037826720447779235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0xRhXHNn9W",
+              "end": 106,
+              "expanded_url": "https://x.com/sophhhsama/status/2037826720447779235/video/1",
+              "media_key": "13_2037826701942759424",
+              "start": 83,
+              "url": "https://t.co/0xRhXHNn9W"
+            },
+            {
+              "display_url": "pic.x.com/0xRhXHNn9W",
+              "end": 106,
+              "expanded_url": "https://x.com/sophhhsama/status/2037826720447779235/video/1",
+              "media_key": "3_2037826701993054208",
+              "start": 83,
+              "url": "https://t.co/0xRhXHNn9W"
+            },
+            {
+              "display_url": "pic.x.com/0xRhXHNn9W",
+              "end": 106,
+              "expanded_url": "https://x.com/sophhhsama/status/2037826720447779235/video/1",
+              "media_key": "3_2037826701984739329",
+              "start": 83,
+              "url": "https://t.co/0xRhXHNn9W"
+            },
+            {
+              "display_url": "pic.x.com/0xRhXHNn9W",
+              "end": 106,
+              "expanded_url": "https://x.com/sophhhsama/status/2037826720447779235/video/1",
+              "media_key": "3_2037826701980479488",
+              "start": 83,
+              "url": "https://t.co/0xRhXHNn9W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037826720447779235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梦回去年圣诞\n今年要处理的事情有点多\n下一次回去也不知道什么时候了\n可能想去北方走走\n（视频里的声音不是本喵的🙃\n视频一是深圳\n图二🇭🇰 图三🇲🇴 图四珠海唐家湾😋 https://t.co/0xRhXHNn9W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtcat | 小猫/sophie 想到什么发什么 | 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫🍥",
+        "pinned_tweet_id": "2037791863998930973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 234,
+          "like_count": 7280,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1031
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

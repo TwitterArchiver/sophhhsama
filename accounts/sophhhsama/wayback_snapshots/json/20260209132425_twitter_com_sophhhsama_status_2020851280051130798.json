@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2020498079443812737",
+    "created_at": "2026-02-09T13:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T14:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020851280051130798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1652012591961772032",
+          "start": 0,
+          "username": "RealYDT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020851280051130798",
+    "in_reply_to_user_id": "1652012591961772032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020498079443812737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RealYDT 家长滥用权利不平衡\n也不知道这些所谓家长这么恨自己的孩子\n是不是因为他其实很恨自己\n所以要让身边的人都不能好过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2020497965237100545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApAMb9bYAE4x37.jpg",
+        "width": 903
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2020497965237092352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApAMb9bQAA_oBG.jpg",
+        "width": 896
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2020497965245489153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApAMb_bYAEYLNe.jpg",
+        "width": 979
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2020497965241266178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApAMb-a8AIzpl6.jpg",
+        "width": 982
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2020498079443812737",
+        "created_at": "2026-02-09T13:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T14:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020851280051130798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1652012591961772032",
+              "start": 0,
+              "username": "RealYDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020851280051130798",
+        "in_reply_to_user_id": "1652012591961772032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020498079443812737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealYDT 家长滥用权利不平衡\n也不知道这些所谓家长这么恨自己的孩子\n是不是因为他其实很恨自己\n所以要让身边的人都不能好过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020497965237100545",
+            "3_2020497965237092352",
+            "3_2020497965245489153",
+            "3_2020497965241266178"
+          ]
+        },
+        "author_id": "1652012591961772032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020498079443812737",
+        "created_at": "2026-02-08T14:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020498079443812737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhuF3BuOzV",
+              "end": 47,
+              "expanded_url": "https://x.com/RealYDT/status/2020498079443812737/photo/1",
+              "media_key": "3_2020497965237100545",
+              "start": 24,
+              "url": "https://t.co/lhuF3BuOzV"
+            },
+            {
+              "display_url": "pic.x.com/lhuF3BuOzV",
+              "end": 47,
+              "expanded_url": "https://x.com/RealYDT/status/2020498079443812737/photo/1",
+              "media_key": "3_2020497965237092352",
+              "start": 24,
+              "url": "https://t.co/lhuF3BuOzV"
+            },
+            {
+              "display_url": "pic.x.com/lhuF3BuOzV",
+              "end": 47,
+              "expanded_url": "https://x.com/RealYDT/status/2020498079443812737/photo/1",
+              "media_key": "3_2020497965245489153",
+              "start": 24,
+              "url": "https://t.co/lhuF3BuOzV"
+            },
+            {
+              "display_url": "pic.x.com/lhuF3BuOzV",
+              "end": 47,
+              "expanded_url": "https://x.com/RealYDT/status/2020498079443812737/photo/1",
+              "media_key": "3_2020497965241266178",
+              "start": 24,
+              "url": "https://t.co/lhuF3BuOzV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020498079443812737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 255462,
+          "like_count": 902,
+          "quote_count": 26,
+          "reply_count": 219,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "为什么这代孩子心中会压抑着那么多的愤怒、怨恨？ https://t.co/lhuF3BuOzV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2020096493814685890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 48,
+          "like_count": 531,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 73
+        },
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-28T18:11:24.000Z",
+        "description": "我是阿良 善良的良\n推特心灵导师第一人\n男人看了哭 女人看了跳\n道法自然，透过现象看本质",
+        "id": "1652012591961772032",
+        "location": "New York City",
+        "name": "阿良",
+        "pinned_tweet_id": "2013187231801094525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009800244523925504/D03tGv3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9656,
+          "following_count": 1528,
+          "like_count": 14889,
+          "listed_count": 29,
+          "media_count": 266,
+          "tweet_count": 10939
+        },
+        "username": "RealYDT",
+        "verified": true
+      }
+    ]
+  }
+}

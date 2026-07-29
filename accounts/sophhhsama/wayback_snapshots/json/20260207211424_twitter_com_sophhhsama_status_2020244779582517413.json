@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020244770958831616",
+        "3_2020244771101360128"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2020244779582517413",
+    "created_at": "2026-02-07T21:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T22:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020244779582517413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/35gU5c6j0x",
+          "end": 38,
+          "expanded_url": "https://x.com/sophhhsama/status/2020244779582517413/photo/1",
+          "media_key": "3_2020244770958831616",
+          "start": 15,
+          "url": "https://t.co/35gU5c6j0x"
+        },
+        {
+          "display_url": "pic.x.com/35gU5c6j0x",
+          "end": 38,
+          "expanded_url": "https://x.com/sophhhsama/status/2020244779582517413/photo/1",
+          "media_key": "3_2020244771101360128",
+          "start": 15,
+          "url": "https://t.co/35gU5c6j0x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020244779582517413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁说我xm了… 才没有好吧😭 https://t.co/35gU5c6j0x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1471,
+        "media_key": "3_2020244770958831616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAlZ6lxXcAA_-It.jpg",
+        "width": 1179
+      },
+      {
+        "height": 947,
+        "media_key": "3_2020244771101360128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAlZ6mTWQAA1l_A.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020244770958831616",
+            "3_2020244771101360128"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020244779582517413",
+        "created_at": "2026-02-07T21:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T22:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020244779582517413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/35gU5c6j0x",
+              "end": 38,
+              "expanded_url": "https://x.com/sophhhsama/status/2020244779582517413/photo/1",
+              "media_key": "3_2020244770958831616",
+              "start": 15,
+              "url": "https://t.co/35gU5c6j0x"
+            },
+            {
+              "display_url": "pic.x.com/35gU5c6j0x",
+              "end": 38,
+              "expanded_url": "https://x.com/sophhhsama/status/2020244779582517413/photo/1",
+              "media_key": "3_2020244771101360128",
+              "start": 15,
+              "url": "https://t.co/35gU5c6j0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020244779582517413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁说我xm了… 才没有好吧😭 https://t.co/35gU5c6j0x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "aspiring med student, i also like programming, macroeconomics, tokenomics\nZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 42,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 50
+        },
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

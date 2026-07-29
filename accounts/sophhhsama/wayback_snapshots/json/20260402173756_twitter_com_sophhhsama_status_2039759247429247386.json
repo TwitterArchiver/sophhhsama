@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2039759247429247386",
+    "created_at": "2026-04-02T17:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T18:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039759247429247386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0twt012/status…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/0twt012/status/2039713987089383612",
+          "start": 73,
+          "url": "https://t.co/xXgX95t2oe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039759247429247386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039713987089383612",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想在你哭的时候替你擦擦眼泪\n在你身边\n可以靠在我的肩膀上\n也想和你一起开心一起笑\n一起平淡\n啊啊啊啊啊啊啊啊啊\n我就恋爱脑喵\n找人把我拍醒！！！ https://t.co/xXgX95t2oe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2039759247429247386",
+        "created_at": "2026-04-02T17:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T18:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039759247429247386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0twt012/status…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/0twt012/status/2039713987089383612",
+              "start": 73,
+              "url": "https://t.co/xXgX95t2oe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039759247429247386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039713987089383612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想在你哭的时候替你擦擦眼泪\n在你身边\n可以靠在我的肩膀上\n也想和你一起开心一起笑\n一起平淡\n啊啊啊啊啊啊啊啊啊\n我就恋爱脑喵\n找人把我拍醒！！！ https://t.co/xXgX95t2oe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2039713987089383612",
+        "created_at": "2026-04-02T14:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039713987089383612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039713987089383612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1476,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我就算读不透你，我还能看不懂你的眼泪吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtcat | 可以叫我小猫/sophie 想到什么发什么 07 | 大笨蛋 @Cheeseduck111 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 268,
+          "like_count": 8123,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/💬//碎碎念//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//🈲搬运//有些不是文案是我自己写的不要再问我了//里推@lovemore0102只通过🚪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "lovemore0102"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 199,
+          "like_count": 941,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

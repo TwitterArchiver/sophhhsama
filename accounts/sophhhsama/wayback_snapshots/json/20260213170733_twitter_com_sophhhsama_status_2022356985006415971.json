@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2022101626849481151",
+    "created_at": "2026-02-13T17:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T18:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022356985006415971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1378393017615220740",
+          "start": 0,
+          "username": "tnmumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022356985006415971",
+    "in_reply_to_user_id": "1378393017615220740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022101626849481151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tnmumi 并不觉得北欧市区的人有多松弛\n物价高 所有消费都高\n反而住countryside的 算是比较轻松的\n但这毕竟不是大多数人 而且住的偏远的 工资都不怎么样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2022101622868819968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_ytmLWQAAh0Mq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2022101622428442624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_ytkiWoAA0JhT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2022101623170863104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_ytnTXEAAFw7_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2022101624395837440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_ytr3asAAGj_0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2022101626849481151",
+        "created_at": "2026-02-13T17:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T18:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022356985006415971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1378393017615220740",
+              "start": 0,
+              "username": "tnmumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022356985006415971",
+        "in_reply_to_user_id": "1378393017615220740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022101626849481151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tnmumi 并不觉得北欧市区的人有多松弛\n物价高 所有消费都高\n反而住countryside的 算是比较轻松的\n但这毕竟不是大多数人 而且住的偏远的 工资都不怎么样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022101622868819968",
+            "3_2022101622428442624",
+            "3_2022101623170863104",
+            "3_2022101624395837440"
+          ]
+        },
+        "author_id": "1378393017615220740",
+        "conversation_id": "2022101626849481151",
+        "created_at": "2026-02-13T00:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T01:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022101626849481151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hnSlfR04wR",
+              "end": 82,
+              "expanded_url": "https://x.com/tnmumi/status/2022101626849481151/photo/1",
+              "media_key": "3_2022101622868819968",
+              "start": 59,
+              "url": "https://t.co/hnSlfR04wR"
+            },
+            {
+              "display_url": "pic.x.com/hnSlfR04wR",
+              "end": 82,
+              "expanded_url": "https://x.com/tnmumi/status/2022101626849481151/photo/1",
+              "media_key": "3_2022101622428442624",
+              "start": 59,
+              "url": "https://t.co/hnSlfR04wR"
+            },
+            {
+              "display_url": "pic.x.com/hnSlfR04wR",
+              "end": 82,
+              "expanded_url": "https://x.com/tnmumi/status/2022101626849481151/photo/1",
+              "media_key": "3_2022101623170863104",
+              "start": 59,
+              "url": "https://t.co/hnSlfR04wR"
+            },
+            {
+              "display_url": "pic.x.com/hnSlfR04wR",
+              "end": 82,
+              "expanded_url": "https://x.com/tnmumi/status/2022101626849481151/photo/1",
+              "media_key": "3_2022101624395837440",
+              "start": 59,
+              "url": "https://t.co/hnSlfR04wR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022101626849481151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 25163,
+          "like_count": 589,
+          "quote_count": 6,
+          "reply_count": 36,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "北歐真的好漂亮\n遇到的所有人都很客氣 有種鬆弛感\n路上沒有廣告 沒有一堆螢幕 沒人在趕時間\n生在這種地方應該很幸福吧 https://t.co/hnSlfR04wR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 55,
+          "like_count": 743,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 163
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-03T17:04:52.000Z",
+        "description": "",
+        "id": "1378393017615220740",
+        "name": "mumi M.S.",
+        "pinned_tweet_id": "1632837135974957056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907101388322246656/Q5YNTh8Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 64,
+          "like_count": 4459,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 42
+        },
+        "username": "tnmumi",
+        "verified": false
+      }
+    ]
+  }
+}

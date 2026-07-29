@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2055537987090305407",
+    "created_at": "2026-05-16T14:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055651326160224675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1383869795372732423",
+          "start": 0,
+          "username": "ls8w24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055651326160224675",
+    "in_reply_to_user_id": "1383869795372732423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055642608597344586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ls8w24 不过得找时间开证👉🏻👈🏻\n这阵子都走不开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2055537987090305407",
+        "created_at": "2026-05-16T14:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055651326160224675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1383869795372732423",
+              "start": 0,
+              "username": "ls8w24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055651326160224675",
+        "in_reply_to_user_id": "1383869795372732423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055642608597344586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ls8w24 不过得找时间开证👉🏻👈🏻\n这阵子都走不开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383869795372732423",
+        "conversation_id": "2055537987090305407",
+        "created_at": "2026-05-16T13:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055642608597344586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223415775278428160",
+              "start": 0,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055642608597344586",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055537987090305407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophhhsama 还能有这好事啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n💕🌸花花@YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 340,
+          "like_count": 19272,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2737
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-18T19:47:35.000Z",
+        "description": "156 92 小土豆 Mtx⚧？偶尔吐槽 好色",
+        "id": "1383869795372732423",
+        "location": "Hong Kong",
+        "name": "章魚小汍子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054134956809748480/V3We1x2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 1240,
+          "like_count": 6214,
+          "listed_count": 6,
+          "media_count": 26,
+          "tweet_count": 573
+        },
+        "username": "ls8w24",
+        "verified": false
+      }
+    ]
+  }
+}

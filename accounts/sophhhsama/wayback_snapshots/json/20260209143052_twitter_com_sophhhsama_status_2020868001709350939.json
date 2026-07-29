@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020867994226655234"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2020868001709350939",
+    "created_at": "2026-02-09T14:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T15:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020868001709350939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rUoFXlWE67",
+          "end": 38,
+          "expanded_url": "https://x.com/sophhhsama/status/2020868001709350939/photo/1",
+          "media_key": "3_2020867994226655234",
+          "start": 15,
+          "url": "https://t.co/rUoFXlWE67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020868001709350939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有100天就开考公开试了… https://t.co/rUoFXlWE67"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2020867994226655234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuQu9XWAAIM3Kl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020867994226655234"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2020868001709350939",
+        "created_at": "2026-02-09T14:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020868001709350939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rUoFXlWE67",
+              "end": 38,
+              "expanded_url": "https://x.com/sophhhsama/status/2020868001709350939/photo/1",
+              "media_key": "3_2020867994226655234",
+              "start": 15,
+              "url": "https://t.co/rUoFXlWE67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020868001709350939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有100天就开考公开试了… https://t.co/rUoFXlWE67"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2020096493814685890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 49,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 76
+        },
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

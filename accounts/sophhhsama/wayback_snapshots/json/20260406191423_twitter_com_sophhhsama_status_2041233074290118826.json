@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2041233074290118826",
+    "created_at": "2026-04-06T19:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T20:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041233074290118826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999007250829230080",
+          "start": 3,
+          "username": "DDaquaforever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041233074290118826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041225748342833600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDaquaforever: 你太容易自责了，实际上我们都存在在一个复杂多样的世界里，没有人可以做出绝对正确的选择，错误才是常态。别再花时间在后悔错误上了，后悔除了让你感到无穷无尽的自我内耗以外并不能解决任何问题。如果你已经做出了你认为错误的、浪费时间的选择，那就千万别…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2041233074290118826",
+        "created_at": "2026-04-06T19:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T20:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041233074290118826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1999007250829230080",
+              "start": 3,
+              "username": "DDaquaforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041233074290118826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041225748342833600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDaquaforever: 你太容易自责了，实际上我们都存在在一个复杂多样的世界里，没有人可以做出绝对正确的选择，错误才是常态。别再花时间在后悔错误上了，后悔除了让你感到无穷无尽的自我内耗以外并不能解决任何问题。如果你已经做出了你认为错误的、浪费时间的选择，那就千万别…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999007250829230080",
+        "conversation_id": "2041225748342833600",
+        "created_at": "2026-04-06T18:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T19:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041225748342833600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041225748342833600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你太容易自责了，实际上我们都存在在一个复杂多样的世界里，没有人可以做出绝对正确的选择，错误才是常态。别再花时间在后悔错误上了，后悔除了让你感到无穷无尽的自我内耗以外并不能解决任何问题。如果你已经做出了你认为错误的、浪费时间的选择，那就千万别再让未来的自己后悔“为什么当时一直陷于后悔以至于没能做好任何事”上。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你太容易自责了，实际上我们都存在在一个复杂多样的世界里，没有人可以做出绝对正确的选择，错误才是常态。别再花时间在后悔错误上了，后悔除了让你感到无穷无尽的自我内耗以外并不能解决任何问题。如果你已经做出了你认为错误的、浪费时间的选择，那就千万别再让未来的自己后悔“为什么当时一直陷于后"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417784971001856/HVUfHILV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 304,
+          "like_count": 9109,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 1384
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4303,
+          "following_count": 4784,
+          "like_count": 8362,
+          "listed_count": 12,
+          "media_count": 2985,
+          "tweet_count": 13806
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

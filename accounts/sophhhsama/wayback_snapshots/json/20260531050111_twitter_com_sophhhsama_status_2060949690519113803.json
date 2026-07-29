@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2060949690519113803",
+    "created_at": "2026-05-31T05:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060949690519113803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoshino_2333/s…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/yoshino_2333/status/2060841979114856945",
+          "start": 41,
+          "url": "https://t.co/1Sr4Xqfkvr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060949690519113803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060841979114856945",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咩料啊？你们一个个日日在网上讲自己不好看，结果一发照片萌的要死，搞咩啊？？？？？ https://t.co/1Sr4Xqfkvr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 383,
+        "media_key": "3_2060841969363095553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmU2jIakAEaLx7.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2060949690519113803",
+        "created_at": "2026-05-31T05:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060949690519113803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoshino_2333/s…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/yoshino_2333/status/2060841979114856945",
+              "start": 41,
+              "url": "https://t.co/1Sr4Xqfkvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060949690519113803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060841979114856945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咩料啊？你们一个个日日在网上讲自己不好看，结果一发照片萌的要死，搞咩啊？？？？？ https://t.co/1Sr4Xqfkvr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060841969363095553"
+          ]
+        },
+        "author_id": "1319578357395156993",
+        "conversation_id": "2060841979114856945",
+        "created_at": "2026-05-30T21:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T22:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060841979114856945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qlWEzvwo6p",
+              "end": 63,
+              "expanded_url": "https://x.com/yoshino_2333/status/2060841979114856945/photo/1",
+              "media_key": "3_2060841969363095553",
+              "start": 40,
+              "url": "https://t.co/qlWEzvwo6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060841979114856945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4918,
+          "like_count": 85,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "不是？你们一个个天天在网上说自己不好看，结果一发照片萌的要死，搞咩啊？？？？？ https://t.co/qlWEzvwo6p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 434,
+          "like_count": 22406,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 3169
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | AI 拉屎督察官 | Tweets in EN/CN | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2030998636159730141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058124254395400192/V-ESBVRl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 681,
+          "like_count": 17443,
+          "listed_count": 5,
+          "media_count": 689,
+          "tweet_count": 12443
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      }
+    ]
+  }
+}

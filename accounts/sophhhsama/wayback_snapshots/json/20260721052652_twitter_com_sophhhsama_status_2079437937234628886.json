@@ -1,0 +1,566 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2079432709609603469",
+    "created_at": "2026-07-21T05:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079437937234628886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1585145286598483968",
+          "start": 0,
+          "username": "lianyiganyu"
+        },
+        {
+          "end": 24,
+          "id": "1983042229720735744",
+          "start": 13,
+          "username": "mchchc5216"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/huihui_mikumi/…",
+          "end": 48,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2079290777310761096?s=46",
+          "start": 25,
+          "url": "https://t.co/2JgYJuuole"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079437937234628886",
+    "in_reply_to_user_id": "1585145286598483968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079290777310761096",
+        "type": "quoted"
+      },
+      {
+        "id": "2079432709609603469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianyiganyu @mchchc5216 https://t.co/2JgYJuuole\n\n这位…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2079290723917279233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsf5ZfasAEJqhG.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 8342,
+        "height": 1280,
+        "media_key": "13_2079290729386717184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079290729386717184/img/89Q6V6bSCzvF-if9.jpg",
+        "public_metrics": {
+          "view_count": 787
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079290729386717184/vid/avc1/320x568/xrLZuxACV9lK_HCM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079290729386717184/vid/avc1/480x852/nHcES36HQ2w5riPe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079290729386717184/vid/avc1/720x1280/Y4KTd4UUKf9Ju14b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079290729386717184/pl/rzfxnYygLc_6K0Lj.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 10953,
+        "height": 960,
+        "media_key": "13_2079290752514113536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079290752514113536/img/qqphBaLoPaFdHAGu.jpg",
+        "public_metrics": {
+          "view_count": 158
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079290752514113536/vid/avc1/320x564/IDLvPvISQDY3JJ47.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079290752514113536/vid/avc1/480x846/hlRoHRh6m0-eQuxf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079290752514113536/vid/avc1/544x960/mzDbYn9dZ8ayNZUB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079290752514113536/pl/-Wmx74K_Vg9RMH_S.m3u8"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2079290772382486528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsf8OCbEAAUXxy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2079432709609603469",
+        "created_at": "2026-07-21T05:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079437937234628886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1585145286598483968",
+              "start": 0,
+              "username": "lianyiganyu"
+            },
+            {
+              "end": 24,
+              "id": "1983042229720735744",
+              "start": 13,
+              "username": "mchchc5216"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/huihui_mikumi/…",
+              "end": 48,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2079290777310761096?s=46",
+              "start": 25,
+              "url": "https://t.co/2JgYJuuole"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079437937234628886",
+        "in_reply_to_user_id": "1585145286598483968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079290777310761096",
+            "type": "quoted"
+          },
+          {
+            "id": "2079432709609603469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianyiganyu @mchchc5216 https://t.co/2JgYJuuole\n\n这位…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079290723917279233",
+            "13_2079290729386717184",
+            "13_2079290752514113536",
+            "3_2079290772382486528"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2079290777310761096",
+        "created_at": "2026-07-20T19:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079290777310761096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qrkvLCnLjH",
+              "end": 58,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2079290777310761096/video/1",
+              "media_key": "3_2079290723917279233",
+              "start": 35,
+              "url": "https://t.co/qrkvLCnLjH"
+            },
+            {
+              "display_url": "pic.x.com/qrkvLCnLjH",
+              "end": 58,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2079290777310761096/video/1",
+              "media_key": "13_2079290729386717184",
+              "start": 35,
+              "url": "https://t.co/qrkvLCnLjH"
+            },
+            {
+              "display_url": "pic.x.com/qrkvLCnLjH",
+              "end": 58,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2079290777310761096/video/1",
+              "media_key": "13_2079290752514113536",
+              "start": 35,
+              "url": "https://t.co/qrkvLCnLjH"
+            },
+            {
+              "display_url": "pic.x.com/qrkvLCnLjH",
+              "end": 58,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2079290777310761096/video/1",
+              "media_key": "3_2079290772382486528",
+              "start": 35,
+              "url": "https://t.co/qrkvLCnLjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079290777310761096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1603,
+          "like_count": 32,
+          "quote_count": 9,
+          "reply_count": 15,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "已摄入200片地西泮，24小时没回消息帮我发讣告，5倍致死量应该够了 https://t.co/qrkvLCnLjH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585145286598483968",
+        "conversation_id": "2079432709609603469",
+        "created_at": "2026-07-21T05:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079432709609603469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1983042229720735744",
+              "start": 19,
+              "username": "mchchc5216"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Gyoko404/statu…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Gyoko404/status/2079407008894332934",
+              "start": 58,
+              "url": "https://t.co/a1NGqDGnZO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079432709609603469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079407008894332934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有这位相关信息的尽快告诉我，或者联系到@mchchc5216的所有联系方式去沟通这个情况。需要立刻确认当事人的安全 https://t.co/a1NGqDGnZO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 472,
+          "like_count": 27328,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 3546
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "location": "武汉",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1883892557207470495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3967,
+          "following_count": 6,
+          "like_count": 57,
+          "listed_count": 6,
+          "media_count": 38,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T05:25:04.000Z",
+        "description": "MTF l 长在春风里，活在药效里 Ⅱ od Ⅱ 紫餐 Ⅱ 生产日期：2011.3.29 ll 坐标：山东济南 Ⅱ 优香单推人 Ⅱ 互fo Ⅱ 对象：@QY404XYN @walhybz Ⅱ 扩列：1782403568 ✝昇天✝️\n🧀🍖🍗🍔🥩🌭🍟🍣🍤来玩提问箱 ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "QY404XYN"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "walhybz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mchchc5216",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mchchc5216",
+                "start": 0,
+                "url": "https://t.co/mwjWoJrhwH"
+              }
+            ]
+          }
+        },
+        "id": "1983042229720735744",
+        "location": "基沃托斯",
+        "name": "hc5216ˣʸⁿ | 🍥🏳️‍⚧️（💊商）",
+        "pinned_tweet_id": "2054021490711085421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040819899392811008/-46z-zqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 764,
+          "like_count": 2988,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 716
+        },
+        "url": "https://t.co/mwjWoJrhwH",
+        "username": "mchchc5216",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "username": "nagis1a"
+              },
+              {
+                "end": 107,
+                "start": 99,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "mikumi_huihui"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2266,
+          "following_count": 1153,
+          "like_count": 1052,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 2453
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": true
+      }
+    ]
+  }
+}

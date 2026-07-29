@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2024356147428254130",
+    "created_at": "2026-02-19T05:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T06:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024356147428254130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fashionndiary/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/fashionndiary/status/2024125159641157976",
+          "start": 5,
+          "url": "https://t.co/iXo8eBZKYM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024356147428254130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024125159641157976",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美毙了🥹 https://t.co/iXo8eBZKYM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1327,
+        "media_key": "3_2024125146135457793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcjGJxW8AEqD6D.jpg",
+        "width": 1061
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2024356147428254130",
+        "created_at": "2026-02-19T05:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024356147428254130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fashionndiary/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/fashionndiary/status/2024125159641157976",
+              "start": 5,
+              "url": "https://t.co/iXo8eBZKYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024356147428254130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024125159641157976",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美毙了🥹 https://t.co/iXo8eBZKYM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024125146135457793"
+          ]
+        },
+        "author_id": "1357617785476681733",
+        "conversation_id": "2024125159641157976",
+        "created_at": "2026-02-18T14:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024125159641157976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2meuu0gn0",
+              "end": 23,
+              "expanded_url": "https://x.com/fashionndiary/status/2024125159641157976/photo/1",
+              "media_key": "3_2024125146135457793",
+              "start": 0,
+              "url": "https://t.co/F2meuu0gn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024125159641157976",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 42664,
+          "like_count": 3956,
+          "quote_count": 41,
+          "reply_count": 12,
+          "retweet_count": 391
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/F2meuu0gn0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 65,
+          "like_count": 1180,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 271
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-05T09:11:30.000Z",
+        "description": "•Girls’ Diary , Fashion lover.✨",
+        "id": "1357617785476681733",
+        "name": "꧂",
+        "pinned_tweet_id": "2021180418762895657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017994376069218304/j8NpdKA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15669,
+          "following_count": 11,
+          "like_count": 67772,
+          "listed_count": 18,
+          "media_count": 1006,
+          "tweet_count": 11830
+        },
+        "username": "fashionndiary",
+        "verified": true
+      }
+    ]
+  }
+}

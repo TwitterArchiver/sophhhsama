@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2021819869478440960"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2021819927217295680",
+    "created_at": "2026-02-12T05:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T06:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021819927217295680"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sf86uZjVNE",
+          "end": 63,
+          "expanded_url": "https://x.com/sophhhsama/status/2021819927217295680/video/1",
+          "media_key": "13_2021819869478440960",
+          "start": 40,
+          "url": "https://t.co/Sf86uZjVNE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021819927217295680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就爱看百合啊啊啊\n其实旁边同期的人心都要碎了😭\ncredit: 恋爱女子宿舍 https://t.co/Sf86uZjVNE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16663,
+        "height": 648,
+        "media_key": "13_2021819869478440960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021819869478440960/img/Hg4i3nQVNnotS7dz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021819869478440960/vid/avc1/490x270/6dq8HRyJVfIAuhox.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021819869478440960/vid/avc1/654x360/6yZGhotDc9_NLwot.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021819869478440960/vid/avc1/1180x648/CGlkELC4P6-3yID4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021819869478440960/pl/pXqqX-HL4IRUTmhT.m3u8"
+          }
+        ],
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021819869478440960"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2021819927217295680",
+        "created_at": "2026-02-12T05:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T06:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021819927217295680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sf86uZjVNE",
+              "end": 63,
+              "expanded_url": "https://x.com/sophhhsama/status/2021819927217295680/video/1",
+              "media_key": "13_2021819869478440960",
+              "start": 40,
+              "url": "https://t.co/Sf86uZjVNE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021819927217295680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就爱看百合啊啊啊\n其实旁边同期的人心都要碎了😭\ncredit: 恋爱女子宿舍 https://t.co/Sf86uZjVNE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 56,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 126
+        },
+        "username": "sophhhsama",
+        "verified": true
+      }
+    ]
+  }
+}

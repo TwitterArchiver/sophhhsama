@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2045713021109227927",
+    "created_at": "2026-04-19T07:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T08:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045762547022774727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        },
+        {
+          "end": 26,
+          "id": "2030131697212346370",
+          "start": 14,
+          "username": "nekostar114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045762547022774727",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045713021109227927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 @nekostar114 xm呜呜呜"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5360,
+        "height": 1280,
+        "media_key": "7_2045712999948935168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2045712999948935168/pu/img/rPqPd72_m4t96WxD.jpg",
+        "public_metrics": {
+          "view_count": 20
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045712999948935168/pu/vid/avc1/320x710/Avbhx4NbV-u6Jht0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045712999948935168/pu/vid/avc1/480x1066/NlQbxcpnGYiZoUIN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045712999948935168/pu/vid/avc1/576x1280/pcxUYRSI9oBI_0TA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2045712999948935168/pu/pl/08hfVCF0ubnUZGMr.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2045713021109227927",
+        "created_at": "2026-04-19T07:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045762547022774727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            },
+            {
+              "end": 26,
+              "id": "2030131697212346370",
+              "start": 14,
+              "username": "nekostar114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045762547022774727",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045713021109227927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 @nekostar114 xm呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2045712999948935168"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2045713021109227927",
+        "created_at": "2026-04-19T03:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T04:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045713021109227927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QbG0llVZok",
+              "end": 28,
+              "expanded_url": "https://x.com/ashasw114514/status/2045713021109227927/video/1",
+              "media_key": "7_2045712999948935168",
+              "start": 5,
+              "url": "https://t.co/QbG0llVZok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045713021109227927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 858,
+          "like_count": 44,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这样蹭你 https://t.co/QbG0llVZok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 340,
+          "like_count": 12409,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 1849
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "性少数友好  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  查成分互fo🚪52",
+        "id": "1981638054688501760",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2033963961281085452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 1734,
+          "like_count": 5184,
+          "listed_count": 5,
+          "media_count": 316,
+          "tweet_count": 3059
+        },
+        "username": "ashasw114514",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T04:01:39.000Z",
+        "description": "男娘/已成年/🚪52/喜欢玩galgame/坐标福建/可以线下哦/互推咪",
+        "id": "2030131697212346370",
+        "name": "nekostar（互推",
+        "pinned_tweet_id": "2044792377467187482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030131798064386051/LzhzxGAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 189,
+          "like_count": 2571,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 627
+        },
+        "username": "nekostar114",
+        "verified": true
+      }
+    ]
+  }
+}

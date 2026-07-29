@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2067593395779076338",
+    "created_at": "2026-06-18T15:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067635392132641047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1821023575631130625",
+          "start": 0,
+          "username": "RainingTown_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067635392132641047",
+    "in_reply_to_user_id": "1821023575631130625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067593395779076338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainingTown_ 抱抱抱抱抱抱抱抱抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2067593370797793280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGRN1Za4AAlgKR.jpg",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2067593395779076338",
+        "created_at": "2026-06-18T15:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067635392132641047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1821023575631130625",
+              "start": 0,
+              "username": "RainingTown_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067635392132641047",
+        "in_reply_to_user_id": "1821023575631130625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067593395779076338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainingTown_ 抱抱抱抱抱抱抱抱抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067593370797793280"
+          ]
+        },
+        "author_id": "1821023575631130625",
+        "conversation_id": "2067593395779076338",
+        "created_at": "2026-06-18T13:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067593395779076338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DIex8OqTFP",
+              "end": 26,
+              "expanded_url": "https://x.com/RainingTown_/status/2067593395779076338/photo/1",
+              "media_key": "3_2067593370797793280",
+              "start": 3,
+              "url": "https://t.co/DIex8OqTFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067593395779076338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活了 https://t.co/DIex8OqTFP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 466,
+          "like_count": 25002,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 3391
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-07T03:20:41.000Z",
+        "description": "二代目哦 | 常驻山东济南欢迎贴贴 | 🏳️‍⚧️🍥 | 含糖| 似乎是家长党 | NixOS用户 | Rust新手 | HRTv2 2025.10.4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/broken_cloud",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/broken_cloud",
+                "start": 0,
+                "url": "https://t.co/mFKbzLwrcm"
+              }
+            ]
+          }
+        },
+        "id": "1821023575631130625",
+        "name": "残云 - 二代目",
+        "pinned_tweet_id": "1891761143716126833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891753740581077000/6gs66WLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 1489,
+          "like_count": 4028,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/mFKbzLwrcm",
+        "username": "RainingTown_",
+        "verified": false
+      }
+    ]
+  }
+}

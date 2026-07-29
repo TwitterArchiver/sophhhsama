@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2053150369136452027",
+    "created_at": "2026-05-09T16:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053150369136452027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/necoqwmg/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/necoqwmg/status/2053064628108935531",
+          "start": 9,
+          "url": "https://t.co/ze6k7qDWb1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053150369136452027",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053064628108935531",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ドレスきれいだね https://t.co/ze6k7qDWb1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053064614213222400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3zY5cagAA1icW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2053150369136452027",
+        "created_at": "2026-05-09T16:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053150369136452027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/necoqwmg/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/necoqwmg/status/2053064628108935531",
+              "start": 9,
+              "url": "https://t.co/ze6k7qDWb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053150369136452027",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053064628108935531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ドレスきれいだね https://t.co/ze6k7qDWb1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053064614213222400"
+          ]
+        },
+        "author_id": "1933340162521772032",
+        "conversation_id": "2053064628108935531",
+        "created_at": "2026-05-09T10:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053064628108935531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wPLBtfFQrd",
+              "end": 44,
+              "expanded_url": "https://x.com/necoqwmg/status/2053064628108935531/photo/1",
+              "media_key": "3_2053064614213222400",
+              "start": 21,
+              "url": "https://t.co/wPLBtfFQrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053064628108935531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1158,
+          "like_count": 88,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人生がどうでも良くなったんだよなあああ！ https://t.co/wPLBtfFQrd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n好姐姐 @tingxinzhongyu 好朋友萌 @slclst @Cheeseduck111 @djzi237149 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 83,
+                "start": 76,
+                "username": "slclst"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "djzi237149"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 338,
+          "like_count": 18236,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 2580
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T01:46:55.000Z",
+        "description": "まふまふで延命治療",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/cmk54uts822f9f…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/cmk54uts822f9fs?t=uvnzi6&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/WgIBtuvVRE"
+              }
+            ]
+          }
+        },
+        "id": "1933340162521772032",
+        "name": "もえち",
+        "pinned_tweet_id": "2046160726759452901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049720960945967104/0h_ekqEK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 113,
+          "like_count": 18257,
+          "listed_count": 3,
+          "media_count": 361,
+          "tweet_count": 3499
+        },
+        "url": "https://t.co/WgIBtuvVRE",
+        "username": "necoqwmg",
+        "verified": false
+      }
+    ]
+  }
+}

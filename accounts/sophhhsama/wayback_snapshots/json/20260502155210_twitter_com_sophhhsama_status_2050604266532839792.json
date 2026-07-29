@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2050604206550114692",
+    "created_at": "2026-05-02T15:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050604266532839792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yun_y1ho86/sta…",
+          "end": 23,
+          "expanded_url": "https://x.com/yun_y1ho86/status/2050586279092641838?s=46",
+          "start": 0,
+          "url": "https://t.co/yrRdjlb7wu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050604266532839792",
+    "in_reply_to_user_id": "1223415775278428160",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050586279092641838",
+        "type": "quoted"
+      },
+      {
+        "id": "2050604206550114692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/yrRdjlb7wu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2050604206550114692",
+        "created_at": "2026-05-02T15:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050604266532839792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yun_y1ho86/sta…",
+              "end": 23,
+              "expanded_url": "https://x.com/yun_y1ho86/status/2050586279092641838?s=46",
+              "start": 0,
+              "url": "https://t.co/yrRdjlb7wu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050604266532839792",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050586279092641838",
+            "type": "quoted"
+          },
+          {
+            "id": "2050604206550114692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/yrRdjlb7wu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2050586279092641838",
+        "created_at": "2026-05-02T14:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050586279092641838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1942368986051796992",
+              "start": 8,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050586279092641838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 361,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n本人朋友@CunZai1069于5.2由警方发现自杀去世。\n他是个极其善良的人，燃尽了自己，只为照亮别人，却不顾自己落入深渊。\n愿他在另一个世界不再遭受苦难，愿他播撒的善良之种都开出最绚丽的花。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2050604206550114692",
+        "created_at": "2026-05-02T15:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050604206550114692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cunzai1069/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/cunzai1069/status/2050138736168685930",
+              "start": 5,
+              "url": "https://t.co/UpBsF0OKDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050604206550114692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050138736168685930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晚安存存 https://t.co/UpBsF0OKDk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 388,
+          "like_count": 16062,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 2320
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 39,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2025618778474631407",
+    "created_at": "2026-02-22T17:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T18:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025618778474631407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1548826131927044097",
+          "start": 3,
+          "username": "YukikuYumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025618778474631407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025611724259463563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YukikuYumi: 我不喜欢自己男不男女不女的…\n真没办法啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2025618778474631407",
+        "created_at": "2026-02-22T17:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T18:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025618778474631407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1548826131927044097",
+              "start": 3,
+              "username": "YukikuYumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025618778474631407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025611724259463563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YukikuYumi: 我不喜欢自己男不男女不女的…\n真没办法啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548826131927044097",
+        "conversation_id": "2025611724259463563",
+        "created_at": "2026-02-22T16:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025611724259463563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025611724259463563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不喜欢自己男不男女不女的…\n真没办法啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. spam account. 18, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 86,
+          "like_count": 1634,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 336
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-18T00:25:11.000Z",
+        "description": "01处女座🏳️‍⚧️｜176/65｜2024.08.18🍬｜le｜丹麦留子｜碎碎念：@YukikuYomi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "YukikuYomi"
+              }
+            ]
+          }
+        },
+        "id": "1548826131927044097",
+        "name": "清羽梦泠.zip",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844385529502003209/wypDnx8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5606,
+          "following_count": 500,
+          "like_count": 2349,
+          "listed_count": 26,
+          "media_count": 206,
+          "tweet_count": 1265
+        },
+        "username": "YukikuYumi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2025135401871036570",
+    "created_at": "2026-02-21T09:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T10:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025135401871036570"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/worldclick56/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/worldclick56/status/2024900020118716698",
+          "start": 3,
+          "url": "https://t.co/eeoOWTqrpI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025135401871036570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024900020118716698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "梦幻 https://t.co/eeoOWTqrpI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2024900009939140613",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnj1KYbgAUElGI.jpg",
+        "width": 736
+      },
+      {
+        "height": 981,
+        "media_key": "3_2024900010178215937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnj1LRbgAE8491.jpg",
+        "width": 736
+      },
+      {
+        "height": 981,
+        "media_key": "3_2024900010220158977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnj1LbbgAEN4DD.jpg",
+        "width": 736
+      },
+      {
+        "height": 960,
+        "media_key": "3_2024900010064875520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnj1K2aEAAPTvm.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2025135401871036570",
+        "created_at": "2026-02-21T09:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T10:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025135401871036570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/worldclick56/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/worldclick56/status/2024900020118716698",
+              "start": 3,
+              "url": "https://t.co/eeoOWTqrpI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025135401871036570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024900020118716698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梦幻 https://t.co/eeoOWTqrpI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024900009939140613",
+            "3_2024900010178215937",
+            "3_2024900010220158977",
+            "3_2024900010064875520"
+          ]
+        },
+        "author_id": "1815052833357508608",
+        "conversation_id": "2024900020118716698",
+        "created_at": "2026-02-20T17:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024900020118716698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NIzcNfG1Og",
+              "end": 23,
+              "expanded_url": "https://x.com/worldclick56/status/2024900020118716698/photo/1",
+              "media_key": "3_2024900009939140613",
+              "start": 0,
+              "url": "https://t.co/NIzcNfG1Og"
+            },
+            {
+              "display_url": "pic.x.com/NIzcNfG1Og",
+              "end": 23,
+              "expanded_url": "https://x.com/worldclick56/status/2024900020118716698/photo/1",
+              "media_key": "3_2024900010178215937",
+              "start": 0,
+              "url": "https://t.co/NIzcNfG1Og"
+            },
+            {
+              "display_url": "pic.x.com/NIzcNfG1Og",
+              "end": 23,
+              "expanded_url": "https://x.com/worldclick56/status/2024900020118716698/photo/1",
+              "media_key": "3_2024900010220158977",
+              "start": 0,
+              "url": "https://t.co/NIzcNfG1Og"
+            },
+            {
+              "display_url": "pic.x.com/NIzcNfG1Og",
+              "end": 23,
+              "expanded_url": "https://x.com/worldclick56/status/2024900020118716698/photo/1",
+              "media_key": "3_2024900010064875520",
+              "start": 0,
+              "url": "https://t.co/NIzcNfG1Og"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024900020118716698",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 11941,
+          "like_count": 896,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NIzcNfG1Og"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. spam account. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 70,
+          "like_count": 1418,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 306
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-21T15:55:11.000Z",
+        "description": "Colours are the smiles of nature ✨🌍",
+        "id": "1815052833357508608",
+        "name": "Purely Green",
+        "pinned_tweet_id": "2024412856092152031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019772609643319296/diOSgZWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11840,
+          "following_count": 5876,
+          "like_count": 29481,
+          "listed_count": 36,
+          "media_count": 5907,
+          "tweet_count": 6443
+        },
+        "username": "worldclick56",
+        "verified": false
+      }
+    ]
+  }
+}

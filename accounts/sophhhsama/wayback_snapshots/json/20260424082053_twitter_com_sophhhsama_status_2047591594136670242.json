@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047591590143623168"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2047591594136670242",
+    "created_at": "2026-04-24T08:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047591594136670242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HAla6yjKJ7",
+          "end": 34,
+          "expanded_url": "https://x.com/sophhhsama/status/2047591594136670242/photo/1",
+          "media_key": "3_2047591590143623168",
+          "start": 11,
+          "url": "https://t.co/HAla6yjKJ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047591594136670242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已严肃购买抗焦虑药物 https://t.co/HAla6yjKJ7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 604,
+        "media_key": "3_2047591590143623168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqBs9-WgAAoMCL.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047591590143623168"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2047591594136670242",
+        "created_at": "2026-04-24T08:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047591594136670242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HAla6yjKJ7",
+              "end": 34,
+              "expanded_url": "https://x.com/sophhhsama/status/2047591594136670242/photo/1",
+              "media_key": "3_2047591590143623168",
+              "start": 11,
+              "url": "https://t.co/HAla6yjKJ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047591594136670242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃购买抗焦虑药物 https://t.co/HAla6yjKJ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/修猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 362,
+          "like_count": 13601,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 2023
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

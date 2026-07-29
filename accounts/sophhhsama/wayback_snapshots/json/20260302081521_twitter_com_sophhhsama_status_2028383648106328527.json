@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2028383648106328527",
+    "created_at": "2026-03-02T08:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T09:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028383648106328527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wxb_nb/status/…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/wxb_nb/status/2028356914359509201",
+          "start": 90,
+          "url": "https://t.co/9FO0Vb7Mdu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028383648106328527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028356914359509201",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你说话带喵?好可爱喵!好可爱喵!好可爱喵!我喜欢你喵!我喜欢你喵!我喜欢你喵!结婚喵!做我老婆喵!你脸怎么红红的喵? 你说话好可爱喵!牵手手喵!结婚婚喵!一起恩恩爱爱白头偕老喵！ https://t.co/9FO0Vb7Mdu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2028383648106328527",
+        "created_at": "2026-03-02T08:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028383648106328527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wxb_nb/status/…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/wxb_nb/status/2028356914359509201",
+              "start": 90,
+              "url": "https://t.co/9FO0Vb7Mdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028383648106328527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028356914359509201",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你说话带喵?好可爱喵!好可爱喵!好可爱喵!我喜欢你喵!我喜欢你喵!我喜欢你喵!结婚喵!做我老婆喵!你脸怎么红红的喵? 你说话好可爱喵!牵手手喵!结婚婚喵!一起恩恩爱爱白头偕老喵！ https://t.co/9FO0Vb7Mdu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900168705847500800",
+        "conversation_id": "2028356914359509201",
+        "created_at": "2026-03-02T06:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028356914359509201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028356914359509201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 456,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说话带喵?好可爱喵!好可爱喵!好可爱喵!我喜欢你喵!我喜欢你喵!我喜欢你喵!结婚喵!做我老婆喵!你脸怎么红红的喵? 你说话好可爱喵!牵手手喵!结婚婚喵!一起恩恩爱爱白头偕老喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | Aspiring med student. spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028253766047166464/6nF3n9OY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 116,
+          "like_count": 2395,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 435
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 请私信，看成分回\n16岁高中小废柴 / 泛性恋 / 上课听不懂 / 我的世界里才是家\n成分：互联网泔水爱好者 + 破防速通王 + 编程只会hello world循环\n作业写不完 / 梗图收不停\n评论分身 @wangxbNB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 106,
+                "username": "wangxbNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.awacat.cc",
+                "end": 23,
+                "expanded_url": "http://about.awacat.cc",
+                "start": 0,
+                "url": "https://t.co/CVlYXKXGJI"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "location": "我喜欢你，请和我生小草莓！",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 380,
+          "like_count": 4263,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 662
+        },
+        "url": "https://t.co/CVlYXKXGJI",
+        "username": "wxb_NB",
+        "verified": true
+      }
+    ]
+  }
+}

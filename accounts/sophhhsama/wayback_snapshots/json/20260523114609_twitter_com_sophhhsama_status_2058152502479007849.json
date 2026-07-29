@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2058128761191874994",
+    "created_at": "2026-05-23T11:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058152502479007849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735852940609605632",
+          "start": 0,
+          "username": "xynDreamrain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058152502479007849",
+    "in_reply_to_user_id": "1735852940609605632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058128761191874994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynDreamrain 揉揉揉🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1858,
+        "media_key": "3_2058128759115677696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_xM7UbAAA9mex.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2058128761191874994",
+        "created_at": "2026-05-23T11:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058152502479007849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735852940609605632",
+              "start": 0,
+              "username": "xynDreamrain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058152502479007849",
+        "in_reply_to_user_id": "1735852940609605632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058128761191874994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynDreamrain 揉揉揉🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058128759115677696"
+          ]
+        },
+        "author_id": "1735852940609605632",
+        "conversation_id": "2058128761191874994",
+        "created_at": "2026-05-23T10:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058128761191874994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ARgvAXlsj",
+              "end": 47,
+              "expanded_url": "https://x.com/xynDreamrain/status/2058128761191874994/photo/1",
+              "media_key": "3_2058128759115677696",
+              "start": 24,
+              "url": "https://t.co/0ARgvAXlsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058128761191874994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仿佛3000粉 还是在昨日\n寻回落单粉丝qwq https://t.co/0ARgvAXlsj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 363,
+          "like_count": 21171,
+          "listed_count": 2,
+          "media_count": 356,
+          "tweet_count": 2932
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-16T02:43:13.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.10｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜暂不圆角｜无政治立场｜努力rle中｜最好的老婆@whalexxs｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Tg6C3pMB5U1kN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Tg6C3pMB5U1kNGM1",
+                "start": 0,
+                "url": "https://t.co/qx3R9rxrVB"
+              }
+            ]
+          }
+        },
+        "id": "1735852940609605632",
+        "name": "雨檬&梦雨🍥🏳️‍⚧️三代目（兼职糖果商人）",
+        "pinned_tweet_id": "2058042858469540261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056413457612984320/H7I20pss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 75,
+          "like_count": 1705,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/qx3R9rxrVB",
+        "username": "xynDreamrain",
+        "verified": false
+      }
+    ]
+  }
+}

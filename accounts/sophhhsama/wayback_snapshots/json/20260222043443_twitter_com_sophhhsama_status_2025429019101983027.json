@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2025429019101983027",
+    "created_at": "2026-02-22T04:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025429019101983027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ybbyy19/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/ybbyy19/status/2025178597959631217",
+          "start": 9,
+          "url": "https://t.co/lK33Ez5PFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025429019101983027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025178597959631217",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我严格遵守！！！ https://t.co/lK33Ez5PFi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2025429019101983027",
+        "created_at": "2026-02-22T04:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025429019101983027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ybbyy19/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ybbyy19/status/2025178597959631217",
+              "start": 9,
+              "url": "https://t.co/lK33Ez5PFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025429019101983027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025178597959631217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我严格遵守！！！ https://t.co/lK33Ez5PFi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860730309559623680",
+        "conversation_id": "2025178597959631217",
+        "created_at": "2026-02-21T11:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025178597959631217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025178597959631217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 15434,
+          "like_count": 508,
+          "quote_count": 3,
+          "reply_count": 24,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "从今天开始军事化管理自己，上校鸡块，蜜雪兵城，老兵烧烤，手枪腿，部队火锅，麦当牢，兵工厂，兵红茶，兵淇淋，弹塔， 一个都不能少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. spam account. 18, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 80,
+          "like_count": 1524,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 321
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-24T17:01:00.000Z",
+        "description": "暂时不好色了，低素质选手。不是🚪没有🚪，我爱回谁回谁|近期厌人随缘回复",
+        "id": "1860730309559623680",
+        "name": "海盐芝士薯片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022412239224082433/EFDouAnc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 227,
+          "like_count": 14666,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 324
+        },
+        "username": "ybbyy19",
+        "verified": false
+      }
+    ]
+  }
+}

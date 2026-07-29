@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2031617165745598686",
+    "created_at": "2026-03-11T08:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T09:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031643075122999503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444716723978981380",
+          "start": 0,
+          "username": "EleanorAnatidae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031643075122999503",
+    "in_reply_to_user_id": "1444716723978981380",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031617165745598686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EleanorAnatidae 抱抱雪雁姐姐\n真的 辛苦了\n妳很厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031617155415015424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHBCfQaAAAiVyw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 924,
+        "media_key": "3_2031617155398250498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHBCfMaMAIeELx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2031617165745598686",
+        "created_at": "2026-03-11T08:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T09:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031643075122999503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444716723978981380",
+              "start": 0,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031643075122999503",
+        "in_reply_to_user_id": "1444716723978981380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031617165745598686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EleanorAnatidae 抱抱雪雁姐姐\n真的 辛苦了\n妳很厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031617155415015424",
+            "3_2031617155398250498"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "2031617165745598686",
+        "created_at": "2026-03-11T06:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T07:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031617165745598686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zgm2Ykwyco",
+              "end": 101,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2031617165745598686/photo/1",
+              "media_key": "3_2031617155415015424",
+              "start": 78,
+              "url": "https://t.co/zgm2Ykwyco"
+            },
+            {
+              "display_url": "pic.x.com/zgm2Ykwyco",
+              "end": 101,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2031617165745598686/photo/1",
+              "media_key": "3_2031617155398250498",
+              "start": 78,
+              "url": "https://t.co/zgm2Ykwyco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031617165745598686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近真的心力交瘁…\n连续咳嗽了快一个月了，半夜咳得睡不着，吃药也不管用，今天去医院看了一下。\n医生超级温柔的，以及，所幸不是肺炎。开了一些更强效的药回来。\n心情也很难过…生活总是在刚刚有一点起色的时候，就又被打回谷底。大学时期攒下的手术钱，因为躁狂而挥霍一空；因为躁期把以前的关系弄得一团糟；因为头发被剪而抑郁，一蹶不振，半年都像是灵魂被抽走一样，只要闲下来就沉默的流泪\n本来已经约好了手术，但是同事看我因为抑郁导致的安静、沉默，觉得我好欺负，仗者自己资历老对我颐指气使，有一天她动手打我，以为自己是顺女，我不敢还手，结果我把她暴打了一顿\n唉，然后又是一片狼藉，她虽然先动手，但是“挨打的受害者”，我则是“男人打女人”……\n我的精神病也暴露了，因为疾病，我是免于其他麻烦（她连轻微伤都算不上），可是我被辞退了…我家长陪我去安定医院，然后把我接回家…\n怎么就这么难，为什么生活总是要在我刚刚有希望的时候就把它浇灭？\n我现在甚至不如三年前好看，长期大量的精神药物让我很肥胖；而持久的抑郁让我眼神空洞、悲哀、丑陋；几次意外让我把攒的手术钱挥霍一空；而我跨性别的身份让我的家庭也蒙上阴影…看到过我妈妈背着我在哭，真的很心碎；也想过杀死自己的灵魂，八年前一次，五年前一次，去年一次，然而每一次都换来的是更深重的抑郁；努力戒掉了酗酒和自残，但是内心的痛苦无处发泄；我千百次的向上帝祷告，祈求自己可以变成完全的真正的女孩；可是后天的努力真的有用吗？我只觉得我是一个丑陋的怪物而已…\n…到现在ptsd还是很严重，以前被性侵和殴打的经历到现在也挥之不去，很容易应激…当然我当初是报复了侵犯我的人，把他打进了医院，可是…过去的事情还是没办法弥补呀…我总觉得我很脏，很下贱，很恶心…没办法控制这种想法…\n接下来能怎么办呢？我这个有双相的、有ptsd的、难看的、被玷污过的人妖，我肮脏又卑贱，我真的发自内心的憎恨自己…真的很想做变性手术，真的很想，可是连自己赚钱去做都做不到…\n这次和同事的冲突，我差点把对方活活掐死，因为她挑衅我，“难道你敢弄死我吗？”，于是我就照办了，我残破不堪的人生本来就已经很绝望了，我不介意借用法律的手来杀死自己。很可笑吧，当我真的这样做了，平时傲慢而狂妄的一个人，那时的眼里却只有恐惧和后悔。然而最后我还是收手了，想起了鹿鹿，想起了妈妈，我自己的人生虽然毫无意义，可是她们却会因此心碎呀。\n如果我不是跨性别，我的生活本来会像家长规划的一样，平淡而幸福的，读书，工作，结婚，生孩子；而我现在呢？千疮百孔，面目全非…我小时候总拿班级第一，是亲戚朋友中“夸耀的对象、别人家的小孩”，可是现在我甚至不敢见以前认识的人，因为我尝试过出柜，却被某些人用看怪物的眼神扫视…\n其实我是幸运的，我参与了很多对贫困孩子的帮扶，给她们买很多东西，他们的生活条件比我小时候糟糕的多，留守儿童、残障、家暴或者赌博的家长…也许我太贪心了，我该满足的。我只是生错了性别，却有一个幸福的童年呀。\n可我仍然说服不了自己的。我总是抑郁，我总是会不知不觉的哭出来，无声的流泪。我没办法控制我的痛苦。我甚至没办法吃很多抗抑郁药，因为这会诱发我的躁狂和混合发作，那简直是灾难。好痛苦、好痛苦、好痛苦。\n我到底做错了什么呢？我是犯了什么罪，才给我加上了大脑和身体的错配，而且是永远无法改变的性别认知，和永远不会pass的身体。还有两个附骨之蛆般阴魂不散的精神病，双相，ptsd。我像是一个被终身监禁或者流放的犯人一样。\n我没得选…我不想是跨性别，我只想让自己不那么痛苦…\n好难过。\n我该怎么办？谁来救救我…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 737,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近真的心力交瘁…\n连续咳嗽了快一个月了，半夜咳得睡不着，吃药也不管用，今天去医院看了一下。\n医生超级温柔的，以及，所幸不是肺炎。开了一些更强效的药回来。 https://t.co/zgm2Ykwyco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | 是sophie吖 | spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 95,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhh小猫🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028253766047166464/6nF3n9OY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 182,
+          "like_count": 4598,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl /Liberté Égalité Fraternité",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "2031191704540426629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3743,
+          "following_count": 2037,
+          "like_count": 26523,
+          "listed_count": 10,
+          "media_count": 142,
+          "tweet_count": 6627
+        },
+        "url": "https://t.co/pE8yXcPFC7",
+        "username": "EleanorAnatidae",
+        "verified": false
+      }
+    ]
+  }
+}

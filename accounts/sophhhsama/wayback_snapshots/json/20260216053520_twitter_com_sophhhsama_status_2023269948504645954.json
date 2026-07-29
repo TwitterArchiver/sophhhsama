@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023269944390021120"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2023252703774974310",
+    "created_at": "2026-02-16T05:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T06:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023269948504645954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1819559557867491331",
+          "start": 0,
+          "username": "LMQwQ_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0vKyuPOJrk",
+          "end": 40,
+          "expanded_url": "https://x.com/sophhhsama/status/2023269948504645954/photo/1",
+          "media_key": "3_2023269944390021120",
+          "start": 17,
+          "url": "https://t.co/0vKyuPOJrk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023269948504645954",
+    "in_reply_to_user_id": "1819559557867491331",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023252703774974310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LMQwQ_ 喵：不要啊啊啊啊 https://t.co/0vKyuPOJrk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1190,
+        "media_key": "3_2023269944390021120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQZS3AXcAACvia.jpg",
+        "width": 1179
+      },
+      {
+        "duration_ms": 3538,
+        "height": 1280,
+        "media_key": "13_2023252632861814784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023252632861814784/img/9Wa-httlobjpT7Fu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023252632861814784/vid/avc1/320x694/LgADrjrTYl-ieZfi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023252632861814784/vid/avc1/480x1040/0LV9dShUQBXPEva8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023252632861814784/vid/avc1/590x1280/sL-7EG9vOwRPWdZj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023252632861814784/pl/crRcKAH_JV8acwE3.m3u8"
+          }
+        ],
+        "width": 590
+      },
+      {
+        "duration_ms": 16498,
+        "height": 1280,
+        "media_key": "13_2023252632853479424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023252632853479424/img/pZlf3NeeryqPFXfU.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023252632853479424/vid/avc1/320x568/kza6y16n9G-mbw98.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023252632853479424/vid/avc1/480x852/F0dFJcZD5_rqy_h8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023252632853479424/vid/avc1/720x1280/Fh__W_vEUoF9neTo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023252632853479424/pl/eyHYjmFytYbO98kh.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 9300,
+        "height": 1280,
+        "media_key": "13_2023252632849305601",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023252632849305601/img/b3Oi2pMaPJZ-1LNr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023252632849305601/vid/avc1/320x568/VR9WVRXFFq7cp7GR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023252632849305601/vid/avc1/480x852/4cVk83kK5e-MYsig.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023252632849305601/vid/avc1/720x1280/FGQUl0CPSQCyXXCQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023252632849305601/pl/K645GeyzFbOPQyWT.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023252632991928321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQJjNBbkAErU-4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023269944390021120"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2023252703774974310",
+        "created_at": "2026-02-16T05:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023269948504645954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1819559557867491331",
+              "start": 0,
+              "username": "LMQwQ_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0vKyuPOJrk",
+              "end": 40,
+              "expanded_url": "https://x.com/sophhhsama/status/2023269948504645954/photo/1",
+              "media_key": "3_2023269944390021120",
+              "start": 17,
+              "url": "https://t.co/0vKyuPOJrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023269948504645954",
+        "in_reply_to_user_id": "1819559557867491331",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023252703774974310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMQwQ_ 喵：不要啊啊啊啊 https://t.co/0vKyuPOJrk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023252632861814784",
+            "13_2023252632853479424",
+            "13_2023252632849305601",
+            "3_2023252632991928321"
+          ]
+        },
+        "author_id": "1819559557867491331",
+        "conversation_id": "2023252703774974310",
+        "created_at": "2026-02-16T04:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023252703774974310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6eYACtdjju",
+              "end": 29,
+              "expanded_url": "https://x.com/LMQwQ_/status/2023252703774974310/video/1",
+              "media_key": "13_2023252632861814784",
+              "start": 6,
+              "url": "https://t.co/6eYACtdjju"
+            },
+            {
+              "display_url": "pic.x.com/6eYACtdjju",
+              "end": 29,
+              "expanded_url": "https://x.com/LMQwQ_/status/2023252703774974310/video/1",
+              "media_key": "13_2023252632853479424",
+              "start": 6,
+              "url": "https://t.co/6eYACtdjju"
+            },
+            {
+              "display_url": "pic.x.com/6eYACtdjju",
+              "end": 29,
+              "expanded_url": "https://x.com/LMQwQ_/status/2023252703774974310/video/1",
+              "media_key": "13_2023252632849305601",
+              "start": 6,
+              "url": "https://t.co/6eYACtdjju"
+            },
+            {
+              "display_url": "pic.x.com/6eYACtdjju",
+              "end": 29,
+              "expanded_url": "https://x.com/LMQwQ_/status/2023252703774974310/video/1",
+              "media_key": "3_2023252632991928321",
+              "start": 6,
+              "url": "https://t.co/6eYACtdjju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023252703774974310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家有蠢猫） https://t.co/6eYACtdjju"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 62,
+          "like_count": 900,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 210
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-03T02:23:11.000Z",
+        "description": "🚪20 17岁 出厂日期2008.12.18 HRT：2024.2.15 ISFP 已出柜 精神状态不稳定 想获得更多关注 同类互fo 想成为圆角高手（bushi）",
+        "id": "1819559557867491331",
+        "name": "蕾姆酱QWQ🍥",
+        "pinned_tweet_id": "2022547553242484810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959136368807845888/TZ_yKuGw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 197,
+          "like_count": 838,
+          "listed_count": 4,
+          "media_count": 32,
+          "tweet_count": 342
+        },
+        "username": "LMQwQ_",
+        "verified": false
+      }
+    ]
+  }
+}

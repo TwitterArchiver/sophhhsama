@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2060596670384288252",
+    "created_at": "2026-05-30T09:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060655482696609856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1682058673038954496",
+          "start": 0,
+          "username": "Crypto77qi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060655482696609856",
+    "in_reply_to_user_id": "1682058673038954496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060596670384288252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Crypto77qi 互关一下哦～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1308,
+        "media_key": "3_2060596664055070720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJi1v5pbgAAU4LT.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2060596670384288252",
+        "created_at": "2026-05-30T09:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060655482696609856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1682058673038954496",
+              "start": 0,
+              "username": "Crypto77qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060655482696609856",
+        "in_reply_to_user_id": "1682058673038954496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060596670384288252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Crypto77qi 互关一下哦～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060596664055070720"
+          ]
+        },
+        "author_id": "1682058673038954496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2060596670384288252",
+        "created_at": "2026-05-30T05:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060596670384288252"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EUFTXMJu07",
+              "end": 104,
+              "expanded_url": "https://x.com/Crypto77qi/status/2060596670384288252/photo/1",
+              "media_key": "3_2060596664055070720",
+              "start": 81,
+              "url": "https://t.co/EUFTXMJu07"
+            },
+            {
+              "display_url": "x.com/crypto77qi/sta…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/crypto77qi/status/2060242249263513743",
+              "start": 105,
+              "url": "https://t.co/V2VTq0gb36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060596670384288252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1783,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060242249263513743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兄弟今天继续 #蓝v互关 \n\n诚信互关，绝不取关\n\n今天进去看了还是被暂停创作者收益😭\n\n申诉好久了，也没个信\n\n想起个小号重新做内容吃马斯克工资，有没有建议的 https://t.co/EUFTXMJu07 https://t.co/V2VTq0gb36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 401,
+          "like_count": 22204,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 3127
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-20T16:03:43.000Z",
+        "description": "最活跃的华语加密社区—77集团\n\nWEEX全球大使｜ Hotcoin大使～超高返佣链接🔗：https://t.co/Lb6YUfWWnX\n\n在X上日常分享一线行业资讯、实战经验与赛道深度看法，抱团交流，同行致远。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hotcoin.com/register?icCod…",
+                "end": 68,
+                "expanded_url": "https://www.hotcoin.com/register?icCode=k609cc25&hotcoinid=",
+                "start": 45,
+                "url": "https://t.co/Lb6YUfWWnX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Crypto77qi.com",
+                "end": 23,
+                "expanded_url": "http://www.Crypto77qi.com",
+                "start": 0,
+                "url": "https://t.co/gJABjMSw59"
+              }
+            ]
+          }
+        },
+        "id": "1682058673038954496",
+        "location": "九龍城, 香港",
+        "name": "Sevth7",
+        "pinned_tweet_id": "2058752498475917436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870663593299214336/eRZaedK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40436,
+          "following_count": 7679,
+          "like_count": 122097,
+          "listed_count": 58,
+          "media_count": 1908,
+          "tweet_count": 131107
+        },
+        "url": "https://t.co/gJABjMSw59",
+        "username": "Crypto77qi",
+        "verified": true
+      }
+    ]
+  }
+}

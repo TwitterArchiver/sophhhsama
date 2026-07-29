@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2060516485240676677",
+    "created_at": "2026-05-30T08:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060640929116025007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1431278416297222144",
+          "start": 0,
+          "username": "candywantfly1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060640929116025007",
+    "in_reply_to_user_id": "1431278416297222144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060516485240676677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@candywantfly1 互fo呀～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2060516485240676677",
+        "created_at": "2026-05-30T08:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060640929116025007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1431278416297222144",
+              "start": 0,
+              "username": "candywantfly1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060640929116025007",
+        "in_reply_to_user_id": "1431278416297222144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060516485240676677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@candywantfly1 互fo呀～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431278416297222144",
+        "conversation_id": "2060516485240676677",
+        "created_at": "2026-05-30T00:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060516485240676677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060516485240676677",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1328,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "안녕하세요 여러분! 블루 체크 있으면 서로 팔로우해요 👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 393,
+          "like_count": 22191,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 3116
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-27T15:32:29.000Z",
+        "description": "👩🏻‍❤️‍👨🏻 @clairenanayu, Happy wife Happy Life | 🟣 Solar member of @solana_zh | 目標嚕到頭期款 #蓝鸟会 #灯塔 📨 TG 群：https://t.co/DI5bTp9aHC",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "蓝鸟会"
+              },
+              {
+                "end": 95,
+                "start": 92,
+                "tag": "灯塔"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "clairenanayu"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "username": "solana_zh"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/cryptobrian",
+                "end": 126,
+                "expanded_url": "https://t.me/cryptobrian",
+                "start": 103,
+                "url": "https://t.co/DI5bTp9aHC"
+              }
+            ]
+          }
+        },
+        "id": "1431278416297222144",
+        "name": "🦷CryptoBrian | 加密C&C🐬TermMax | Renaiss",
+        "pinned_tweet_id": "2050943124990722144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931151089044422656/21GUwcz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3685,
+          "following_count": 3104,
+          "like_count": 9881,
+          "listed_count": 22,
+          "media_count": 922,
+          "tweet_count": 11515
+        },
+        "username": "candywantfly1",
+        "verified": true
+      }
+    ]
+  }
+}

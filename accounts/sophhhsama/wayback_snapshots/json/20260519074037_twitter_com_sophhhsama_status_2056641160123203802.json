@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2056632296120475870",
+    "created_at": "2026-05-19T07:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T08:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056641160123203802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2046295889103441921",
+          "start": 0,
+          "username": "Xie_miaoyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056641160123203802",
+    "in_reply_to_user_id": "2046295889103441921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056632296120475870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xie_miaoyu 呀咪呀咪呀咪呀咪🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31161,
+        "height": 720,
+        "media_key": "13_2056632179988516864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056632179988516864/img/RZEobGGqtGBShFhw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056632179988516864/vid/avc1/282x270/hU7adOjvN7JbIGOh.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056632179988516864/vid/avc1/376x360/Go0bQ-qnyRGsXwli.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056632179988516864/vid/avc1/752x720/lQeSLtWIOR_Bi9xB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056632179988516864/pl/xivP9on4oryihx8F.m3u8"
+          }
+        ],
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2056632296120475870",
+        "created_at": "2026-05-19T07:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056641160123203802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2046295889103441921",
+              "start": 0,
+              "username": "Xie_miaoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056641160123203802",
+        "in_reply_to_user_id": "2046295889103441921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056632296120475870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xie_miaoyu 呀咪呀咪呀咪呀咪🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056632179988516864"
+          ]
+        },
+        "author_id": "2046295889103441921",
+        "conversation_id": "2056632296120475870",
+        "created_at": "2026-05-19T07:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056632296120475870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSBy9YflVE",
+              "end": 38,
+              "expanded_url": "https://x.com/Xie_miaoyu/status/2056632296120475870/video/1",
+              "media_key": "13_2056632179988516864",
+              "start": 15,
+              "url": "https://t.co/sSBy9YflVE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056632296120475870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "▷哦我艹这小逼东西真可爱\n▷ https://t.co/sSBy9YflVE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n💕🌸花花@YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 350,
+          "like_count": 19945,
+          "listed_count": 2,
+          "media_count": 344,
+          "tweet_count": 2797
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-20T18:32:40.000Z",
+        "description": "「盯……」\n\n▷私は……一月一日诞生的猫猫……因为社恐，不爱主动私信和关注喵……但能看成分回fo！\n▷Live2D｜日语練習｜VRC｜VTB｜战雷｜日常｜絵｜心理｜树洞\n▷心理稳定｜不自杀自残｜PTSD｜强迫症｜多人格\n▷前急性自杀干预行动者｜旧绩2/26｜大学生心理健康协会(持证)干事｜首都大学生心理健康联盟成员",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@drvb_nyame?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@drvb_nyame?si=rkW4s0_GpvsKSGPp",
+                "start": 0,
+                "url": "https://t.co/ZTuDjcTr2J"
+              }
+            ]
+          }
+        },
+        "id": "2046295889103441921",
+        "location": "北京/厦门/坟堆里",
+        "name": "Nyame | コミュ障猫",
+        "pinned_tweet_id": "2055015648452018221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047657374497054720/9Z5YmAkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 32,
+          "like_count": 1174,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/ZTuDjcTr2J",
+        "username": "Xie_miaoyu",
+        "verified": true
+      }
+    ]
+  }
+}

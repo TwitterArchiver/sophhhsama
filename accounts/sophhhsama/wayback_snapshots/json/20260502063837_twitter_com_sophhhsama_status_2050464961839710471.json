@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050464957804797953"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2050464961839710471",
+    "created_at": "2026-05-02T06:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050464961839710471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kMFILSYAq5",
+          "end": 28,
+          "expanded_url": "https://x.com/sophhhsama/status/2050464961839710471/photo/1",
+          "media_key": "3_2050464957804797953",
+          "start": 5,
+          "url": "https://t.co/kMFILSYAq5"
+        },
+        {
+          "display_url": "x.com/blingbling712/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/blingbling712/status/2050450973626351735",
+          "start": 29,
+          "url": "https://t.co/k4YdSYBYTx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050464961839710471",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050450973626351735",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "👉🏻👈🏻 https://t.co/kMFILSYAq5 https://t.co/k4YdSYBYTx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_2050464957804797953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHS3A-pXYAE0FsE.jpg",
+        "width": 485
+      },
+      {
+        "height": 1323,
+        "media_key": "3_2050450970367406080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSqSzYasAAt5X7.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050464957804797953"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2050464961839710471",
+        "created_at": "2026-05-02T06:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050464961839710471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kMFILSYAq5",
+              "end": 28,
+              "expanded_url": "https://x.com/sophhhsama/status/2050464961839710471/photo/1",
+              "media_key": "3_2050464957804797953",
+              "start": 5,
+              "url": "https://t.co/kMFILSYAq5"
+            },
+            {
+              "display_url": "x.com/blingbling712/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/blingbling712/status/2050450973626351735",
+              "start": 29,
+              "url": "https://t.co/k4YdSYBYTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050464961839710471",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050450973626351735",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "👉🏻👈🏻 https://t.co/kMFILSYAq5 https://t.co/k4YdSYBYTx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050450970367406080"
+          ]
+        },
+        "author_id": "2024210421373444096",
+        "conversation_id": "2050450973626351735",
+        "created_at": "2026-05-02T05:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050450973626351735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHGnhoGvi7",
+              "end": 29,
+              "expanded_url": "https://x.com/blingbling712/status/2050450973626351735/photo/1",
+              "media_key": "3_2050450970367406080",
+              "start": 6,
+              "url": "https://t.co/HHGnhoGvi7"
+            },
+            {
+              "display_url": "x.com/hiime0/status/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/hiime0/status/2050437513953910945",
+              "start": 30,
+              "url": "https://t.co/rvJYS0iLWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050450973626351735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050437513953910945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好歹连上了 https://t.co/HHGnhoGvi7 https://t.co/rvJYS0iLWZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 388,
+          "like_count": 15879,
+          "listed_count": 1,
+          "media_count": 289,
+          "tweet_count": 2302
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn @YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 349,
+          "like_count": 9431,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1348
+        },
+        "username": "blingbling712",
+        "verified": true
+      }
+    ]
+  }
+}

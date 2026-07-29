@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2021554823682769185",
+    "created_at": "2026-02-12T06:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T07:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021829415705911432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021829415705911432",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021554823682769185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI ctrl+A shift+tab"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 424,
+        "media_key": "3_2017972188201320448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAFHA3RbgAAA87i.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2021554823682769185",
+        "created_at": "2026-02-12T06:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021829415705911432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021829415705911432",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021554823682769185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI ctrl+A shift+tab"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017972188201320448"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2021554823682769185",
+        "created_at": "2026-02-11T12:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021554823682769185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/btRjjECFvc",
+              "end": 45,
+              "expanded_url": "https://x.com/BI3BXI/status/2021554823682769185/photo/1",
+              "media_key": "3_2017972188201320448",
+              "start": 22,
+              "url": "https://t.co/btRjjECFvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021554823682769185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 235640,
+          "like_count": 1851,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "然后妈妈把他的Python代码全部左对齐了 https://t.co/btRjjECFvc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 56,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 131
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "07年的大只Enby｜请不要屏蔽我🥺｜前世 @ryq59｜本体@yqua_｜点击“查看更多”可以了解我～｜老姐 @TennoujiNyano｜牢🦠@Saikin_XiJun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 22,
+                "username": "ryq59"
+              },
+              {
+                "end": 37,
+                "start": 31,
+                "username": "yqua_"
+              },
+              {
+                "end": 70,
+                "start": 56,
+                "username": "TennoujiNyano"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Saikin_XiJun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/TT3IUMhhUQ",
+                "end": 23,
+                "expanded_url": "https://qm.qq.com/q/TT3IUMhhUQ",
+                "start": 0,
+                "url": "https://t.co/9ZD7jPC8bX"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "军粮城北站",
+        "name": "你是要气死铨酱么（二代目）",
+        "pinned_tweet_id": "2020451373498679310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7103,
+          "following_count": 3432,
+          "like_count": 31739,
+          "listed_count": 18,
+          "media_count": 1497,
+          "tweet_count": 6205
+        },
+        "url": "https://t.co/9ZD7jPC8bX",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

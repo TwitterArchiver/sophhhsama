@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2064542435691364420",
+    "created_at": "2026-06-10T06:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064590477223993487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2023210361764360192",
+          "start": 0,
+          "username": "NanakoLumkung"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064590477223993487",
+    "in_reply_to_user_id": "2023210361764360192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064542435691364420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanakoLumkung 抱抱哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2064542435691364420",
+        "created_at": "2026-06-10T06:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064590477223993487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2023210361764360192",
+              "start": 0,
+              "username": "NanakoLumkung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064590477223993487",
+        "in_reply_to_user_id": "2023210361764360192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064542435691364420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanakoLumkung 抱抱哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023210361764360192",
+        "conversation_id": "2064542435691364420",
+        "created_at": "2026-06-10T02:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064542435691364420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064542435691364420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于炸柜的原因，本人决定停止hrt，并exit跨性别圈\n想和我做朋友我还是会很开心，但是神人就不要沾边了谢谢，我已经是被很多人抛弃的神人了\n希望彼此多一些尊重多一些理解，希望世界能够善待每一个认真生活的人\n嗯就这样吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 470,
+          "like_count": 23848,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 3299
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-16T01:38:50.000Z",
+        "description": "🇩🇪🇯🇵Freut mich, dich kennenzulernen — willkommen im Hintergarten von 菜々子@SuzukiHnnn｜現在，HRTは一時中断しています｜My Redemption @HappyHejsDay @Liunian_a @NagiExpress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "SuzukiHnnn"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "NagiExpress"
+              }
+            ]
+          }
+        },
+        "id": "2023210361764360192",
+        "location": "Basilica Sancti Petri",
+        "name": "𝓝·𝓪·𝓷·𝓪·𝓴·𝓸·𝓢·𝓽·𝓻·𝓪·𝔀·𝓫·𝓮·𝓻·𝓻·𝔂",
+        "pinned_tweet_id": "2063140200415633580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032659428667961344/NopHtjOo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 79,
+          "like_count": 1040,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 476
+        },
+        "username": "NanakoLumkung",
+        "verified": false
+      }
+    ]
+  }
+}

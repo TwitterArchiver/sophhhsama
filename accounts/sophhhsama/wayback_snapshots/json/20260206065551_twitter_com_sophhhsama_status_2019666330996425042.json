@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019566034664226816"
+      ],
+      "media_source_tweet_id": [
+        "2019566050673823971"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2019666330996425042",
+    "created_at": "2026-02-06T06:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T07:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019666330996425042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "23062740",
+          "start": 3,
+          "username": "TaNGSoFT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/16DzVC5TaU",
+          "end": 51,
+          "expanded_url": "https://x.com/TaNGSoFT/status/2019566050673823971/photo/1",
+          "media_key": "3_2019566034664226816",
+          "start": 28,
+          "url": "https://t.co/16DzVC5TaU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019666330996425042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019566050673823971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TaNGSoFT: 果然2026年一切都在加速 https://t.co/16DzVC5TaU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1802,
+        "media_key": "3_2019566034664226816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAbwm8CbAAALT8y.jpg",
+        "width": 1602
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019566034664226816"
+          ],
+          "media_source_tweet_id": [
+            "2019566050673823971"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2019666330996425042",
+        "created_at": "2026-02-06T06:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T07:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019666330996425042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "23062740",
+              "start": 3,
+              "username": "TaNGSoFT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/16DzVC5TaU",
+              "end": 51,
+              "expanded_url": "https://x.com/TaNGSoFT/status/2019566050673823971/photo/1",
+              "media_key": "3_2019566034664226816",
+              "start": 28,
+              "url": "https://t.co/16DzVC5TaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019666330996425042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019566050673823971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TaNGSoFT: 果然2026年一切都在加速 https://t.co/16DzVC5TaU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019566034664226816"
+          ]
+        },
+        "author_id": "23062740",
+        "conversation_id": "2019566050673823971",
+        "created_at": "2026-02-06T00:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T01:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019566050673823971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/16DzVC5TaU",
+              "end": 37,
+              "expanded_url": "https://x.com/TaNGSoFT/status/2019566050673823971/photo/1",
+              "media_key": "3_2019566034664226816",
+              "start": 14,
+              "url": "https://t.co/16DzVC5TaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019566050673823971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 5003,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "果然2026年一切都在加速 https://t.co/16DzVC5TaU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "aspiring med student, i also like programming",
+        "id": "1223415775278428160",
+        "name": "sophhh 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 37,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 34
+        },
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-06T13:32:26.000Z",
+        "description": "ai4x交互范式- EEOIP｜vibe pretraining of 𝕀²·ℙarad𝕚g𝕞｜研究Cognitive AI; 关注Evolutionary AI｜ Paradigm^Vibe 𝕚sᵃˡˡ ᵁ ᴺᵉᵉᵈ^智能平方范式智库^特大号范式｜再AI十年之三：a vibe builder...",
+        "id": "23062740",
+        "name": "𝙩𝙮≃𝙛{𝕩}^A𝕀²·ℙarad𝕚g𝕞",
+        "pinned_tweet_id": "2013894402444513347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971408433883836416/Hw7sCAVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15960,
+          "following_count": 3820,
+          "like_count": 12523,
+          "listed_count": 224,
+          "media_count": 5695,
+          "tweet_count": 25786
+        },
+        "username": "TaNGSoFT",
+        "verified": true
+      }
+    ]
+  }
+}

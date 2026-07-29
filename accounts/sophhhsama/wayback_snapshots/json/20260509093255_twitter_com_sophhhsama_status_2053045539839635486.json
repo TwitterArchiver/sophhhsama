@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053045533543899142"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2053045539839635486",
+    "created_at": "2026-05-09T09:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053045539839635486"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4dnddhC6cV",
+          "end": 66,
+          "expanded_url": "https://x.com/sophhhsama/status/2053045539839635486/photo/1",
+          "media_key": "3_2053045533543899142",
+          "start": 43,
+          "url": "https://t.co/4dnddhC6cV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053045539839635486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗓子疼 感觉可能要感冒了\n喝点咖啡试着做点事～\n周末能不抽烟就不抽了 让身体休息一下 https://t.co/4dnddhC6cV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053045533543899142",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3iCQaWIAYghZg.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053045533543899142"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2053045539839635486",
+        "created_at": "2026-05-09T09:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053045539839635486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4dnddhC6cV",
+              "end": 66,
+              "expanded_url": "https://x.com/sophhhsama/status/2053045539839635486/photo/1",
+              "media_key": "3_2053045533543899142",
+              "start": 43,
+              "url": "https://t.co/4dnddhC6cV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053045539839635486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗓子疼 感觉可能要感冒了\n喝点咖啡试着做点事～\n周末能不抽烟就不抽了 让身体休息一下 https://t.co/4dnddhC6cV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 好朋友萌 @slclst @Cheeseduck111 @djzi237149 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "djzi237149"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 347,
+          "like_count": 18070,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 2564
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2047608156042244518",
+    "created_at": "2026-04-24T09:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047608156042244518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sophhhsama/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/sophhhsama/status/2041141657769308284",
+          "start": 15,
+          "url": "https://t.co/QXvzueLac8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047608156042244518",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041141657769308284",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "出门抽烟再次偶遇土耳其姐姐🥹 https://t.co/QXvzueLac8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1321,
+        "media_key": "3_2041141646566248448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOXg1vWUAAZC6u.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041141646570475520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOXg1wW0AAjE4v.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041141646557872128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOXg1tWgAAOAFN.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2047608156042244518",
+        "created_at": "2026-04-24T09:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047608156042244518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sophhhsama/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/sophhhsama/status/2041141657769308284",
+              "start": 15,
+              "url": "https://t.co/QXvzueLac8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047608156042244518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041141657769308284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出门抽烟再次偶遇土耳其姐姐🥹 https://t.co/QXvzueLac8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041141646566248448",
+            "3_2041141646570475520",
+            "3_2041141646557872128"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2041141657769308284",
+        "created_at": "2026-04-06T13:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041141657769308284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wcnfX5RcfD",
+              "end": 151,
+              "expanded_url": "https://x.com/sophhhsama/status/2041141657769308284/photo/1",
+              "media_key": "3_2041141646566248448",
+              "start": 128,
+              "url": "https://t.co/wcnfX5RcfD"
+            },
+            {
+              "display_url": "pic.x.com/wcnfX5RcfD",
+              "end": 151,
+              "expanded_url": "https://x.com/sophhhsama/status/2041141657769308284/photo/1",
+              "media_key": "3_2041141646570475520",
+              "start": 128,
+              "url": "https://t.co/wcnfX5RcfD"
+            },
+            {
+              "display_url": "pic.x.com/wcnfX5RcfD",
+              "end": 151,
+              "expanded_url": "https://x.com/sophhhsama/status/2041141657769308284/photo/1",
+              "media_key": "3_2041141646557872128",
+              "start": 128,
+              "url": "https://t.co/wcnfX5RcfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041141657769308284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 852,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有个土耳其姐姐走过来和猫猫聊了一会\n好可爱哦\n一起抽了一根\n\n小猫挺久没踢球了\n都忘记了上一次和猫爸一起踢球了\n猫猫好爱身边的人\n\n下个月二十号是个好日子呢\n暂定在那时吧\n520\n44天\n真好\n被爱环绕着\n好爱大家\n做完剩下手头上那一点点事\n差不多了呢喵 https://t.co/wcnfX5RcfD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/修猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 362,
+          "like_count": 13631,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 2029
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

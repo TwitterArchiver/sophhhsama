@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037672814979985408"
+      ],
+      "media_source_tweet_id": [
+        "2037672824987587051"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2037734208878137691",
+    "created_at": "2026-03-28T03:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T04:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037734208878137691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1779366307055730688",
+          "start": 3,
+          "username": "IcarusXin48776"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SmJcspJn1q",
+          "end": 69,
+          "expanded_url": "https://x.com/IcarusXin48776/status/2037672824987587051/photo/1",
+          "media_key": "3_2037672814979985408",
+          "start": 46,
+          "url": "https://t.co/SmJcspJn1q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037734208878137691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037672824987587051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IcarusXin48776: 再见了，医院止血要2w，我付不起这个钱，感谢所有人 https://t.co/SmJcspJn1q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2037672814979985408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdEoRFaMAAj7X7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037672814979985408"
+          ],
+          "media_source_tweet_id": [
+            "2037672824987587051"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037734208878137691",
+        "created_at": "2026-03-28T03:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037734208878137691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1779366307055730688",
+              "start": 3,
+              "username": "IcarusXin48776"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SmJcspJn1q",
+              "end": 69,
+              "expanded_url": "https://x.com/IcarusXin48776/status/2037672824987587051/photo/1",
+              "media_key": "3_2037672814979985408",
+              "start": 46,
+              "url": "https://t.co/SmJcspJn1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037734208878137691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037672824987587051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IcarusXin48776: 再见了，医院止血要2w，我付不起这个钱，感谢所有人 https://t.co/SmJcspJn1q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037672814979985408"
+          ]
+        },
+        "author_id": "1779366307055730688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037672824987587051",
+        "created_at": "2026-03-27T23:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T00:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037672824987587051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SmJcspJn1q",
+              "end": 49,
+              "expanded_url": "https://x.com/IcarusXin48776/status/2037672824987587051/photo/1",
+              "media_key": "3_2037672814979985408",
+              "start": 26,
+              "url": "https://t.co/SmJcspJn1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037672824987587051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 899,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "再见了，医院止血要2w，我付不起这个钱，感谢所有人 https://t.co/SmJcspJn1q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtcat | 小猫/sophie 想到什么发什么 | 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 233,
+          "like_count": 7187,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1023
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T04:29:46.000Z",
+        "description": "双相情感障碍/OD/精神分裂/持证MTF💊/改花刀🔪/严重洁癖",
+        "id": "1779366307055730688",
+        "location": "阿尔卑斯山晶云宫",
+        "name": "傲娇冰竺郡主🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827639633980833793/6snjxYrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 208,
+          "like_count": 490,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 246
+        },
+        "username": "IcarusXin48776",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038112846484234240"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2038112853173862673",
+    "created_at": "2026-03-29T04:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T05:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038112853173862673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xda4jNXcMt",
+          "end": 40,
+          "expanded_url": "https://x.com/sophhhsama/status/2038112853173862673/photo/1",
+          "media_key": "3_2038112846484234240",
+          "start": 17,
+          "url": "https://t.co/Xda4jNXcMt"
+        },
+        {
+          "display_url": "x.com/yuyu52030/stat…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/yuyu52030/status/2037707271959093728",
+          "start": 41,
+          "url": "https://t.co/2goylOCw4J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038112853173862673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037707271959093728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有种… 情绪开关交给别人的不安感 https://t.co/Xda4jNXcMt https://t.co/2goylOCw4J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2038112846484234240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjU1eLaYAACqml.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038112846484234240"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2038112853173862673",
+        "created_at": "2026-03-29T04:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T05:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038112853173862673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xda4jNXcMt",
+              "end": 40,
+              "expanded_url": "https://x.com/sophhhsama/status/2038112853173862673/photo/1",
+              "media_key": "3_2038112846484234240",
+              "start": 17,
+              "url": "https://t.co/Xda4jNXcMt"
+            },
+            {
+              "display_url": "x.com/yuyu52030/stat…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/yuyu52030/status/2037707271959093728",
+              "start": 41,
+              "url": "https://t.co/2goylOCw4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038112853173862673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037707271959093728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有种… 情绪开关交给别人的不安感 https://t.co/Xda4jNXcMt https://t.co/2goylOCw4J"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025392271152349184",
+        "conversation_id": "2037707271959093728",
+        "created_at": "2026-03-28T01:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037707271959093728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037707271959093728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 29006,
+          "like_count": 982,
+          "quote_count": 16,
+          "reply_count": 27,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得开始期待收到某个人的消息的这种心情特别恐怖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtcat | 小猫/sophie 想到什么发什么 | 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫🍥",
+        "pinned_tweet_id": "2037791863998930973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 240,
+          "like_count": 7382,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T02:09:09.000Z",
+        "description": "第二人格@yuyu177570",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "yuyu177570"
+              }
+            ]
+          }
+        },
+        "id": "2025392271152349184",
+        "name": "鱼鱼",
+        "pinned_tweet_id": "2037722582976492017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037719692853563392/GTnx0f5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 149,
+          "like_count": 706,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 137
+        },
+        "username": "yuyu52030",
+        "verified": false
+      }
+    ]
+  }
+}

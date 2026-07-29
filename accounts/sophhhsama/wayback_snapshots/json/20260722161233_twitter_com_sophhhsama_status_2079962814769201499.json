@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2079469472600019369",
+    "created_at": "2026-07-22T16:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079962814769201499"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079962814769201499",
+    "in_reply_to_user_id": "1223415775278428160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079469472600019369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦对了 她还挺反对我SRS的 忘写下来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2079469472600019369",
+        "created_at": "2026-07-22T16:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079962814769201499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079962814769201499",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079469472600019369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦对了 她还挺反对我SRS的 忘写下来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2079469472600019369",
+        "created_at": "2026-07-21T07:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079469472600019369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079469472600019369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "再再再跟老妈沟通过了\n总之她还是不理解 总跟我说我可以选择接受自己生理的状态\n不会当我是女儿（吧）\n不过也（应该）会让我继续hrt\n哎 所以还是不太能改变别人的观念吧\n也不能一直靠家里住家里了 如果八月考不上大学想找找工作 存一点点钱\n以后就打算能搬出去就搬出去吧 也不想在家里让别人心里膈应\n\n也不知道自己现在的精神状态能不能支撑自己工作"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 506,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再再再跟老妈沟通过了\n总之她还是不理解 总跟我说我可以选择接受自己生理的状态\n不会当我是女儿（吧）\n不过也（应该）会让我继续hrt\n哎 所以还是不太能改变别人的观念吧\n也不能一直靠家里住家里了 如果八月考不上大学想找找工作 存一点点钱\n以后就打算能搬出去就搬出去吧 也不想在家里让别人心里膈应"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 473,
+          "like_count": 27543,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 3550
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true
+      }
+    ]
+  }
+}

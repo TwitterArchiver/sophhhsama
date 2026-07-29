@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2060628856445501924",
+    "created_at": "2026-05-30T09:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060652165861965917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1940360837547565056",
+          "start": 0,
+          "username": "aleabitoreddit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060652165861965917",
+    "in_reply_to_user_id": "1940360837547565056",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060628856445501924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aleabitoreddit crazy achievement! Congrats~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 348,
+        "media_key": "3_2060628850036633600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjTBXxa8AAYQ8I.jpg",
+        "width": 892
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2060628856445501924",
+        "created_at": "2026-05-30T09:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060652165861965917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1940360837547565056",
+              "start": 0,
+              "username": "aleabitoreddit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060652165861965917",
+        "in_reply_to_user_id": "1940360837547565056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060628856445501924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aleabitoreddit crazy achievement! Congrats~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060628850036633600"
+          ]
+        },
+        "author_id": "1940360837547565056",
+        "conversation_id": "2060628856445501924",
+        "created_at": "2026-05-30T07:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060628856445501924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UbypbJOeSe",
+              "end": 296,
+              "expanded_url": "https://x.com/aleabitoreddit/status/2060628856445501924/photo/1",
+              "media_key": "3_2060628850036633600",
+              "start": 273,
+              "url": "https://t.co/UbypbJOeSe"
+            },
+            {
+              "display_url": "x.com/beauty_oe/stat…",
+              "end": 320,
+              "expanded_url": "https://twitter.com/beauty_oe/status/2060617146611503239",
+              "start": 297,
+              "url": "https://t.co/RM2kyotgpN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060628856445501924",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Yep, I now have: Half a Million followers!\n\nThank you everyone. \n\nI think this virality validates how refreshing people find it…\n\nWhen someone posts compelling ideas and research for free.\n\nEspecially while focusing on substance instead of a focus on selling you expensive paywalls. \n\nMarkets are positive-sum where everyone benefits if a thesis is directionally correct. \n\nAnd I hope this signals an end of an era to all the grifters out there:\n\nWho sell stock picks for hundreds a month or use their flashy private jets/net worth to try and validate their ideas.\n\nAs well as a lot of the media/institutions out there that work against retail investors.\n\nI’m only here to help out retail by sharing ideas and my thoughts.\n\nAnd I’m staying true to that mission regardless of any high offers I get for ads or any offers from institutions… \n\nAnd I’m especially not changing, despite any new follower counts I have. \n\nThanks everyone for the support!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 74257,
+          "like_count": 934,
+          "quote_count": 2,
+          "reply_count": 151,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060617146611503239",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Yep, I now have: Half a Million followers!\n\nThank you everyone. \n\nI think this virality validates how refreshing people find it…\n\nWhen someone posts compelling ideas and research for free.\n\nEspecially while focusing on substance instead of a focus on selling you expensive https://t.co/UbypbJOeSe https://t.co/RM2kyotgpN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 399,
+          "like_count": 22202,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 3122
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-02T10:44:15.000Z",
+        "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "Reddit"
+              }
+            ]
+          }
+        },
+        "id": "1940360837547565056",
+        "location": "NFA",
+        "name": "Serenity",
+        "pinned_tweet_id": "2025956208138649924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501565,
+          "following_count": 158,
+          "like_count": 11272,
+          "listed_count": 5827,
+          "media_count": 1926,
+          "tweet_count": 6892
+        },
+        "username": "aleabitoreddit",
+        "verified": true
+      }
+    ]
+  }
+}

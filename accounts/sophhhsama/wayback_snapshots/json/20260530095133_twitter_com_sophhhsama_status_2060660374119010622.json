@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2060631362680283482",
+    "created_at": "2026-05-30T09:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060660374119010622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1881991469730594816",
+          "start": 0,
+          "username": "gkxspace"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060660374119010622",
+    "in_reply_to_user_id": "1881991469730594816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060631362680283482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gkxspace codex没claude code那么多话说会省一点token嘛w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 924,
+        "media_key": "3_2060625005650620416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjPhmUXsAAHHVK.jpg",
+        "width": 1642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2060631362680283482",
+        "created_at": "2026-05-30T09:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060660374119010622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881991469730594816",
+              "start": 0,
+              "username": "gkxspace"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060660374119010622",
+        "in_reply_to_user_id": "1881991469730594816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060631362680283482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gkxspace codex没claude code那么多话说会省一点token嘛w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060625005650620416"
+          ]
+        },
+        "author_id": "1881991469730594816",
+        "conversation_id": "2060631362680283482",
+        "created_at": "2026-05-30T07:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060631362680283482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDgU4rEICV",
+              "end": 155,
+              "expanded_url": "https://x.com/gkxspace/status/2060631362680283482/photo/1",
+              "media_key": "3_2060625005650620416",
+              "start": 132,
+              "url": "https://t.co/jDgU4rEICV"
+            },
+            {
+              "display_url": "x.com/Jason_Young123…",
+              "end": 179,
+              "expanded_url": "https://twitter.com/Jason_Young1231/status/2060596480315097432",
+              "start": 156,
+              "url": "https://t.co/NzCaWKaGsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060631362680283482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 6636,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060596480315097432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Codex 桌面端用 CC Switch 可以接第三方模型了😋\n\n之前想用想 DeepSeek、Kimi 这些，配置折腾得要命。CC Switch 新版解决了这个问题，填个 API key 就能跑\n\nCodex 本身就很好用，插件也好用，就差模型自由，现在补上了 https://t.co/jDgU4rEICV https://t.co/NzCaWKaGsr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 402,
+          "like_count": 22213,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 3133
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-22T09:05:13.000Z",
+        "description": "🌸05年连续创业者 | 专注 AI 产品 | 项目营收 7 位数+\n✨记录真实的创业路：项目复盘、踩坑总结和成长思考\n💗AI 产品构建 & AI 商业化方案 & 企业 AI 转型",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuwen.website",
+                "end": 23,
+                "expanded_url": "https://yuwen.website",
+                "start": 0,
+                "url": "https://t.co/lbHDopwRVw"
+              }
+            ]
+          }
+        },
+        "id": "1881991469730594816",
+        "location": "微信和社群",
+        "name": "余温",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952432952928784384/k7SIkQ7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34917,
+          "following_count": 886,
+          "like_count": 3573,
+          "listed_count": 344,
+          "media_count": 452,
+          "tweet_count": 4821
+        },
+        "url": "https://t.co/lbHDopwRVw",
+        "username": "gkxspace",
+        "verified": true
+      }
+    ]
+  }
+}

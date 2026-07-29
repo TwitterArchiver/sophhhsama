@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2021444297657286795",
+    "created_at": "2026-02-11T07:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T08:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021487795022512343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1952782744511303680",
+          "start": 0,
+          "username": "alfred_776233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021487795022512343",
+    "in_reply_to_user_id": "1952782744511303680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021444297657286795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alfred_776233 还有如此神药"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1813,
+        "media_key": "3_2021444290011070468",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA2c3ydaAAQ_RVI.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2021444297657286795",
+        "created_at": "2026-02-11T07:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021487795022512343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1952782744511303680",
+              "start": 0,
+              "username": "alfred_776233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021487795022512343",
+        "in_reply_to_user_id": "1952782744511303680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021444297657286795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alfred_776233 还有如此神药"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021444290011070468"
+          ]
+        },
+        "author_id": "1952782744511303680",
+        "conversation_id": "2021444297657286795",
+        "created_at": "2026-02-11T04:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T05:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021444297657286795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/efMciywAD9",
+              "end": 52,
+              "expanded_url": "https://x.com/alfred_776233/status/2021444297657286795/photo/1",
+              "media_key": "3_2021444290011070468",
+              "start": 29,
+              "url": "https://t.co/efMciywAD9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021444297657286795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "07年直男自学有机化学只为更好的配中药给好兄弟调理txl https://t.co/efMciywAD9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2020096493814685890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 54,
+          "like_count": 626,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 105
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-05T17:24:38.000Z",
+        "description": "07/西安/制药工程/钢4 欧5 天际线2 K牌/历史地理爱好者/德二版图品鉴者/摇滚音乐爱好者/反修&反帝/不在这键政！！！/想聊天或排忧解难欢迎找我哦🥰",
+        "id": "1952782744511303680",
+        "location": "Königsberg, Deutschland",
+        "name": "Alfred776233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996678104534994944/QypwLP76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 310,
+          "like_count": 4523,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1240
+        },
+        "username": "alfred_776233",
+        "verified": false
+      }
+    ]
+  }
+}

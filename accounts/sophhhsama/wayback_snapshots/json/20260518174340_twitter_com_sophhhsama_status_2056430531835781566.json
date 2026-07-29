@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2056430531835781566",
+    "created_at": "2026-05-18T17:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T18:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056430531835781566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hikarou233086/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/hikarou233086/status/2056369798519668938",
+          "start": 18,
+          "url": "https://t.co/yd2vqmOQuN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056430531835781566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056369798519668938",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "woc 有才喵\n我也尝试游说一下🤓 https://t.co/yd2vqmOQuN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 980,
+        "media_key": "3_2056369796258893824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImxb0DakAAD2N8.jpg",
+        "width": 1604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2056430531835781566",
+        "created_at": "2026-05-18T17:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056430531835781566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hikarou233086/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/hikarou233086/status/2056369798519668938",
+              "start": 18,
+              "url": "https://t.co/yd2vqmOQuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056430531835781566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056369798519668938",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "woc 有才喵\n我也尝试游说一下🤓 https://t.co/yd2vqmOQuN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056369796258893824"
+          ]
+        },
+        "author_id": "1890717486343233536",
+        "conversation_id": "2056369798519668938",
+        "created_at": "2026-05-18T13:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056369798519668938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qwDtFhI8AG",
+              "end": 44,
+              "expanded_url": "https://x.com/hikarou233086/status/2056369798519668938/photo/1",
+              "media_key": "3_2056369796258893824",
+              "start": 21,
+              "url": "https://t.co/qwDtFhI8AG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056369798519668938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已说服母亲购入美白丸\n我和母亲一人一盒😇 https://t.co/qwDtFhI8AG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n💕🌸花花@YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 345,
+          "like_count": 19800,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 2777
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-15T10:59:21.000Z",
+        "description": "随机出现/116years 09.8.1/普通高2生/intp/5w4or9w8/精神状态努力维持💩/adhd干预治疗中…/在家自由度较高/友🏳️‍⚧️…/会互fo/(回避型依恋…)/cat/like化学/试图学习C++/computer-related/VRChat/l4d2like！❤️‍🔥/想要写一些什么",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hikarikae",
+                "end": 23,
+                "expanded_url": "http://t.me/Hikarikae",
+                "start": 0,
+                "url": "https://t.co/NOu2TRx7ft"
+              }
+            ]
+          }
+        },
+        "id": "1890717486343233536",
+        "name": "Hikaruna💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043683198501322752/R5PNYRBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 105,
+          "like_count": 564,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/NOu2TRx7ft",
+        "username": "hikarou233086",
+        "verified": false
+      }
+    ]
+  }
+}

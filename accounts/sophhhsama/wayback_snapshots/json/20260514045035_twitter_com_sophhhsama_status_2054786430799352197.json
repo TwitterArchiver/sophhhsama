@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2054773820410802490",
+    "created_at": "2026-05-14T04:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T05:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054786430799352197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053360211948109826",
+          "start": 0,
+          "username": "axzameyzed"
+        },
+        {
+          "end": 27,
+          "id": "1894461745277931524",
+          "start": 12,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 37,
+          "id": "1954966290424111104",
+          "start": 28,
+          "username": "zemumiao"
+        },
+        {
+          "end": 53,
+          "id": "1624039574702899202",
+          "start": 38,
+          "username": "lingluoloveyou"
+        },
+        {
+          "end": 69,
+          "id": "1243590342911410176",
+          "start": 54,
+          "username": "bing2000100830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054786430799352197",
+    "in_reply_to_user_id": "2053360211948109826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054773820410802490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axzameyzed @Rain_Antar1121 @zemumiao @lingluoloveyou @bing2000100830 好诶喵喵 谢谢啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_2054773805252505600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQF46PacAASt2o.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2054773820410802490",
+        "created_at": "2026-05-14T04:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054786430799352197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 27,
+              "id": "1894461745277931524",
+              "start": 12,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 37,
+              "id": "1954966290424111104",
+              "start": 28,
+              "username": "zemumiao"
+            },
+            {
+              "end": 53,
+              "id": "1624039574702899202",
+              "start": 38,
+              "username": "lingluoloveyou"
+            },
+            {
+              "end": 69,
+              "id": "1243590342911410176",
+              "start": 54,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054786430799352197",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054773820410802490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed @Rain_Antar1121 @zemumiao @lingluoloveyou @bing2000100830 好诶喵喵 谢谢啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054773805252505600"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2054773820410802490",
+        "created_at": "2026-05-14T04:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054773820410802490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1223415775278428160",
+              "start": 33,
+              "username": "sophhhsama"
+            },
+            {
+              "end": 60,
+              "id": "1894461745277931524",
+              "start": 45,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 70,
+              "id": "1954966290424111104",
+              "start": 61,
+              "username": "zemumiao"
+            },
+            {
+              "end": 86,
+              "id": "1624039574702899202",
+              "start": 71,
+              "username": "lingluoloveyou"
+            },
+            {
+              "end": 102,
+              "id": "1243590342911410176",
+              "start": 87,
+              "username": "bing2000100830"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxThk5ugMk",
+              "end": 194,
+              "expanded_url": "https://x.com/axzameyzed/status/2054773820410802490/photo/1",
+              "media_key": "3_2054773805252505600",
+              "start": 171,
+              "url": "https://t.co/hxThk5ugMk"
+            },
+            {
+              "display_url": "x.com/mxyzcdb/status…",
+              "end": 218,
+              "expanded_url": "https://twitter.com/mxyzcdb/status/2053125993196294575",
+              "start": 195,
+              "url": "https://t.co/yJnw8zsLUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054773820410802490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 44,
+                "id": "1223415775278428160",
+                "start": 33,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 60,
+                "id": "1894461745277931524",
+                "start": 45,
+                "username": "Rain_Antar1121"
+              },
+              {
+                "end": 70,
+                "id": "1954966290424111104",
+                "start": 61,
+                "username": "zemumiao"
+              },
+              {
+                "end": 86,
+                "id": "1624039574702899202",
+                "start": 71,
+                "username": "lingluoloveyou"
+              },
+              {
+                "end": 102,
+                "id": "1243590342911410176",
+                "start": 87,
+                "username": "bing2000100830"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "claude.ai/share/bf238d24…",
+                "end": 245,
+                "expanded_url": "https://claude.ai/share/bf238d24-89fa-4595-bf90-f1b506f0dffb",
+                "start": 222,
+                "url": "https://t.co/5sJhK4jd9d"
+              },
+              {
+                "display_url": "chatgpt.com/s/t_6a05473353…",
+                "end": 482,
+                "expanded_url": "https://chatgpt.com/s/t_6a05473353188191b11817e780bb9f88",
+                "start": 459,
+                "url": "https://t.co/XgziTYpAo4"
+              }
+            ]
+          },
+          "text": "周四了开个奖吧（什么疯狂星期四）\n先说结论（奇奇怪怪的语法）\n恭喜@sophhhsama @Rain_Antar1121 @zemumiao @lingluoloveyou @bing2000100830 中奖，每人10u，请私信我链上地址或IBAN，不怎么支持微信支付宝（但也有待商榷）还请尽快联系我\n抽奖方式如下（还挺有意思的，供参考）\n由Claude生成一个童话故事取其sha256（utf8-hex）作为随机数种子\n种子故事链接如下：\nhttps://t.co/5sJhK4jd9d\n故事sha256（utf8-hex）如下：\n079d48e1cc41c2e277015282c363dc0ccad14ac077a03dc72ab0a4db908492b5\n最终种子如下：\n079d48e1c079d48e1cc41c2e277015282c363dc0ccad14ac077a03dc72ab0a4db908492b5-Crazy-Thursday-2026-05-14\n抽取由ChatGPT完成，对话如下\nhttps://t.co/XgziTYpAo4"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053125993196294575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "周四了开个奖吧（什么疯狂星期四）\n先说结论（奇奇怪怪的语法）\n恭喜@sophhhsama @Rain_Antar1121 @zemumiao @lingluoloveyou @bing2000100830 中奖，每人10u，请私信我链上地址或IBAN，不怎么支持微信支付宝（但也有待商榷）还请尽快联系我\n抽奖方式如下（还挺有意思的，供参考） https://t.co/hxThk5ugMk https://t.co/yJnw8zsLUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "djzi237149"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 334,
+          "like_count": 18854,
+          "listed_count": 2,
+          "media_count": 334,
+          "tweet_count": 2698
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 108,
+          "like_count": 417,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 207
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4090,
+          "following_count": 6059,
+          "like_count": 13965,
+          "listed_count": 10,
+          "media_count": 268,
+          "tweet_count": 3129
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-11T18:01:09.000Z",
+        "description": "26.3.2无证含糖🍥/本人极度缺爱/\n同互fo/超级爱各位宝宝❤️❤️❤️(˵¯͒〰¯͒˵)需要了解🍥的宝子可以墙内私聊（qq：3776026092）",
+        "id": "1954966290424111104",
+        "name": "泽木🍥喵~(糖商)",
+        "pinned_tweet_id": "2051558883114864892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040836964291952641/EQgFvA9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 255,
+          "like_count": 238,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 84
+        },
+        "username": "zemumiao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-10T13:36:33.000Z",
+        "description": "mtx｜未含糖｜胆子很小，慢慢摸索中｜想拥有女孩子的身体｜未含糖，怕副作用，怕很多事情，但还是在努力靠近理想｜无证，但是很想HRT，也很怕被拒绝\n精神状态很好｜不自残｜不od",
+        "id": "1624039574702899202",
+        "name": "天才少女洛洛子🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775560487952162816/l_7hsE75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 51,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 239
+        },
+        "username": "lingluoloveyou",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 1132,
+          "like_count": 38700,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 2225
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

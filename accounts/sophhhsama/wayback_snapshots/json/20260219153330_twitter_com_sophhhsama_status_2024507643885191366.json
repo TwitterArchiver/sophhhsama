@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024507638868754432"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2024507643885191366",
+    "created_at": "2026-02-19T15:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T16:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024507643885191366"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J8TKFzdRiu",
+          "end": 33,
+          "expanded_url": "https://x.com/sophhhsama/status/2024507643885191366/photo/1",
+          "media_key": "3_2024507638868754432",
+          "start": 10,
+          "url": "https://t.co/J8TKFzdRiu"
+        },
+        {
+          "display_url": "x.com/horiyeterkin/s…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/horiyeterkin/status/2024497307673346277",
+          "start": 34,
+          "url": "https://t.co/Wy590YJIKk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024507643885191366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024497307673346277",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我可是纯爱战士诶😌 https://t.co/J8TKFzdRiu https://t.co/Wy590YJIKk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1697,
+        "media_key": "3_2024507638868754432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh--KPWQAAsvkU.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024507638868754432"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2024507643885191366",
+        "created_at": "2026-02-19T15:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024507643885191366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8TKFzdRiu",
+              "end": 33,
+              "expanded_url": "https://x.com/sophhhsama/status/2024507643885191366/photo/1",
+              "media_key": "3_2024507638868754432",
+              "start": 10,
+              "url": "https://t.co/J8TKFzdRiu"
+            },
+            {
+              "display_url": "x.com/horiyeterkin/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/horiyeterkin/status/2024497307673346277",
+              "start": 34,
+              "url": "https://t.co/Wy590YJIKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024507643885191366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024497307673346277",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我可是纯爱战士诶😌 https://t.co/J8TKFzdRiu https://t.co/Wy590YJIKk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012617076150611968",
+        "conversation_id": "2024497307673346277",
+        "created_at": "2026-02-19T14:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024497307673346277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 52,
+              "id": "868831876315848705",
+              "start": 43,
+              "username": "idr_labs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "性价值观测试",
+              "display_url": "idrlabs.com/cn/sex-values/…",
+              "end": 39,
+              "expanded_url": "https://www.idrlabs.com/cn/sex-values/14.29-87.5-66.67-31.25-25/result.php",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2024497308663164928/r2hpmkNe?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2024497308663164928/r2hpmkNe?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "性价值观测试：我的性价值观分数",
+              "unwound_url": "https://www.idrlabs.com/cn/sex-values/14.29-87.5-66.67-31.25-25/result.php",
+              "url": "https://t.co/0V8Mr0NX6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024497307673346277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 382,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性价值观测试：我的性价值观分数 https://t.co/0V8Mr0NX6p 来自 @idr_labs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. spam account. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 66,
+          "like_count": 1262,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 282
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T20:05:14.000Z",
+        "description": "",
+        "id": "2012617076150611968",
+        "name": "ھۆرىيەت ئەركىن",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023327744952881152/jKStvYHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 29,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 461
+        },
+        "username": "HoriyetErkin",
+        "verified": false
+      }
+    ]
+  }
+}

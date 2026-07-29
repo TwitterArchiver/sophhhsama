@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2046029722614640707",
+    "created_at": "2026-04-20T00:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T01:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046029722614640707"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046029722614640707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天晚点看医生了又\n看看能不能合法开pr\n又是懦弱小猫\n不是说好了要坚强\n要变好的吗\n不过很大概率开不出来就是了 毕竟pr在我们这里是C类管控药物\n\n大概只能开点氟西汀或者西泮… pr不是随便能开出来的…\n真能开出来就直接那什么了\n好讨厌这样啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2046029722614640707",
+        "created_at": "2026-04-20T00:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T01:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046029722614640707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046029722614640707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天晚点看医生了又\n看看能不能合法开pr\n又是懦弱小猫\n不是说好了要坚强\n要变好的吗\n不过很大概率开不出来就是了 毕竟pr在我们这里是C类管控药物\n\n大概只能开点氟西汀或者西泮… pr不是随便能开出来的…\n真能开出来就直接那什么了\n好讨厌这样啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 347,
+          "like_count": 12640,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 1885
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

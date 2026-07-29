@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2025048291365576869",
+    "created_at": "2026-02-21T09:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T10:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025141451248574630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880140645454725120",
+          "start": 0,
+          "username": "DianJ71828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025141451248574630",
+    "in_reply_to_user_id": "1880140645454725120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025048291365576869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianJ71828 哇啊啊啊好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2025047873445134336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpqT83bgAA-j3D.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 3645,
+        "height": 1920,
+        "media_key": "13_2025047873445134338",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025047873445134338/img/3JQwhc77lTOpWhoe.jpg",
+        "public_metrics": {
+          "view_count": 240
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025047873445134338/vid/avc1/320x568/-WTYL90prGqxSGfb.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025047873445134338/vid/avc1/480x852/rUmHIdVULaOaWpvJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025047873445134338/vid/avc1/720x1280/mQED9-rZlQ_7UBQe.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025047873445134338/pl/vH2hMRUYl0fOa6Hw.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2025048291365576869",
+        "created_at": "2026-02-21T09:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T10:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025141451248574630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025141451248574630",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025048291365576869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 哇啊啊啊好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025047873445134336",
+            "13_2025047873445134338"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "2025048291365576869",
+        "created_at": "2026-02-21T03:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025048291365576869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HFSLj73Tbf",
+              "end": 99,
+              "expanded_url": "https://x.com/DianJ71828/status/2025048291365576869/video/1",
+              "media_key": "3_2025047873445134336",
+              "start": 76,
+              "url": "https://t.co/HFSLj73Tbf"
+            },
+            {
+              "display_url": "pic.x.com/HFSLj73Tbf",
+              "end": 99,
+              "expanded_url": "https://x.com/DianJ71828/status/2025048291365576869/video/1",
+              "media_key": "13_2025047873445134338",
+              "start": 76,
+              "url": "https://t.co/HFSLj73Tbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025048291365576869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 718,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我劲啊！好萌好萌，面基到了，小小一只特别萌的\n一天下来感觉自己的皮肤饥渴都要被治好了。。。\n亲亲亲亲亲亲♡🥵🥵🥵（其实一天下来腰软腿软了不知多少次。） https://t.co/HFSLj73Tbf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. spam account. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 70,
+          "like_count": 1423,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 309
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 732,
+          "like_count": 9592,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 1784
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

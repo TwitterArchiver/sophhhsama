@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2047572926577213554",
+    "created_at": "2026-04-24T07:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T08:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047572926577213554"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047572926577213554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在每当gd比较严重的时候都会来一杯豆浆当作安慰剂\n尽管我知道大豆异黄酮只是人体天然雌激素千至万分之一\n只能用“说不定会让自己变得更好呢”来自我安慰一下\n这是不od割手能想到比较好的缓解性别焦虑的方法了\n当然心理疾病带来的焦虑情绪还是得靠其他不太好的方法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2047572926577213554",
+        "created_at": "2026-04-24T07:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047572926577213554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047572926577213554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在每当gd比较严重的时候都会来一杯豆浆当作安慰剂\n尽管我知道大豆异黄酮只是人体天然雌激素千至万分之一\n只能用“说不定会让自己变得更好呢”来自我安慰一下\n这是不od割手能想到比较好的缓解性别焦虑的方法了\n当然心理疾病带来的焦虑情绪还是得靠其他不太好的方法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/修猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 361,
+          "like_count": 13591,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 2021
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056354336863670273"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2056342772597318045",
+    "created_at": "2026-05-18T12:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056354340210651161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1452537509875834880",
+          "start": 0,
+          "username": "kkggxxyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NiNLYWIJv8",
+          "end": 44,
+          "expanded_url": "https://x.com/sophhhsama/status/2056354340210651161/photo/1",
+          "media_key": "3_2056354336863670273",
+          "start": 21,
+          "url": "https://t.co/NiNLYWIJv8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056354340210651161",
+    "in_reply_to_user_id": "1452537509875834880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056342772597318045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkggxxyy 什么时候才能变回来😭 https://t.co/NiNLYWIJv8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 296,
+        "media_key": "3_2056354336863670273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImjX9UX0AEc3st.jpg",
+        "width": 318
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056354336863670273"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2056342772597318045",
+        "created_at": "2026-05-18T12:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056354340210651161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1452537509875834880",
+              "start": 0,
+              "username": "kkggxxyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NiNLYWIJv8",
+              "end": 44,
+              "expanded_url": "https://x.com/sophhhsama/status/2056354340210651161/photo/1",
+              "media_key": "3_2056354336863670273",
+              "start": 21,
+              "url": "https://t.co/NiNLYWIJv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056354340210651161",
+        "in_reply_to_user_id": "1452537509875834880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056342772597318045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkggxxyy 什么时候才能变回来😭 https://t.co/NiNLYWIJv8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452537509875834880",
+        "conversation_id": "2056342772597318045",
+        "created_at": "2026-05-18T11:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056342772597318045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maigomaigohh/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/maigomaigohh/status/2055900613645676916",
+              "start": 8,
+              "url": "https://t.co/J3tqdaO2eG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056342772597318045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055900613645676916",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的太寄吧丑了 https://t.co/J3tqdaO2eG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n💕🌸花花@YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 345,
+          "like_count": 19724,
+          "listed_count": 2,
+          "media_count": 342,
+          "tweet_count": 2768
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-25T07:28:33.000Z",
+        "description": "🏳️‍⚧️",
+        "id": "1452537509875834880",
+        "location": "大象鼻子",
+        "name": "하나나",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043310679210569728/ph6qicjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 238,
+          "like_count": 6884,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 6038
+        },
+        "username": "kkggxxyy",
+        "verified": true
+      }
+    ]
+  }
+}

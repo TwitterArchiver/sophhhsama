@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024049183083143168"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2024049190590964194",
+    "created_at": "2026-02-18T09:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T10:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024049190590964194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dpYq4eCAEU",
+          "end": 93,
+          "expanded_url": "https://x.com/sophhhsama/status/2024049190590964194/photo/1",
+          "media_key": "3_2024049183083143168",
+          "start": 70,
+          "url": "https://t.co/dpYq4eCAEU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024049190590964194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爸妈给的红包我都拿去买人妖药了\n不够还要自己贴 他们早出晚归上班当牛马 还得担心入不敷支 \n我觉得我真不是个东西\n什么时候才能自己挣钱买药 https://t.co/dpYq4eCAEU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_2024049183083143168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbeAhWXIAArS-z.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024049183083143168"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2024049190590964194",
+        "created_at": "2026-02-18T09:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024049190590964194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpYq4eCAEU",
+              "end": 93,
+              "expanded_url": "https://x.com/sophhhsama/status/2024049190590964194/photo/1",
+              "media_key": "3_2024049183083143168",
+              "start": 70,
+              "url": "https://t.co/dpYq4eCAEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024049190590964194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爸妈给的红包我都拿去买人妖药了\n不够还要自己贴 他们早出晚归上班当牛马 还得担心入不敷支 \n我觉得我真不是个东西\n什么时候才能自己挣钱买药 https://t.co/dpYq4eCAEU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 64,
+          "like_count": 1070,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 255
+        },
+        "username": "sophhhsama",
+        "verified": true
+      }
+    ]
+  }
+}

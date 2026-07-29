@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2037109789008818572",
+    "created_at": "2026-03-26T10:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T11:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037109789008818572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/520illusion/st…",
+          "end": 137,
+          "expanded_url": "https://twitter.com/520illusion/status/2037100188238831967",
+          "start": 114,
+          "url": "https://t.co/xqTrqJdgcj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037109789008818572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037100188238831967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很多欧美地区因为贴片凝胶或者药丸（非处方的获取难度高/价格太贵\n所以想省钱的几乎都只能用这种圈子里作坊做的vial\n不过通常来说只要是从口碑较好的人买的话浓度什么的几乎不会有问题\n毕竟制作难度不高，有些作坊还会提供化验纯度报告 https://t.co/xqTrqJdgcj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1763,
+        "media_key": "3_2037099762324037632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEU7cNlbYAAoRxi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2037109789008818572",
+        "created_at": "2026-03-26T10:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037109789008818572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/520illusion/st…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/520illusion/status/2037100188238831967",
+              "start": 114,
+              "url": "https://t.co/xqTrqJdgcj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037109789008818572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037100188238831967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多欧美地区因为贴片凝胶或者药丸（非处方的获取难度高/价格太贵\n所以想省钱的几乎都只能用这种圈子里作坊做的vial\n不过通常来说只要是从口碑较好的人买的话浓度什么的几乎不会有问题\n毕竟制作难度不高，有些作坊还会提供化验纯度报告 https://t.co/xqTrqJdgcj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037099762324037632"
+          ]
+        },
+        "author_id": "1780369819310981120",
+        "conversation_id": "2037100188238831967",
+        "created_at": "2026-03-26T09:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037100188238831967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tEWFXSTWNw",
+              "end": 90,
+              "expanded_url": "https://x.com/520illusion/status/2037100188238831967/photo/1",
+              "media_key": "3_2037099762324037632",
+              "start": 67,
+              "url": "https://t.co/tEWFXSTWNw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037100188238831967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 223,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "翻到了一位前辈给的雌二醇注射剂 \n10ml 80美刀 因为怕痛一直没用过\n\n是欧洲流行的DIY雌激素注射液\n总想试试，但是怕雌爆血栓 https://t.co/tEWFXSTWNw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtcat | 小猫与sophie共同操作 想到什么发什么 | 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫🍥",
+        "pinned_tweet_id": "2036769439769575891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 231,
+          "like_count": 6806,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 966
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "All in crypto | 08 | 高贵顺直男 | 杭州南京武汉随机刷新 想和可爱的人面面 | illusion | 抑郁幻想向 | 坠落星空 | 梦幻主义 | 蓝 | 氯硝西泮 | 终将成为你 | 我向神明祈祷 许你岁岁平安",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市轨道交通3号线中兴大桥南站A出口",
+        "name": "ill",
+        "pinned_tweet_id": "2036354838578057483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028863680889372672/zT5FAaR9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4267,
+          "following_count": 438,
+          "like_count": 9037,
+          "listed_count": 7,
+          "media_count": 693,
+          "tweet_count": 5328
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

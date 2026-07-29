@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2037096514389184748",
+    "created_at": "2026-03-26T15:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T16:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037196995358572620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1634777386469462016",
+          "start": 0,
+          "username": "ninirakugaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037196995358572620",
+    "in_reply_to_user_id": "1634777386469462016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037096514389184748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ninirakugaki もういつ私の番なの〜？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2037096514389184748",
+        "created_at": "2026-03-26T15:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037196995358572620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634777386469462016",
+              "start": 0,
+              "username": "ninirakugaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037196995358572620",
+        "in_reply_to_user_id": "1634777386469462016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037096514389184748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ninirakugaki もういつ私の番なの〜？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634777386469462016",
+        "conversation_id": "2037096514389184748",
+        "created_at": "2026-03-26T09:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037096514389184748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037096514389184748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 359,
+          "impression_count": 1149027,
+          "like_count": 18028,
+          "quote_count": 18,
+          "reply_count": 74,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "悲報\n\n妹、卒業式で\n告白される"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtcat | 小猫/sophie 想到什么发什么 | 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫🍥",
+        "pinned_tweet_id": "2036769439769575891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 233,
+          "like_count": 6931,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T04:45:12.000Z",
+        "description": "お絵描きと日記",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/79774108",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/79774108",
+                "start": 0,
+                "url": "https://t.co/DLN6l56BQn"
+              }
+            ]
+          }
+        },
+        "id": "1634777386469462016",
+        "location": "ポルナレフランド",
+        "name": "ニニ",
+        "pinned_tweet_id": "1823660870322487549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842952322856681472/jUvnxvAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17617,
+          "following_count": 815,
+          "like_count": 12560,
+          "listed_count": 65,
+          "media_count": 1219,
+          "tweet_count": 5366
+        },
+        "url": "https://t.co/DLN6l56BQn",
+        "username": "ninirakugaki",
+        "verified": false
+      }
+    ]
+  }
+}

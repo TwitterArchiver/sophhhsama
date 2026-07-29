@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2021432161631690864",
+    "created_at": "2026-02-11T18:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T19:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021660301784232313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1926872763026849792",
+          "start": 0,
+          "username": "haleysoeepy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021660301784232313",
+    "in_reply_to_user_id": "1926872763026849792",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021432161631690864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haleysoeepy slayyyyyy girl x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2500,
+        "height": 720,
+        "media_key": "13_2021432095537799168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021432095537799168/img/txWCBhPJ2y6mBVEC.jpg",
+        "public_metrics": {
+          "view_count": 3286
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021432095537799168/vid/avc1/480x270/i8Enx_Vn4VKBfB2Y.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021432095537799168/vid/avc1/640x360/ffbcC29Sa34es4bj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021432095537799168/vid/avc1/1280x720/8dScnlvf4wgVqYwo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021432095537799168/pl/7oYJDt4YI52hAeTQ.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2021432161631690864",
+        "created_at": "2026-02-11T18:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T19:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021660301784232313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1926872763026849792",
+              "start": 0,
+              "username": "haleysoeepy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021660301784232313",
+        "in_reply_to_user_id": "1926872763026849792",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021432161631690864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haleysoeepy slayyyyyy girl x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021432095537799168"
+          ]
+        },
+        "author_id": "1926872763026849792",
+        "conversation_id": "2021432161631690864",
+        "created_at": "2026-02-11T03:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T04:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021432161631690864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BOfCTjR1ht",
+              "end": 67,
+              "expanded_url": "https://x.com/haleysoeepy/status/2021432161631690864/video/1",
+              "media_key": "13_2021432095537799168",
+              "start": 44,
+              "url": "https://t.co/BOfCTjR1ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021432161631690864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 12176,
+          "like_count": 720,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "Okay “no makeup” makeup look kinda ate here https://t.co/BOfCTjR1ht"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 55,
+          "like_count": 659,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 123
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-26T05:27:32.000Z",
+        "description": "𝕸𝖉𝖓𝖎 🔞 || 𝟚𝟝 || 🏳️‍⚧️🇭🇰🇲🇾 || 𝕯𝖊𝖘𝖎𝖌𝖓𝖊𝖗 🖌️|| https://t.co/MsvtE3vvqx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "throne.com/haleysoeepy",
+                "end": 66,
+                "expanded_url": "http://throne.com/haleysoeepy",
+                "start": 43,
+                "url": "https://t.co/MsvtE3vvqx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/haleysoeepy",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/haleysoeepy",
+                "start": 0,
+                "url": "https://t.co/t9LMucL6G8"
+              }
+            ]
+          }
+        },
+        "id": "1926872763026849792",
+        "location": "𝕊𝕖𝕖 𝕞𝕪 𝕝𝕚𝕟𝕜𝕤 ➵",
+        "name": "🏳️‍⚧️❀ 𝕳𝖆𝖑𝖊𝖞 ❀🏳️‍⚧️",
+        "pinned_tweet_id": "2000861036224897349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018474275922182145/cC8vyGL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4437,
+          "following_count": 672,
+          "like_count": 50598,
+          "listed_count": 4,
+          "media_count": 461,
+          "tweet_count": 1468
+        },
+        "url": "https://t.co/t9LMucL6G8",
+        "username": "haleysoeepy",
+        "verified": false
+      }
+    ]
+  }
+}

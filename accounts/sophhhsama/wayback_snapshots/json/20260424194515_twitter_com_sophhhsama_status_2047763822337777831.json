@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2047758486436454646",
+    "created_at": "2026-04-24T19:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T20:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047763822337777831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1659190798104297476",
+          "start": 0,
+          "username": "EinMensch_168"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/sophhhsama/sta…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/sophhhsama/status/2047344630316859798",
+          "start": 110,
+          "url": "https://t.co/MZHvRovKxE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047763822337777831",
+    "in_reply_to_user_id": "1659190798104297476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047344630316859798",
+        "type": "quoted"
+      },
+      {
+        "id": "2047762338175172686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EinMensch_168 可能是潜意识里让自己不要想笨蛋事\n就让自己一直做事\n不过就是慢慢又状态回落\n像今天和昨晚估计压力有点大又开始躯体化什么的\n总之就只能听天由命了 学习这方面\n（话说小桃这么晚不睡和小猫聊天呢 https://t.co/MZHvRovKxE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2047758486436454646",
+        "created_at": "2026-04-24T19:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047763822337777831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sophhhsama/sta…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/sophhhsama/status/2047344630316859798",
+              "start": 110,
+              "url": "https://t.co/MZHvRovKxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047763822337777831",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047344630316859798",
+            "type": "quoted"
+          },
+          {
+            "id": "2047762338175172686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 可能是潜意识里让自己不要想笨蛋事\n就让自己一直做事\n不过就是慢慢又状态回落\n像今天和昨晚估计压力有点大又开始躯体化什么的\n总之就只能听天由命了 学习这方面\n（话说小桃这么晚不睡和小猫聊天呢 https://t.co/MZHvRovKxE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2047344630316859798",
+        "created_at": "2026-04-23T15:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047344630316859798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sophhhsama/sta…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/sophhhsama/status/2047268550411248112",
+              "start": 97,
+              "url": "https://t.co/GAqhAr4FOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047344630316859798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047268550411248112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天和昨天意外的比较能专注\n虽然说启动时间需要比较久\n不过都能有三个小时左右（或以上）的心流状态\n不过今天后半段开始感觉到有点难受了\n希望不会这么快就又过载了\n犒劳一下小猫自己吧\n肯德基我来辣 https://t.co/GAqhAr4FOu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2047758486436454646",
+        "created_at": "2026-04-24T19:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047762338175172686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223415775278428160",
+              "start": 0,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047762338175172686",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047761270078611768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophhhsama 情绪起起伏伏很正常，不过为了尽量控制情绪不要过大变化，多做点事是非常对的，做事情的时候情绪经常会一直稳定不变。而且正好利用状态好的时候去把那些事完成。有时候多去干自己认为有意义的事情，比如满足自己的圣母想法，能够对情绪有很大的帮助"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 368,
+          "like_count": 13791,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 2065
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃2.1，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。🏳️‍🌈🏳️‍⚧️🏳️*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2047728143939862951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 222,
+          "like_count": 1400,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      }
+    ]
+  }
+}

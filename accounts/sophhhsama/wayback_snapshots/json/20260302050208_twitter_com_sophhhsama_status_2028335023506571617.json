@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2028022272196546561"
+      ],
+      "media_source_tweet_id": [
+        "2028022373698703758"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2028335023506571617",
+    "created_at": "2026-03-02T05:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028335023506571617"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 30,
+          "tag": "HOMEWORKS2025"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "44119388",
+          "start": 3,
+          "username": "hikaeme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ciFxBheU7",
+          "end": 68,
+          "expanded_url": "https://x.com/hikaeme/status/2028022373698703758/video/1",
+          "media_key": "7_2028022272196546561",
+          "start": 45,
+          "url": "https://t.co/4ciFxBheU7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028335023506571617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2901
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028022373698703758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hikaeme: 脳波に連動して動きが変わります\n\n#HOMEWORKS2025 https://t.co/4ciFxBheU7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28032,
+        "height": 1080,
+        "media_key": "7_2028022272196546561",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2028022272196546561/pu/img/qOszun2N5YjZ3_p5.jpg",
+        "public_metrics": {
+          "view_count": 476504
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028022272196546561/pu/vid/avc1/1280x720/imEqoCcojhwdv5WM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028022272196546561/pu/vid/avc1/640x360/yShk7zW3GfHtSAjl.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028022272196546561/pu/vid/avc1/480x270/uF2vXF9O7hEuE5AB.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028022272196546561/pu/vid/avc1/1920x1080/0vsZIJZs3p9cRtUE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2028022272196546561/pu/pl/77hbRoD5s7UpMMYX.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028022272196546561"
+          ],
+          "media_source_tweet_id": [
+            "2028022373698703758"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2028335023506571617",
+        "created_at": "2026-03-02T05:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028335023506571617"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 30,
+              "tag": "HOMEWORKS2025"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "44119388",
+              "start": 3,
+              "username": "hikaeme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ciFxBheU7",
+              "end": 68,
+              "expanded_url": "https://x.com/hikaeme/status/2028022373698703758/video/1",
+              "media_key": "7_2028022272196546561",
+              "start": 45,
+              "url": "https://t.co/4ciFxBheU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028335023506571617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2901
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028022373698703758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hikaeme: 脳波に連動して動きが変わります\n\n#HOMEWORKS2025 https://t.co/4ciFxBheU7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028022272196546561"
+          ]
+        },
+        "author_id": "44119388",
+        "conversation_id": "2028022373698703758",
+        "created_at": "2026-03-01T08:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T09:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028022373698703758"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 17,
+              "tag": "HOMEWORKS2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ciFxBheU7",
+              "end": 55,
+              "expanded_url": "https://x.com/hikaeme/status/2028022373698703758/video/1",
+              "media_key": "7_2028022272196546561",
+              "start": 32,
+              "url": "https://t.co/4ciFxBheU7"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "6594b6f47e9b9211"
+        },
+        "id": "2028022373698703758",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2847,
+          "impression_count": 993138,
+          "like_count": 25167,
+          "quote_count": 324,
+          "reply_count": 21,
+          "retweet_count": 2901
+        },
+        "reply_settings": "everyone",
+        "text": "脳波に連動して動きが変わります\n\n#HOMEWORKS2025 https://t.co/4ciFxBheU7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | Aspiring med student. spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028253766047166464/6nF3n9OY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 114,
+          "like_count": 2371,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 432
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-02T13:41:28.000Z",
+        "description": "ものを作るのが好きな人。https://t.co/iRnKXWDTX0 |  https://t.co/dtonWmHtoK | https://t.co/Do0IMP1GLz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cassettify.com",
+                "end": 35,
+                "expanded_url": "https://cassettify.com",
+                "start": 12,
+                "url": "https://t.co/iRnKXWDTX0"
+              },
+              {
+                "display_url": "shop.hikaeme.net",
+                "end": 62,
+                "expanded_url": "http://shop.hikaeme.net",
+                "start": 39,
+                "url": "https://t.co/dtonWmHtoK"
+              },
+              {
+                "display_url": "denbi.org",
+                "end": 88,
+                "expanded_url": "https://denbi.org",
+                "start": 65,
+                "url": "https://t.co/Do0IMP1GLz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hikaeme.net",
+                "end": 23,
+                "expanded_url": "https://www.hikaeme.net/",
+                "start": 0,
+                "url": "https://t.co/hggCukKQdS"
+              }
+            ]
+          }
+        },
+        "id": "44119388",
+        "location": "Tokyo, Japan",
+        "name": "Yuji Nakada",
+        "pinned_tweet_id": "1445743383641681930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1099527650656178177/cklGIS5F_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 1877,
+          "like_count": 37694,
+          "listed_count": 41,
+          "media_count": 988,
+          "tweet_count": 17809
+        },
+        "url": "https://t.co/hggCukKQdS",
+        "username": "hikaeme",
+        "verified": true
+      }
+    ]
+  }
+}

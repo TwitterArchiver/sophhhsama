@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2046486208180518993",
+    "created_at": "2026-04-21T07:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T08:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046486208180518993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sophhhsama/sta…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/sophhhsama/status/2046176071658172615",
+          "start": 64,
+          "url": "https://t.co/22kPO4QnqH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046486208180518993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046176071658172615",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "噢其实不算是吧\n急性中毒得&gt;10g的话\n还是心脏药香\n骤停直接把小猫放倒\n算了喵想想就好了\n小猫暂时还好 没很强烈的想法 https://t.co/22kPO4QnqH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2046486208180518993",
+        "created_at": "2026-04-21T07:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046486208180518993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sophhhsama/sta…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/sophhhsama/status/2046176071658172615",
+              "start": 64,
+              "url": "https://t.co/22kPO4QnqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046486208180518993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046176071658172615",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "噢其实不算是吧\n急性中毒得&gt;10g的话\n还是心脏药香\n骤停直接把小猫放倒\n算了喵想想就好了\n小猫暂时还好 没很强烈的想法 https://t.co/22kPO4QnqH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2046176071658172615",
+        "created_at": "2026-04-20T10:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046176071658172615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jutangxiao1229…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/jutangxiao1229/status/2045304828231049372",
+              "start": 12,
+              "url": "https://t.co/TU8pazXD1p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046176071658172615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045304828231049372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像就是我…\n我好难受 https://t.co/TU8pazXD1p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 355,
+          "like_count": 12926,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 1922
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

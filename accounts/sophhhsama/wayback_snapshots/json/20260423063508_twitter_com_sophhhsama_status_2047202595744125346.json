@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2047202595744125346",
+    "created_at": "2026-04-23T06:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T07:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047202595744125346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chichichibai/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/chichichibai/status/2047188551297909116",
+          "start": 17,
+          "url": "https://t.co/SI6UdONZXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047202595744125346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047188551297909116",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈呀今天这个天气我以为我在英国。 https://t.co/SI6UdONZXI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2047202595744125346",
+        "created_at": "2026-04-23T06:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047202595744125346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chichichibai/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/chichichibai/status/2047188551297909116",
+              "start": 17,
+              "url": "https://t.co/SI6UdONZXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047202595744125346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047188551297909116",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈呀今天这个天气我以为我在英国。 https://t.co/SI6UdONZXI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942290305413480448",
+        "conversation_id": "2047188551297909116",
+        "created_at": "2026-04-23T05:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047188551297909116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047188551297909116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈呀今天这个天气我以为我在英国。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 360,
+          "like_count": 13321,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1978
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T18:31:25.000Z",
+        "description": "07//身心取向男/学历崇拜者/三次深柜/阴湿长发男/欢迎大家在下方链接提问/*待补充\n政治/歧视言论/绝大多数的辩经/无厚码墙内转发NG\n会默认看过置顶\n非空非纯看黄号无政治言论的号基本都会回关❤️欢迎大家找我玩ww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%BF%9F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%BF%9F%E7%99%BD",
+                "start": 0,
+                "url": "https://t.co/ZzyV1q11Sp"
+              }
+            ]
+          }
+        },
+        "id": "1942290305413480448",
+        "name": "白🌟迟",
+        "pinned_tweet_id": "2031031255014482261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961467345672757248/1rulkNwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 497,
+          "like_count": 12837,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 3708
+        },
+        "url": "https://t.co/ZzyV1q11Sp",
+        "username": "chichichibai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2053400410245783652",
+    "created_at": "2026-05-10T09:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053400410245783652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lin_wanqiu/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/lin_wanqiu/status/2052682583696363874",
+          "start": 13,
+          "url": "https://t.co/4Ff8H0R903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053400410245783652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052682583696363874",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们每周都要酱紫开会的😎 https://t.co/4Ff8H0R903"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1826,
+        "media_key": "3_2052682580970065920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyX7otaUAAhLi_.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2053400410245783652",
+        "created_at": "2026-05-10T09:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053400410245783652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lin_wanqiu/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/lin_wanqiu/status/2052682583696363874",
+              "start": 13,
+              "url": "https://t.co/4Ff8H0R903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053400410245783652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052682583696363874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们每周都要酱紫开会的😎 https://t.co/4Ff8H0R903"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052682580970065920"
+          ]
+        },
+        "author_id": "1552940762186125312",
+        "conversation_id": "2052682583696363874",
+        "created_at": "2026-05-08T09:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052682583696363874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yp2w7dYRq4",
+              "end": 33,
+              "expanded_url": "https://x.com/lin_wanqiu/status/2052682583696363874/photo/1",
+              "media_key": "3_2052682580970065920",
+              "start": 10,
+              "url": "https://t.co/Yp2w7dYRq4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052682583696363874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 99758,
+          "like_count": 5914,
+          "quote_count": 17,
+          "reply_count": 568,
+          "retweet_count": 314
+        },
+        "reply_settings": "everyone",
+        "text": "看来这事儿很紧急了 https://t.co/Yp2w7dYRq4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n好姐姐 @tingxinzhongyu 好朋友萌 @slclst @Cheeseduck111 @djzi237149 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 83,
+                "start": 76,
+                "username": "slclst"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "djzi237149"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 339,
+          "like_count": 18473,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 2616
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T08:55:25.000Z",
+        "description": "爱好:主机游戏，和观察生物多样性。\n旷野之息300小时，王国之泪200小时萌新。\nNintendo ruled the world.\n\n任豚\n\n（私信不回）",
+        "id": "1552940762186125312",
+        "location": "Fuzhou,Fujian,China",
+        "name": "电子莽夫秀总",
+        "pinned_tweet_id": "1834486024262873132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861099641481392128/MeiHKuck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3615,
+          "following_count": 1713,
+          "like_count": 34792,
+          "listed_count": 11,
+          "media_count": 2763,
+          "tweet_count": 22910
+        },
+        "username": "lin_wanqiu",
+        "verified": false
+      }
+    ]
+  }
+}

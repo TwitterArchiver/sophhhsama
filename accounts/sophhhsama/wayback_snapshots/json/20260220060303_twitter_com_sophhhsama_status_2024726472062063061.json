@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2024726472062063061",
+    "created_at": "2026-02-20T06:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T07:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024726472062063061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ddaquaforever/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/ddaquaforever/status/2024487276043260019",
+          "start": 12,
+          "url": "https://t.co/jrZ7FalRco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024726472062063061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024487276043260019",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "话不多说\n我要速通了😈 https://t.co/jrZ7FalRco"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 855,
+        "media_key": "3_2024487220116410370",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhsZodbUAImuVh.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2024726472062063061",
+        "created_at": "2026-02-20T06:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024726472062063061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ddaquaforever/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/ddaquaforever/status/2024487276043260019",
+              "start": 12,
+              "url": "https://t.co/jrZ7FalRco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024726472062063061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024487276043260019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "话不多说\n我要速通了😈 https://t.co/jrZ7FalRco"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024487220116410370"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2024487276043260019",
+        "created_at": "2026-02-19T14:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024487276043260019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RysOtB7WPr",
+              "end": 36,
+              "expanded_url": "https://x.com/DDaquaforever/status/2024487276043260019/photo/1",
+              "media_key": "3_2024487220116410370",
+              "start": 13,
+              "url": "https://t.co/RysOtB7WPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024487276043260019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1486,
+          "like_count": 123,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在路上遇到了最终BOSS https://t.co/RysOtB7WPr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. spam account. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 67,
+          "like_count": 1306,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 287
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "不想多说什么了 可爱的YOYO：@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2957,
+          "following_count": 3322,
+          "like_count": 4860,
+          "listed_count": 9,
+          "media_count": 1756,
+          "tweet_count": 7978
+        },
+        "username": "DDaquaforever",
+        "verified": false
+      }
+    ]
+  }
+}

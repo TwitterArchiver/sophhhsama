@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2031021439202238540",
+    "created_at": "2026-03-09T17:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T18:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031063875030798457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1686351299024179200",
+          "start": 0,
+          "username": "hikarimazu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031063875030798457",
+    "in_reply_to_user_id": "1686351299024179200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031021439202238540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikarimazu 用了15后再也回不去了喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031021428922032128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-jOpIaoAAq70A.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2031021439202238540",
+        "created_at": "2026-03-09T17:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T18:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031063875030798457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1686351299024179200",
+              "start": 0,
+              "username": "hikarimazu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031063875030798457",
+        "in_reply_to_user_id": "1686351299024179200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031021439202238540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikarimazu 用了15后再也回不去了喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031021428922032128"
+          ]
+        },
+        "author_id": "1686351299024179200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Newlyweds",
+              "id": "847546008917520384",
+              "name": "Newlyweds"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2031021439202238540",
+        "created_at": "2026-03-09T14:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031021439202238540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yz5nv9FaPv",
+              "end": 40,
+              "expanded_url": "https://x.com/hikarimazu/status/2031021439202238540/photo/1",
+              "media_key": "3_2031021428922032128",
+              "start": 17,
+              "url": "https://t.co/Yz5nv9FaPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031021439202238540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1123,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已宣告和Oppo分手 新婚是苹果 https://t.co/Yz5nv9FaPv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | 是sophie吖 | spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 95,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhh小猫🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028253766047166464/6nF3n9OY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 156,
+          "like_count": 4106,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 625
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-01T12:21:07.000Z",
+        "description": "若只能于记忆中与你相见 | 男友 @undulae  | 浪漫回憶錄（里推） @kirarimazu | 永夜的帷幕（负能推） @renixanco | @nyahkrimazu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "undulae"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "kirarimazu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "renixanco"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "nyahkrimazu"
+              }
+            ]
+          }
+        },
+        "id": "1686351299024179200",
+        "name": "hikarimazu",
+        "pinned_tweet_id": "2025553279212822715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023303871947489280/fKCzO1MU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3242,
+          "following_count": 994,
+          "like_count": 53577,
+          "listed_count": 6,
+          "media_count": 541,
+          "tweet_count": 2117
+        },
+        "username": "hikarimazu",
+        "verified": false
+      }
+    ]
+  }
+}

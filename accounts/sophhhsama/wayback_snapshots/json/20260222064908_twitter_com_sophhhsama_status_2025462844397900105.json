@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2025390857671901201",
+    "created_at": "2026-02-22T06:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T07:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025462844397900105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1981693695578791936",
+          "start": 0,
+          "username": "Jskyeye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025462844397900105",
+    "in_reply_to_user_id": "1981693695578791936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025390857671901201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jskyeye 123全中啊（性少数不友好，情绪化，控制欲强，经济依赖度高）怎么办\n孩子急哭了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1358,
+        "media_key": "3_2025390850629607424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBuiP2caoAAf4Mg.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2025390857671901201",
+        "created_at": "2026-02-22T06:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025462844397900105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1981693695578791936",
+              "start": 0,
+              "username": "Jskyeye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025462844397900105",
+        "in_reply_to_user_id": "1981693695578791936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025390857671901201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jskyeye 123全中啊（性少数不友好，情绪化，控制欲强，经济依赖度高）怎么办\n孩子急哭了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025390850629607424"
+          ]
+        },
+        "author_id": "1981693695578791936",
+        "conversation_id": "2025390857671901201",
+        "created_at": "2026-02-22T02:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025390857671901201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nJL5wwvfhh",
+              "end": 32,
+              "expanded_url": "https://x.com/Jskyeye/status/2025390857671901201/photo/1",
+              "media_key": "3_2025390850629607424",
+              "start": 9,
+              "url": "https://t.co/nJL5wwvfhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025390857671901201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉他说的好对🥹 https://t.co/nJL5wwvfhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. spam account. 18, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 83,
+          "like_count": 1540,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 325
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-24T12:06:41.000Z",
+        "description": "原来是@JuiceskyYeye｜MtF｜美食区博主?😜｜努力保持阳光☀️健康",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "JuiceskyYeye"
+              }
+            ]
+          }
+        },
+        "id": "1981693695578791936",
+        "name": "𝐒𝐤𝐲𝐞𝐲𝐞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986750507059384320/QFwa72W5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 666,
+          "like_count": 8558,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 704
+        },
+        "username": "Jskyeye",
+        "verified": true
+      }
+    ]
+  }
+}

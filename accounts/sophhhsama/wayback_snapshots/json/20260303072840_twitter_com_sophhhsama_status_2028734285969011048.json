@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028734163604369408"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2028734285969011048",
+    "created_at": "2026-03-03T07:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T08:28:13.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028734173846917522",
+      "2028734285969011048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9i6QdoNWUS",
+          "end": 48,
+          "expanded_url": "https://x.com/sophhhsama/status/2028734285969011048/photo/1",
+          "media_key": "3_2028734163604369408",
+          "start": 25,
+          "url": "https://t.co/9i6QdoNWUS"
+        },
+        {
+          "display_url": "x.com/ye_and_yae/sta…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/ye_and_yae/status/2028478943775560167",
+          "start": 49,
+          "url": "https://t.co/Nb4NUYCQsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028734285969011048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028478943775560167",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2k整间出租屋\n美美女装没人管\n嘻嘻嘻\n发下梦先 https://t.co/9i6QdoNWUS https://t.co/Nb4NUYCQsj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1789,
+        "media_key": "3_2028734163604369408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeC-R1WcAA6zZC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028734163604369408"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2028734173846917522",
+        "created_at": "2026-03-03T07:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T08:28:13.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028734173846917522",
+          "2028734285969011048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZth3fsR46",
+              "end": 50,
+              "expanded_url": "https://x.com/sophhhsama/status/2028734173846917522/photo/1",
+              "media_key": "3_2028734163604369408",
+              "start": 27,
+              "url": "https://t.co/hZth3fsR46"
+            },
+            {
+              "display_url": "x.com/ye_and_yae/sta…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/ye_and_yae/status/2028478943775560167",
+              "start": 51,
+              "url": "https://t.co/Nb4NUYCQsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028734173846917522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028478943775560167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2-3k整间出租屋\n美美女装没人管\n嘻嘻嘻\n发下梦先 https://t.co/hZth3fsR46 https://t.co/Nb4NUYCQsj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028734163604369408"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2028734285969011048",
+        "created_at": "2026-03-03T07:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T08:28:13.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028734173846917522",
+          "2028734285969011048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9i6QdoNWUS",
+              "end": 48,
+              "expanded_url": "https://x.com/sophhhsama/status/2028734285969011048/photo/1",
+              "media_key": "3_2028734163604369408",
+              "start": 25,
+              "url": "https://t.co/9i6QdoNWUS"
+            },
+            {
+              "display_url": "x.com/ye_and_yae/sta…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/ye_and_yae/status/2028478943775560167",
+              "start": 49,
+              "url": "https://t.co/Nb4NUYCQsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028734285969011048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028478943775560167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2k整间出租屋\n美美女装没人管\n嘻嘻嘻\n发下梦先 https://t.co/9i6QdoNWUS https://t.co/Nb4NUYCQsj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813768883540725760",
+        "conversation_id": "2028478943775560167",
+        "created_at": "2026-03-02T14:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028478943775560167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zqc_00008516/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/zqc_00008516/status/2028444574692114806",
+              "start": 18,
+              "url": "https://t.co/dHmGO2CnXz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028478943775560167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028444574692114806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我什么时候才能有属于自己可以宅的家 https://t.co/dHmGO2CnXz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | Aspiring med student. spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028253766047166464/6nF3n9OY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 118,
+          "like_count": 2488,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 451
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "09年物化地高三生 o(╥﹏╥)o    喜欢Starship和其他所有火箭🚀    虽然是男生但是想要变得可爱(⑅˃◡˂⑅)  正在努力学日语 最喜欢神子了\n 主人 @YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 84,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "location": "Starbase TX",
+        "name": "爱晔",
+        "pinned_tweet_id": "2026956619695997393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017460182025179138/DHbQ3HXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 613,
+          "like_count": 2556,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1636
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false
+      }
+    ]
+  }
+}

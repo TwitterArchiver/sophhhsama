@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2073500110877540781",
+    "created_at": "2026-07-05T07:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073664215269646610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778901110352166913",
+          "start": 0,
+          "username": "mio_shirakawa"
+        },
+        {
+          "end": 26,
+          "id": "1851835690616864768",
+          "start": 15,
+          "username": "maplefsnow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073664215269646610",
+    "in_reply_to_user_id": "1778901110352166913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073500110877540781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio_shirakawa @maplefsnow 这可会非常呀咪，女士🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073500105479475200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMaNXCzW0AApNY2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073500105454342144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMaNXCtXUAA4UV6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2073500110877540781",
+        "created_at": "2026-07-05T07:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073664215269646610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778901110352166913",
+              "start": 0,
+              "username": "mio_shirakawa"
+            },
+            {
+              "end": 26,
+              "id": "1851835690616864768",
+              "start": 15,
+              "username": "maplefsnow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073664215269646610",
+        "in_reply_to_user_id": "1778901110352166913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073500110877540781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio_shirakawa @maplefsnow 这可会非常呀咪，女士🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073500105479475200",
+            "3_2073500105454342144"
+          ]
+        },
+        "author_id": "1778901110352166913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073500110877540781",
+        "created_at": "2026-07-04T20:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073500110877540781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOK5TBrLif",
+              "end": 70,
+              "expanded_url": "https://x.com/mio_shirakawa/status/2073500110877540781/photo/1",
+              "media_key": "3_2073500105479475200",
+              "start": 47,
+              "url": "https://t.co/KOK5TBrLif"
+            },
+            {
+              "display_url": "pic.x.com/KOK5TBrLif",
+              "end": 70,
+              "expanded_url": "https://x.com/mio_shirakawa/status/2073500110877540781/photo/1",
+              "media_key": "3_2073500105454342144",
+              "start": 47,
+              "url": "https://t.co/KOK5TBrLif"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073500110877540781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1231,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "- 要一个大肘子，加上所有的配菜，再浇上浓浓的汁。再来一杯冰啤酒。\n- 这可得不少热量，女士 https://t.co/KOK5TBrLif"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 467,
+          "like_count": 26275,
+          "listed_count": 2,
+          "media_count": 379,
+          "tweet_count": 3488
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T21:41:05.000Z",
+        "description": "🇪🇺🏳️‍⚧️ | Mais dis-moi pourquoi ce chemin de croix\n💫想成为你眼里的光 最好的小猫 🐱 @maplefsnow \n🍋闺闺 @tongzikin\n💌不定期看私信 私信请说明来意",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 69,
+                "username": "maplefsnow"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "tongzikin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mio.cat",
+                "end": 23,
+                "expanded_url": "https://mio.cat",
+                "start": 0,
+                "url": "https://t.co/BUBis8qHBs"
+              }
+            ]
+          }
+        },
+        "id": "1778901110352166913",
+        "location": "Aachen, Deutschland",
+        "name": "白川澪❄️",
+        "pinned_tweet_id": "2031251156408676754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976738538851807232/LutW0d7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 95,
+          "like_count": 7883,
+          "listed_count": 4,
+          "media_count": 127,
+          "tweet_count": 943
+        },
+        "url": "https://t.co/BUBis8qHBs",
+        "username": "mio_shirakawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T03:57:08.000Z",
+        "description": "💬 如果炽热终将枯萎，就一同死去的火新生\n🇪🇺 | INFP-T | 高功耗低电压\n@mio_shirakawa 💫最好的姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "mio_shirakawa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maplef.top",
+                "end": 23,
+                "expanded_url": "https://maplef.top",
+                "start": 0,
+                "url": "https://t.co/FqGa28kWFB"
+              }
+            ]
+          }
+        },
+        "id": "1851835690616864768",
+        "location": "亚琛城外小枫窝",
+        "name": "Maplef 猫扑枫 🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930198540648886275/bcEbrmxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3757,
+          "following_count": 224,
+          "like_count": 19141,
+          "listed_count": 9,
+          "media_count": 419,
+          "tweet_count": 1465
+        },
+        "url": "https://t.co/FqGa28kWFB",
+        "username": "maplefsnow",
+        "verified": false
+      }
+    ]
+  }
+}

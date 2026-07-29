@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2025053627023589416",
+    "created_at": "2026-02-21T07:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025116553100906669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1736356235484803072",
+          "start": 0,
+          "username": "yuuaoi771806"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025116553100906669",
+    "in_reply_to_user_id": "1736356235484803072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025053627023589416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuaoi771806 姐姐好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2025053615631859713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpviMLbgAE9_dY.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2025053615623471105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpviMJbgAEfC-N.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2025053627023589416",
+        "created_at": "2026-02-21T07:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025116553100906669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1736356235484803072",
+              "start": 0,
+              "username": "yuuaoi771806"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025116553100906669",
+        "in_reply_to_user_id": "1736356235484803072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025053627023589416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuaoi771806 姐姐好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025053615631859713",
+            "3_2025053615623471105"
+          ]
+        },
+        "author_id": "1736356235484803072",
+        "conversation_id": "2025053627023589416",
+        "created_at": "2026-02-21T03:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025053627023589416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v4ZFidUSzF",
+              "end": 42,
+              "expanded_url": "https://x.com/yuuaoi771806/status/2025053627023589416/photo/1",
+              "media_key": "3_2025053615631859713",
+              "start": 19,
+              "url": "https://t.co/v4ZFidUSzF"
+            },
+            {
+              "display_url": "pic.x.com/v4ZFidUSzF",
+              "end": 42,
+              "expanded_url": "https://x.com/yuuaoi771806/status/2025053627023589416/photo/1",
+              "media_key": "3_2025053615623471105",
+              "start": 19,
+              "url": "https://t.co/v4ZFidUSzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025053627023589416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1519,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "高价出售本人脑子，没有用过，有意者私 https://t.co/v4ZFidUSzF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. spam account. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 69,
+          "like_count": 1412,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 304
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-17T12:02:51.000Z",
+        "description": "|MTF|✨|小证|含🍥女|单亲、缺乏父爱、癫痫史|想变可爱捏✨|欢迎互fo☺️\ntg频道: https://t.co/aWOsynoRhO\n闲聊：https://t.co/4R4UKXdTIM\n本喵用的vpn: https://t.co/uHBZa7gbCb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+KvHsA15kzR5lN…",
+                "end": 70,
+                "expanded_url": "https://t.me/+KvHsA15kzR5lNjM1",
+                "start": 47,
+                "url": "https://t.co/aWOsynoRhO"
+              },
+              {
+                "display_url": "t.me/naimiacc",
+                "end": 97,
+                "expanded_url": "https://t.me/naimiacc",
+                "start": 74,
+                "url": "https://t.co/4R4UKXdTIM"
+              },
+              {
+                "display_url": "vip16888.com/signup.html?co…",
+                "end": 130,
+                "expanded_url": "https://www.vip16888.com/signup.html?code=OEH5A",
+                "start": 107,
+                "url": "https://t.co/uHBZa7gbCb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/naimiaocc",
+                "end": 23,
+                "expanded_url": "https://t.me/naimiaocc",
+                "start": 0,
+                "url": "https://t.co/hs0cu1gHgM"
+              }
+            ]
+          }
+        },
+        "id": "1736356235484803072",
+        "location": "0.1km",
+        "name": "小奈喵🍥",
+        "pinned_tweet_id": "2018275643432300796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819653605252911104/HTENPAWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3226,
+          "following_count": 433,
+          "like_count": 568,
+          "listed_count": 13,
+          "media_count": 297,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/hs0cu1gHgM",
+        "username": "yuuaoi771806",
+        "verified": true
+      }
+    ]
+  }
+}

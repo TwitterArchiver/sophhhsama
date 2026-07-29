@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2023470641501127152",
+    "created_at": "2026-02-16T18:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T19:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023470641501127152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2023413813702521144",
+          "start": 7,
+          "url": "https://t.co/x5u8mIzDOb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023470641501127152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023413813702521144",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么不早说😖 https://t.co/x5u8mIzDOb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2023470641501127152",
+        "created_at": "2026-02-16T18:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T19:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023470641501127152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2023413813702521144",
+              "start": 7,
+              "url": "https://t.co/x5u8mIzDOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023470641501127152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023413813702521144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么不早说😖 https://t.co/x5u8mIzDOb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2023413813702521144",
+        "created_at": "2026-02-16T15:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T16:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023413813702521144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023413813702521144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2974,
+          "like_count": 90,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大家跨年的时候注意一点, 别把性别也跨了."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 62,
+          "like_count": 954,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 227
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 161,
+          "like_count": 3904,
+          "listed_count": 3,
+          "media_count": 118,
+          "tweet_count": 1138
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

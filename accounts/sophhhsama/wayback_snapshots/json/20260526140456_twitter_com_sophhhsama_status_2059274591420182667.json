@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2059212404257386560",
+    "created_at": "2026-05-26T14:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059274591420182667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1950645620429275136",
+          "start": 0,
+          "username": "1kiiou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059274591420182667",
+    "in_reply_to_user_id": "1950645620429275136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059212404257386560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1kiiou 在英国也能坐b比亚迪🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059212389879279616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPKwifWcAANLEp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2059212404257386560",
+        "created_at": "2026-05-26T14:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059274591420182667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1950645620429275136",
+              "start": 0,
+              "username": "1kiiou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059274591420182667",
+        "in_reply_to_user_id": "1950645620429275136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059212404257386560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1kiiou 在英国也能坐b比亚迪🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059212389879279616"
+          ]
+        },
+        "author_id": "1950645620429275136",
+        "conversation_id": "2059212404257386560",
+        "created_at": "2026-05-26T09:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059212404257386560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k6Nh44Wq5G",
+              "end": 37,
+              "expanded_url": "https://x.com/1kiiou/status/2059212404257386560/photo/1",
+              "media_key": "3_2059212389879279616",
+              "start": 14,
+              "url": "https://t.co/k6Nh44Wq5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059212404257386560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 374,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们自己看英国巴士有多傻逼 https://t.co/k6Nh44Wq5G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 363,
+          "like_count": 21690,
+          "listed_count": 2,
+          "media_count": 360,
+          "tweet_count": 3001
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T19:52:25.000Z",
+        "description": "@zzzyuuii 汪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "zzzyuuii"
+              }
+            ]
+          }
+        },
+        "id": "1950645620429275136",
+        "location": "暖暖的被窝里",
+        "name": "季风",
+        "pinned_tweet_id": "2056205109793579464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053872849664856064/zkn0veAw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 144,
+          "like_count": 8297,
+          "listed_count": 1,
+          "media_count": 288,
+          "tweet_count": 3679
+        },
+        "username": "1kiiou",
+        "verified": false
+      }
+    ]
+  }
+}

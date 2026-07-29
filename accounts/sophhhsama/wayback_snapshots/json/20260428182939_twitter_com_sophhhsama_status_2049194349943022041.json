@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2049194349943022041",
+    "created_at": "2026-04-28T18:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T19:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049194349943022041"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049194349943022041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么为什么\n好害怕你们\n说话\n我不要说话\n考上了就可以逃的远远的了\n自己的房间\n穿喜欢的衣服\n没可能的吧\n笔都拿不稳的小猫\n耳朵嗡嗡的\n不想听到你们说话的声音\n离得远远的\n我要跑\n能去哪里呢\n要。。。\n好难好难\n什么都做不到 好难受\n脑雾\n想不到 什么都想不到 想不起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2049194349943022041",
+        "created_at": "2026-04-28T18:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T19:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049194349943022041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049194349943022041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么为什么\n好害怕你们\n说话\n我不要说话\n考上了就可以逃的远远的了\n自己的房间\n穿喜欢的衣服\n没可能的吧\n笔都拿不稳的小猫\n耳朵嗡嗡的\n不想听到你们说话的声音\n离得远远的\n我要跑\n能去哪里呢\n要。。。\n好难好难\n什么都做不到 好难受\n脑雾\n想不到 什么都想不到 想不起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 384,
+          "like_count": 14900,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 2219
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

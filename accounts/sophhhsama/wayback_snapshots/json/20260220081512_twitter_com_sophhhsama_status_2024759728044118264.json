@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2024673511894286509",
+    "created_at": "2026-02-20T08:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T09:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024759728044118264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024759728044118264",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024673511894286509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 当然有了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3680,
+        "media_key": "3_2024673463093645312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBkVyZnbUAAKkeV.jpg",
+        "width": 1840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2024673511894286509",
+        "created_at": "2026-02-20T08:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T09:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024759728044118264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024759728044118264",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024673511894286509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 当然有了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024673463093645312"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2024673511894286509",
+        "created_at": "2026-02-20T02:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T03:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024673511894286509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/es1EpT6aUD",
+              "end": 33,
+              "expanded_url": "https://x.com/IXXA00/status/2024673511894286509/photo/1",
+              "media_key": "3_2024673463093645312",
+              "start": 10,
+              "url": "https://t.co/es1EpT6aUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024673511894286509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 598,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨子鱼，你买了吗？ https://t.co/es1EpT6aUD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. spam account. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 68,
+          "like_count": 1322,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 290
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "你好，我是卖的。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "2016421959370997852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993889710620733440/BLn_aHlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5743,
+          "following_count": 4472,
+          "like_count": 35929,
+          "listed_count": 14,
+          "media_count": 2617,
+          "tweet_count": 35983
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

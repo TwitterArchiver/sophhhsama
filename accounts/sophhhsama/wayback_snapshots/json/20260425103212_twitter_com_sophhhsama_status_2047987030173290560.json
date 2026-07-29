@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047987024586838016"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2047972950259700057",
+    "created_at": "2026-04-25T10:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T11:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047987030173290560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Prcfs6IQs1",
+          "end": 57,
+          "expanded_url": "https://x.com/sophhhsama/status/2047987030173290560/photo/1",
+          "media_key": "3_2047987024586838016",
+          "start": 34,
+          "url": "https://t.co/Prcfs6IQs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047987030173290560",
+    "in_reply_to_user_id": "1223415775278428160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047972950259700057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "esse草莓味我看他好看才买的\n怎么味道有点。。\n呜呜还是中南海好 https://t.co/Prcfs6IQs1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047987024586838016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvpWSEbkAAUy2F.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1015,
+        "media_key": "3_2047972943037345793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvcioNaMAEzs_L.jpg",
+        "width": 968
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047972943079366656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvcioXbYAAV0Kp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047987024586838016"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2047972950259700057",
+        "created_at": "2026-04-25T10:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047987030173290560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Prcfs6IQs1",
+              "end": 57,
+              "expanded_url": "https://x.com/sophhhsama/status/2047987030173290560/photo/1",
+              "media_key": "3_2047987024586838016",
+              "start": 34,
+              "url": "https://t.co/Prcfs6IQs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047987030173290560",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047972950259700057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "esse草莓味我看他好看才买的\n怎么味道有点。。\n呜呜还是中南海好 https://t.co/Prcfs6IQs1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047972943037345793",
+            "3_2047972943079366656"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2047972950259700057",
+        "created_at": "2026-04-25T09:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047972950259700057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NUxWwaGljs",
+              "end": 66,
+              "expanded_url": "https://x.com/sophhhsama/status/2047972950259700057/photo/1",
+              "media_key": "3_2047972943037345793",
+              "start": 43,
+              "url": "https://t.co/NUxWwaGljs"
+            },
+            {
+              "display_url": "pic.x.com/NUxWwaGljs",
+              "end": 66,
+              "expanded_url": "https://x.com/sophhhsama/status/2047972950259700057/photo/1",
+              "media_key": "3_2047972943079366656",
+              "start": 43,
+              "url": "https://t.co/NUxWwaGljs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047972950259700057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫一放假就什么都做不了\n啊啊啊啊来点经典中南海改善伙食一下\n猫猫晚点尝试继续复习💦 https://t.co/NUxWwaGljs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 370,
+          "like_count": 13908,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 2096
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2052075330194555122",
+    "created_at": "2026-05-06T17:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T18:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052075330194555122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2012841769105567744",
+          "start": 3,
+          "username": "18nuun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052075330194555122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052072743449866620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @18nuun: 水水你还记得吗，我们第一次见面，在武汉阳光酒店，我很害羞，看见你之后躲起来，很尴尬的带你进房间，然后你亲了我。\n\n在酒店我们做爱，相拥，互相贴在一起睡觉。\n\n一起吃冰淇淋，和三倍厚抹。\n\n在浴缸一起泡澡，我告诉你，我最初答应你表白就是为了拯救你。\n\n我失…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2052075330194555122",
+        "created_at": "2026-05-06T17:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052075330194555122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2012841769105567744",
+              "start": 3,
+              "username": "18nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052075330194555122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052072743449866620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @18nuun: 水水你还记得吗，我们第一次见面，在武汉阳光酒店，我很害羞，看见你之后躲起来，很尴尬的带你进房间，然后你亲了我。\n\n在酒店我们做爱，相拥，互相贴在一起睡觉。\n\n一起吃冰淇淋，和三倍厚抹。\n\n在浴缸一起泡澡，我告诉你，我最初答应你表白就是为了拯救你。\n\n我失…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012841769105567744",
+        "conversation_id": "2052072743449866620",
+        "created_at": "2026-05-06T17:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052072743449866620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052072743449866620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "水水你还记得吗，我们第一次见面，在武汉阳光酒店，我很害羞，看见你之后躲起来，很尴尬的带你进房间，然后你亲了我。\n\n在酒店我们做爱，相拥，互相贴在一起睡觉。\n\n一起吃冰淇淋，和三倍厚抹。\n\n在浴缸一起泡澡，我告诉你，我最初答应你表白就是为了拯救你。\n\n我失败了，对吗？水水？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 好朋友萌 @slclst @Cheeseduck111 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 345,
+          "like_count": 17275,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 2455
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T10:57:56.000Z",
+        "description": "沉浸于药物和自毁的欣快之中｜mtf｜06｜重抑｜INFP｜💊药物成瘾中心｜｜大号是@aureliax17qwq｜896489648964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 41,
+                "username": "aureliax17qwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 23,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 0,
+                "url": "https://t.co/zuGwDBSPxv"
+              }
+            ]
+          }
+        },
+        "id": "2012841769105567744",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2048730215359406376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051431775319281664/S0BXOQH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 31,
+          "like_count": 212,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/zuGwDBSPxv",
+        "username": "18nuun",
+        "verified": false
+      }
+    ]
+  }
+}

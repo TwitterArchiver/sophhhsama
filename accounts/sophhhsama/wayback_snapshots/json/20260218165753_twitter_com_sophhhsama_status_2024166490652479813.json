@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2024166490652479813",
+    "created_at": "2026-02-18T16:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:56:50.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024166226692333982",
+      "2024166490652479813"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024166490652479813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈你就别问我怎么了\n我觉得你们都是假的\n我没有办法重建信任啊\n\n还有舍曲林吃完怎么躯体化更严重了，gd也突然好严重\n醒醒。zz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2024166226692333982",
+        "created_at": "2026-02-18T16:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:56:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024166226692333982",
+          "2024166490652479813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024166226692333982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈你就别问我怎么了\n我觉得你们都是假的\n我没有办法重建信任啊\n\n还有舍曲林吃完怎么躯体化更严重了\n醒醒。zz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2024166490652479813",
+        "created_at": "2026-02-18T16:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:56:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024166226692333982",
+          "2024166490652479813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024166490652479813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈你就别问我怎么了\n我觉得你们都是假的\n我没有办法重建信任啊\n\n还有舍曲林吃完怎么躯体化更严重了，gd也突然好严重\n醒醒。zz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 65,
+          "like_count": 1141,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 264
+        },
+        "username": "sophhhsama",
+        "verified": true
+      }
+    ]
+  }
+}

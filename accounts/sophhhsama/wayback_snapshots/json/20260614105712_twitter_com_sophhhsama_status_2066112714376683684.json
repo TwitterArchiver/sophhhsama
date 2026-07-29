@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2065826585446658055",
+    "created_at": "2026-06-14T10:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066112714376683684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1896510089609297920",
+          "start": 0,
+          "username": "Cheeseduck111"
+        },
+        {
+          "end": 22,
+          "id": "1634598602126540800",
+          "start": 15,
+          "username": "234qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066112714376683684",
+    "in_reply_to_user_id": "1896510089609297920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065970834221801820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheeseduck111 @234qaq ！收到喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2065826585446658055",
+        "created_at": "2026-06-14T10:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066112714376683684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1896510089609297920",
+              "start": 0,
+              "username": "Cheeseduck111"
+            },
+            {
+              "end": 22,
+              "id": "1634598602126540800",
+              "start": 15,
+              "username": "234qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066112714376683684",
+        "in_reply_to_user_id": "1896510089609297920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065970834221801820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheeseduck111 @234qaq ！收到喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896510089609297920",
+        "conversation_id": "2065826585446658055",
+        "created_at": "2026-06-14T01:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065970834221801820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1634598602126540800",
+              "start": 0,
+              "username": "234qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065970834221801820",
+        "in_reply_to_user_id": "1634598602126540800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065889552708059560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@234qaq ！收到喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 478,
+          "like_count": 24512,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 3343
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-03T10:37:05.000Z",
+        "description": "168/60 hrt：2022.10.3\n05年生人 mtf\n坐标河南驻马店\n🚪58 可+联系方式\n活着的意义是让别人感受到自己不管痛苦或快乐",
+        "id": "1896510089609297920",
+        "name": "jimiling 🍥",
+        "pinned_tweet_id": "2056370088140587488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010906034991480833/wAteIzsP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 119,
+          "like_count": 6595,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1162
+        },
+        "username": "Cheeseduck111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T16:54:16.000Z",
+        "description": "喜欢小猫 🚪0/9999/99999/   匿名问我问题吧https://t.co/Xs4wUELEBh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/23465562",
+                "end": 52,
+                "expanded_url": "https://ngl.link/23465562",
+                "start": 29,
+                "url": "https://t.co/Xs4wUELEBh"
+              }
+            ]
+          }
+        },
+        "id": "1634598602126540800",
+        "name": "3222号工具人",
+        "pinned_tweet_id": "2043922979449634834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004859859259568128/sGFfmyVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 214,
+          "like_count": 15861,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 2799
+        },
+        "username": "234qaq",
+        "verified": false
+      }
+    ]
+  }
+}

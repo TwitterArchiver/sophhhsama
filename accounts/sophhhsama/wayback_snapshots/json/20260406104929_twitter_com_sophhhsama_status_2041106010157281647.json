@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041106002498719744"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2041106010157281647",
+    "created_at": "2026-04-06T10:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T11:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041106010157281647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bf6bflBA5L",
+          "end": 144,
+          "expanded_url": "https://x.com/sophhhsama/status/2041106010157281647/photo/1",
+          "media_key": "3_2041106002498719744",
+          "start": 121,
+          "url": "https://t.co/bf6bflBA5L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041106010157281647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "盐酸索塔罗尔片\n16g心源性休克或心搏骤停的几率应该大于窒息\n唯一问题是只有缓释片\n等的比较久\n过程相对清醒\n这些不是管制药都好弄\n看看有没有更好的或者其他配合使用\n有看过马卡西平不过会抽搐窒息也不是最理想的 然后依然是缓释片\n再到处看看喵 https://t.co/bf6bflBA5L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 907,
+        "media_key": "3_2041106002498719744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFN3GFPakAAG6U7.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041106002498719744"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2041106010157281647",
+        "created_at": "2026-04-06T10:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041106010157281647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bf6bflBA5L",
+              "end": 144,
+              "expanded_url": "https://x.com/sophhhsama/status/2041106010157281647/photo/1",
+              "media_key": "3_2041106002498719744",
+              "start": 121,
+              "url": "https://t.co/bf6bflBA5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041106010157281647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "盐酸索塔罗尔片\n16g心源性休克或心搏骤停的几率应该大于窒息\n唯一问题是只有缓释片\n等的比较久\n过程相对清醒\n这些不是管制药都好弄\n看看有没有更好的或者其他配合使用\n有看过马卡西平不过会抽搐窒息也不是最理想的 然后依然是缓释片\n再到处看看喵 https://t.co/bf6bflBA5L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417784971001856/HVUfHILV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 300,
+          "like_count": 8974,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

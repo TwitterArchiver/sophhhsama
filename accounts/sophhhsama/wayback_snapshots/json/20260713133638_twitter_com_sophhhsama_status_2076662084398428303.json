@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076655904473395200"
+      ],
+      "media_source_tweet_id": [
+        "2076655908667654206"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2076662084398428303",
+    "created_at": "2026-07-13T13:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T14:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076662084398428303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1967736228725575681",
+          "start": 3,
+          "username": "shier6639"
+        },
+        {
+          "end": 41,
+          "id": "1634944403872833536",
+          "start": 29,
+          "username": "shier663907"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PoOi6i0CGY",
+          "end": 65,
+          "expanded_url": "https://x.com/shier6639/status/2076655908667654206/photo/1",
+          "media_key": "3_2076655904473395200",
+          "start": 42,
+          "url": "https://t.co/PoOi6i0CGY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076662084398428303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076655908667654206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shier6639: 呃呃。我莫名其妙被封了\n原号@shier663907 https://t.co/PoOi6i0CGY"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [shier663907].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "shier663907",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "shier663907"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076655904473395200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHDiuLasAAR7Gi.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076655904473395200"
+          ],
+          "media_source_tweet_id": [
+            "2076655908667654206"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2076662084398428303",
+        "created_at": "2026-07-13T13:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076662084398428303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1967736228725575681",
+              "start": 3,
+              "username": "shier6639"
+            },
+            {
+              "end": 41,
+              "id": "1634944403872833536",
+              "start": 29,
+              "username": "shier663907"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PoOi6i0CGY",
+              "end": 65,
+              "expanded_url": "https://x.com/shier6639/status/2076655908667654206/photo/1",
+              "media_key": "3_2076655904473395200",
+              "start": 42,
+              "url": "https://t.co/PoOi6i0CGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076662084398428303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076655908667654206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shier6639: 呃呃。我莫名其妙被封了\n原号@shier663907 https://t.co/PoOi6i0CGY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076655904473395200"
+          ]
+        },
+        "author_id": "1967736228725575681",
+        "conversation_id": "2076655908667654206",
+        "created_at": "2026-07-13T13:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076655908667654206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1634944403872833536",
+              "start": 14,
+              "username": "shier663907"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PoOi6i0CGY",
+              "end": 50,
+              "expanded_url": "https://x.com/shier6639/status/2076655908667654206/photo/1",
+              "media_key": "3_2076655904473395200",
+              "start": 27,
+              "url": "https://t.co/PoOi6i0CGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076655908667654206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃。我莫名其妙被封了\n原号@shier663907 https://t.co/PoOi6i0CGY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 469,
+          "like_count": 26857,
+          "listed_count": 2,
+          "media_count": 380,
+          "tweet_count": 3521
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-15T23:44:17.000Z",
+        "description": "",
+        "id": "1967736228725575681",
+        "name": "十二点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076650614541737984/StRKTJau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 24,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "shier6639",
+        "verified": false
+      }
+    ]
+  }
+}

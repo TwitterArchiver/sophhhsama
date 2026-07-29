@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2023773480974438648",
+    "created_at": "2026-02-17T14:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T15:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023773480974438648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fairyprxncess/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/fairyprxncess/status/2023679125030867117",
+          "start": 6,
+          "url": "https://t.co/fX9YKlg1c2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023773480974438648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023679125030867117",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是要迷死谁 https://t.co/fX9YKlg1c2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1363,
+        "media_key": "3_2023679119913803776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWNcAnWYAA7Izf.jpg",
+        "width": 1175
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2023679121944117248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWNcILagAAVqSK.jpg",
+        "width": 901
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2023773480974438648",
+        "created_at": "2026-02-17T14:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T15:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023773480974438648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fairyprxncess/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/fairyprxncess/status/2023679125030867117",
+              "start": 6,
+              "url": "https://t.co/fX9YKlg1c2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023773480974438648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023679125030867117",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是要迷死谁 https://t.co/fX9YKlg1c2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023679119913803776",
+            "3_2023679121944117248"
+          ]
+        },
+        "author_id": "1635337273364414465",
+        "conversation_id": "2023679125030867117",
+        "created_at": "2026-02-17T08:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023679125030867117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c2220VpMvS",
+              "end": 36,
+              "expanded_url": "https://x.com/fairyprxncess/status/2023679125030867117/photo/1",
+              "media_key": "3_2023679119913803776",
+              "start": 13,
+              "url": "https://t.co/c2220VpMvS"
+            },
+            {
+              "display_url": "pic.x.com/c2220VpMvS",
+              "end": 36,
+              "expanded_url": "https://x.com/fairyprxncess/status/2023679125030867117/photo/1",
+              "media_key": "3_2023679121944117248",
+              "start": 13,
+              "url": "https://t.co/c2220VpMvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023679125030867117",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 590,
+          "impression_count": 205365,
+          "like_count": 6339,
+          "quote_count": 222,
+          "reply_count": 14,
+          "retweet_count": 958
+        },
+        "reply_settings": "everyone",
+        "text": "pink porsche https://t.co/c2220VpMvS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 65,
+          "like_count": 1019,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 242
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-13T17:49:44.000Z",
+        "description": "just a fairy princess • 💌 for promo",
+        "id": "1635337273364414465",
+        "location": "image not mine ",
+        "name": "𓆩♡𓆪",
+        "pinned_tweet_id": "2023764127223885981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791545486530236416/eLVxVt9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143308,
+          "following_count": 35,
+          "like_count": 3235,
+          "listed_count": 441,
+          "media_count": 2356,
+          "tweet_count": 4341
+        },
+        "username": "fairyprxncess",
+        "verified": true
+      }
+    ]
+  }
+}

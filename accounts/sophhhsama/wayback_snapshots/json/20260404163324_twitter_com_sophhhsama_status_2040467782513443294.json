@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2040467782513443294",
+    "created_at": "2026-04-04T16:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T17:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040467782513443294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/hsn8086/status/2040437911649411176",
+          "start": 7,
+          "url": "https://t.co/czQWHgDhUD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040467782513443294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040437911649411176",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "窝也不知道咪 https://t.co/czQWHgDhUD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040437909120245760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEXd7daYAAz3vy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2040467782513443294",
+        "created_at": "2026-04-04T16:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040467782513443294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/hsn8086/status/2040437911649411176",
+              "start": 7,
+              "url": "https://t.co/czQWHgDhUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040467782513443294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040437911649411176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "窝也不知道咪 https://t.co/czQWHgDhUD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040437909120245760"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2040437911649411176",
+        "created_at": "2026-04-04T14:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T15:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040437911649411176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EvDqyouBvI",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2040437911649411176/photo/1",
+              "media_key": "3_2040437909120245760",
+              "start": 0,
+              "url": "https://t.co/EvDqyouBvI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040437911649411176",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1188,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/EvDqyouBvI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie 想到什么发什么 07 | 大笨蛋 @Cheeseduck111 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417784971001856/HVUfHILV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 286,
+          "like_count": 8633,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 1287
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2038599257599713310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118384,
+          "following_count": 1123,
+          "like_count": 52423,
+          "listed_count": 279,
+          "media_count": 20408,
+          "tweet_count": 30718
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

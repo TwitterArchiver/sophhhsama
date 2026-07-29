@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2040339339775742401",
+    "created_at": "2026-04-04T08:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T09:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040339339775742401"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ddaquaforever/…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/ddaquaforever/status/2039954697864483209",
+          "start": 41,
+          "url": "https://t.co/eTzTGBMzZo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040339339775742401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039954697864483209",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冷知识\n本喵有乳糖不耐诶\n然后小猫每隔一阵子还是会作死喝牛奶\n后续就不得而知了😭 https://t.co/eTzTGBMzZo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 853,
+        "media_key": "3_2039954655854432256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE9f84wbkAA8p92.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2040339339775742401",
+        "created_at": "2026-04-04T08:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040339339775742401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ddaquaforever/…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/ddaquaforever/status/2039954697864483209",
+              "start": 41,
+              "url": "https://t.co/eTzTGBMzZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040339339775742401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039954697864483209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冷知识\n本喵有乳糖不耐诶\n然后小猫每隔一阵子还是会作死喝牛奶\n后续就不得而知了😭 https://t.co/eTzTGBMzZo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039954655854432256"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2039954697864483209",
+        "created_at": "2026-04-03T06:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039954697864483209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f7eZ1WbnVl",
+              "end": 40,
+              "expanded_url": "https://x.com/DDaquaforever/status/2039954697864483209/photo/1",
+              "media_key": "3_2039954655854432256",
+              "start": 17,
+              "url": "https://t.co/f7eZ1WbnVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039954697864483209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 9912,
+          "like_count": 467,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "不要为打翻的牛奶而哭泣，因为…… https://t.co/f7eZ1WbnVl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie 想到什么发什么 07 | 大笨蛋 @Cheeseduck111 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 284,
+          "like_count": 8492,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 1253
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4302,
+          "following_count": 4762,
+          "like_count": 8255,
+          "listed_count": 12,
+          "media_count": 2937,
+          "tweet_count": 13583
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

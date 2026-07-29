@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2029074454311993642",
+    "created_at": "2026-03-04T06:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T07:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029074454311993642"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029074454311993642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "在想如果说糖商都被晶/自爆了\n感觉大家要开发一下别的途径\n最直接的说 就是直接去泰国的药房买泰补/CPA\n以我的知识应该很多都不用处方的说\n明年有机会尝试实行一下下\n出个教程达到人人自给自足喵\n不过当然也有手搓凝胶/针剂\n不过就重度依赖这些化学原料（raw雌二醇/其他derivatives）不会被列管\n（像睾酮一样）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在想如果说糖商都被晶/自爆了\n感觉大家要开发一下别的途径\n最直接的说 就是直接去泰国的药房买泰补/CPA\n以我的知识应该很多都不用处方的说\n明年有机会尝试实行一下下\n出个教程达到人人自给自足喵\n不过当然也有手搓凝胶/针剂\n不过就重度依赖这些化学原料（raw雌二醇/其他derivatives）不会被列管"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2029074454311993642",
+        "created_at": "2026-03-04T06:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T07:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029074454311993642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029074454311993642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在想如果说糖商都被晶/自爆了\n感觉大家要开发一下别的途径\n最直接的说 就是直接去泰国的药房买泰补/CPA\n以我的知识应该很多都不用处方的说\n明年有机会尝试实行一下下\n出个教程达到人人自给自足喵\n不过当然也有手搓凝胶/针剂\n不过就重度依赖这些化学原料（raw雌二醇/其他derivatives）不会被列管\n（像睾酮一样）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在想如果说糖商都被晶/自爆了\n感觉大家要开发一下别的途径\n最直接的说 就是直接去泰国的药房买泰补/CPA\n以我的知识应该很多都不用处方的说\n明年有机会尝试实行一下下\n出个教程达到人人自给自足喵\n不过当然也有手搓凝胶/针剂\n不过就重度依赖这些化学原料（raw雌二醇/其他derivatives）不会被列管"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | Aspiring med student. spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028253766047166464/6nF3n9OY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 118,
+          "like_count": 2683,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 462
+        },
+        "username": "sophhhsama",
+        "verified": true
+      }
+    ]
+  }
+}

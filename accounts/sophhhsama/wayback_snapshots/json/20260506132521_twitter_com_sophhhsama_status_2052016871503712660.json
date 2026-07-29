@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2052016871503712660",
+    "created_at": "2026-05-06T13:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T14:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052016871503712660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 83,
+          "id": "1797120101419999232",
+          "start": 71,
+          "username": "YMKxxxxxxxx"
+        },
+        {
+          "end": 99,
+          "id": "1896510089609297920",
+          "start": 85,
+          "username": "Cheeseduck111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/sophhhsama/sta…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/sophhhsama/status/2052003615586255119",
+          "start": 109,
+          "url": "https://t.co/5iYnNRrhSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052016871503712660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052003615586255119",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "首次EEn 10mg (0.25ml, 40mg/ml) SubQ注射完成！！！\n不过推针头进去的时候有点疼\n90度进针大腿外侧 无出血\n感谢@YMKxxxxxxxx 和@Cheeseduck111 技术及情绪支持🤤 https://t.co/5iYnNRrhSB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052003610322436099",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHouaV8WgAMm_-K.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2052016871503712660",
+        "created_at": "2026-05-06T13:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052016871503712660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 83,
+              "id": "1797120101419999232",
+              "start": 71,
+              "username": "YMKxxxxxxxx"
+            },
+            {
+              "end": 99,
+              "id": "1896510089609297920",
+              "start": 85,
+              "username": "Cheeseduck111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sophhhsama/sta…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/sophhhsama/status/2052003615586255119",
+              "start": 109,
+              "url": "https://t.co/5iYnNRrhSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052016871503712660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052003615586255119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首次EEn 10mg (0.25ml, 40mg/ml) SubQ注射完成！！！\n不过推针头进去的时候有点疼\n90度进针大腿外侧 无出血\n感谢@YMKxxxxxxxx 和@Cheeseduck111 技术及情绪支持🤤 https://t.co/5iYnNRrhSB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052003610322436099"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2052003615586255119",
+        "created_at": "2026-05-06T12:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052003615586255119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Er6Cj6ZNUy",
+              "end": 48,
+              "expanded_url": "https://x.com/sophhhsama/status/2052003615586255119/photo/1",
+              "media_key": "3_2052003610322436099",
+              "start": 25,
+              "url": "https://t.co/Er6Cj6ZNUy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052003615586255119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "18岁正是当打的年纪\n是时候打一针庚酸雌二醇了🤤 https://t.co/Er6Cj6ZNUy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 388,
+          "like_count": 17171,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 2434
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n  HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 632,
+          "like_count": 8030,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 1763
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T10:37:05.000Z",
+        "description": "三年又三年，全平台同id社交软件偶遇记得+我感谢\nmtx\n活着的意义是让别人感受到自己不管痛苦或快乐",
+        "id": "1896510089609297920",
+        "name": "jimiling 🍥",
+        "pinned_tweet_id": "2019800199095607595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010906034991480833/wAteIzsP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 90,
+          "like_count": 5851,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1060
+        },
+        "username": "Cheeseduck111",
+        "verified": false
+      }
+    ]
+  }
+}

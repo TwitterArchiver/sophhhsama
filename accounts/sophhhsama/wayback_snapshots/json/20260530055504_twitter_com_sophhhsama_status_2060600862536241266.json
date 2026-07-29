@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2060541838780711072",
+    "created_at": "2026-05-30T05:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060600862536241266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952004090994786304",
+          "start": 0,
+          "username": "Baoer_BTC"
+        },
+        {
+          "end": 27,
+          "id": "1114257472603267075",
+          "start": 11,
+          "username": "CryptoPilot3226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060600862536241266",
+    "in_reply_to_user_id": "1952004090994786304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060586465978134556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Baoer_BTC @CryptoPilot3226 已关～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2060541838780711072",
+        "created_at": "2026-05-30T05:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060600862536241266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952004090994786304",
+              "start": 0,
+              "username": "Baoer_BTC"
+            },
+            {
+              "end": 27,
+              "id": "1114257472603267075",
+              "start": 11,
+              "username": "CryptoPilot3226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060600862536241266",
+        "in_reply_to_user_id": "1952004090994786304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060586465978134556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baoer_BTC @CryptoPilot3226 已关～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952004090994786304",
+        "conversation_id": "2060541838780711072",
+        "created_at": "2026-05-30T04:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060586465978134556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1114257472603267075",
+              "start": 0,
+              "username": "CryptoPilot3226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060586465978134556",
+        "in_reply_to_user_id": "1114257472603267075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060541838780711072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CryptoPilot3226 记得回啊关了很久了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 377,
+          "like_count": 22156,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 3101
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-03T13:50:46.000Z",
+        "description": "#BNB ｜You can call me, Sister Bao'er.｜阿威十八式，全活不打折｜#ETH ｜开车看路，炒币看势。 不追高，不接飞刀，不瞎变道，不猛踩刹车。 行情好就踩油，行情差就怠速。 别人慌得一批，我稳如老狗。 ｜#BTC ｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "BNB"
+              },
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "ETH"
+              },
+              {
+                "end": 122,
+                "start": 118,
+                "tag": "BTC"
+              }
+            ]
+          }
+        },
+        "id": "1952004090994786304",
+        "location": "Wong Tai Sin District",
+        "name": "宝儿姐（阿威十八式）",
+        "pinned_tweet_id": "2050939216755138633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022735071560765441/_-DHp-lJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4055,
+          "following_count": 2956,
+          "like_count": 5484,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 4761
+        },
+        "username": "Baoer_BTC",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-05T20:04:18.000Z",
+        "description": "@KyberNetwork @fore_gate 大使 商务合作私信TG:@pilot32261 Weex80%返佣链接：https://t.co/QkEtuTeKu1 所有推文不做投资建议",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "KyberNetwork"
+              },
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fore_gate"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "pilot32261"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "weabaxx.site/zh-CN/register…",
+                "end": 84,
+                "expanded_url": "https://weabaxx.site/zh-CN/register?vipCode=shuke666",
+                "start": 61,
+                "url": "https://t.co/QkEtuTeKu1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "web3.bitget.com/share/2wLtHb?i…",
+                "end": 23,
+                "expanded_url": "https://web3.bitget.com/share/2wLtHb?inviteCode=JrudKQ",
+                "start": 0,
+                "url": "https://t.co/Hnq0LGqbIx"
+              }
+            ]
+          }
+        },
+        "id": "1114257472603267075",
+        "location": "玩美股就来Bitget Wallet，80%超高返佣👇",
+        "name": "Crypto舒克🐬TermMax",
+        "pinned_tweet_id": "2060541838780711072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028672903462752256/F9nJ-CEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34360,
+          "following_count": 5397,
+          "like_count": 4485,
+          "listed_count": 56,
+          "media_count": 3146,
+          "tweet_count": 16715
+        },
+        "url": "https://t.co/Hnq0LGqbIx",
+        "username": "CryptoPilot3226",
+        "verified": true
+      }
+    ]
+  }
+}

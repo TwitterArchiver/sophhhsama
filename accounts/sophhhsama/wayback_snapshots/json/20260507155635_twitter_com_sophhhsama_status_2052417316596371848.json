@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2052417316596371848",
+    "created_at": "2026-05-07T15:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052417316596371848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moutai_h_maple…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/moutai_h_maple/status/2052293917320892910",
+          "start": 143,
+          "url": "https://t.co/K4ZXP9cm93"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052417316596371848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052293917320892910",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不\n对小猫来说\n在这里是为了读书挣钱\n有能力了小猫爱去哪去哪 或者哪都不去\n是不是异性恋 是不是跨 可能我自己不太会吧这些联想到我要不要去或留在哪里\n就是说如果我在国内然后因为我性别认同或者性取向问题生活很难受 不过没有能力\n即便难受…… \n就是不会因为难受就突然有能力可以润出来的吧 https://t.co/K4ZXP9cm93"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2052417316596371848",
+        "created_at": "2026-05-07T15:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052417316596371848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moutai_h_maple…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/moutai_h_maple/status/2052293917320892910",
+              "start": 143,
+              "url": "https://t.co/K4ZXP9cm93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052417316596371848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052293917320892910",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不\n对小猫来说\n在这里是为了读书挣钱\n有能力了小猫爱去哪去哪 或者哪都不去\n是不是异性恋 是不是跨 可能我自己不太会吧这些联想到我要不要去或留在哪里\n就是说如果我在国内然后因为我性别认同或者性取向问题生活很难受 不过没有能力\n即便难受…… \n就是不会因为难受就突然有能力可以润出来的吧 https://t.co/K4ZXP9cm93"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561753484512612353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2052293917320892910",
+        "created_at": "2026-05-07T07:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052293917320892910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052293917320892910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3836,
+          "like_count": 24,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想问列表里的各种人在海外留学和移民的酷儿群体：如果你们只是普通的异性恋，你们会不会回国？会不会觉得在中国内地的生活质量、社会秩序、风土人情和个人机遇都比在外面强很多，只是因为经历过创伤才不得不跑出来的？有多少人有时候会因此自恨，幻想一个生而更加「正常」的自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 好朋友萌 @slclst @Cheeseduck111 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 346,
+          "like_count": 17613,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 2501
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T16:34:03.000Z",
+        "description": "男同性恋，自认携带y染负能量病毒载体，靠近会被污染。｜\n秘祈人途径，现在是放牧“记录官”和“观众”的“牧羊人”｜目标是晋升真神—一只名为土豆的英短蓝白猫。",
+        "id": "1561753484512612353",
+        "location": "Edmonton, Alberta",
+        "name": "茅茅taiiiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988309263115317248/IS5Aq8xZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 246,
+          "like_count": 1739,
+          "listed_count": 2,
+          "media_count": 424,
+          "tweet_count": 1935
+        },
+        "username": "Moutai_H_Maple",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022936554449043456"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2022875502357401949",
+    "created_at": "2026-02-15T07:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T08:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022936559151124648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "mwdxj29477"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0VZZbcd6hA",
+          "end": 46,
+          "expanded_url": "https://x.com/sophhhsama/status/2022936559151124648/photo/1",
+          "media_key": "3_2022936554449043456",
+          "start": 23,
+          "url": "https://t.co/0VZZbcd6hA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022936559151124648",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022875502357401949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwdxj29477 咱看推日均3+小时😭 https://t.co/0VZZbcd6hA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022936554449043456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLqFAsWgAA2gay.jpg",
+        "width": 1090
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022875450914304000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKygUSa8AAnk_W.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022875464549961730",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKyhHFakAIewvQ.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022936554449043456"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2022875502357401949",
+        "created_at": "2026-02-15T07:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T08:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022936559151124648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "mwdxj29477"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0VZZbcd6hA",
+              "end": 46,
+              "expanded_url": "https://x.com/sophhhsama/status/2022936559151124648/photo/1",
+              "media_key": "3_2022936554449043456",
+              "start": 23,
+              "url": "https://t.co/0VZZbcd6hA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022936559151124648",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022875502357401949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwdxj29477 咱看推日均3+小时😭 https://t.co/0VZZbcd6hA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022875450914304000",
+            "3_2022875464549961730"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "conversation_id": "2022875502357401949",
+        "created_at": "2026-02-15T03:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022875502357401949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lkzCdQxPFu",
+              "end": 43,
+              "expanded_url": "https://x.com/mwdxj29477/status/2022875502357401949/photo/1",
+              "media_key": "3_2022875450914304000",
+              "start": 20,
+              "url": "https://t.co/lkzCdQxPFu"
+            },
+            {
+              "display_url": "pic.x.com/lkzCdQxPFu",
+              "end": 43,
+              "expanded_url": "https://x.com/mwdxj29477/status/2022875502357401949/photo/1",
+              "media_key": "3_2022875464549961730",
+              "start": 20,
+              "url": "https://t.co/lkzCdQxPFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022875502357401949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1480,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一周能在推特和B站上耗50个小时的🥲 https://t.co/lkzCdQxPFu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 61,
+          "like_count": 826,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 191
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨顺男/🍥Hrt🏳️‍⚧️01.28.2026/无证含糖/出厂日期:11.13.2011/喜欢xnn xyn mtf/INFP-T/社恐/性别认同探索中/初二牲/家长放养/161cm 51kg/坐标湖北/只玩Minecraft/民國派🇹🇼华独/简中&繁中🆗/欢迎互fo~/\nTG:「mwdxj」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 23,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 0,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "ROC淪陷區,東湖北「漢川城」",
+        "name": "MWdxj_🍥🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020559823713280001/yGg-DgRG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 531,
+          "like_count": 5092,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/fG6XzUT3Y3",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

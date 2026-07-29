@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2048428558222053378",
+    "created_at": "2026-04-26T15:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048428558222053378"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048428558222053378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "都不用上药理课了\n这个国家什么药都限购otc\nod都把我搞得像是大毒枭一样到处采购\n怎样的死法都让我翻了个遍了\n不是找简单的舒服的\n他妈的买到什么药都得看遍欧美亚洲大洋洲\n哎\n如果成功了\n小猫也就毕业了\n至少药理方面\n真的很有才了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2048428558222053378",
+        "created_at": "2026-04-26T15:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048428558222053378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048428558222053378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都不用上药理课了\n这个国家什么药都限购otc\nod都把我搞得像是大毒枭一样到处采购\n怎样的死法都让我翻了个遍了\n不是找简单的舒服的\n他妈的买到什么药都得看遍欧美亚洲大洋洲\n哎\n如果成功了\n小猫也就毕业了\n至少药理方面\n真的很有才了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048368707320377344/3VPiergw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 375,
+          "like_count": 14222,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 2144
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

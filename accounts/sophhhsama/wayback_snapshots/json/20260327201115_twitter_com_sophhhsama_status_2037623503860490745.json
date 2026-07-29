@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2037623503860490745",
+    "created_at": "2026-03-27T20:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T21:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037623503860490745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zx65535plus1/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/zx65535plus1/status/2037553905857667550",
+          "start": 6,
+          "url": "https://t.co/0BhvCbkQRi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037623503860490745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037553905857667550",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊…\n啊？ https://t.co/0BhvCbkQRi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2037623503860490745",
+        "created_at": "2026-03-27T20:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T21:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037623503860490745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zx65535plus1/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/zx65535plus1/status/2037553905857667550",
+              "start": 6,
+              "url": "https://t.co/0BhvCbkQRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037623503860490745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037553905857667550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊…\n啊？ https://t.co/0BhvCbkQRi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "2037553905857667550",
+        "created_at": "2026-03-27T15:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037553905857667550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037553905857667550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 834,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "惨痛教训:\n永远不要使用黑咖啡泡着干脆面作为夜间零食，我吃了两袋并把浮着油的咖啡喝掉，过了一会肚子开始异常疼痛，现在坐在马桶上喷射"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtcat | 小猫/sophie 想到什么发什么 | 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 232,
+          "like_count": 7168,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1018
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "过于调皮有时被当做S的欠拴brat  |  \n只要不去就诊我就是健全B  |  \n大体上是直的，除非女人你在玩火",
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "pinned_tweet_id": "1889966215923466584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3936,
+          "following_count": 1418,
+          "like_count": 70390,
+          "listed_count": 4,
+          "media_count": 1004,
+          "tweet_count": 19621
+        },
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

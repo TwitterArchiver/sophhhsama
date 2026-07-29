@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2021178262282698760"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2021178554260590648",
+    "created_at": "2026-02-10T11:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T12:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021178554260590648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zs3hfpEMBx",
+          "end": 64,
+          "expanded_url": "https://x.com/sophhhsama/status/2021178554260590648/video/1",
+          "media_key": "13_2021178262282698760",
+          "start": 41,
+          "url": "https://t.co/zs3hfpEMBx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021178554260590648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "伪音唱等你下课\n还是太夹和鼻音太重呢，多练习下叭\no(*////▽////*)q https://t.co/zs3hfpEMBx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44061,
+        "height": 2044,
+        "media_key": "13_2021178262282698760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021178262282698760/img/vUHIFuFnDk_R2FcI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021178262282698760/vid/avc1/320x554/ViJO932EtwRuhWW8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021178262282698760/vid/avc1/480x830/FXxTzGIkwjrRaxrv.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021178262282698760/vid/avc1/1180x2044/FVDOlQvj2nEm2oTL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021178262282698760/vid/avc1/720x1246/p6tS6MEIvBCBBTZC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021178262282698760/pl/_W31sLDxfUfGKX0E.m3u8"
+          }
+        ],
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021178262282698760"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2021178554260590648",
+        "created_at": "2026-02-10T11:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T12:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021178554260590648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zs3hfpEMBx",
+              "end": 64,
+              "expanded_url": "https://x.com/sophhhsama/status/2021178554260590648/video/1",
+              "media_key": "13_2021178262282698760",
+              "start": 41,
+              "url": "https://t.co/zs3hfpEMBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021178554260590648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "伪音唱等你下课\n还是太夹和鼻音太重呢，多练习下叭\no(*////▽////*)q https://t.co/zs3hfpEMBx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2020096493814685890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 50,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 95
+        },
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

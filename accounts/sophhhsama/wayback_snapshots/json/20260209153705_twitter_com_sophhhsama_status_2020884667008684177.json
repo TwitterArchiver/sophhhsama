@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2020783543497248806",
+    "created_at": "2026-02-09T15:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T16:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020884667008684177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1629058457222656001",
+          "start": 0,
+          "username": "nursenika1840"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020884667008684177",
+    "in_reply_to_user_id": "1629058457222656001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020783543497248806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nursenika1840 这些图书馆早关门吗，晚关的话在那边静静的学习看书一天感觉会很舒服"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2020783516292927489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtD5sia0AENbBp.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2020783516292890624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtD5siaQAACuWl.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2020783543497248806",
+        "created_at": "2026-02-09T15:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020884667008684177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1629058457222656001",
+              "start": 0,
+              "username": "nursenika1840"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020884667008684177",
+        "in_reply_to_user_id": "1629058457222656001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020783543497248806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nursenika1840 这些图书馆早关门吗，晚关的话在那边静静的学习看书一天感觉会很舒服"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020783516292927489",
+            "3_2020783516292890624"
+          ]
+        },
+        "author_id": "1629058457222656001",
+        "conversation_id": "2020783543497248806",
+        "created_at": "2026-02-09T08:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020783543497248806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZO1qmoRD1",
+              "end": 108,
+              "expanded_url": "https://x.com/nursenika1840/status/2020783543497248806/photo/1",
+              "media_key": "3_2020783516292927489",
+              "start": 85,
+              "url": "https://t.co/DZO1qmoRD1"
+            },
+            {
+              "display_url": "pic.x.com/DZO1qmoRD1",
+              "end": 108,
+              "expanded_url": "https://x.com/nursenika1840/status/2020783543497248806/photo/1",
+              "media_key": "3_2020783516292890624",
+              "start": 85,
+              "url": "https://t.co/DZO1qmoRD1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020783543497248806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5000多人口小镇kadina上的图书馆。。。大的离谱。。。社区图书馆，可以借书，借影碟，有五六台电脑可以上网，有儿童活动区，与其说是图书馆，其实更多的是社区活动中心。\n\n遇到一个本地五六十岁大妈在发电子邮件，死活发不明白，图书馆管理员就教她发，密码也不对，邮箱也不对，折腾半天最后终于发出去了。\n\n小黄人还是得多来澳大利亚。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 13639,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "5000多人口小镇kadina上的图书馆。。。大的离谱。。。社区图书馆，可以借书，借影碟，有五六台电脑可以上网，有儿童活动区，与其说是图书馆，其实更多的是社区活动中心。 https://t.co/DZO1qmoRD1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2020096493814685890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 49,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 80
+        },
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T09:59:45.000Z",
+        "description": "如有移民问题可以私信，只能力所能及回答。",
+        "id": "1629058457222656001",
+        "name": "澳洲护士卡子弟",
+        "pinned_tweet_id": "1791700234860740900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648533563825082369/SW0QqoYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53268,
+          "following_count": 419,
+          "like_count": 8315,
+          "listed_count": 202,
+          "media_count": 771,
+          "tweet_count": 16065
+        },
+        "username": "nursenika1840",
+        "verified": true
+      }
+    ]
+  }
+}

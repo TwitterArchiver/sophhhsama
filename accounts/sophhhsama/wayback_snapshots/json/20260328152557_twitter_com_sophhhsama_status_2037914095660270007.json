@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2037914095660270007",
+    "created_at": "2026-03-28T15:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T16:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037914095660270007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/obe_zx/status/…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/obe_zx/status/2037884775734677549",
+          "start": 58,
+          "url": "https://t.co/dsRFAQ9IOu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037914095660270007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037884775734677549",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "学医想帮人黑切会不会马上被退学\n或者开一间很很很便宜的专做这方面整形的…\n不过得先考上相关专科什么的\n嘴上说说而已 https://t.co/dsRFAQ9IOu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 233,
+        "media_key": "3_2037884772140130304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEgFZzCXIAAmZQA.jpg",
+        "width": 1243
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2037914095660270007",
+        "created_at": "2026-03-28T15:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037914095660270007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/obe_zx/status/…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/obe_zx/status/2037884775734677549",
+              "start": 58,
+              "url": "https://t.co/dsRFAQ9IOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037914095660270007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037884775734677549",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学医想帮人黑切会不会马上被退学\n或者开一间很很很便宜的专做这方面整形的…\n不过得先考上相关专科什么的\n嘴上说说而已 https://t.co/dsRFAQ9IOu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037884772140130304"
+          ]
+        },
+        "author_id": "1453575590729162758",
+        "conversation_id": "2037884775734677549",
+        "created_at": "2026-03-28T13:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037884775734677549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Vd2OfauEr",
+              "end": 164,
+              "expanded_url": "https://x.com/obe_ZX/status/2037884775734677549/photo/1",
+              "media_key": "3_2037884772140130304",
+              "start": 141,
+              "url": "https://t.co/8Vd2OfauEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037884775734677549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 744,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "看到了一篇帖子\n大概是说一跨女可能是因为无法进行正规跨性别医疗，尝试寻求黑切被骗钱，最终只能自切，然而自切后，医院给的缝合报价为两万，其无力负担（因为原图可能会…所以不引用原推/截完整推文）\n我只想说，不重视跨性别医疗问题、为跨性别医疗增加过多阻力\n不是“不支持不反对”\n是大屠杀 https://t.co/8Vd2OfauEr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtcat | 小猫/sophie 想到什么发什么 | 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫🍥",
+        "pinned_tweet_id": "2037791863998930973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 236,
+          "like_count": 7333,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T04:13:37.000Z",
+        "description": "07年夏季Trans F | 持证但是DIY HRTing | 175/53.4kg | 尝试增肥ing | 半家长党（妈妈）+半家长不管党（生父） | 最喜欢的姐姐@ye_han67658",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 83,
+                "username": "ye_han67658"
+              }
+            ]
+          }
+        },
+        "id": "1453575590729162758",
+        "location": "小骨灰盒",
+        "name": "栀子MOCHI 🍡🏳️‍⚧️",
+        "pinned_tweet_id": "2007341646145638708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399355464818688/q56FkSGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 521,
+          "like_count": 18948,
+          "listed_count": 4,
+          "media_count": 343,
+          "tweet_count": 2023
+        },
+        "username": "obe_ZX",
+        "verified": false
+      }
+    ]
+  }
+}

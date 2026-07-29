@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2047274545770340491",
+    "created_at": "2026-04-23T13:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047302641357615339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1592780654",
+          "start": 0,
+          "username": "shiroijusu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047302641357615339",
+    "in_reply_to_user_id": "1592780654",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047301607868514615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiroijusu 摸摸\n早日恢复呀喵喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2047301565334130688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGl57TXXkAAEo5E.jpg",
+        "width": 1081
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2047274545770340491",
+        "created_at": "2026-04-23T13:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047302641357615339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592780654",
+              "start": 0,
+              "username": "shiroijusu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047302641357615339",
+        "in_reply_to_user_id": "1592780654",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047301607868514615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiroijusu 摸摸\n早日恢复呀喵喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047301565334130688"
+          ]
+        },
+        "author_id": "1592780654",
+        "conversation_id": "2047274545770340491",
+        "created_at": "2026-04-23T13:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047301607868514615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223415775278428160",
+              "start": 0,
+              "username": "sophhhsama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MLLXzGHujp",
+              "end": 73,
+              "expanded_url": "https://x.com/shiroijusu/status/2047301607868514615/photo/1",
+              "media_key": "3_2047301565334130688",
+              "start": 50,
+              "url": "https://t.co/MLLXzGHujp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047301607868514615",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047282052148408441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophhhsama 虽然说已经出院了，但感觉只恢复了80%左右，剩下的还需要一点时间来慢慢恢复 https://t.co/MLLXzGHujp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 360,
+          "like_count": 13423,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 1994
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-14T07:16:22.000Z",
+        "description": "是个(伪)技术宅 / 透明属性MAX / 喜欢动漫，热爱科技 / 虽然有点怕生但想要和各位成为好朋友(⁰▿⁰) / 欢迎DM！✉️ / 是个日常推主，但内容可能会很无聊(Ｔ▽Ｔ) / 想要努力变得更加优秀！ / 不讨论政治、不搞颜色 / 还请各位多多关照( ´ ▽ ` )ノ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shiroi_messeng…",
+                "end": 23,
+                "expanded_url": "http://t.me/shiroi_messengerbot",
+                "start": 0,
+                "url": "https://t.co/Fr8Hk6l7vR"
+              }
+            ]
+          }
+        },
+        "id": "1592780654",
+        "location": "People's Republic of China",
+        "name": "纯白果汁",
+        "pinned_tweet_id": "1770263246005477531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1394322398753685509/bu_JRED2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3146,
+          "following_count": 157,
+          "like_count": 26457,
+          "listed_count": 25,
+          "media_count": 3804,
+          "tweet_count": 13944
+        },
+        "url": "https://t.co/Fr8Hk6l7vR",
+        "username": "shiroijusu",
+        "verified": false
+      }
+    ]
+  }
+}

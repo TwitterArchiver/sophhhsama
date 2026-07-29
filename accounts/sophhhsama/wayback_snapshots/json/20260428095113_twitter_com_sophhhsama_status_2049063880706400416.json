@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2049063880706400416",
+    "created_at": "2026-04-28T09:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T10:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049063880706400416"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fanqie_qianqia…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/fanqie_qianqian/status/2049046452316553663",
+          "start": 9,
+          "url": "https://t.co/jkUrWd4gXP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049063880706400416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049046452316553663",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "操蛋补药哇喵喵😣 https://t.co/jkUrWd4gXP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2049063880706400416",
+        "created_at": "2026-04-28T09:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049063880706400416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fanqie_qianqia…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/fanqie_qianqian/status/2049046452316553663",
+              "start": 9,
+              "url": "https://t.co/jkUrWd4gXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049063880706400416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049046452316553663",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "操蛋补药哇喵喵😣 https://t.co/jkUrWd4gXP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2049046452316553663",
+        "created_at": "2026-04-28T08:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049046452316553663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049046452316553663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1022,
+          "like_count": 14,
+          "quote_count": 6,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "謝謝你們陪著我 要是我成功了請務必替我好好活著"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 384,
+          "like_count": 14716,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 2207
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "🚪",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2048007891450483082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047913417026256896/nhgiZEyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 15,
+          "like_count": 245,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 83
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

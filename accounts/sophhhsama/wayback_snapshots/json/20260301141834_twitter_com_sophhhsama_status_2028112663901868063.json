@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2028112663901868063",
+    "created_at": "2026-03-01T14:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T15:18:06.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028112545756618899",
+      "2028112663901868063"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/altamiravt/sta…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/altamiravt/status/2027792692894154850",
+          "start": 51,
+          "url": "https://t.co/KlSTaPfWOa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028112663901868063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027792692894154850",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "学废了喵\n大家一起看 感觉挺有意思的\n我自然的发音就是90%full masc 呜呜呜\n少女大学习！ https://t.co/KlSTaPfWOa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 63230,
+        "height": 1918,
+        "media_key": "13_2027792536610156547",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027792536610156547/img/B8A1bdfQR6K5Ncb8.jpg",
+        "public_metrics": {
+          "view_count": 104817
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027792536610156547/vid/avc1/320x568/M2SoGgosH8xFLm8e.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027792536610156547/vid/avc1/480x854/zyXyXSc_qTO5QY8s.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027792536610156547/vid/avc1/720x1280/qkOauSpEHpQaLEXy.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027792536610156547/pl/y5Fe-8yL-g2zVNO1.m3u8?tag=14"
+          }
+        ],
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2028112545756618899",
+        "created_at": "2026-03-01T14:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:18:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028112545756618899",
+          "2028112663901868063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/altamiravt/sta…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/altamiravt/status/2027792692894154850",
+              "start": 44,
+              "url": "https://t.co/KlSTaPfWOa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028112545756618899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027792692894154850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学废了喵\n大家一起看 感觉挺有意思的\n我自然的发音就是90%full masc 呜呜呜 https://t.co/KlSTaPfWOa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2028112663901868063",
+        "created_at": "2026-03-01T14:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:18:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028112545756618899",
+          "2028112663901868063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/altamiravt/sta…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/altamiravt/status/2027792692894154850",
+              "start": 51,
+              "url": "https://t.co/KlSTaPfWOa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028112663901868063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027792692894154850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学废了喵\n大家一起看 感觉挺有意思的\n我自然的发音就是90%full masc 呜呜呜\n少女大学习！ https://t.co/KlSTaPfWOa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027792536610156547"
+          ]
+        },
+        "author_id": "1517679041297457152",
+        "conversation_id": "2027792692894154850",
+        "created_at": "2026-02-28T17:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T18:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027792692894154850"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 35,
+              "tag": "transvoice"
+            },
+            {
+              "end": 61,
+              "start": 47,
+              "tag": "voicetraining"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eytozUr51b",
+              "end": 85,
+              "expanded_url": "https://x.com/AltamiraVT/status/2027792692894154850/video/1",
+              "media_key": "13_2027792536610156547",
+              "start": 62,
+              "url": "https://t.co/eytozUr51b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027792692894154850",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7523,
+          "impression_count": 203522,
+          "like_count": 7030,
+          "quote_count": 30,
+          "reply_count": 45,
+          "retweet_count": 404
+        },
+        "reply_settings": "everyone",
+        "text": "An introduction to vocal fullness! #transvoice #voicetraining https://t.co/eytozUr51b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | Aspiring med student. spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 108,
+          "like_count": 2280,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 418
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-23T01:37:46.000Z",
+        "description": "Transsexual Rock'n'Roll Mogul\nVocal Gender Fuckwitterer\nSign up for Voice Training lessons below ⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vocal-team.com",
+                "end": 23,
+                "expanded_url": "http://vocal-team.com",
+                "start": 0,
+                "url": "https://t.co/SnuscDuYjl"
+              }
+            ]
+          }
+        },
+        "id": "1517679041297457152",
+        "location": "Chicago",
+        "name": "Altamira",
+        "pinned_tweet_id": "2024867259915637134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017045853681127424/ZYyb5IQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8297,
+          "following_count": 973,
+          "like_count": 19411,
+          "listed_count": 11,
+          "media_count": 709,
+          "tweet_count": 5080
+        },
+        "url": "https://t.co/SnuscDuYjl",
+        "username": "AltamiraVT",
+        "verified": false
+      }
+    ]
+  }
+}

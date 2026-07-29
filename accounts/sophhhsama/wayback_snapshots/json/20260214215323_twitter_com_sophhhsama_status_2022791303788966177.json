@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2022791303788966177",
+    "created_at": "2026-02-14T21:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T22:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022791303788966177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tikemaison0921…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/tikemaison0921/status/2022439420327342210",
+          "start": 8,
+          "url": "https://t.co/tnJRdlrDWJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022791303788966177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022439420327342210",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要啊啊啊啊啊 https://t.co/tnJRdlrDWJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 415,
+        "media_key": "3_2022439417303175170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBEl70gakAIHawS.jpg",
+        "width": 739
+      },
+      {
+        "height": 466,
+        "media_key": "3_2022439417567416321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBEl71fakAEsnkT.jpg",
+        "width": 830
+      },
+      {
+        "height": 842,
+        "media_key": "3_2022439418104324096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBEl73fbIAAnR9p.jpg",
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2022791303788966177",
+        "created_at": "2026-02-14T21:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T22:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022791303788966177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tikemaison0921…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/tikemaison0921/status/2022439420327342210",
+              "start": 8,
+              "url": "https://t.co/tnJRdlrDWJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022791303788966177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022439420327342210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要啊啊啊啊啊 https://t.co/tnJRdlrDWJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022439417303175170",
+            "3_2022439417567416321",
+            "3_2022439418104324096"
+          ]
+        },
+        "author_id": "1825011382775152640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2022439420327342210",
+        "created_at": "2026-02-13T22:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T23:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022439420327342210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zDhfvmOrdW",
+              "end": 48,
+              "expanded_url": "https://x.com/tikemaison0921/status/2022439420327342210/photo/1",
+              "media_key": "3_2022439417303175170",
+              "start": 25,
+              "url": "https://t.co/zDhfvmOrdW"
+            },
+            {
+              "display_url": "pic.x.com/zDhfvmOrdW",
+              "end": 48,
+              "expanded_url": "https://x.com/tikemaison0921/status/2022439420327342210/photo/1",
+              "media_key": "3_2022439417567416321",
+              "start": 25,
+              "url": "https://t.co/zDhfvmOrdW"
+            },
+            {
+              "display_url": "pic.x.com/zDhfvmOrdW",
+              "end": 48,
+              "expanded_url": "https://x.com/tikemaison0921/status/2022439420327342210/photo/1",
+              "media_key": "3_2022439418104324096",
+              "start": 25,
+              "url": "https://t.co/zDhfvmOrdW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022439420327342210",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2412,
+          "impression_count": 6607026,
+          "like_count": 31405,
+          "quote_count": 1907,
+          "reply_count": 460,
+          "retweet_count": 1153
+        },
+        "reply_settings": "everyone",
+        "text": "【悲報】\niPhone18  type-c 廃止 https://t.co/zDhfvmOrdW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 59,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 184
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-18T03:27:10.000Z",
+        "description": "元マチェンコです。アカウントロックから戻れなくなったのでこのアカウントで再開します。前のフォロワー様、よろしくお願いします。",
+        "id": "1825011382775152640",
+        "location": "名古屋市",
+        "name": "ﾀｲｸ・ﾏｲｿﾝ (元ﾏﾁｪﾝｺ)",
+        "pinned_tweet_id": "1989522678223622402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933360106013667330/-SvuwvLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3507,
+          "following_count": 2130,
+          "like_count": 21231,
+          "listed_count": 17,
+          "media_count": 1174,
+          "tweet_count": 9521
+        },
+        "username": "tikemaison0921",
+        "verified": true
+      }
+    ]
+  }
+}

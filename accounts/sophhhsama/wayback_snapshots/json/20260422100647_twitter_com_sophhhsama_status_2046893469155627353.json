@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046893464785235968",
+        "3_2046893464785141760"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2046893469155627353",
+    "created_at": "2026-04-22T10:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046893469155627353"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mFNlVj6fGI",
+          "end": 44,
+          "expanded_url": "https://x.com/sophhhsama/status/2046893469155627353/photo/1",
+          "media_key": "3_2046893464785235968",
+          "start": 21,
+          "url": "https://t.co/mFNlVj6fGI"
+        },
+        {
+          "display_url": "pic.x.com/mFNlVj6fGI",
+          "end": 44,
+          "expanded_url": "https://x.com/sophhhsama/status/2046893469155627353/photo/1",
+          "media_key": "3_2046893464785141760",
+          "start": 21,
+          "url": "https://t.co/mFNlVj6fGI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046893469155627353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下单买EEn了🫠\n用虚拟货币买单有点可怕 https://t.co/mFNlVj6fGI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_2046893464785235968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgGwuWXsAA_-M2.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1895,
+        "media_key": "3_2046893464785141760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgGwuWWQAABNc-.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046893464785235968",
+            "3_2046893464785141760"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2046893469155627353",
+        "created_at": "2026-04-22T10:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046893469155627353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFNlVj6fGI",
+              "end": 44,
+              "expanded_url": "https://x.com/sophhhsama/status/2046893469155627353/photo/1",
+              "media_key": "3_2046893464785235968",
+              "start": 21,
+              "url": "https://t.co/mFNlVj6fGI"
+            },
+            {
+              "display_url": "pic.x.com/mFNlVj6fGI",
+              "end": 44,
+              "expanded_url": "https://x.com/sophhhsama/status/2046893469155627353/photo/1",
+              "media_key": "3_2046893464785141760",
+              "start": 21,
+              "url": "https://t.co/mFNlVj6fGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046893469155627353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下单买EEn了🫠\n用虚拟货币买单有点可怕 https://t.co/mFNlVj6fGI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 356,
+          "like_count": 13129,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 1950
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2043410400667160721",
+    "created_at": "2026-04-12T20:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T21:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043420265158246524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1548826131927044097",
+          "start": 0,
+          "username": "YukikuYumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043420265158246524",
+    "in_reply_to_user_id": "1548826131927044097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043410400667160721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukikuYumi 老师这听起来是解离呢\n摸摸姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2043410400667160721",
+        "created_at": "2026-04-12T20:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T21:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043420265158246524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1548826131927044097",
+              "start": 0,
+              "username": "YukikuYumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043420265158246524",
+        "in_reply_to_user_id": "1548826131927044097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043410400667160721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukikuYumi 老师这听起来是解离呢\n摸摸姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548826131927044097",
+        "conversation_id": "2043410400667160721",
+        "created_at": "2026-04-12T19:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043410400667160721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "清羽梦泠.zip’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1yJAP…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1yJAPMnEqQzGb",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2043410401900240896/KZaeS6jl?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2043410401900240896/KZaeS6jl?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 睡不着…",
+              "unwound_url": "https://twitter.com/i/spaces/1yJAPMnEqQzGb/peek",
+              "url": "https://t.co/NZA6UKIkfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043410400667160721",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NZA6UKIkfe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 320,
+          "like_count": 10695,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 1604
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T00:25:11.000Z",
+        "description": "01处女座🏳️‍⚧️｜176/65｜2024.08.18🍬｜le｜丹麦留子｜碎碎念：@YukikuYomi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "YukikuYomi"
+              }
+            ]
+          }
+        },
+        "id": "1548826131927044097",
+        "name": "清羽梦泠.zip",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844385529502003209/wypDnx8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5423,
+          "following_count": 496,
+          "like_count": 2492,
+          "listed_count": 18,
+          "media_count": 220,
+          "tweet_count": 1363
+        },
+        "username": "YukikuYumi",
+        "verified": false
+      }
+    ]
+  }
+}

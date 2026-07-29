@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2042463425167835281",
+    "created_at": "2026-04-11T08:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T09:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042887003042091310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1737402369346768896",
+          "start": 0,
+          "username": "X_0177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042887003042091310",
+    "in_reply_to_user_id": "1737402369346768896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042463425167835281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X_0177 我趣不早说喵？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2042463425167835281",
+        "created_at": "2026-04-11T08:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042887003042091310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1737402369346768896",
+              "start": 0,
+              "username": "X_0177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042887003042091310",
+        "in_reply_to_user_id": "1737402369346768896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042463425167835281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X_0177 我趣不早说喵？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737402369346768896",
+        "conversation_id": "2042463425167835281",
+        "created_at": "2026-04-10T04:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042463425167835281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042463425167835281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 174030,
+          "like_count": 1297,
+          "quote_count": 16,
+          "reply_count": 165,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "突然猝死，很可能是身体在向你求救！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 311,
+          "like_count": 10148,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 1536
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T09:20:00.000Z",
+        "description": "ENFP/白羊，05年。4i＞1i，男同勿扰，上学中，无聊会写音乐，偶尔发自拍，互关来找我扩列！ 📪留言箱：https://t.co/jkc7ZiU9WS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fesor",
+                "end": 77,
+                "expanded_url": "https://ngl.link/fesor",
+                "start": 54,
+                "url": "https://t.co/jkc7ZiU9WS"
+              }
+            ]
+          }
+        },
+        "id": "1737402369346768896",
+        "name": "绯色大帝",
+        "pinned_tweet_id": "1910619059282207090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019808559287160832/n-zsQSMW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3321,
+          "following_count": 219,
+          "like_count": 5223,
+          "listed_count": 6,
+          "media_count": 183,
+          "tweet_count": 956
+        },
+        "username": "X_0177",
+        "verified": false
+      }
+    ]
+  }
+}

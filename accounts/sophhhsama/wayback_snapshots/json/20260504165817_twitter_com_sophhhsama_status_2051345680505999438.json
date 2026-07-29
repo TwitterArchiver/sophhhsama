@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2051345680505999438",
+    "created_at": "2026-05-04T16:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T17:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051345680505999438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/astraorsa/stat…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/astraorsa/status/2051254143604732006",
+          "start": 76,
+          "url": "https://t.co/N6rpBdQzIS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051345680505999438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051254143604732006",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃啊啊好美呀怎么办\n想回去了\n什么时候才能存够钱回去呢\n好无趣\n回去可以见想要见的人s\n自己走在陌生的城市\n耳边听着熟悉又陌生的语言\n啊怎么就这么难捏 https://t.co/N6rpBdQzIS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2926,
+        "media_key": "3_2051254128672911360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeEwxOaMAA8Ddp.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2051345680505999438",
+        "created_at": "2026-05-04T16:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051345680505999438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/astraorsa/stat…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/astraorsa/status/2051254143604732006",
+              "start": 76,
+              "url": "https://t.co/N6rpBdQzIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051345680505999438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051254143604732006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃啊啊好美呀怎么办\n想回去了\n什么时候才能存够钱回去呢\n好无趣\n回去可以见想要见的人s\n自己走在陌生的城市\n耳边听着熟悉又陌生的语言\n啊怎么就这么难捏 https://t.co/N6rpBdQzIS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051254128672911360"
+          ]
+        },
+        "author_id": "3184828508",
+        "conversation_id": "2051254143604732006",
+        "created_at": "2026-05-04T10:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051254143604732006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZCUVAWgj4t",
+              "end": 28,
+              "expanded_url": "https://x.com/astraorsa/status/2051254143604732006/photo/1",
+              "media_key": "3_2051254128672911360",
+              "start": 5,
+              "url": "https://t.co/ZCUVAWgj4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051254143604732006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1064,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黄昏渐晚 https://t.co/ZCUVAWgj4t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 389,
+          "like_count": 16730,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 2383
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-04T05:39:44.000Z",
+        "description": "矮纸斜行闲作草，晴窗细乳戏分茶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cynosura.one",
+                "end": 23,
+                "expanded_url": "https://cynosura.one",
+                "start": 0,
+                "url": "https://t.co/REjBdAN66j"
+              }
+            ]
+          }
+        },
+        "id": "3184828508",
+        "location": "TON 618",
+        "name": "千草茶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012585523383009280/NU2wB57N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9662,
+          "following_count": 1271,
+          "like_count": 56510,
+          "listed_count": 50,
+          "media_count": 8652,
+          "tweet_count": 50808
+        },
+        "url": "https://t.co/REjBdAN66j",
+        "username": "astraorsa",
+        "verified": false
+      }
+    ]
+  }
+}

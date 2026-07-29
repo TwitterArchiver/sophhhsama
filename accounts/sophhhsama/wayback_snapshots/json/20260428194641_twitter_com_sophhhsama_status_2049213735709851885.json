@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2048868015329161216"
+      ],
+      "media_source_tweet_id": [
+        "2048868039932649719"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049213735709851885",
+    "created_at": "2026-04-28T19:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T20:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049213735709851885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2033442960256438273",
+          "start": 3,
+          "username": "onllycutestuff"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0iNMOB1aM6",
+          "end": 43,
+          "expanded_url": "https://x.com/onllycutestuff/status/2048868039932649719/video/1",
+          "media_key": "7_2048868015329161216",
+          "start": 20,
+          "url": "https://t.co/0iNMOB1aM6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049213735709851885",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 144
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048868039932649719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onllycutestuff: https://t.co/0iNMOB1aM6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7337,
+        "height": 928,
+        "media_key": "7_2048868015329161216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048868015329161216/pu/img/uNv_hx9ydPabcNZ5.jpg",
+        "public_metrics": {
+          "view_count": 2118
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048868015329161216/pu/vid/avc1/320x412/BmKZ18IYnM3vyeQn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048868015329161216/pu/vid/avc1/480x618/x_cBnCe6zYXeZ1xI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048868015329161216/pu/vid/avc1/720x928/H_K_ffdOGPiMkiO9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048868015329161216/pu/pl/otyfGjOnmx9jRQzz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048868015329161216"
+          ],
+          "media_source_tweet_id": [
+            "2048868039932649719"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049213735709851885",
+        "created_at": "2026-04-28T19:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T20:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049213735709851885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2033442960256438273",
+              "start": 3,
+              "username": "onllycutestuff"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0iNMOB1aM6",
+              "end": 43,
+              "expanded_url": "https://x.com/onllycutestuff/status/2048868039932649719/video/1",
+              "media_key": "7_2048868015329161216",
+              "start": 20,
+              "url": "https://t.co/0iNMOB1aM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049213735709851885",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 144
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048868039932649719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onllycutestuff: https://t.co/0iNMOB1aM6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048868015329161216"
+          ]
+        },
+        "author_id": "2033442960256438273",
+        "conversation_id": "2048868039932649719",
+        "created_at": "2026-04-27T20:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T21:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048868039932649719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0iNMOB1aM6",
+              "end": 23,
+              "expanded_url": "https://x.com/onllycutestuff/status/2048868039932649719/video/1",
+              "media_key": "7_2048868015329161216",
+              "start": 0,
+              "url": "https://t.co/0iNMOB1aM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048868039932649719",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 11234,
+          "like_count": 701,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0iNMOB1aM6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 385,
+          "like_count": 14942,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 2222
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T07:19:35.000Z",
+        "description": "",
+        "id": "2033442960256438273",
+        "name": "🌟",
+        "pinned_tweet_id": "2033608043250827529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046669517216940032/yxqMdUGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3283,
+          "following_count": 114,
+          "like_count": 450,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 78
+        },
+        "username": "onllycutestuff",
+        "verified": true
+      }
+    ]
+  }
+}

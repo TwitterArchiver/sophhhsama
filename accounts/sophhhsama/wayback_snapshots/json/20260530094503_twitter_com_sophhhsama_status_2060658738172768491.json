@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2060586270687183304",
+    "created_at": "2026-05-30T09:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060658738172768491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1467486752482881540",
+          "start": 0,
+          "username": "HDWJ168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060658738172768491",
+    "in_reply_to_user_id": "1467486752482881540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060586270687183304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HDWJ168 互关一下哦～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2060586270687183304",
+        "created_at": "2026-05-30T09:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060658738172768491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1467486752482881540",
+              "start": 0,
+              "username": "HDWJ168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060658738172768491",
+        "in_reply_to_user_id": "1467486752482881540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060586270687183304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HDWJ168 互关一下哦～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467486752482881540",
+        "conversation_id": "2060586270687183304",
+        "created_at": "2026-05-30T04:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060586270687183304"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "蓝V互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060586270687183304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1003,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷了一圈X，突然有点恍惚。\n\n中文区蓝V是不是就这么多人了？\n时间线里来来回回，还是那些熟脸。\n\n不是不想互动，\n是想找几个新面孔都像在大海捞针。\n\n别让这个圈子越来越像熟人局，\n给新面孔一点机会，也给自己一点新鲜感。\n\n所以！\n\n蓝V新面孔在哪？\n\n#蓝V互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 403,
+          "like_count": 22208,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 3132
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-05T13:31:55.000Z",
+        "description": "解读链上数据，追踪空投机遇，观察市场节奏。用更清醒的视角，探索 Web3前沿机会。",
+        "id": "1467486752482881540",
+        "name": "灰度玩家",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055198183844872192/9v7iLY1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2924,
+          "following_count": 1856,
+          "like_count": 98,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 1637
+        },
+        "username": "HDWJ168",
+        "verified": true
+      }
+    ]
+  }
+}

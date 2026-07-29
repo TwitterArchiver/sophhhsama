@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2060612256963150263",
+    "created_at": "2026-05-30T09:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060657104839376999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1746868445118164992",
+          "start": 0,
+          "username": "richpeach888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060657104839376999",
+    "in_reply_to_user_id": "1746868445118164992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060612256963150263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@richpeach888 呜呜呜呜呜呜卡哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10233,
+        "height": 1280,
+        "media_key": "13_2060612187270639616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060612187270639616/img/EF00w9p7wtranQAp.jpg",
+        "public_metrics": {
+          "view_count": 810
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060612187270639616/vid/avc1/320x568/YstrT2UurUDjl_9n.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060612187270639616/vid/avc1/480x852/GSJiHCHqx-KRHREB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060612187270639616/vid/avc1/720x1280/g26F7bGk9mle6G3b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060612187270639616/pl/gEFbg7WeBSX-34rM.m3u8?v=3c3"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2060612256963150263",
+        "created_at": "2026-05-30T09:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060657104839376999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1746868445118164992",
+              "start": 0,
+              "username": "richpeach888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060657104839376999",
+        "in_reply_to_user_id": "1746868445118164992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060612256963150263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@richpeach888 呜呜呜呜呜呜卡哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060612187270639616"
+          ]
+        },
+        "author_id": "1746868445118164992",
+        "conversation_id": "2060612256963150263",
+        "created_at": "2026-05-30T06:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060612256963150263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5DxhzSACS",
+              "end": 38,
+              "expanded_url": "https://x.com/richpeach888/status/2060612256963150263/video/1",
+              "media_key": "13_2060612187270639616",
+              "start": 15,
+              "url": "https://t.co/t5DxhzSACS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060612256963150263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2054,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗庄朝我砍了一刀 但我做空了 https://t.co/t5DxhzSACS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 402,
+          "like_count": 22206,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 3130
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-15T12:14:40.000Z",
+        "description": "可爱又迷人的非反派角色！😈有趣的聪明钱罢了🥳\n在@Hertzflow_xyz 当狗庄（intern)｜04年舞蹈生在读｜运用SMC策略｜二级趋势交易｜链上meme玩家｜Not Financial Advice｜工作联系tg@facaixiaotao51888｜群⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "Hertzflow_xyz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+18dbkdaXMhxiM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+18dbkdaXMhxiM2Vl",
+                "start": 0,
+                "url": "https://t.co/lHisFusZf3"
+              }
+            ]
+          }
+        },
+        "id": "1746868445118164992",
+        "location": "Yau Tsim Mong District",
+        "name": "小桃今天止盈了嘛",
+        "pinned_tweet_id": "1994661217328402792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009752001324937216/EsIxwhjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4904,
+          "following_count": 1675,
+          "like_count": 9074,
+          "listed_count": 19,
+          "media_count": 1029,
+          "tweet_count": 8188
+        },
+        "url": "https://t.co/lHisFusZf3",
+        "username": "richpeach888",
+        "verified": true
+      }
+    ]
+  }
+}

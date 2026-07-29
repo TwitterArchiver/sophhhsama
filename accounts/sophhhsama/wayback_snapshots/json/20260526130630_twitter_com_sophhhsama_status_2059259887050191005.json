@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2058829859263291512",
+    "created_at": "2026-05-26T13:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059259887050191005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2023210361764360192",
+          "start": 0,
+          "username": "NanakoLumkung"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059259887050191005",
+    "in_reply_to_user_id": "2023210361764360192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058829859263291512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanakoLumkung 啊啊啊真的可以直接丢洗衣机嘛？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1411,
+        "media_key": "3_2058829849473798144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJu1wbbUAAHaHS.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2058829859263291512",
+        "created_at": "2026-05-26T13:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059259887050191005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2023210361764360192",
+              "start": 0,
+              "username": "NanakoLumkung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059259887050191005",
+        "in_reply_to_user_id": "2023210361764360192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058829859263291512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanakoLumkung 啊啊啊真的可以直接丢洗衣机嘛？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058829849473798144"
+          ]
+        },
+        "author_id": "2023210361764360192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058829859263291512",
+        "created_at": "2026-05-25T08:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058829859263291512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJAUbGxFMh",
+              "end": 70,
+              "expanded_url": "https://x.com/NanakoLumkung/status/2058829859263291512/photo/1",
+              "media_key": "3_2058829849473798144",
+              "start": 47,
+              "url": "https://t.co/pJAUbGxFMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058829859263291512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大姐姐，那个。。。。真的要洗吗，洗完还能看见大姐姐吗\n🍓：相信我吧鲨鲨！🥰我从来不骗人的哦！ https://t.co/pJAUbGxFMh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 363,
+          "like_count": 21662,
+          "listed_count": 2,
+          "media_count": 360,
+          "tweet_count": 2999
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-16T01:38:50.000Z",
+        "description": "🇩🇪🇯🇵Freut mich, dich kennenzulernen — willkommen im Hintergarten von 菜々子@SuzukiHnnn｜現在，HRTは一時中断しています｜My Redemption @HappyHejsDay @Liunian_a @NagiExpress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "SuzukiHnnn"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "NagiExpress"
+              }
+            ]
+          }
+        },
+        "id": "2023210361764360192",
+        "location": "Basilica Sancti Petri",
+        "name": "𝓝·𝓪·𝓷·𝓪·𝓴·𝓸·𝓢·𝓽·𝓻·𝓪·𝔀·𝓫·𝓮·𝓻·𝓻·𝔂",
+        "pinned_tweet_id": "2055899655528161377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032659428667961344/NopHtjOo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 76,
+          "like_count": 912,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 390
+        },
+        "username": "NanakoLumkung",
+        "verified": false
+      }
+    ]
+  }
+}

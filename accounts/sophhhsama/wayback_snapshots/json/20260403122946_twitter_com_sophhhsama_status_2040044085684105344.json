@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2040044085684105344",
+    "created_at": "2026-04-03T12:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T13:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040044085684105344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1565981667746914304",
+          "start": 3,
+          "username": "Kagura_Yukikaze"
+        },
+        {
+          "end": 43,
+          "id": "1878681729407356928",
+          "start": 31,
+          "username": "HYuusui1999"
+        },
+        {
+          "end": 54,
+          "id": "1627197826332778496",
+          "start": 45,
+          "username": "Ochette_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040044085684105344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040043032125518079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kagura_Yukikaze: 疑似服用亚硝酸钠…\n@HYuusui1999 \n@Ochette_ \n求转…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2040044085684105344",
+        "created_at": "2026-04-03T12:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040044085684105344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1565981667746914304",
+              "start": 3,
+              "username": "Kagura_Yukikaze"
+            },
+            {
+              "end": 43,
+              "id": "1878681729407356928",
+              "start": 31,
+              "username": "HYuusui1999"
+            },
+            {
+              "end": 54,
+              "id": "1627197826332778496",
+              "start": 45,
+              "username": "Ochette_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040044085684105344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040043032125518079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kagura_Yukikaze: 疑似服用亚硝酸钠…\n@HYuusui1999 \n@Ochette_ \n求转…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2040043032125518079",
+        "created_at": "2026-04-03T12:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040043032125518079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1878681729407356928",
+              "start": 10,
+              "username": "HYuusui1999"
+            },
+            {
+              "end": 33,
+              "id": "1627197826332778496",
+              "start": 24,
+              "username": "Ochette_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sophhhsama/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/sophhhsama/status/2040037659502944479",
+              "start": 39,
+              "url": "https://t.co/QVOqcTdNHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040043032125518079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040037659502944479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "疑似服用亚硝酸钠…\n@HYuusui1999 \n@Ochette_ \n求转… https://t.co/QVOqcTdNHv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtcat | 可以叫我小猫/sophie 想到什么发什么 07 | 大笨蛋 @Cheeseduck111 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 275,
+          "like_count": 8322,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 1210
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|http://en-jp-cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 2744,
+          "like_count": 98412,
+          "listed_count": 3,
+          "media_count": 734,
+          "tweet_count": 11812
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 3165,
+          "like_count": 44727,
+          "listed_count": 6,
+          "media_count": 368,
+          "tweet_count": 11470
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T06:46:24.000Z",
+        "description": "mtf🍥/hrt2025.3.4/08/173cm/55kg/od割手碎碎念/普瑞巴林戒断中/负能警告⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ochette_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ochette_",
+                "start": 0,
+                "url": "https://t.co/jnELqBhkhT"
+              }
+            ]
+          }
+        },
+        "id": "1627197826332778496",
+        "name": "永雏云☁️🍥",
+        "pinned_tweet_id": "2031019485206057296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033478951478444032/LGRq8oP__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 513,
+          "like_count": 7000,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 755
+        },
+        "url": "https://t.co/jnELqBhkhT",
+        "username": "Ochette_",
+        "verified": false
+      }
+    ]
+  }
+}

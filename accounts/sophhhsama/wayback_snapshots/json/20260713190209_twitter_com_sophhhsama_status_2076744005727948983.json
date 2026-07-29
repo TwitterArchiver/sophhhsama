@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2076687251992625474",
+    "created_at": "2026-07-13T19:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T20:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076744005727948983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054099511279296512",
+          "start": 0,
+          "username": "666666666ZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076744005727948983",
+    "in_reply_to_user_id": "2054099511279296512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076687251992625474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@666666666ZT 摸摸 希望快点好起来呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_2076687139757232128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHf82raEAAjHEI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076687140390629376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHf85Ca8AA1-CP.jpg",
+        "width": 1542
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2076687140944285696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHf87GbEAA_rnE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2076687140654821376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHf86BaMAArZ5r.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2076687251992625474",
+        "created_at": "2026-07-13T19:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T20:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076744005727948983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054099511279296512",
+              "start": 0,
+              "username": "666666666ZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076744005727948983",
+        "in_reply_to_user_id": "2054099511279296512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076687251992625474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666666666ZT 摸摸 希望快点好起来呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076687139757232128",
+            "3_2076687140390629376",
+            "3_2076687140944285696",
+            "3_2076687140654821376"
+          ]
+        },
+        "author_id": "2054099511279296512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076687251992625474",
+        "created_at": "2026-07-13T15:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:16:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076687144551428365",
+          "2076687251992625474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pGtUbIrXqP",
+              "end": 91,
+              "expanded_url": "https://x.com/666666666ZT/status/2076687251992625474/photo/1",
+              "media_key": "3_2076687139757232128",
+              "start": 68,
+              "url": "https://t.co/pGtUbIrXqP"
+            },
+            {
+              "display_url": "pic.x.com/pGtUbIrXqP",
+              "end": 91,
+              "expanded_url": "https://x.com/666666666ZT/status/2076687251992625474/photo/1",
+              "media_key": "3_2076687140390629376",
+              "start": 68,
+              "url": "https://t.co/pGtUbIrXqP"
+            },
+            {
+              "display_url": "pic.x.com/pGtUbIrXqP",
+              "end": 91,
+              "expanded_url": "https://x.com/666666666ZT/status/2076687251992625474/photo/1",
+              "media_key": "3_2076687140944285696",
+              "start": 68,
+              "url": "https://t.co/pGtUbIrXqP"
+            },
+            {
+              "display_url": "pic.x.com/pGtUbIrXqP",
+              "end": 91,
+              "expanded_url": "https://x.com/666666666ZT/status/2076687251992625474/photo/1",
+              "media_key": "3_2076687140654821376",
+              "start": 68,
+              "url": "https://t.co/pGtUbIrXqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076687251992625474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5232,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上伤口又发炎了，只能再次清创小型手术了，用手术刀一点点割掉坏死的组织，并且拿镊子挑掉其他组织，还好我学过外科学，用掉了大量的酒精清洗 https://t.co/pGtUbIrXqP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 469,
+          "like_count": 26886,
+          "listed_count": 2,
+          "media_count": 381,
+          "tweet_count": 3525
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤，没有飞机账号，请注意！只和同类互关，闲鱼名称：许安清姐姐",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076557615912636478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 294,
+          "like_count": 30,
+          "listed_count": 4,
+          "media_count": 236,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": true
+      }
+    ]
+  }
+}

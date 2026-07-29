@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2032090355089490244",
+    "created_at": "2026-03-12T14:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T15:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032101213202698557"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "恭喜",
+          "probability": 0.7211,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1711227715939160064",
+          "start": 0,
+          "username": "Umino_0906"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032101213202698557",
+    "in_reply_to_user_id": "1711227715939160064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032090355089490244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Umino_0906 恭喜吖🎉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2032090355089490244",
+        "created_at": "2026-03-12T14:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T15:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032101213202698557"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "恭喜",
+              "probability": 0.7211,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1711227715939160064",
+              "start": 0,
+              "username": "Umino_0906"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032101213202698557",
+        "in_reply_to_user_id": "1711227715939160064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032090355089490244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Umino_0906 恭喜吖🎉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711227715939160064",
+        "conversation_id": "2032090355089490244",
+        "created_at": "2026-03-12T13:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032090355089490244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032090355089490244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "艰难到达100关注 所以让我想想该开个什么投票比较好\n至于照片什么的想拿去ai玩儿的你就玩吧、我反正没什么办法，别冲我脸就行\n眼不见心不烦wwwww\n谢谢大家支持～下一步进军200！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | 是sophie吖 | spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 95,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhh小猫🍥",
+        "pinned_tweet_id": "2031762452187070902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028253766047166464/6nF3n9OY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 203,
+          "like_count": 5142,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 780
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T03:51:06.000Z",
+        "description": "清水推，聊黄聊骚的滚，盗图狗也滚，不要冲我脸我会骂人。只有一个号，盗图请自辨，也不会收任何钱，大家不要被骗",
+        "id": "1711227715939160064",
+        "name": "海野",
+        "pinned_tweet_id": "2031333783040045066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031335805646680065/2Tx9Uw-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 580,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 162
+        },
+        "username": "Umino_0906",
+        "verified": false
+      }
+    ]
+  }
+}

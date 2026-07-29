@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2025472712286568685",
+    "created_at": "2026-02-22T07:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T08:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025472712286568685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/purelivn/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/purelivn/status/2025420283633672542",
+          "start": 3,
+          "url": "https://t.co/Y5FHQd6egf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025472712286568685",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025420283633672542",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "初春 https://t.co/Y5FHQd6egf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11145,
+        "height": 720,
+        "media_key": "13_2025400626943856640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025400626943856640/img/uDGMltJ_Hqd9V1YS.jpg",
+        "public_metrics": {
+          "view_count": 7116
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025400626943856640/vid/avc1/480x270/SoYP0NrbqthZqUrj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025400626943856640/vid/avc1/640x360/sWJjBT4NQrX3nzmQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025400626943856640/vid/avc1/1280x720/ruNqlDIM1NVmrNVR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025400626943856640/pl/fmkoEMAY1vNtE5Nu.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2025472712286568685",
+        "created_at": "2026-02-22T07:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025472712286568685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/purelivn/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/purelivn/status/2025420283633672542",
+              "start": 3,
+              "url": "https://t.co/Y5FHQd6egf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025472712286568685",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025420283633672542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "初春 https://t.co/Y5FHQd6egf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025400626943856640"
+          ]
+        },
+        "author_id": "1741480096727195648",
+        "conversation_id": "2025420283633672542",
+        "created_at": "2026-02-22T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025420283633672542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKcp2HLO4k",
+              "end": 23,
+              "expanded_url": "https://x.com/purelivn/status/2025420283633672542/video/1",
+              "media_key": "13_2025400626943856640",
+              "start": 0,
+              "url": "https://t.co/dKcp2HLO4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025420283633672542",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 20391,
+          "like_count": 1008,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 200
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dKcp2HLO4k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. spam account. 18, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 83,
+          "like_count": 1553,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 327
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-31T15:23:16.000Z",
+        "description": "peace in simplicity, life in nature 🍃",
+        "id": "1741480096727195648",
+        "name": "𝑝𝑢𝑟𝑒",
+        "pinned_tweet_id": "2024537732362416465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941937713910775808/6lJmq8Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96216,
+          "following_count": 24,
+          "like_count": 10160,
+          "listed_count": 217,
+          "media_count": 2446,
+          "tweet_count": 2496
+        },
+        "username": "purelivn",
+        "verified": true
+      }
+    ]
+  }
+}

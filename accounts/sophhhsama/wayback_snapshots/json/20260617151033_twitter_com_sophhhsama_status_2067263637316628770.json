@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2067245937244905490",
+    "created_at": "2026-06-17T15:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067263637316628770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1691425151014100992",
+          "start": 0,
+          "username": "cyanic0622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067263637316628770",
+    "in_reply_to_user_id": "1691425151014100992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067245937244905490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyanic0622 真好喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067245924594974720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBVNzbbgAAiS6k.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067245925303812096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBVN2EbgAAufEQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2067245937244905490",
+        "created_at": "2026-06-17T15:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067263637316628770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1691425151014100992",
+              "start": 0,
+              "username": "cyanic0622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067263637316628770",
+        "in_reply_to_user_id": "1691425151014100992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067245937244905490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyanic0622 真好喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067245924594974720",
+            "3_2067245925303812096"
+          ]
+        },
+        "author_id": "1691425151014100992",
+        "conversation_id": "2067245937244905490",
+        "created_at": "2026-06-17T14:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067245937244905490"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 137,
+              "tag": "xnn"
+            },
+            {
+              "end": 146,
+              "start": 142,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCcMxeOpZI",
+              "end": 170,
+              "expanded_url": "https://x.com/cyanic0622/status/2067245937244905490/photo/1",
+              "media_key": "3_2067245924594974720",
+              "start": 147,
+              "url": "https://t.co/qCcMxeOpZI"
+            },
+            {
+              "display_url": "pic.x.com/qCcMxeOpZI",
+              "end": 170,
+              "expanded_url": "https://x.com/cyanic0622/status/2067245937244905490/photo/1",
+              "media_key": "3_2067245925303812096",
+              "start": 147,
+              "url": "https://t.co/qCcMxeOpZI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067245937244905490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 779,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "2018年，在小城生活十余年的男孩初次去往大城市。\n新奇的地铁、商铺、人潮与美食，处处都和家乡截然不同，他满心欢喜沉浸其中。\n三天转瞬即逝，他重返小县城。这场旅途埋下执念，此后他日夜发奋，一心想重回这座城市。\n多年后心愿成真，他再度踏足心心念念的都市，也最终变成了小女孩。\n#xnn #mtf https://t.co/qCcMxeOpZI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 465,
+          "like_count": 24968,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 3381
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-15T12:22:43.000Z",
+        "description": "小空03/168/60不好看的mtf。是e人哦～HRT:24.2.26🚪20同类不需要 备用@yukong0622 🈶对象的 @asakura__lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "yukong0622"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "asakura__lin"
+              }
+            ]
+          }
+        },
+        "id": "1691425151014100992",
+        "location": "广州",
+        "name": "羽空 🍥",
+        "pinned_tweet_id": "1813853646586790052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885619542476640256/CPf9yCd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5871,
+          "following_count": 959,
+          "like_count": 13481,
+          "listed_count": 17,
+          "media_count": 245,
+          "tweet_count": 1746
+        },
+        "username": "cyanic0622",
+        "verified": false
+      }
+    ]
+  }
+}

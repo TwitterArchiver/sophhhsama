@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2047268550411248112",
+    "created_at": "2026-04-23T10:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047268550411248112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_akitayura/sta…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/_akitayura/status/2047181521145286680",
+          "start": 56,
+          "url": "https://t.co/tm9RGbYK7j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047268550411248112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047181521145286680",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "差点忘了今天是疯狂星期四🤤\n肯德基本喵来辣！！！\n（如果今天有好好学习的话晚点就奖励自己一下 &gt;&lt; https://t.co/tm9RGbYK7j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2047181511976505344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkMvRwbUAAcZq7.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2047268550411248112",
+        "created_at": "2026-04-23T10:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047268550411248112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_akitayura/sta…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/_akitayura/status/2047181521145286680",
+              "start": 56,
+              "url": "https://t.co/tm9RGbYK7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047268550411248112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047181521145286680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "差点忘了今天是疯狂星期四🤤\n肯德基本喵来辣！！！\n（如果今天有好好学习的话晚点就奖励自己一下 &gt;&lt; https://t.co/tm9RGbYK7j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047181511976505344"
+          ]
+        },
+        "author_id": "764856941151596549",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047181521145286680",
+        "created_at": "2026-04-23T05:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047181521145286680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YznxbrELTM",
+              "end": 40,
+              "expanded_url": "https://x.com/_AkitaYura/status/2047181521145286680/photo/1",
+              "media_key": "3_2047181511976505344",
+              "start": 17,
+              "url": "https://t.co/YznxbrELTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047181521145286680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "先生非要疯狂星期四，哼正合我意！ https://t.co/YznxbrELTM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 360,
+          "like_count": 13385,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 1984
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T16:11:19.000Z",
+        "description": "双🏳‍🌈|喵拉图女爵👑|颜控💅|#銀桂 #ginzura\n▫️BFF🐑@Ariesicecream",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 16,
+                "tag": "銀桂"
+              },
+              {
+                "end": 28,
+                "start": 20,
+                "tag": "ginzura"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Ariesicecream"
+              }
+            ]
+          }
+        },
+        "id": "764856941151596549",
+        "location": "R18禁止💢|文爱禁止💢",
+        "name": "Akita Yura",
+        "pinned_tweet_id": "2042884334349357420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043224120549355520/b7I-tf9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 612,
+          "like_count": 74040,
+          "listed_count": 9,
+          "media_count": 2324,
+          "tweet_count": 19366
+        },
+        "username": "_AkitaYura",
+        "verified": false
+      }
+    ]
+  }
+}

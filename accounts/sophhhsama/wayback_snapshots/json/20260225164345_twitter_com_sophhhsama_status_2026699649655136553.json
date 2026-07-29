@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2026665288377463231",
+    "created_at": "2026-02-25T16:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T17:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026699649655136553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1819559557867491331",
+          "start": 0,
+          "username": "LMQwQ_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026699649655136553",
+    "in_reply_to_user_id": "1819559557867491331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026665288377463231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LMQwQ_ 妈咪🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5033,
+        "height": 1280,
+        "media_key": "13_2026665230005399552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026665230005399552/img/4tR5J8B_liOQZLwP.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026665230005399552/vid/avc1/320x568/1hGRFiuypOFlktJ-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026665230005399552/vid/avc1/480x852/ow6cErU4hqD-zx6-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026665230005399552/vid/avc1/720x1280/O2MYydywtw6dLOMw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026665230005399552/pl/vU6qtSfnVYeg5QRi.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2026665288377463231",
+        "created_at": "2026-02-25T16:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026699649655136553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1819559557867491331",
+              "start": 0,
+              "username": "LMQwQ_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026699649655136553",
+        "in_reply_to_user_id": "1819559557867491331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026665288377463231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMQwQ_ 妈咪🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026665230005399552"
+          ]
+        },
+        "author_id": "1819559557867491331",
+        "conversation_id": "2026665288377463231",
+        "created_at": "2026-02-25T14:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026665288377463231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6GqE23uYzD",
+              "end": 49,
+              "expanded_url": "https://x.com/LMQwQ_/status/2026665288377463231/video/1",
+              "media_key": "13_2026665230005399552",
+              "start": 26,
+              "url": "https://t.co/6GqE23uYzD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026665288377463231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咪的天 咪的天\n我真好看 我真好看\n快夸我 快夸我 https://t.co/6GqE23uYzD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | Aspiring med student. spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 89,
+          "like_count": 1842,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 366
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-03T02:23:11.000Z",
+        "description": "🚪20 17岁 出厂日期2008.12.18 HRT：2024.2.15 ISFP 已出柜 精神状态不稳定 想获得更多关注 同类互fo 已有主人不接圆角不线下 女同性恋（bushi）",
+        "id": "1819559557867491331",
+        "name": "蕾姆酱QWQ",
+        "pinned_tweet_id": "2022547553242484810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959136368807845888/TZ_yKuGw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 218,
+          "like_count": 865,
+          "listed_count": 4,
+          "media_count": 35,
+          "tweet_count": 361
+        },
+        "username": "LMQwQ_",
+        "verified": false
+      }
+    ]
+  }
+}

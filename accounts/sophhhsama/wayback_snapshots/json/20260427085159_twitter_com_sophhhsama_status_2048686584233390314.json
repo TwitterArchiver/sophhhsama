@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2048686584233390314",
+    "created_at": "2026-04-27T08:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048686584233390314"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048686584233390314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "像这样尝试虚构出幸福温馨\n真的有意义吗\n真的不想相信了好吧\n不是你们的错\n你们在努力的吧\n不过我真的特别特别讨厌这种\n我知道总会破灭的\n并且是你们亲手给我个大大的巴掌\n然后又当作没事发生\n对吧\n不是你们的错\n我太敏感了\n走了就可以脱敏了\n我一直忍不住哭啊\n生日卡\n你们把面具戴紧\n让我活在剧本里吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2048686584233390314",
+        "created_at": "2026-04-27T08:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048686584233390314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048686584233390314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像这样尝试虚构出幸福温馨\n真的有意义吗\n真的不想相信了好吧\n不是你们的错\n你们在努力的吧\n不过我真的特别特别讨厌这种\n我知道总会破灭的\n并且是你们亲手给我个大大的巴掌\n然后又当作没事发生\n对吧\n不是你们的错\n我太敏感了\n走了就可以脱敏了\n我一直忍不住哭啊\n生日卡\n你们把面具戴紧\n让我活在剧本里吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048368707320377344/3VPiergw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 380,
+          "like_count": 14363,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 2155
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

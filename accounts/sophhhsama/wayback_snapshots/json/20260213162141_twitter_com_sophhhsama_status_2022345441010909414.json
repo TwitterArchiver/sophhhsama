@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022227627826982925"
+      ],
+      "media_source_tweet_id": [
+        "2022227730612535688"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2022345441010909414",
+    "created_at": "2026-02-13T16:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022345441010909414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1320682934622273536",
+          "start": 3,
+          "username": "tentenchan2525"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VcL7XF8kAp",
+          "end": 48,
+          "expanded_url": "https://x.com/tentenchan2525/status/2022227730612535688/photo/1",
+          "media_key": "3_2022227627826982925",
+          "start": 25,
+          "url": "https://t.co/VcL7XF8kAp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022345441010909414",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2542
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022227730612535688",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tentenchan2525: 鏡と写真 https://t.co/VcL7XF8kAp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2039,
+        "media_key": "3_2022227627826982925",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBlUDObsA0_u9n.jpg",
+        "width": 1447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022227627826982925"
+          ],
+          "media_source_tweet_id": [
+            "2022227730612535688"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2022345441010909414",
+        "created_at": "2026-02-13T16:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022345441010909414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1320682934622273536",
+              "start": 3,
+              "username": "tentenchan2525"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VcL7XF8kAp",
+              "end": 48,
+              "expanded_url": "https://x.com/tentenchan2525/status/2022227730612535688/photo/1",
+              "media_key": "3_2022227627826982925",
+              "start": 25,
+              "url": "https://t.co/VcL7XF8kAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022345441010909414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2542
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022227730612535688",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tentenchan2525: 鏡と写真 https://t.co/VcL7XF8kAp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022227627826982925"
+          ]
+        },
+        "author_id": "1320682934622273536",
+        "conversation_id": "2022227730612535688",
+        "created_at": "2026-02-13T08:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022227730612535688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VcL7XF8kAp",
+              "end": 28,
+              "expanded_url": "https://x.com/tentenchan2525/status/2022227730612535688/photo/1",
+              "media_key": "3_2022227627826982925",
+              "start": 5,
+              "url": "https://t.co/VcL7XF8kAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022227730612535688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1506,
+          "impression_count": 1255048,
+          "like_count": 44137,
+          "quote_count": 276,
+          "reply_count": 174,
+          "retweet_count": 2542
+        },
+        "reply_settings": "everyone",
+        "text": "鏡と写真 https://t.co/VcL7XF8kAp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 55,
+          "like_count": 740,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 162
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-26T11:05:34.000Z",
+        "description": "たまに絵を描くよ。\n【ニコ静画】https://t.co/h1gUF1i3EG\n【Youtube】https://t.co/6tS6vD3xCL 【連絡】tentenchan2525☆https://t.co/Cf58FJytkV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "seiga.nicovideo.jp/user/illust/12…",
+                "end": 39,
+                "expanded_url": "http://seiga.nicovideo.jp/user/illust/122874527",
+                "start": 16,
+                "url": "https://t.co/h1gUF1i3EG"
+              },
+              {
+                "display_url": "youtube.com/@tentenchan2525",
+                "end": 72,
+                "expanded_url": "http://youtube.com/@tentenchan2525",
+                "start": 49,
+                "url": "https://t.co/6tS6vD3xCL"
+              },
+              {
+                "display_url": "gmail.com",
+                "end": 115,
+                "expanded_url": "http://gmail.com",
+                "start": 92,
+                "url": "https://t.co/Cf58FJytkV"
+              }
+            ]
+          }
+        },
+        "id": "1320682934622273536",
+        "name": "tenten",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1360526121754791938/pnTuPxYh_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426326,
+          "following_count": 1095,
+          "like_count": 62117,
+          "listed_count": 1696,
+          "media_count": 3333,
+          "tweet_count": 17092
+        },
+        "username": "tentenchan2525",
+        "verified": true
+      }
+    ]
+  }
+}

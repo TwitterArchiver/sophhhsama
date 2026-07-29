@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2022076853096534065",
+    "created_at": "2026-02-12T22:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T23:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022076853096534065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ipaulcanada/st…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/ipaulcanada/status/2022067921925922965",
+          "start": 66,
+          "url": "https://t.co/xDsgSXja7j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022076853096534065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022067921925922965",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "更多是自我感动罢\n神经元失去链接也会萎缩死亡\n失去自爱能力的人 怎么会相信还有其他存在在爱她呢\n先寻找自己 爱与不爱什么的就再说吧 https://t.co/xDsgSXja7j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022067915722543104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_UDlRbUAACkwu.jpg",
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2022076853096534065",
+        "created_at": "2026-02-12T22:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T23:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022076853096534065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ipaulcanada/st…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/ipaulcanada/status/2022067921925922965",
+              "start": 66,
+              "url": "https://t.co/xDsgSXja7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022076853096534065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022067921925922965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更多是自我感动罢\n神经元失去链接也会萎缩死亡\n失去自爱能力的人 怎么会相信还有其他存在在爱她呢\n先寻找自己 爱与不爱什么的就再说吧 https://t.co/xDsgSXja7j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022067915722543104"
+          ]
+        },
+        "author_id": "1353169870691549184",
+        "conversation_id": "2022067921925922965",
+        "created_at": "2026-02-12T21:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T22:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022067921925922965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jx9quryF7h",
+              "end": 38,
+              "expanded_url": "https://x.com/iPaulCanada/status/2022067921925922965/photo/1",
+              "media_key": "3_2022067915722543104",
+              "start": 15,
+              "url": "https://t.co/jx9quryF7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022067921925922965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 597,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "原来，我们忽视了自爱的能力。 https://t.co/jx9quryF7h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 55,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 148
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "the North Star",
+        "name": "iPaul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167241,
+          "following_count": 557,
+          "like_count": 7573,
+          "listed_count": 686,
+          "media_count": 11749,
+          "tweet_count": 18354
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

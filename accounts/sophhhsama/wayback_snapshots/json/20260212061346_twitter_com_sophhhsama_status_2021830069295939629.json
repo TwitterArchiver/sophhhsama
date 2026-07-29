@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2021464051826708982",
+    "created_at": "2026-02-12T06:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T07:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021830069295939629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1778478869932294144",
+          "start": 0,
+          "username": "Terry72813"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021830069295939629",
+    "in_reply_to_user_id": "1778478869932294144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021464051826708982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Terry72813 怎么我理科生也有这个🙃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 709,
+        "media_key": "3_2021464041856827397",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA2u1f0aAAUITef.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2021464051826708982",
+        "created_at": "2026-02-12T06:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021830069295939629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778478869932294144",
+              "start": 0,
+              "username": "Terry72813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021830069295939629",
+        "in_reply_to_user_id": "1778478869932294144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021464051826708982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Terry72813 怎么我理科生也有这个🙃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021464041856827397"
+          ]
+        },
+        "author_id": "1778478869932294144",
+        "conversation_id": "2021464051826708982",
+        "created_at": "2026-02-11T05:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T06:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021464051826708982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qsGEQpqC2d",
+              "end": 26,
+              "expanded_url": "https://x.com/Terry72813/status/2021464051826708982/photo/1",
+              "media_key": "3_2021464041856827397",
+              "start": 3,
+              "url": "https://t.co/qsGEQpqC2d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021464051826708982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1966,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嗯！ https://t.co/qsGEQpqC2d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 56,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 132
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-11T17:43:09.000Z",
+        "description": "ENFP｜梦想是成为一棵自由生长的树",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rabbitofevil1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rabbitofevil1",
+                "start": 0,
+                "url": "https://t.co/ekL1fcn55S"
+              }
+            ]
+          }
+        },
+        "id": "1778478869932294144",
+        "location": "宇宙中遨游",
+        "name": "逐星小狼",
+        "pinned_tweet_id": "1878080818427613617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778479809620029440/DiWUYlYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 463,
+          "like_count": 40179,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 12094
+        },
+        "url": "https://t.co/ekL1fcn55S",
+        "username": "Terry72813",
+        "verified": false
+      }
+    ]
+  }
+}

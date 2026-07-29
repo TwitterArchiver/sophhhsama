@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022785140234055680"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2022785920034816500",
+    "created_at": "2026-02-14T21:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T22:30:43.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022785602748404192",
+      "2022785920034816500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/28zsFMXiTL",
+          "end": 79,
+          "expanded_url": "https://x.com/sophhhsama/status/2022785920034816500/photo/1",
+          "media_key": "3_2022785140234055680",
+          "start": 56,
+          "url": "https://t.co/28zsFMXiTL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022785920034816500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "都这样了还让我上学 什么包容学校 :)\n（有些时间情绪不好导致的\n我这attendence差不多全年级最低了唉 https://t.co/28zsFMXiTL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 156,
+        "media_key": "3_2022785140234055680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBJgXiyW8AAhrer.png",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022785140234055680"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2022785602748404192",
+        "created_at": "2026-02-14T21:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T22:30:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022785602748404192",
+          "2022785920034816500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rza3rHGeYk",
+              "end": 56,
+              "expanded_url": "https://x.com/sophhhsama/status/2022785602748404192/photo/1",
+              "media_key": "3_2022785140234055680",
+              "start": 33,
+              "url": "https://t.co/Rza3rHGeYk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022785602748404192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都这样了还让我上学 什么包容学校 :)\n（有些时间情绪不好导致的 https://t.co/Rza3rHGeYk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022785140234055680"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2022785920034816500",
+        "created_at": "2026-02-14T21:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T22:30:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022785602748404192",
+          "2022785920034816500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/28zsFMXiTL",
+              "end": 79,
+              "expanded_url": "https://x.com/sophhhsama/status/2022785920034816500/photo/1",
+              "media_key": "3_2022785140234055680",
+              "start": 56,
+              "url": "https://t.co/28zsFMXiTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022785920034816500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都这样了还让我上学 什么包容学校 :)\n（有些时间情绪不好导致的\n我这attendence差不多全年级最低了唉 https://t.co/28zsFMXiTL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 59,
+          "like_count": 808,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 182
+        },
+        "username": "sophhhsama",
+        "verified": true
+      }
+    ]
+  }
+}

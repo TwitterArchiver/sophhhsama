@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2037120325247291392"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2037112800586219939",
+    "created_at": "2026-03-26T10:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T11:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037120433636495678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KgLuzdOpg9",
+          "end": 52,
+          "expanded_url": "https://x.com/sophhhsama/status/2037120433636495678/video/1",
+          "media_key": "13_2037120325247291392",
+          "start": 29,
+          "url": "https://t.co/KgLuzdOpg9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037120433636495678",
+    "in_reply_to_user_id": "1223415775278428160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037112800586219939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "国男声警告🫠\n喵喵不喝点复习不了\n该鼠的yy 专注力倒退 https://t.co/KgLuzdOpg9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23701,
+        "height": 720,
+        "media_key": "13_2037120325247291392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037120325247291392/img/oXBgqRCAGXPZgNp1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037120325247291392/vid/avc1/480x270/XFZlcPPCbb7HF86p.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037120325247291392/vid/avc1/640x360/_k5hNTUZq_DmH-D6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037120325247291392/vid/avc1/1280x720/wnQyKuKD9HK6fzNX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037120325247291392/pl/1yIxvROIcJg1Vb4D.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 9201,
+        "height": 1280,
+        "media_key": "13_2037112723151216641",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037112723151216641/img/CKVYkYIOwUWeDcPm.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037112723151216641/vid/avc1/320x568/e6qEAPXMpDNNzQLk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037112723151216641/vid/avc1/480x852/zFT_PQ2S2jgmYT0U.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037112723151216641/vid/avc1/720x1280/e3RYGNrsfRANvWfj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037112723151216641/pl/-DSCLqwPHFjtp71m.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 11568,
+        "height": 1280,
+        "media_key": "13_2037112723151208448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037112723151208448/img/QomzhUhtmRrL5uMk.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037112723151208448/vid/avc1/320x568/dCzawvgCK6BIO35c.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037112723151208448/vid/avc1/480x852/LXp32w81O_forAcA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037112723151208448/vid/avc1/720x1280/tKgdtsBpqBcxpe2F.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037112723151208448/pl/xHRmECr5pNRRqD96.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037120325247291392"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2037112800586219939",
+        "created_at": "2026-03-26T10:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037120433636495678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KgLuzdOpg9",
+              "end": 52,
+              "expanded_url": "https://x.com/sophhhsama/status/2037120433636495678/video/1",
+              "media_key": "13_2037120325247291392",
+              "start": 29,
+              "url": "https://t.co/KgLuzdOpg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037120433636495678",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037112800586219939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国男声警告🫠\n喵喵不喝点复习不了\n该鼠的yy 专注力倒退 https://t.co/KgLuzdOpg9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037112723151216641",
+            "13_2037112723151208448"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2037112800586219939",
+        "created_at": "2026-03-26T10:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037112800586219939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LsYwFl9dsd",
+              "end": 82,
+              "expanded_url": "https://x.com/sophhhsama/status/2037112800586219939/video/1",
+              "media_key": "13_2037112723151216641",
+              "start": 59,
+              "url": "https://t.co/LsYwFl9dsd"
+            },
+            {
+              "display_url": "pic.x.com/LsYwFl9dsd",
+              "end": 82,
+              "expanded_url": "https://x.com/sophhhsama/status/2037112800586219939/video/1",
+              "media_key": "13_2037112723151208448",
+              "start": 59,
+              "url": "https://t.co/LsYwFl9dsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037112800586219939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开考倒数55天\n昨天做了这个月以来第一份卷子\n时间管理不好什么的也是预料到的了\n慢慢尝试恢复状态喵\n上学前记得吃糖w https://t.co/LsYwFl9dsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtcat | 小猫与sophie共同操作 想到什么发什么 | 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫🍥",
+        "pinned_tweet_id": "2036769439769575891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 231,
+          "like_count": 6820,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 972
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

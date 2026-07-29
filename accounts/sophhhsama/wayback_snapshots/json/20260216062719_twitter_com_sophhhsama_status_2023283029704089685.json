@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2023269506626585008",
+    "created_at": "2026-02-16T06:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T07:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023283029704089685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1791459216852750336",
+          "start": 0,
+          "username": "DKBR20041004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023283029704089685",
+    "in_reply_to_user_id": "1791459216852750336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023269506626585008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DKBR20041004 妈见打😖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023269496627347456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQY4y9bQAAqem1.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2023269506626585008",
+        "created_at": "2026-02-16T06:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023283029704089685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1791459216852750336",
+              "start": 0,
+              "username": "DKBR20041004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023283029704089685",
+        "in_reply_to_user_id": "1791459216852750336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023269506626585008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DKBR20041004 妈见打😖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023269496627347456"
+          ]
+        },
+        "author_id": "1791459216852750336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023269506626585008",
+        "created_at": "2026-02-16T05:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023269506626585008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DM57SU3SXX",
+              "end": 35,
+              "expanded_url": "https://x.com/DKBR20041004/status/2023269506626585008/photo/1",
+              "media_key": "3_2023269496627347456",
+              "start": 12,
+              "url": "https://t.co/DM57SU3SXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023269506626585008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1690,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "谁说女人不能上桌吃饭？ https://t.co/DM57SU3SXX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 62,
+          "like_count": 908,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 212
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-17T13:22:29.000Z",
+        "description": "04年破壳｜不定期更新个人vlog～｜风格多变｜心理超级健康的enfp🤘🤘｜一个认真生活阳光快乐的mtf💅｜喜欢就多点点关注吧💕💕 ｜有问题私信我哦｜有自己的学业事业｜祝你天天开心🥳恋人@xiaoyu_520qvq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 93,
+                "username": "xiaoyu_520qvq"
+              }
+            ]
+          }
+        },
+        "id": "1791459216852750336",
+        "location": "喵星",
+        "name": "哈宝音🏳️‍⚧️",
+        "pinned_tweet_id": "1907705977643925713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868474887217790976/_S-HciPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29299,
+          "following_count": 27,
+          "like_count": 517,
+          "listed_count": 118,
+          "media_count": 178,
+          "tweet_count": 455
+        },
+        "username": "DKBR20041004",
+        "verified": false
+      }
+    ]
+  }
+}

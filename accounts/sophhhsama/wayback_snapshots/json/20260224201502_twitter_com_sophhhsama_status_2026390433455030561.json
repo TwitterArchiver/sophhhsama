@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2017564717196480512"
+      ],
+      "media_source_tweet_id": [
+        "2017564752281850367"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2026390433455030561",
+    "created_at": "2026-02-24T20:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T21:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026390433455030561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2007008395182919680",
+          "start": 3,
+          "username": "Yuri_diplomat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8jSK1x5gCk",
+          "end": 84,
+          "expanded_url": "https://x.com/Levi_Ackermanrf/status/2017564752281850367/video/1",
+          "media_key": "13_2017564717196480512",
+          "start": 61,
+          "url": "https://t.co/8jSK1x5gCk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026390433455030561",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 215
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026160010619957656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuri_diplomat: Everyone deserves being comfy like this 😇 https://t.co/8jSK1x5gCk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11200,
+        "height": 1080,
+        "media_key": "13_2017564717196480512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017564717196480512/img/019_DOKfmnhsg6hI.jpg",
+        "public_metrics": {
+          "view_count": 304524
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017564717196480512/vid/avc1/480x270/_0zNnzpPFqZ87TLG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017564717196480512/vid/avc1/640x360/fzEC-vrLq-BvXSjy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017564717196480512/vid/avc1/1280x720/bvplcSMnqKPedSd_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017564717196480512/pl/D3IfynI2Ny10d4cV.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017564717196480512"
+          ],
+          "media_source_tweet_id": [
+            "2017564752281850367"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2026390433455030561",
+        "created_at": "2026-02-24T20:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T21:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026390433455030561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2007008395182919680",
+              "start": 3,
+              "username": "Yuri_diplomat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8jSK1x5gCk",
+              "end": 84,
+              "expanded_url": "https://x.com/Levi_Ackermanrf/status/2017564752281850367/video/1",
+              "media_key": "13_2017564717196480512",
+              "start": 61,
+              "url": "https://t.co/8jSK1x5gCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026390433455030561",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 215
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026160010619957656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuri_diplomat: Everyone deserves being comfy like this 😇 https://t.co/8jSK1x5gCk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017564717196480512"
+          ],
+          "media_source_tweet_id": [
+            "2017564752281850367"
+          ]
+        },
+        "author_id": "2007008395182919680",
+        "conversation_id": "2026160010619957656",
+        "created_at": "2026-02-24T04:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026160010619957656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8jSK1x5gCk",
+              "end": 65,
+              "expanded_url": "https://x.com/Levi_Ackermanrf/status/2017564752281850367/video/1",
+              "media_key": "13_2017564717196480512",
+              "start": 42,
+              "url": "https://t.co/8jSK1x5gCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026160010619957656",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 769,
+          "impression_count": 63382,
+          "like_count": 3696,
+          "quote_count": 12,
+          "reply_count": 11,
+          "retweet_count": 215
+        },
+        "reply_settings": "everyone",
+        "text": "Everyone deserves being comfy like this 😇 https://t.co/8jSK1x5gCk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | Aspiring med student. spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 89,
+          "like_count": 1786,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 362
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-02T08:38:30.000Z",
+        "description": "Shipping women so much even my name is yuri 💖 nice to meet ya 🥰",
+        "id": "2007008395182919680",
+        "location": "Republic of Yuri",
+        "name": "Yuri 🌸 (百合)💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019734690979270656/FQrpa3V8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 691,
+          "like_count": 393,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 129
+        },
+        "username": "Yuri_diplomat",
+        "verified": true
+      }
+    ]
+  }
+}

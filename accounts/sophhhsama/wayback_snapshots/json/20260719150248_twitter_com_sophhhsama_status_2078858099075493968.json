@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2078828453034652043",
+    "created_at": "2026-07-19T15:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078858099075493968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        },
+        {
+          "end": 20,
+          "id": "2062054681040535552",
+          "start": 10,
+          "username": "qiyuncwno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078858099075493968",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078828453034652043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@DrilL019 @qiyuncwno 祝99～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078828441089212416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl7c_waAAA4qM8.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078828441416372224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl7dA-aEAAKkMq.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078828441110282240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl7c_1bgAAkzyY.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078828441076736000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl7c_tboAAuyVF.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2078828453034652043",
+        "created_at": "2026-07-19T15:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078858099075493968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            },
+            {
+              "end": 20,
+              "id": "2062054681040535552",
+              "start": 10,
+              "username": "qiyuncwno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078858099075493968",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078828453034652043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@DrilL019 @qiyuncwno 祝99～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078828441089212416",
+            "3_2078828441416372224",
+            "3_2078828441110282240",
+            "3_2078828441076736000"
+          ]
+        },
+        "author_id": "1647229461769891842",
+        "conversation_id": "2078828453034652043",
+        "created_at": "2026-07-19T13:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078828453034652043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2062054681040535552",
+              "start": 4,
+              "username": "qiyuncwno"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tteB89oMl8",
+              "end": 65,
+              "expanded_url": "https://x.com/DrilL019/status/2078828453034652043/photo/1",
+              "media_key": "3_2078828441089212416",
+              "start": 42,
+              "url": "https://t.co/tteB89oMl8"
+            },
+            {
+              "display_url": "pic.x.com/tteB89oMl8",
+              "end": 65,
+              "expanded_url": "https://x.com/DrilL019/status/2078828453034652043/photo/1",
+              "media_key": "3_2078828441416372224",
+              "start": 42,
+              "url": "https://t.co/tteB89oMl8"
+            },
+            {
+              "display_url": "pic.x.com/tteB89oMl8",
+              "end": 65,
+              "expanded_url": "https://x.com/DrilL019/status/2078828453034652043/photo/1",
+              "media_key": "3_2078828441110282240",
+              "start": 42,
+              "url": "https://t.co/tteB89oMl8"
+            },
+            {
+              "display_url": "pic.x.com/tteB89oMl8",
+              "end": 65,
+              "expanded_url": "https://x.com/DrilL019/status/2078828453034652043/photo/1",
+              "media_key": "3_2078828441076736000",
+              "start": 42,
+              "url": "https://t.co/tteB89oMl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078828453034652043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 696,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "谢谢你 @qiyuncwno \n多少次没说出口的 谢谢 和 抱歉\n\n我喜欢你。\n… https://t.co/tteB89oMl8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 466,
+          "like_count": 27132,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 3539
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "小号@Noakatsuki1314\n爱人@qiyuncwno",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Noakatsuki1314"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "qiyuncwno"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "请给我钱🥺⬇️",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2073444820048392561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 1371,
+          "like_count": 23549,
+          "listed_count": 1,
+          "media_count": 997,
+          "tweet_count": 6841
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-03T06:12:24.000Z",
+        "description": "",
+        "id": "2062054681040535552",
+        "name": "云启",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062054885693235200/QYH4LYxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "qiyuncwno",
+        "verified": false
+      }
+    ]
+  }
+}

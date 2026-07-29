@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2044848347047948553",
+    "created_at": "2026-04-16T18:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T19:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044848347047948553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qiqi7877/statu…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/qiqi7877/status/2044485147324743959",
+          "start": 20,
+          "url": "https://t.co/A1qD4IUJdQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044848347047948553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044485147324743959",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要和小猫分开好不好\n一直贴在一起嘛🥺 https://t.co/A1qD4IUJdQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24565,
+        "height": 746,
+        "media_key": "13_2044485085869838338",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044485085869838338/img/trsBdmEiDijjeuF5.jpg",
+        "public_metrics": {
+          "view_count": 131385
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044485085869838338/vid/avc1/320x374/u5G8aVW4ld2qash9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044485085869838338/vid/avc1/480x560/uqJCNnkHMlp0ipxL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044485085869838338/vid/avc1/638x746/COFoynO3EMNmReIq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044485085869838338/pl/oTWAhFdTdBU-6gMJ.m3u8?v=cfc"
+          }
+        ],
+        "width": 638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2044848347047948553",
+        "created_at": "2026-04-16T18:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T19:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044848347047948553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qiqi7877/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/qiqi7877/status/2044485147324743959",
+              "start": 20,
+              "url": "https://t.co/A1qD4IUJdQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044848347047948553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044485147324743959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要和小猫分开好不好\n一直贴在一起嘛🥺 https://t.co/A1qD4IUJdQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044485085869838338"
+          ]
+        },
+        "author_id": "1939799295148138496",
+        "conversation_id": "2044485147324743959",
+        "created_at": "2026-04-15T18:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T19:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044485147324743959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/opqW9nUqQP",
+              "end": 103,
+              "expanded_url": "https://x.com/Qiqi7877/status/2044485147324743959/video/1",
+              "media_key": "13_2044485085869838338",
+              "start": 80,
+              "url": "https://t.co/opqW9nUqQP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044485147324743959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 490,
+          "impression_count": 336311,
+          "like_count": 4085,
+          "quote_count": 29,
+          "reply_count": 157,
+          "retweet_count": 296
+        },
+        "reply_settings": "everyone",
+        "text": "一个男人去领养一只猫，结果它死活不肯离开它的兄弟，最后他只好把两只都带回家了……\n太暖了，这兄弟情谁顶得住啊🥹❤️如果是我也会领养两只不让他们分离的，你呢？🥳 https://t.co/opqW9nUqQP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 330,
+          "like_count": 11718,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 1761
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T21:32:58.000Z",
+        "description": "每天分享世界各地的新闻、老故事与情感瞬间，自然科普\n真实、不煽情、只讲干货 \n从国际大事到人性光辉，一起感受这个世界 \nJoin the journey ✨",
+        "id": "1939799295148138496",
+        "location": "Oceania, Paranaguá",
+        "name": "taga | 暮山暖叙",
+        "pinned_tweet_id": "2043879663001579899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040335998937387008/W26nUMMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7694,
+          "following_count": 6101,
+          "like_count": 6953,
+          "listed_count": 24,
+          "media_count": 970,
+          "tweet_count": 7904
+        },
+        "username": "Qiqi7877",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2045583391970787547",
+    "created_at": "2026-04-19T15:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045890008146419999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1765154815678779392",
+          "start": 0,
+          "username": "NFhLWuYaiP90228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045890008146419999",
+    "in_reply_to_user_id": "1765154815678779392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045583391970787547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NFhLWuYaiP90228 很好呢喵！！加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2045583391970787547",
+        "created_at": "2026-04-19T15:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045890008146419999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1765154815678779392",
+              "start": 0,
+              "username": "NFhLWuYaiP90228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045890008146419999",
+        "in_reply_to_user_id": "1765154815678779392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045583391970787547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NFhLWuYaiP90228 很好呢喵！！加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765154815678779392",
+        "conversation_id": "2045583391970787547",
+        "created_at": "2026-04-18T19:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T20:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045583391970787547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045583391970787547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 586,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "HRT开始后，本人立下得三条戒律：\n1.不沾烟酒OD\n2.不自残割手\n3.不放弃对生活的热爱\n为你们献上真挚的祝福，以愿你们能够被温柔对待"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 345,
+          "like_count": 12573,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 1878
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T23:19:09.000Z",
+        "description": "坐标深圳 | 高校生 | 重度acg爱好者 | mtx | 无证含糖但勤血检 | 单人租房党😎  | 176长发及腰 | 不o不割不🚬不🍺纯良 | hrt26.3.24から | 反对歧视偏见与极端\n刷了那么久推特终于要自己下场开始玩了😈",
+        "id": "1765154815678779392",
+        "name": "🍥依松佐河🏳️‍⚧️",
+        "pinned_tweet_id": "2045583391970787547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035150098066546688/JdOFK0GN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 283,
+          "like_count": 24251,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 81
+        },
+        "username": "NFhLWuYaiP90228",
+        "verified": false
+      }
+    ]
+  }
+}

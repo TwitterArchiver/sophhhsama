@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1405566281378500612",
+          "name": "Shinkansen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405566281378500612",
+          "name": "Shinkansen"
+        }
+      }
+    ],
+    "conversation_id": "2061413903305679128",
+    "created_at": "2026-06-01T11:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T12:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061413903305679128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1990244187133140992",
+          "start": 3,
+          "username": "Naotan_Personal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061413903305679128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061407459286384650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Naotan_Personal: 🌟日帰り性転換手術（性別適合手術・ＳＲＳ）の実体験談【①手術編🔻＝時系列】🌟\n🔻術前９時間前から飲食制限\n🔻当日４時半に起きて新幹線で出発\n🔻当日8：３０に病院着・受付\n🔻当時支払分◯◯万円を現金束で直接お支払い（完全自費ﾀﾞﾖ♪）\n🔻…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1283,
+        "media_key": "3_2061407452277739520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuXJ_JbkAAGQZf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          }
+        ],
+        "conversation_id": "2061413903305679128",
+        "created_at": "2026-06-01T11:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061413903305679128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1990244187133140992",
+              "start": 3,
+              "username": "Naotan_Personal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061413903305679128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061407459286384650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Naotan_Personal: 🌟日帰り性転換手術（性別適合手術・ＳＲＳ）の実体験談【①手術編🔻＝時系列】🌟\n🔻術前９時間前から飲食制限\n🔻当日４時半に起きて新幹線で出発\n🔻当日8：３０に病院着・受付\n🔻当時支払分◯◯万円を現金束で直接お支払い（完全自費ﾀﾞﾖ♪）\n🔻…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061407452277739520"
+          ]
+        },
+        "author_id": "1990244187133140992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          }
+        ],
+        "conversation_id": "2061407459286384650",
+        "created_at": "2026-06-01T11:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061407459286384650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VO7Q5ctKdm",
+              "end": 163,
+              "expanded_url": "https://x.com/Naotan_Personal/status/2061407459286384650/photo/1",
+              "media_key": "3_2061407452277739520",
+              "start": 140,
+              "url": "https://t.co/VO7Q5ctKdm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061407459286384650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 931,
+                "start": 926,
+                "tag": "性別違和"
+              },
+              {
+                "end": 936,
+                "start": 932,
+                "tag": "mtf"
+              }
+            ]
+          },
+          "text": "🌟日帰り性転換手術（性別適合手術・ＳＲＳ）の実体験談【①手術編🔻＝時系列】🌟\n🔻術前９時間前から飲食制限\n🔻当日４時半に起きて新幹線で出発\n🔻当日8：３０に病院着・受付\n🔻当時支払分◯◯万円を現金束で直接お支払い（完全自費ﾀﾞﾖ♪）\n🔻手術着に着替え→手術台へ移動\n🔻点滴１箇所\n🔻指に計測機器＆腕に血圧計\n🔻胸近くに心電図センサーをいくつか貼られる（ピッて鳴ってるモニターのやつ）\n🔻仙骨麻酔（背中〜腰のあたりに長い針をさして麻酔薬を注入する）\n※うちの場合はなかなか目的の場所に刺さらなくて５回〜激痛でずっと泣いて怖くて震えてた...(＞人＜;)\n🌟もちろん局所麻酔を背中に最初打ってるけど奥深くまで刺さる感覚は恐怖...。\n🔻笑気麻酔（酸素マスク）\n🔻眠るように睡眠薬を２回ほど点滴から投与して眠くなってく\n🔻今から切ってくよ？って線を引かれて、多分メス？で突いて「ここ痛い？」とか「感覚ある？」とかの麻酔の効き目の確認！！\n🔻意識が少しずつ飛んでく（切られてる感覚はある）\n🔻気づいたら意識なかった（※たぶん完全に寝てた）みたい！？\n🔻目が覚めて何か全然分からなくて「手術無事に終わりましたよ♪」って言われて意識復帰する！\n🔻少し吐き気みたいなの感じ...点滴に吐き気止めを投与してもらって無事回復\n🔻完全に目が覚めたら手術終わってて尿カテとドレーンが刺さってた\n🔻麻酔が完全に抜けるまでそのまま寝た状態でひたすら休む！\n🔻約２時間くらいで「身体動く？」って確認があって動かせれば病院出れる！\n🔻着替えは看護師さんに手伝ってもらいながら街行きのお洋服（行き来てた服）に着替える！\n🔻１９時に病院を出る！\n🔻さすがに何か食べないと！って駅で食料（お弁当）買ったりしながら新幹線で２時間かけて帰った♪\n🌟普通にお弁当食べれた（術後２日経った今も普通のご飯食べれる＆吐き気は無い）\n\n🌟ぶっちゃけ美容整形として７５万円（現金で一括支払）で当たりくじ引いたと思う♪\n\n🌟例のＧＩＤ学会クソ診断書（精神科とか行かされるやつ）不用なのも凄く感謝♪\n\n🌟事前の検査は「血液検査のみ」＆「手術日直前まで女性ホルモン剤２Ａ投与してＯＫ」なのも感謝しかない！！\n\n#性別違和　#mtf"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 544,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🌟日帰り性転換手術（性別適合手術・ＳＲＳ）の実体験談【①手術編🔻＝時系列】🌟\n🔻術前９時間前から飲食制限\n🔻当日４時半に起きて新幹線で出発\n🔻当日8：３０に病院着・受付\n🔻当時支払分◯◯万円を現金束で直接お支払い（完全自費ﾀﾞﾖ♪）\n🔻手術着に着替え→手術台へ移動\n🔻点滴１箇所 https://t.co/VO7Q5ctKdm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 465,
+          "like_count": 22780,
+          "listed_count": 2,
+          "media_count": 368,
+          "tweet_count": 3218
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-17T02:23:22.000Z",
+        "description": "なおたん本人｜’24 睾丸摘出（去勢）済｜’22 女性ホルモン剤投与２年～｜ＧＩＤ診断済｜苦手ならフォロー非推奨｜匿名の質問何でも大歓迎♪\n💌DMご自由に（※返信の確約は出来ません）\n🌟このＸアカウント以外ありません！\n※2025/11/17～YouTubeで告知の通りアカウント開設しました～ヾ(๑╹ꇴ◠๑)ﾉ\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@naotan-offici…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@naotan-official/shorts",
+                "start": 0,
+                "url": "https://t.co/zzYIT167tf"
+              }
+            ]
+          }
+        },
+        "id": "1990244187133140992",
+        "location": "東京都",
+        "name": "なおたん",
+        "pinned_tweet_id": "2022994296270639507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990245384334319616/xRPoHWPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 20,
+          "like_count": 6675,
+          "listed_count": 8,
+          "media_count": 121,
+          "tweet_count": 982
+        },
+        "url": "https://t.co/zzYIT167tf",
+        "username": "Naotan_Personal",
+        "verified": true
+      }
+    ]
+  }
+}

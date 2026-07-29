@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2053882283887587672",
+    "created_at": "2026-05-11T17:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T18:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053884439143338323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2046295889103441921",
+          "start": 0,
+          "username": "Xie_miaoyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053884439143338323",
+    "in_reply_to_user_id": "2046295889103441921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053884240098631890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Xie_miaoyu 就是交友圈子内才能评论这个帖子这样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2053882283887587672",
+        "created_at": "2026-05-11T17:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053884439143338323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2046295889103441921",
+              "start": 0,
+              "username": "Xie_miaoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053884439143338323",
+        "in_reply_to_user_id": "2046295889103441921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053884240098631890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xie_miaoyu 就是交友圈子内才能评论这个帖子这样子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046295889103441921",
+        "conversation_id": "2053882283887587672",
+        "created_at": "2026-05-11T17:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053884240098631890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223415775278428160",
+              "start": 0,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053884240098631890",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053882283887587672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@sophhhsama 什么功能喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "djzi237149"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 337,
+          "like_count": 18772,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 2669
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-20T18:32:40.000Z",
+        "description": "「盯……」\n\n▷私は……一月一日诞生的 | 有着像猫耳的发丝的 | 社恐猫猫Nyame\n▷ねこ系Vtuber見習い｜Live2D・日语练习・VRChat・真实コミュ障日常・一些絵作\n▷这里是安静的小树洞 | 想和中日朋友すりすり…… | 碎碎念、分享社恐片段 | 欢迎同频的你来躲角落……\n▷Q：2569922353",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@drvb_nyame?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@drvb_nyame?si=rkW4s0_GpvsKSGPp",
+                "start": 0,
+                "url": "https://t.co/ZTuDjcTr2J"
+              }
+            ]
+          }
+        },
+        "id": "2046295889103441921",
+        "location": "冰箱里/树洞里",
+        "name": "Nyame | コミュ障猫",
+        "pinned_tweet_id": "2048078526939902312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047657374497054720/9Z5YmAkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 23,
+          "like_count": 451,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/ZTuDjcTr2J",
+        "username": "Xie_miaoyu",
+        "verified": true
+      }
+    ]
+  }
+}

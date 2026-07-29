@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2021444479270650038",
+    "created_at": "2026-02-11T17:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T18:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021642992851771507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2019100298808291333",
+          "start": 0,
+          "username": "YuwenT233"
+        },
+        {
+          "end": 22,
+          "id": "1954162675513954304",
+          "start": 11,
+          "username": "YeJiangXYN"
+        },
+        {
+          "end": 32,
+          "id": "1955503492145283072",
+          "start": 23,
+          "username": "QWQ73416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021642992851771507",
+    "in_reply_to_user_id": "2019100298808291333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021471576517230962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuwenT233 @YeJiangXYN @QWQ73416 绝对权威"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2021444479270650038",
+        "created_at": "2026-02-11T17:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T18:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021642992851771507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2019100298808291333",
+              "start": 0,
+              "username": "YuwenT233"
+            },
+            {
+              "end": 22,
+              "id": "1954162675513954304",
+              "start": 11,
+              "username": "YeJiangXYN"
+            },
+            {
+              "end": 32,
+              "id": "1955503492145283072",
+              "start": 23,
+              "username": "QWQ73416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021642992851771507",
+        "in_reply_to_user_id": "2019100298808291333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021471576517230962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuwenT233 @YeJiangXYN @QWQ73416 绝对权威"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019100298808291333",
+        "conversation_id": "2021444479270650038",
+        "created_at": "2026-02-11T06:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T07:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021471576517230962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954162675513954304",
+              "start": 0,
+              "username": "YeJiangXYN"
+            },
+            {
+              "end": 21,
+              "id": "1955503492145283072",
+              "start": 12,
+              "username": "QWQ73416"
+            }
+          ],
+          "urls": [
+            {
+              "description": "本存档库包含各类跨性别、多元性别、酷儿相关的文档，包括学术文献、社群报告、文学作品、杂志与报纸、政府文件等。",
+              "display_url": "digital.transchinese.org/%E7%A4%BE%E7%B…",
+              "end": 62,
+              "expanded_url": "https://digital.transchinese.org/%E7%A4%BE%E7%BE%A4%E5%8F%8ANGO%E6%96%87%E4%BB%B6/%E6%89%8B%E5%86%8C%E6%8C%87%E5%8D%97/%E8%87%AA%E5%88%87%E6%95%99%E7%A8%8B%EF%BC%88%E5%94%90%E6%AF%93%E6%96%87%E7%89%88%EF%BC%89_page/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2019765795203518465/p32ESKyy?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2019765795203518465/p32ESKyy?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "自切教程（唐毓文版） - 跨与多元性别档案",
+              "unwound_url": "https://digital.transchinese.org/%E7%A4%BE%E7%BE%A4%E5%8F%8ANGO%E6%96%87%E4%BB%B6/%E6%89%8B%E5%86%8C%E6%8C%87%E5%8D%97/%E8%87%AA%E5%88%87%E6%95%99%E7%A8%8B%EF%BC%88%E5%94%90%E6%AF%93%E6%96%87%E7%89%88%EF%BC%89_page/",
+              "url": "https://t.co/Tle8uEejAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021471576517230962",
+        "in_reply_to_user_id": "1954162675513954304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 327,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021444479270650038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeJiangXYN @QWQ73416 请阅读“自切教程（唐毓文版）”\n\nhttps://t.co/Tle8uEejAt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2020096493814685890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 55,
+          "like_count": 649,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 119
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T17:27:46.000Z",
+        "description": "MTF｜Hrt：2025.6.30｜已净身｜对象@shaoxiancao1314 ｜观点过激｜NSFW｜墨尔本阻止自杀援助｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "shaoxiancao1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTFLEVEL.COM",
+                "end": 23,
+                "expanded_url": "http://MTFLEVEL.COM",
+                "start": 0,
+                "url": "https://t.co/UTbB3jsAQl"
+              }
+            ]
+          }
+        },
+        "id": "2019100298808291333",
+        "name": "唐毓文🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2021053599548309536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020000255790702592/OlSCtUnx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 66,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/UTbB3jsAQl",
+        "username": "YuwenT233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T12:47:58.000Z",
+        "description": "MTF｜HRT 25.5.31｜08年末｜真寻佳代子厨｜有点抽象（？）\n求互fo",
+        "id": "1954162675513954304",
+        "name": "白夜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021447034734247941/DbIooRy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 36,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 39
+        },
+        "username": "YeJiangXYN",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|补佳乐已被母亲发现|好闺蜜@YeJiangXYN |\n→I an not a vitual account.(T~T)←|\n🚪10 要加的私聊，绿，纯好友位|（虽然我知道压根没人加🙃）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "YeJiangXYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( 🥵」∠)_",
+        "name": "🧊泠小米🍥",
+        "pinned_tweet_id": "2021499307300618493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021513301444968448/YKJD_L07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 306,
+          "like_count": 5749,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1368
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      }
+    ]
+  }
+}

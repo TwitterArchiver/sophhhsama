@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2039744082491183115",
+    "created_at": "2026-04-02T16:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039744082491183115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ye_and_yae/sta…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/ye_and_yae/status/2039731735248941112",
+          "start": 26,
+          "url": "https://t.co/mbAEAvBWUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039744082491183115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039731735248941112",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有一点点像\n是不是“女性”暂时来说对我还是有点模糊 https://t.co/mbAEAvBWUS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2039744082491183115",
+        "created_at": "2026-04-02T16:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039744082491183115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ye_and_yae/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/ye_and_yae/status/2039731735248941112",
+              "start": 26,
+              "url": "https://t.co/mbAEAvBWUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039744082491183115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039731735248941112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一点点像\n是不是“女性”暂时来说对我还是有点模糊 https://t.co/mbAEAvBWUS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813768883540725760",
+        "conversation_id": "2039731735248941112",
+        "created_at": "2026-04-02T15:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039731735248941112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039731735248941112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 109,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个生理男生，进行了hrt，但是不认为自己是女生，承认自己男性的身份，但是又讨厌恶心自己的男性特征…\n这算什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtcat | 可以叫我小猫/sophie 想到什么发什么 07 | 大笨蛋 @Cheeseduck111 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 268,
+          "like_count": 8105,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "09年物化地高三生 o(╥﹏╥)o    喜欢Starship和其他所有火箭🚀    \n想要变得可爱(⑅˃◡˂⑅)   含糖友跨顺男🍥   \n正在努力学日语 最喜欢神子了 \n 主人 @YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "location": "Starbase TX",
+        "name": "爱晔🍥 🚀",
+        "pinned_tweet_id": "2026956619695997393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017460182025179138/DHbQ3HXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 715,
+          "like_count": 3123,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 2126
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false
+      }
+    ]
+  }
+}

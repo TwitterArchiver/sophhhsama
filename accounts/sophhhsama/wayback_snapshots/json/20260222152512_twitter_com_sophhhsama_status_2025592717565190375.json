@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025592714683613184"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2025592717565190375",
+    "created_at": "2026-02-22T15:25:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T16:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025592717565190375"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iyH4bHqC4O",
+          "end": 92,
+          "expanded_url": "https://x.com/sophhhsama/status/2025592717565190375/photo/1",
+          "media_key": "3_2025592714683613184",
+          "start": 69,
+          "url": "https://t.co/iyH4bHqC4O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025592717565190375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这周转做2mg补+2.5ml凝胶后今天发现脸又重新出一点油了（反雄？！\n吓死我了马上嗑了一颗补子压压惊\n还是4mg补吧 凝胶用来补充就好 https://t.co/iyH4bHqC4O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 149,
+        "media_key": "3_2025592714683613184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxZ14pWAAAJEe5.jpg",
+        "width": 265
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025592714683613184"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2025592717565190375",
+        "created_at": "2026-02-22T15:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025592717565190375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iyH4bHqC4O",
+              "end": 92,
+              "expanded_url": "https://x.com/sophhhsama/status/2025592717565190375/photo/1",
+              "media_key": "3_2025592714683613184",
+              "start": 69,
+              "url": "https://t.co/iyH4bHqC4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025592717565190375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这周转做2mg补+2.5ml凝胶后今天发现脸又重新出一点油了（反雄？！\n吓死我了马上嗑了一颗补子压压惊\n还是4mg补吧 凝胶用来补充就好 https://t.co/iyH4bHqC4O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. spam account. 18, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 85,
+          "like_count": 1622,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 332
+        },
+        "username": "sophhhsama",
+        "verified": true
+      }
+    ]
+  }
+}

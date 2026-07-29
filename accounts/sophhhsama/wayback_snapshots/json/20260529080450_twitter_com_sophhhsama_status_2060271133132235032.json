@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2060271133132235032",
+    "created_at": "2026-05-29T08:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060271133132235032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aoim33/status/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/aoim33/status/2060171552709316978",
+          "start": 7,
+          "url": "https://t.co/CdUJVayZtF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060271133132235032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060171552709316978",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "わかりました https://t.co/CdUJVayZtF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2060271133132235032",
+        "created_at": "2026-05-29T08:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060271133132235032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/aoim33/status/2060171552709316978",
+              "start": 7,
+              "url": "https://t.co/CdUJVayZtF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060271133132235032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060171552709316978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "わかりました https://t.co/CdUJVayZtF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2060171552709316978",
+        "created_at": "2026-05-29T01:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060171552709316978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060171552709316978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "给大家一个忠告，就是不要太快开始一段恋爱\n如果你想谈一场正常健康的恋爱，就不要对一个人轻易产生可以尝试一下的念头，不仅仅只是看他的外貌，两个人多花时间聊聊天，确定时间一起吃饭看电影，聊聊彼此的生活，了解对方的喜好，了解对方身边的朋友\n而不是说几句情话打几次电话，搞的跟脱单比赛一样\n\n希望所有人都能以月甚至以年为单位去接触去了解一个人，而不是这周认识，下周就急着去确认关系，万事可急，唯独恋爱要慢慢来，慢慢来是诚意\n真正想要在一起，一定是欲言又止了几次之后，藏不住了再说出口才有意义，不管怎么样都一如既往的喜欢你 这才是真正的喜欢\n\n我需要的不是他追了我几天，或者我们在网上聊了一段时间就开始说我喜欢你 我很爱你，而现实中只有我去面对所有事情，对方也只是说说而已，给不了我任何帮助，又或者说我期待的爱不是这个样子\n也许哪天我们真的见面了，他了解了真实的我以后，发现我并不是他喜欢的样子，而我又开始依赖他，开始离不开他，到最后只剩下我一个人难过\n\n感情方面不要因为一时的羡慕就随意的开始一段恋爱，爱情需要我们慎重，一定要认清楚你身边的人，一定要宁缺毋滥\n\n祝你幸福"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 12095,
+          "like_count": 234,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "给大家一个忠告，就是不要太快开始一段恋爱\n如果你想谈一场正常健康的恋爱，就不要对一个人轻易产生可以尝试一下的念头，不仅仅只是看他的外貌，两个人多花时间聊聊天，确定时间一起吃饭看电影，聊聊彼此的生活，了解对方的喜好，了解对方身边的朋友\n而不是说几句情话打几次电话，搞的跟脱单比赛一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 363,
+          "like_count": 22059,
+          "listed_count": 2,
+          "media_count": 362,
+          "tweet_count": 3069
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "发育障碍研究 / 沪杭地铁迷 / 舞萌 Arc  / 🇨🇳 🇬🇧 🇯🇵 🇰🇷 / @supernovaArcaea 队员 / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5656,
+          "following_count": 2997,
+          "like_count": 50823,
+          "listed_count": 19,
+          "media_count": 3019,
+          "tweet_count": 12820
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

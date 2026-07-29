@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2060666021414162859",
+    "created_at": "2026-05-31T15:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061106433513394324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881945875658014720",
+          "start": 0,
+          "username": "onlyonexhj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061106433513394324",
+    "in_reply_to_user_id": "1881945875658014720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060666021414162859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onlyonexhj 互关呀～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 363,
+        "media_key": "3_2060666011146498048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJj00bsbsAAmpAF.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2060666021414162859",
+        "created_at": "2026-05-31T15:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061106433513394324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881945875658014720",
+              "start": 0,
+              "username": "onlyonexhj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061106433513394324",
+        "in_reply_to_user_id": "1881945875658014720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060666021414162859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onlyonexhj 互关呀～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060666011146498048"
+          ]
+        },
+        "author_id": "1881945875658014720",
+        "conversation_id": "2060666021414162859",
+        "created_at": "2026-05-30T10:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060666021414162859"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CVqrZwHTNg",
+              "end": 139,
+              "expanded_url": "https://x.com/onlyonexhj/status/2060666021414162859/photo/1",
+              "media_key": "3_2060666011146498048",
+              "start": 116,
+              "url": "https://t.co/CVqrZwHTNg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060666021414162859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近关注的老师们，我已经全部回关啦！  \n\n诚信互关，永不取关。  \n\n因为关注的朋友越来越多，偶尔处理会稍慢一些，但请大家放心，我一有空就会及时回关，绝不会落下每一位老师～  \n\n感谢大家的信任，我们一起加油！❤️\n\n#蓝V互关 https://t.co/CVqrZwHTNg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 460,
+          "like_count": 22580,
+          "listed_count": 2,
+          "media_count": 367,
+          "tweet_count": 3196
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-22T06:04:13.000Z",
+        "description": "I am a software developer from China. I would like to make friends with warm-hearted people all over the world. If you follow me, I will follow you.关注我必回关，互关互赞。",
+        "id": "1881945875658014720",
+        "name": "Lucky J",
+        "pinned_tweet_id": "2060666021414162859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978004667012628480/L4or1raL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 1910,
+          "like_count": 731,
+          "listed_count": 13,
+          "media_count": 2624,
+          "tweet_count": 4120
+        },
+        "username": "onlyonexhj",
+        "verified": true
+      }
+    ]
+  }
+}

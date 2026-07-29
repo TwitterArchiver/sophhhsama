@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025115807638855680"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2025115811040440651",
+    "created_at": "2026-02-21T07:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025115811040440651"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EHhng3llPs",
+          "end": 59,
+          "expanded_url": "https://x.com/sophhhsama/status/2025115811040440651/photo/1",
+          "media_key": "3_2025115807638855680",
+          "start": 36,
+          "url": "https://t.co/EHhng3llPs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025115811040440651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "到底多久才会开始长扔子😭😭\n一个月了都 只是感觉有点痛痛的其他啥都木有 https://t.co/EHhng3llPs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 216,
+        "media_key": "3_2025115807638855680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqoGPdXoAACIoj.jpg",
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025115807638855680"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2025115811040440651",
+        "created_at": "2026-02-21T07:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025115811040440651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EHhng3llPs",
+              "end": 59,
+              "expanded_url": "https://x.com/sophhhsama/status/2025115811040440651/photo/1",
+              "media_key": "3_2025115807638855680",
+              "start": 36,
+              "url": "https://t.co/EHhng3llPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025115811040440651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底多久才会开始长扔子😭😭\n一个月了都 只是感觉有点痛痛的其他啥都木有 https://t.co/EHhng3llPs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. spam account. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 69,
+          "like_count": 1412,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 303
+        },
+        "username": "sophhhsama",
+        "verified": true
+      }
+    ]
+  }
+}

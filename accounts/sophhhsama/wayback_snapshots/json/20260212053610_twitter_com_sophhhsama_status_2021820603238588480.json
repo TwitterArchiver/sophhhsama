@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2021820603238588480",
+    "created_at": "2026-02-12T05:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T06:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021820603238588480"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021820603238588480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "「你留长发像流浪汉 剪了会比较清爽」\n「你给我去剪头发 我看不惯你了」\n「我觉得你头发太长了」\n「你看剪掉这样比较清爽」\n「你看现在不是帅多了」\n「你姐她能留长发是因为她是女生」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2021820603238588480",
+        "created_at": "2026-02-12T05:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T06:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021820603238588480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021820603238588480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「你留长发像流浪汉 剪了会比较清爽」\n「你给我去剪头发 我看不惯你了」\n「我觉得你头发太长了」\n「你看剪掉这样比较清爽」\n「你看现在不是帅多了」\n「你姐她能留长发是因为她是女生」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 56,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 127
+        },
+        "username": "sophhhsama",
+        "verified": true
+      }
+    ]
+  }
+}

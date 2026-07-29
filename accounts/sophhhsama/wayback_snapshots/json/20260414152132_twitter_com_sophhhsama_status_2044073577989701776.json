@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2044039314036928570",
+    "created_at": "2026-04-14T15:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044073577989701776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1443439089710092288",
+          "start": 0,
+          "username": "XiaYiGongHeQiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044073577989701776",
+    "in_reply_to_user_id": "1443439089710092288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044039314036928570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaYiGongHeQiu 咪的天？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2044039199285018624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3i0mxbgAAvgBq.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2044039240997318660",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3i3CKasAQZP9E.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2044039268616777728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3i4pDaMAAP5oC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2044039314036928570",
+        "created_at": "2026-04-14T15:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044073577989701776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1443439089710092288",
+              "start": 0,
+              "username": "XiaYiGongHeQiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044073577989701776",
+        "in_reply_to_user_id": "1443439089710092288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044039314036928570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaYiGongHeQiu 咪的天？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044039199285018624",
+            "3_2044039240997318660",
+            "3_2044039268616777728"
+          ]
+        },
+        "author_id": "1443439089710092288",
+        "conversation_id": "2044039314036928570",
+        "created_at": "2026-04-14T13:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044039314036928570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hs9enW0jGl",
+              "end": 65,
+              "expanded_url": "https://x.com/XiaYiGongHeQiu/status/2044039314036928570/photo/1",
+              "media_key": "3_2044039199285018624",
+              "start": 42,
+              "url": "https://t.co/Hs9enW0jGl"
+            },
+            {
+              "display_url": "pic.x.com/Hs9enW0jGl",
+              "end": 65,
+              "expanded_url": "https://x.com/XiaYiGongHeQiu/status/2044039314036928570/photo/1",
+              "media_key": "3_2044039240997318660",
+              "start": 42,
+              "url": "https://t.co/Hs9enW0jGl"
+            },
+            {
+              "display_url": "pic.x.com/Hs9enW0jGl",
+              "end": 65,
+              "expanded_url": "https://x.com/XiaYiGongHeQiu/status/2044039314036928570/photo/1",
+              "media_key": "3_2044039268616777728",
+              "start": 42,
+              "url": "https://t.co/Hs9enW0jGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044039314036928570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 837,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绷不住了，谁能理解在快下课的时候知道隔壁教室就有个MtX校友的感觉\n然后我是MtF https://t.co/Hs9enW0jGl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 326,
+          "like_count": 11299,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 1691
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T04:54:53.000Z",
+        "description": "サブ垢@XiaYGHQiu ｜持证含糖MtF｜大学生 in Accounting｜同类回fo｜linguaphile｜bipolar｜欢迎和我聊天喵🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "XiaYGHQiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiayigongheqiu.mysxl.cn",
+                "end": 23,
+                "expanded_url": "http://xiayigongheqiu.mysxl.cn",
+                "start": 0,
+                "url": "https://t.co/s94hBVliY8"
+              }
+            ]
+          }
+        },
+        "id": "1443439089710092288",
+        "location": "山東省煙臺市萊山區",
+        "name": "🦐虾球🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024404971329056768/rYyGwh02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 385,
+          "like_count": 20775,
+          "listed_count": 4,
+          "media_count": 122,
+          "tweet_count": 3159
+        },
+        "url": "https://t.co/s94hBVliY8",
+        "username": "XiaYiGongHeQiu",
+        "verified": false
+      }
+    ]
+  }
+}

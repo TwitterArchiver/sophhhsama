@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027291035529830400"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2027291041607323864",
+    "created_at": "2026-02-27T07:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T08:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027291041607323864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O3sXKrZCcv",
+          "end": 76,
+          "expanded_url": "https://x.com/sophhhsama/status/2027291041607323864/photo/1",
+          "media_key": "3_2027291035529830400",
+          "start": 53,
+          "url": "https://t.co/O3sXKrZCcv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027291041607323864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很想吞药不过我会心疼家里人 \n我只想惩罚自己啊\n我需要温柔的对待身边的人呢\n又请假了…\n改改花刀舒缓一下 https://t.co/O3sXKrZCcv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1418,
+        "media_key": "3_2027291035529830400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJidK0W4AAFamP.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027291035529830400"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2027291041607323864",
+        "created_at": "2026-02-27T07:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027291041607323864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3sXKrZCcv",
+              "end": 76,
+              "expanded_url": "https://x.com/sophhhsama/status/2027291041607323864/photo/1",
+              "media_key": "3_2027291035529830400",
+              "start": 53,
+              "url": "https://t.co/O3sXKrZCcv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027291041607323864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很想吞药不过我会心疼家里人 \n我只想惩罚自己啊\n我需要温柔的对待身边的人呢\n又请假了…\n改改花刀舒缓一下 https://t.co/O3sXKrZCcv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | Aspiring med student. spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 96,
+          "like_count": 1994,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 389
+        },
+        "username": "sophhhsama",
+        "verified": true
+      }
+    ]
+  }
+}

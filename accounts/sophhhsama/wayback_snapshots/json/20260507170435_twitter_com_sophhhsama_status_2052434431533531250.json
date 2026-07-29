@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2052434431533531250",
+    "created_at": "2026-05-07T17:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T18:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052434431533531250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainengine2024…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/rainengine2024/status/2052422587259699426",
+          "start": 57,
+          "url": "https://t.co/I2WbCCPr7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052434431533531250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052422587259699426",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很勇敢啊啊啊\n猫猫什么时候才能这样沟通\n每次和父母沟通点比较私人或者比较敏感的事情猫猫会有应激反应。。\n慢慢来ㄅ https://t.co/I2WbCCPr7x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2052434431533531250",
+        "created_at": "2026-05-07T17:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052434431533531250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainengine2024…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/rainengine2024/status/2052422587259699426",
+              "start": 57,
+              "url": "https://t.co/I2WbCCPr7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052434431533531250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052422587259699426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很勇敢啊啊啊\n猫猫什么时候才能这样沟通\n每次和父母沟通点比较私人或者比较敏感的事情猫猫会有应激反应。。\n慢慢来ㄅ https://t.co/I2WbCCPr7x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2052422587259699426",
+        "created_at": "2026-05-07T16:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052422587259699426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052422587259699426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚和我妈聊了很多的东西，包括双相，ptsd，物质滥用的问题，我妈承认了自己的错误，并且也接受了这个事实，她不会反对任何，只希望我能够活下去，仅此而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 好朋友萌 @slclst @Cheeseduck111 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 346,
+          "like_count": 17658,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 2508
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainengine2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainengine2024",
+                "start": 0,
+                "url": "https://t.co/BhlP53QlZL"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052221080052674560/erKoHu5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9994,
+          "following_count": 942,
+          "like_count": 85176,
+          "listed_count": 23,
+          "media_count": 1674,
+          "tweet_count": 11855
+        },
+        "url": "https://t.co/BhlP53QlZL",
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

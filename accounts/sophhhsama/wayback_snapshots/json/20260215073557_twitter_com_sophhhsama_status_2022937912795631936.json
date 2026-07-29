@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2022850744601448617",
+    "created_at": "2026-02-15T07:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T08:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022937912795631936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1566739868688199680",
+          "start": 0,
+          "username": "ChiangShauYuKan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022937912795631936",
+    "in_reply_to_user_id": "1566739868688199680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022850744601448617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChiangShauYuKan 又得换插头了 真服了😭\ntype c 多香啊又出门只带1条线"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2022850744601448617",
+        "created_at": "2026-02-15T07:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T08:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022937912795631936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1566739868688199680",
+              "start": 0,
+              "username": "ChiangShauYuKan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022937912795631936",
+        "in_reply_to_user_id": "1566739868688199680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022850744601448617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChiangShauYuKan 又得换插头了 真服了😭\ntype c 多香啊又出门只带1条线"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566739868688199680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2022850744601448617",
+        "created_at": "2026-02-15T01:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T02:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022850744601448617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tikemaison0921…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/tikemaison0921/status/2022439420327342210",
+              "start": 31,
+              "url": "https://t.co/0CZImeZqQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022850744601448617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8241,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022439420327342210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用这种接口真死妈了大冬天晚上被子里翻一下早上起来发现没充上电 https://t.co/0CZImeZqQ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 61,
+          "like_count": 826,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 192
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-05T10:47:56.000Z",
+        "description": "https://t.co/oPW9NE3eih",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/monixicillin_",
+                "end": 23,
+                "expanded_url": "http://ngl.link/monixicillin_",
+                "start": 0,
+                "url": "https://t.co/oPW9NE3eih"
+              }
+            ]
+          }
+        },
+        "id": "1566739868688199680",
+        "location": "横幅2023.11",
+        "name": "醬燒魚乾",
+        "pinned_tweet_id": "1935293435520630965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989714390665629698/bHXyFTa7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2353,
+          "following_count": 868,
+          "like_count": 243383,
+          "listed_count": 5,
+          "media_count": 1070,
+          "tweet_count": 25929
+        },
+        "username": "ChiangShauYuKan",
+        "verified": false
+      }
+    ]
+  }
+}

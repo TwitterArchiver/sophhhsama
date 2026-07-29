@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2020099786393997549",
+    "created_at": "2026-02-08T17:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T18:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020548242140807674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "17552210",
+          "start": 0,
+          "username": "evilcos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020548242140807674",
+    "in_reply_to_user_id": "17552210",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020099786393997549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@evilcos Prompt injection payload真的挺可怕的，現在喂md都得先丟給隔離的agent看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2020099786393997549",
+        "created_at": "2026-02-08T17:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T18:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020548242140807674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "17552210",
+              "start": 0,
+              "username": "evilcos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020548242140807674",
+        "in_reply_to_user_id": "17552210",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020099786393997549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@evilcos Prompt injection payload真的挺可怕的，現在喂md都得先丟給隔離的agent看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17552210",
+        "conversation_id": "2020099786393997549",
+        "created_at": "2026-02-07T11:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020099786393997549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020099786393997549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 37776,
+          "like_count": 102,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "以前，打开文本文件几乎不担心会出安全问题，现在让 AI Agents 帮我打开文本文件（尤其 md 文档），我会很担心。攻防模型变了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "aspiring med student, i also like programming, macroeconomics, tokenomics\nZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh 🍥",
+        "pinned_tweet_id": "2020096493814685890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 45,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 66
+        },
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-22T03:40:47.000Z",
+        "description": "Founder of @SlowMist_Team // 分身一号/捉虫大师/救火运动员 // 🕖灾备频道 https://t.co/bMGdsBkYwM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "SlowMist_Team"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/greyhatcos",
+                "end": 77,
+                "expanded_url": "https://t.me/greyhatcos",
+                "start": 54,
+                "url": "https://t.co/bMGdsBkYwM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/evilcos",
+                "end": 23,
+                "expanded_url": "https://github.com/evilcos",
+                "start": 0,
+                "url": "https://t.co/kVIk8p7y4G"
+              }
+            ]
+          }
+        },
+        "id": "17552210",
+        "location": "HACKING",
+        "name": "Cos(余弦)😶‍🌫️",
+        "pinned_tweet_id": "1943275102990405704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681578030811209728/Xx1RuT6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119226,
+          "following_count": 1464,
+          "like_count": 23987,
+          "listed_count": 1768,
+          "media_count": 909,
+          "tweet_count": 8597
+        },
+        "url": "https://t.co/kVIk8p7y4G",
+        "username": "evilcos",
+        "verified": true
+      }
+    ]
+  }
+}

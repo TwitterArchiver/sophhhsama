@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2056328334393385187",
+    "created_at": "2026-05-18T15:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056404087621517569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1959893383633358848",
+          "start": 0,
+          "username": "Cbscfe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/sophhhsama/sta…",
+          "end": 130,
+          "expanded_url": "https://x.com/sophhhsama/status/2053915074830438840?s=46",
+          "start": 107,
+          "url": "https://t.co/wC0iTKHT22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056404087621517569",
+    "in_reply_to_user_id": "1959893383633358848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053915074830438840",
+        "type": "quoted"
+      },
+      {
+        "id": "2056402285786444183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cbscfe 其实其他的ssri snri也会有类似的作用就是加速昏迷 大剂量对穿越血脑屏障 配上右美这种中枢神经抑制会导致昏迷和呼吸抑制\n不推荐这样做 这也不是最佳方案 小猫不想用知识来间接伤害大家\n抱抱哦\n\nhttps://t.co/wC0iTKHT22"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053915066047541248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HID43taWMAA2VPx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2056328334393385187",
+        "created_at": "2026-05-18T15:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056404087621517569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sophhhsama/sta…",
+              "end": 130,
+              "expanded_url": "https://x.com/sophhhsama/status/2053915074830438840?s=46",
+              "start": 107,
+              "url": "https://t.co/wC0iTKHT22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056404087621517569",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053915074830438840",
+            "type": "quoted"
+          },
+          {
+            "id": "2056402285786444183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe 其实其他的ssri snri也会有类似的作用就是加速昏迷 大剂量对穿越血脑屏障 配上右美这种中枢神经抑制会导致昏迷和呼吸抑制\n不推荐这样做 这也不是最佳方案 小猫不想用知识来间接伤害大家\n抱抱哦\n\nhttps://t.co/wC0iTKHT22"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053915066047541248"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2053915074830438840",
+        "created_at": "2026-05-11T19:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T20:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053915074830438840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i1xzYzRwCj",
+              "end": 184,
+              "expanded_url": "https://x.com/sophhhsama/status/2053915074830438840/photo/1",
+              "media_key": "3_2053915066047541248",
+              "start": 161,
+              "url": "https://t.co/i1xzYzRwCj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053915074830438840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2000mg+舍曲林\n3000mg 右美沙芬\n让小猫好好睡一觉吧\n听说自杀的人会进地狱的 如果真是这样的话 也不知道哇（（\n不过我觉得吧 这些都是骗人的 骗小孩去吧！\n小猫没那么笨\n对不起呀 花花 jim 橘子 simon cyrus ckt 还有大家\n小猫需要休息一下呢\n好好睡上几天吧\n接下来如何就听天由命吧\n爱你们\n无论你们有没有跟我说过话 互动过还是怎么样\n替小猫看很多很多风景吧\n告诉小猫 你们那边的小吃呀什么的 好不好吃呢 味道怎么样\n回不去了 无论成功与否\n每次都在身边的人身上\n划一道深深的划痕\n对不起呢 可能让大家也难受了\n\n还想着淘宝上买点好看的娃娃睡衣床铺什么的 有机会再买吧\n也不用顾虑什么出不出柜的了\n\n如果爸妈你们看到的话\n醒来的时候 叫我一声女儿呗\n然后让我静静地休息一下吧\n不需要留下了陪我那么久了 我会好好的\n我总惹事呢 让你们不省心了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1734,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "2000mg+舍曲林\n3000mg 右美沙芬\n让小猫好好睡一觉吧\n听说自杀的人会进地狱的 如果真是这样的话 也不知道哇（（\n不过我觉得吧 这些都是骗人的 骗小孩去吧！\n小猫没那么笨\n对不起呀 花花 jim 橘子 simon cyrus ckt 还有大家\n小猫需要休息一下呢\n好好睡上几天吧\n接下来如何就听天由命吧\n爱你们 https://t.co/i1xzYzRwCj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2056328334393385187",
+        "created_at": "2026-05-18T15:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056402285786444183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223415775278428160",
+              "start": 0,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056402285786444183",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056328334393385187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophhhsama 吃啥了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n💕🌸花花@YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 344,
+          "like_count": 19757,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 2772
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 608,
+          "like_count": 23681,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 5491
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

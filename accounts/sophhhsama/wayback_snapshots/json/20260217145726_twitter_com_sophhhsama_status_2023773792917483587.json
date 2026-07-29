@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2023593521631162470",
+    "created_at": "2026-02-17T14:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T15:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023773792917483587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1992489789669638144",
+          "start": 0,
+          "username": "xynMatcha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023773792917483587",
+    "in_reply_to_user_id": "1992489789669638144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023593521631162470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynMatcha 有在pxx买过雌贴吗😭 就是不知道可不可信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2023593521631162470",
+        "created_at": "2026-02-17T14:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T15:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023773792917483587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1992489789669638144",
+              "start": 0,
+              "username": "xynMatcha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023773792917483587",
+        "in_reply_to_user_id": "1992489789669638144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023593521631162470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynMatcha 有在pxx买过雌贴吗😭 就是不知道可不可信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992489789669638144",
+        "conversation_id": "2023593521631162470",
+        "created_at": "2026-02-17T03:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T04:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023593521631162470"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023593521631162470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人在用雌贴吗 喵 好用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions. 18, ZHH, ZHO, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧",
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 65,
+          "like_count": 1019,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 243
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-23T07:06:06.000Z",
+        "description": "高二牲｜08/12/29｜信息学竞赛｜无证 🍥 ｜即使整型的数据会有溢出的那一天，我们仍在流浪的路上且行且歌。（某信竞大佬名言）｜\ntg: https://t.co/0M7XFwtbeA\ndiscord: matcha_1229",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/matcha0841",
+                "end": 93,
+                "expanded_url": "http://t.me/matcha0841",
+                "start": 70,
+                "url": "https://t.co/0M7XFwtbeA"
+              }
+            ]
+          }
+        },
+        "id": "1992489789669638144",
+        "location": "偏乡",
+        "name": "抹茶🍥",
+        "pinned_tweet_id": "2006735484555505693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992565880790929409/oAlW6dKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 195,
+          "like_count": 2139,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 622
+        },
+        "username": "xynMatcha",
+        "verified": false
+      }
+    ]
+  }
+}

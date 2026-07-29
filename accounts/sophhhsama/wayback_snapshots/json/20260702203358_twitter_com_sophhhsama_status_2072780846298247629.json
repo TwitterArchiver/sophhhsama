@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2072778657316143460",
+    "created_at": "2026-07-02T20:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T21:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072780846298247629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1725342082167140352",
+          "start": 0,
+          "username": "Oldzhen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072780846298247629",
+    "in_reply_to_user_id": "1725342082167140352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072779167469568077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oldzhen ai回复。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2072778657316143460",
+        "created_at": "2026-07-02T20:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T21:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072780846298247629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1725342082167140352",
+              "start": 0,
+              "username": "Oldzhen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072780846298247629",
+        "in_reply_to_user_id": "1725342082167140352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072779167469568077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oldzhen ai回复。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725342082167140352",
+        "conversation_id": "2072778657316143460",
+        "created_at": "2026-07-02T20:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T21:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072779167469568077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223415775278428160",
+              "start": 0,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072779167469568077",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072778657316143460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophhhsama 我们抓不住时光，唯有珍惜眼前，向往未来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 470,
+          "like_count": 26031,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 3472
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-17T02:36:43.000Z",
+        "description": "Investor ｜Web3｜Life ｜ Tourism",
+        "id": "1725342082167140352",
+        "location": "Hong Kong",
+        "name": "Oldzhen",
+        "pinned_tweet_id": "2064262182356086933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065713459237634048/f_AcjCgF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 2015,
+          "like_count": 4224,
+          "listed_count": 5,
+          "media_count": 86,
+          "tweet_count": 7285
+        },
+        "url": "",
+        "username": "Oldzhen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049063535674540032"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2049062615100584300",
+    "created_at": "2026-04-28T09:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T10:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049063539936039133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2041687695424950273",
+          "start": 0,
+          "username": "ccshuile"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2vdAsQHU1m",
+          "end": 49,
+          "expanded_url": "https://x.com/sophhhsama/status/2049063539936039133/photo/1",
+          "media_key": "3_2049063535674540032",
+          "start": 26,
+          "url": "https://t.co/2vdAsQHU1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049063539936039133",
+    "in_reply_to_user_id": "2041687695424950273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049062615100584300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccshuile 加起来要个平均值可以吗👉🏻👈🏻 https://t.co/2vdAsQHU1m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049063535674540032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-8beYWQAAf2wD.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049062603675279360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-7lOaaIAAIc0O.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049062603671175168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-7lOZbgAAWnMn.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049063535674540032"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2049062615100584300",
+        "created_at": "2026-04-28T09:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049063539936039133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2041687695424950273",
+              "start": 0,
+              "username": "ccshuile"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vdAsQHU1m",
+              "end": 49,
+              "expanded_url": "https://x.com/sophhhsama/status/2049063539936039133/photo/1",
+              "media_key": "3_2049063535674540032",
+              "start": 26,
+              "url": "https://t.co/2vdAsQHU1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049063539936039133",
+        "in_reply_to_user_id": "2041687695424950273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049062615100584300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccshuile 加起来要个平均值可以吗👉🏻👈🏻 https://t.co/2vdAsQHU1m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049062603675279360",
+            "3_2049062603671175168"
+          ]
+        },
+        "author_id": "2041687695424950273",
+        "conversation_id": "2049062615100584300",
+        "created_at": "2026-04-28T09:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049062615100584300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ULjsbh6fl",
+              "end": 33,
+              "expanded_url": "https://x.com/ccshuile/status/2049062615100584300/photo/1",
+              "media_key": "3_2049062603675279360",
+              "start": 10,
+              "url": "https://t.co/1ULjsbh6fl"
+            },
+            {
+              "display_url": "pic.x.com/1ULjsbh6fl",
+              "end": 33,
+              "expanded_url": "https://x.com/ccshuile/status/2049062615100584300/photo/1",
+              "media_key": "3_2049062603671175168",
+              "start": 10,
+              "url": "https://t.co/1ULjsbh6fl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049062615100584300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和烤肉的区别是？ https://t.co/1ULjsbh6fl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 384,
+          "like_count": 14713,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 2206
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T01:21:03.000Z",
+        "description": "🥗🍥我不要再喜欢任何人了",
+        "id": "2041687695424950273",
+        "name": "cc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041688275296120832/e5yGXjI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 23,
+          "like_count": 1060,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 182
+        },
+        "username": "ccshuile",
+        "verified": true
+      }
+    ]
+  }
+}

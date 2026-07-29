@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022020371575095296"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2022020376835023033",
+    "created_at": "2026-02-12T18:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T19:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022020376835023033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lxuBIgvYU1",
+          "end": 36,
+          "expanded_url": "https://x.com/sophhhsama/status/2022020376835023033/photo/1",
+          "media_key": "3_2022020371575095296",
+          "start": 13,
+          "url": "https://t.co/lxuBIgvYU1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022020376835023033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有妈妈在你就不是流浪猫了 https://t.co/lxuBIgvYU1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1415,
+        "media_key": "3_2022020371575095296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-o0JhWQAAGJ-A.jpg",
+        "width": 1061
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022020371575095296"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2022020376835023033",
+        "created_at": "2026-02-12T18:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T19:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022020376835023033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lxuBIgvYU1",
+              "end": 36,
+              "expanded_url": "https://x.com/sophhhsama/status/2022020376835023033/photo/1",
+              "media_key": "3_2022020371575095296",
+              "start": 13,
+              "url": "https://t.co/lxuBIgvYU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022020376835023033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有妈妈在你就不是流浪猫了 https://t.co/lxuBIgvYU1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. I also enjoy programming, macroeconomics, tokenomics, and asking questions.\n18, ZHH, ZHO, ENG",
+        "id": "1223415775278428160",
+        "name": "sophhh🍥",
+        "pinned_tweet_id": "2021351099244957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 55,
+          "like_count": 688,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 143
+        },
+        "username": "sophhhsama",
+        "verified": true
+      }
+    ]
+  }
+}

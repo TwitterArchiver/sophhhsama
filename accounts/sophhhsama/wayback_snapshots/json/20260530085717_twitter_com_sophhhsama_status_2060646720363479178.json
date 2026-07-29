@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2060278526239195470",
+    "created_at": "2026-05-30T08:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060646720363479178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1862459119749537792",
+          "start": 0,
+          "username": "caicai1953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060646720363479178",
+    "in_reply_to_user_id": "1862459119749537792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060278526239195470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caicai1953 互关一下～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 641,
+        "media_key": "3_2060278523940806656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeUZtXboAA7adB.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2060278526239195470",
+        "created_at": "2026-05-30T08:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060646720363479178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1862459119749537792",
+              "start": 0,
+              "username": "caicai1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060646720363479178",
+        "in_reply_to_user_id": "1862459119749537792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060278526239195470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caicai1953 互关一下～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060278523940806656"
+          ]
+        },
+        "author_id": "1862459119749537792",
+        "conversation_id": "2060278526239195470",
+        "created_at": "2026-05-29T08:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060278526239195470"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xQX9BWgBPI",
+              "end": 127,
+              "expanded_url": "https://x.com/caicai1953/status/2060278526239195470/photo/1",
+              "media_key": "3_2060278523940806656",
+              "start": 104,
+              "url": "https://t.co/xQX9BWgBPI"
+            },
+            {
+              "display_url": "x.com/caicai1953/sta…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/caicai1953/status/2059213237695168559",
+              "start": 128,
+              "url": "https://t.co/n0bjFjdgDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060278526239195470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6514,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 124,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059213237695168559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢各位大佬，距离我的目标5000蓝V就差不到60人了。\n\n蓝V互关第二十三期。\n\n第二十二期的都已经回关喽，没有回关的评论区艾特我一下，我都会回关～\n\n真诚找互关好友啦！关注必回，秒关不鸽～\n\n#蓝V互关 https://t.co/xQX9BWgBPI https://t.co/n0bjFjdgDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 397,
+          "like_count": 22201,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 3120
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-29T11:30:40.000Z",
+        "description": "💖加密小韭菜/老师饿饿“肚肚打雷了”/💖TG：https://t.co/EBtZROCbMJ💖所有推文不做投资建议/💖",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/caixiaohai/",
+                "end": 46,
+                "expanded_url": "http://t.me/caixiaohai/",
+                "start": 23,
+                "url": "https://t.co/EBtZROCbMJ"
+              }
+            ]
+          }
+        },
+        "id": "1862459119749537792",
+        "location": " ",
+        "name": "小孩💢",
+        "pinned_tweet_id": "2060278526239195470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009126179803176960/-Ycm8YCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17203,
+          "following_count": 9057,
+          "like_count": 76370,
+          "listed_count": 40,
+          "media_count": 2147,
+          "tweet_count": 72915
+        },
+        "username": "caicai1953",
+        "verified": true
+      }
+    ]
+  }
+}

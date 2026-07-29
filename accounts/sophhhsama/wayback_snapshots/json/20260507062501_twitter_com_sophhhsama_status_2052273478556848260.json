@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052014106585251840"
+      ],
+      "media_source_tweet_id": [
+        "2052014134838059511"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2052273478556848260",
+    "created_at": "2026-05-07T06:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T07:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052273478556848260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1757603703811371008",
+          "start": 3,
+          "username": "SonjaTasha26957"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OATKXmzyui",
+          "end": 101,
+          "expanded_url": "https://x.com/SonjaTasha26957/status/2052014134838059511/photo/1",
+          "media_key": "3_2052014106585251840",
+          "start": 78,
+          "url": "https://t.co/OATKXmzyui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052273478556848260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052014134838059511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SonjaTasha26957: 转评赞参与 三项都要做到哦 时间5.6—-5.9三天哦 到时候ai开奖 请大家踊跃参与吧！！！我的600fo福利 https://t.co/OATKXmzyui"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2052014106585251840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHo39TkawAApEls.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052014106585251840"
+          ],
+          "media_source_tweet_id": [
+            "2052014134838059511"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2052273478556848260",
+        "created_at": "2026-05-07T06:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052273478556848260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1757603703811371008",
+              "start": 3,
+              "username": "SonjaTasha26957"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OATKXmzyui",
+              "end": 101,
+              "expanded_url": "https://x.com/SonjaTasha26957/status/2052014134838059511/photo/1",
+              "media_key": "3_2052014106585251840",
+              "start": 78,
+              "url": "https://t.co/OATKXmzyui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052273478556848260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052014134838059511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SonjaTasha26957: 转评赞参与 三项都要做到哦 时间5.6—-5.9三天哦 到时候ai开奖 请大家踊跃参与吧！！！我的600fo福利 https://t.co/OATKXmzyui"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052014106585251840"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2052014134838059511",
+        "created_at": "2026-05-06T13:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052014134838059511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OATKXmzyui",
+              "end": 80,
+              "expanded_url": "https://x.com/SonjaTasha26957/status/2052014134838059511/photo/1",
+              "media_key": "3_2052014106585251840",
+              "start": 57,
+              "url": "https://t.co/OATKXmzyui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052014134838059511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3641,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 76,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "转评赞参与 三项都要做到哦 时间5.6—-5.9三天哦 到时候ai开奖 请大家踊跃参与吧！！！我的600fo福利 https://t.co/OATKXmzyui"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 好朋友萌 @slclst @Cheeseduck111 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 347,
+          "like_count": 17352,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 2478
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 我是顺女 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教 男生🚪88 不聊黄 只是想屏蔽一些不好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049396730228253066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 466,
+          "like_count": 55,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 783
+        },
+        "url": "",
+        "username": "SonjaTasha26957",
+        "verified": false
+      }
+    ]
+  }
+}

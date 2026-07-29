@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2048487330030436370",
+    "created_at": "2026-04-27T10:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T11:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048711162074644912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1514974789785767936",
+          "start": 0,
+          "username": "KYJZ4772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048711162074644912",
+    "in_reply_to_user_id": "1514974789785767936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048487330030436370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KYJZ4772 咪的天\n早点愈合呀喵喵 好好修养\n感觉会很痒 伤口🫠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2048487299999313920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2wWJNbsAATzpG.jpg",
+        "width": 1927
+      },
+      {
+        "height": 1472,
+        "media_key": "3_2048487292764069888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2wVuQaoAAfsdq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 736,
+        "media_key": "3_2048487278264356864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2wU4PakAAQ9p5.jpg",
+        "width": 1976
+      },
+      {
+        "height": 1616,
+        "media_key": "3_2048487303627329536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2wWWua0AA5neQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2048487330030436370",
+        "created_at": "2026-04-27T10:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048711162074644912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1514974789785767936",
+              "start": 0,
+              "username": "KYJZ4772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048711162074644912",
+        "in_reply_to_user_id": "1514974789785767936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048487330030436370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KYJZ4772 咪的天\n早点愈合呀喵喵 好好修养\n感觉会很痒 伤口🫠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048487299999313920",
+            "3_2048487292764069888",
+            "3_2048487278264356864",
+            "3_2048487303627329536"
+          ]
+        },
+        "author_id": "1514974789785767936",
+        "conversation_id": "2048487330030436370",
+        "created_at": "2026-04-26T19:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T20:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048487330030436370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7SxJmk2oE3",
+              "end": 31,
+              "expanded_url": "https://x.com/KYJZ4772/status/2048487330030436370/photo/1",
+              "media_key": "3_2048487299999313920",
+              "start": 8,
+              "url": "https://t.co/7SxJmk2oE3"
+            },
+            {
+              "display_url": "pic.x.com/7SxJmk2oE3",
+              "end": 31,
+              "expanded_url": "https://x.com/KYJZ4772/status/2048487330030436370/photo/1",
+              "media_key": "3_2048487292764069888",
+              "start": 8,
+              "url": "https://t.co/7SxJmk2oE3"
+            },
+            {
+              "display_url": "pic.x.com/7SxJmk2oE3",
+              "end": 31,
+              "expanded_url": "https://x.com/KYJZ4772/status/2048487330030436370/photo/1",
+              "media_key": "3_2048487278264356864",
+              "start": 8,
+              "url": "https://t.co/7SxJmk2oE3"
+            },
+            {
+              "display_url": "pic.x.com/7SxJmk2oE3",
+              "end": 31,
+              "expanded_url": "https://x.com/KYJZ4772/status/2048487330030436370/photo/1",
+              "media_key": "3_2048487303627329536",
+              "start": 8,
+              "url": "https://t.co/7SxJmk2oE3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048487330030436370",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 14492,
+          "like_count": 155,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "切胸手术ftx https://t.co/7SxJmk2oE3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048368707320377344/3VPiergw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 380,
+          "like_count": 14384,
+          "listed_count": 1,
+          "media_count": 279,
+          "tweet_count": 2162
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T14:31:59.000Z",
+        "description": "⚫️垢\n自娱自乐\n我不考虑任何人的感受。 \n我有精神疾病，此账号内容令人不适\n：自残，ed，双相焦虑\n分舌是自己🈹的别问价了求放过\n防诈@KYJZ72",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 68,
+                "username": "KYJZ72"
+              }
+            ]
+          }
+        },
+        "id": "1514974789785767936",
+        "name": "💬4747",
+        "pinned_tweet_id": "2032707388600647815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031774382318911488/vZEwPGpb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 100,
+          "like_count": 1774,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 991
+        },
+        "username": "KYJZ4772",
+        "verified": false
+      }
+    ]
+  }
+}

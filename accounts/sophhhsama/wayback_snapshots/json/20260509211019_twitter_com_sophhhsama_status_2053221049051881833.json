@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053147574744297479"
+      ],
+      "media_source_tweet_id": [
+        "2053147637625315625"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2053221049051881833",
+    "created_at": "2026-05-09T21:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T22:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053221049051881833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1601549039287566336",
+          "start": 3,
+          "username": "mmmammm_a"
+        },
+        {
+          "end": 37,
+          "id": "2041159531657416704",
+          "start": 24,
+          "username": "amber_digit2"
+        },
+        {
+          "end": 56,
+          "id": "2051644388611088387",
+          "start": 40,
+          "username": "medusozoa_amber"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9LTVw1BFhb",
+          "end": 112,
+          "expanded_url": "https://x.com/mmmammm_a/status/2053147637625315625/photo/1",
+          "media_key": "3_2053147574744297479",
+          "start": 89,
+          "url": "https://t.co/9LTVw1BFhb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053221049051881833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053147637625315625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmmammm_a: 再帮amber （@amber_digit2 / @medusozoa_amber ）宣传一下她的英语课，体验很好，amber很擅长引导，很推荐🥺 https://t.co/9LTVw1BFhb"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "一个线上英语课的会议室截图，展现了一段Gender Trouble文档、一个Gravity Falls的视频窗口、和两个人的摄像头画面。",
+        "height": 2160,
+        "media_key": "3_2053147574744297479",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4-11gWsAcL3Ry.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053147574744297479"
+          ],
+          "media_source_tweet_id": [
+            "2053147637625315625"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2053221049051881833",
+        "created_at": "2026-05-09T21:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T22:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053221049051881833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1601549039287566336",
+              "start": 3,
+              "username": "mmmammm_a"
+            },
+            {
+              "end": 37,
+              "id": "2041159531657416704",
+              "start": 24,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 56,
+              "id": "2051644388611088387",
+              "start": 40,
+              "username": "medusozoa_amber"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LTVw1BFhb",
+              "end": 112,
+              "expanded_url": "https://x.com/mmmammm_a/status/2053147637625315625/photo/1",
+              "media_key": "3_2053147574744297479",
+              "start": 89,
+              "url": "https://t.co/9LTVw1BFhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053221049051881833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053147637625315625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmmammm_a: 再帮amber （@amber_digit2 / @medusozoa_amber ）宣传一下她的英语课，体验很好，amber很擅长引导，很推荐🥺 https://t.co/9LTVw1BFhb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053147574744297479"
+          ]
+        },
+        "author_id": "1601549039287566336",
+        "conversation_id": "2053147637625315625",
+        "created_at": "2026-05-09T16:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053147637625315625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2041159531657416704",
+              "start": 9,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 41,
+              "id": "2051644388611088387",
+              "start": 25,
+              "username": "medusozoa_amber"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LTVw1BFhb",
+              "end": 97,
+              "expanded_url": "https://x.com/mmmammm_a/status/2053147637625315625/photo/1",
+              "media_key": "3_2053147574744297479",
+              "start": 74,
+              "url": "https://t.co/9LTVw1BFhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053147637625315625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1466,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "再帮amber （@amber_digit2 / @medusozoa_amber ）宣传一下她的英语课，体验很好，amber很擅长引导，很推荐🥺 https://t.co/9LTVw1BFhb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n好姐姐 @tingxinzhongyu 好朋友萌 @slclst @Cheeseduck111 @djzi237149 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 83,
+                "start": 76,
+                "username": "slclst"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "djzi237149"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 338,
+          "like_count": 18338,
+          "listed_count": 2,
+          "media_count": 323,
+          "tweet_count": 2586
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T12:07:11.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️She / They / Queer-feminist",
+        "id": "1601549039287566336",
+        "name": "北雁沐风🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "1847325727341101500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718974847135760384/lV4ZzeQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 165,
+          "like_count": 7015,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 1019
+        },
+        "username": "mmmammm_a",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "备用 @medusozoa_amber\n也可以直接私信那由 @noaayoyaoaya\n公开频道: https://t.co/9vOZUHGUOo\n\nhttps://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "medusozoa_amber"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+JJru1O0uCsgyO…",
+                "end": 73,
+                "expanded_url": "http://t.me/+JJru1O0uCsgyOGY1",
+                "start": 50,
+                "url": "https://t.co/9vOZUHGUOo"
+              },
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 98,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 75,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://t.me/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/Mu7nsgG4NQ"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 82,
+          "like_count": 19,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 303
+        },
+        "url": "https://t.co/Mu7nsgG4NQ",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-05T12:46:03.000Z",
+        "description": "",
+        "id": "2051644388611088387",
+        "name": "水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052908932419502085/4IlJqxap_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 107,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "medusozoa_amber",
+        "verified": false
+      }
+    ]
+  }
+}

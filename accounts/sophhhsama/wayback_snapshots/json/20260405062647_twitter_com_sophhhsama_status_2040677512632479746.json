@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2040677512632479746",
+    "created_at": "2026-04-05T06:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T07:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040677512632479746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2040618401991708897",
+          "start": 32,
+          "url": "https://t.co/rBliRC9YpK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040677512632479746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040618401991708897",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "居然被amber间接间接间接quote了\n小猫这辈子有辣\n嘻嘻 https://t.co/rBliRC9YpK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2040677512632479746",
+        "created_at": "2026-04-05T06:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040677512632479746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2040618401991708897",
+              "start": 32,
+              "url": "https://t.co/rBliRC9YpK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040677512632479746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040618401991708897",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "居然被amber间接间接间接quote了\n小猫这辈子有辣\n嘻嘻 https://t.co/rBliRC9YpK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2040618401991708897",
+        "created_at": "2026-04-05T02:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040618401991708897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/citricat_miaow…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/citricat_miaow/status/2040617760925897120",
+              "start": 146,
+              "url": "https://t.co/8u5VgjW15M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040618401991708897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1696,
+          "like_count": 51,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040617760925897120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想做爱\n我想亲嘴\n我想抱抱\n我想被摸摸头\n我想被夸\n\n我想在我卸了妆之后你依旧会捧着我的脸说一句好美 \n我想在恰好好处的时机你眼神拉丝地看着我\n并且在征得我的同意后轻轻地吻我\n\n我想在你的怀抱中感受你的温度你的呼吸你的心跳你的气味 \n我想在事后没有安全感的时候你抱着我说喜欢我爱我 关心我 https://t.co/8u5VgjW15M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie 想到什么发什么 07 | 大笨蛋 @Cheeseduck111 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "sophhhsama2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040417784971001856/HVUfHILV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 293,
+          "like_count": 8746,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 1314
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 578,
+          "like_count": 1182,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 805
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

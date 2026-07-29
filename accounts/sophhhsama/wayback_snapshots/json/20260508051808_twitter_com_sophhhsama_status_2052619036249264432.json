@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2052619036249264432",
+    "created_at": "2026-05-08T05:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T06:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052619036249264432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shirochankawa1…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/shirochankawa1/status/2052374076958941319",
+          "start": 10,
+          "url": "https://t.co/y7Ik0i9fml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052619036249264432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052374076958941319",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都不许离开哦（泣） https://t.co/y7Ik0i9fml"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2052374068276637696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt_V1XaMAA779M.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2052619036249264432",
+        "created_at": "2026-05-08T05:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052619036249264432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shirochankawa1…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/shirochankawa1/status/2052374076958941319",
+              "start": 10,
+              "url": "https://t.co/y7Ik0i9fml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052619036249264432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052374076958941319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都不许离开哦（泣） https://t.co/y7Ik0i9fml"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052374068276637696"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2052374076958941319",
+        "created_at": "2026-05-07T13:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052374076958941319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PifD7NC7Pe",
+              "end": 23,
+              "expanded_url": "https://x.com/shirochankawa1/status/2052374076958941319/photo/1",
+              "media_key": "3_2052374068276637696",
+              "start": 0,
+              "url": "https://t.co/PifD7NC7Pe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052374076958941319",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1597,
+          "like_count": 106,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PifD7NC7Pe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 好朋友萌 @slclst @Cheeseduck111 @djzi237149 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "djzi237149"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 347,
+          "like_count": 17755,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 2535
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2476,
+          "following_count": 2071,
+          "like_count": 68732,
+          "listed_count": 8,
+          "media_count": 1672,
+          "tweet_count": 11243
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

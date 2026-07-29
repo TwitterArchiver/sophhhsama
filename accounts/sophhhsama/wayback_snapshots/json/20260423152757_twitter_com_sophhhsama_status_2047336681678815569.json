@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2047336681678815569",
+    "created_at": "2026-04-23T15:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047336681678815569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_cuicuimiao_/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/_cuicuimiao_/status/2047326337267097835",
+          "start": 10,
+          "url": "https://t.co/lrBlNVTdg0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047336681678815569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047326337267097835",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "荧幕前的你很棒很棒 https://t.co/lrBlNVTdg0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2047336681678815569",
+        "created_at": "2026-04-23T15:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047336681678815569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_cuicuimiao_/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/_cuicuimiao_/status/2047326337267097835",
+              "start": 10,
+              "url": "https://t.co/lrBlNVTdg0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047336681678815569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047326337267097835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "荧幕前的你很棒很棒 https://t.co/lrBlNVTdg0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023431978410991616",
+        "conversation_id": "2047326337267097835",
+        "created_at": "2026-04-23T14:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047326337267097835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047326337267097835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在這樣的家庭、環境下還可以活到現在？！你已經很棒了喵！今天也有在很努力的活下去了呢！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/修猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 361,
+          "like_count": 13504,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 2008
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T16:19:32.000Z",
+        "description": "11年 順女 LGBTQ全友好 同類互關 \n求轉帖助我找回前世互關qwq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_",
+                "start": 0,
+                "url": "https://t.co/uA1KIy2FVt"
+              }
+            ]
+          }
+        },
+        "id": "2023431978410991616",
+        "location": "🚪",
+        "name": "番茄操蛋6.0",
+        "pinned_tweet_id": "2046955466845262078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026058493871218688/LzgDzWIh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 15,
+          "like_count": 216,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 72
+        },
+        "url": "https://t.co/uA1KIy2FVt",
+        "username": "_CuicuiMiao_",
+        "verified": false
+      }
+    ]
+  }
+}

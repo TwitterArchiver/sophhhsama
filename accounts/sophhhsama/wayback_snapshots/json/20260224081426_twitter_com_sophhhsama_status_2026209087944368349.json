@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026177621810130945"
+      ],
+      "media_source_tweet_id": [
+        "2026177641485676999"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2026209087944368349",
+    "created_at": "2026-02-24T08:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T09:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026209087944368349"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 61,
+          "tag": "LGBTQ"
+        },
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "LGBT"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1485662446220201994",
+          "start": 3,
+          "username": "koinoesutoron"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ruK9dOtllx",
+          "end": 97,
+          "expanded_url": "https://x.com/koinoesutoron/status/2026177641485676999/photo/1",
+          "media_key": "3_2026177621810130945",
+          "start": 74,
+          "url": "https://t.co/ruK9dOtllx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026209087944368349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026177641485676999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koinoesutoron: 完美符合二元性别定义的身体是很少很少的。多元是人类的常态，是属于我们的美妙所在。\n\n#LGBTQ\n#LGBT https://t.co/ruK9dOtllx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2026177621810130945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5tz9fWsAEyaZC.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026177621810130945"
+          ],
+          "media_source_tweet_id": [
+            "2026177641485676999"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2026209087944368349",
+        "created_at": "2026-02-24T08:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026209087944368349"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 61,
+              "tag": "LGBTQ"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "LGBT"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1485662446220201994",
+              "start": 3,
+              "username": "koinoesutoron"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ruK9dOtllx",
+              "end": 97,
+              "expanded_url": "https://x.com/koinoesutoron/status/2026177641485676999/photo/1",
+              "media_key": "3_2026177621810130945",
+              "start": 74,
+              "url": "https://t.co/ruK9dOtllx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026209087944368349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026177641485676999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koinoesutoron: 完美符合二元性别定义的身体是很少很少的。多元是人类的常态，是属于我们的美妙所在。\n\n#LGBTQ\n#LGBT https://t.co/ruK9dOtllx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026177621810130945"
+          ]
+        },
+        "author_id": "1485662446220201994",
+        "conversation_id": "2026177641485676999",
+        "created_at": "2026-02-24T06:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026177641485676999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 42,
+              "tag": "LGBTQ"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "LGBT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ruK9dOtllx",
+              "end": 78,
+              "expanded_url": "https://x.com/koinoesutoron/status/2026177641485676999/photo/1",
+              "media_key": "3_2026177621810130945",
+              "start": 55,
+              "url": "https://t.co/ruK9dOtllx"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "28b9063fdce43645"
+        },
+        "id": "2026177641485676999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 211,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "完美符合二元性别定义的身体是很少很少的。多元是人类的常态，是属于我们的美妙所在。\n\n#LGBTQ\n#LGBT https://t.co/ruK9dOtllx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtf | hrt: 21/01/2026 | Aspiring med student. spam account. 07, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "pinned_tweet_id": "2025243948566892831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 89,
+          "like_count": 1748,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 359
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-24T17:15:21.000Z",
+        "description": "WikipediaのLTAです。\nLGBT｜ポスドク｜自己嫌悪｜精神疾患｜トランスジェンダー｜LTA｜Wikipedia｜など",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ja.wikipedia.org/wiki/LTA:ISECH…",
+                "end": 23,
+                "expanded_url": "http://ja.wikipedia.org/wiki/LTA:ISECHIKA",
+                "start": 0,
+                "url": "https://t.co/Km1SZucwOo"
+              }
+            ]
+          }
+        },
+        "id": "1485662446220201994",
+        "location": "東京 千代田区",
+        "name": "伊瀬知夏🏳️‍⚧️",
+        "pinned_tweet_id": "1558859092545769472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984410811058831363/2uZasvuq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 44,
+          "like_count": 78,
+          "listed_count": 5,
+          "media_count": 2614,
+          "tweet_count": 8196
+        },
+        "url": "https://t.co/Km1SZucwOo",
+        "username": "koinoesutoron",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2025257500292063744",
+    "created_at": "2026-02-22T07:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T08:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025468981226676614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1487563847602900992",
+          "start": 0,
+          "username": "duxiangwan4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025468981226676614",
+    "in_reply_to_user_id": "1487563847602900992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025257500292063744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duxiangwan4 生日快乐吖～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025257497607766023",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBso9rubgAcUEPv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2025257500292063744",
+        "created_at": "2026-02-22T07:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025468981226676614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1487563847602900992",
+              "start": 0,
+              "username": "duxiangwan4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025468981226676614",
+        "in_reply_to_user_id": "1487563847602900992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025257500292063744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duxiangwan4 生日快乐吖～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025257497607766023"
+          ]
+        },
+        "author_id": "1487563847602900992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025257500292063744",
+        "created_at": "2026-02-21T17:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025257500292063744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Mqw9qngM4",
+              "end": 31,
+              "expanded_url": "https://x.com/duxiangwan4/status/2025257500292063744/photo/1",
+              "media_key": "3_2025257497607766023",
+              "start": 8,
+              "url": "https://t.co/3Mqw9qngM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025257500292063744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 232,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝自己生日快乐 https://t.co/3Mqw9qngM4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "Aspiring med student. spam account. 18, CMN, YUE, ENG 英區 ✩₊˚.⋆☾⋆⁺₊✧ 超级温柔的姐姐 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "name": "sophhhie🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016882765195567104/rWf4JxcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 83,
+          "like_count": 1543,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 326
+        },
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-29T23:10:42.000Z",
+        "description": "🍥无证含糖/🎂05.2.14/🏳️‍⚧️hrt25.2.5/👻168cm58kg/🇨🇳广州/🏫小学毕业小文盲/😥常态短发男装/😭天残党丑逼/🎮明日方舟玩家p社玩家/👿晚班社畜一枚/💰v我50",
+        "id": "1487563847602900992",
+        "name": "🍥陌然🇨🇳🏳️‍⚧️",
+        "pinned_tweet_id": "1960433514614284521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961823133083840512/xfujkpNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 86,
+          "like_count": 44,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 404
+        },
+        "username": "duxiangwan4",
+        "verified": false
+      }
+    ]
+  }
+}

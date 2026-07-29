@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052701561298518018"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "conversation_id": "2052701578583236918",
+    "created_at": "2026-05-08T10:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052701578583236918"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aMuxnmiUYG",
+          "end": 155,
+          "expanded_url": "https://x.com/sophhhsama/status/2052701578583236918/photo/1",
+          "media_key": "3_2052701561298518018",
+          "start": 132,
+          "url": "https://t.co/aMuxnmiUYG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052701578583236918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊啊谁家下头狗到处在说想重开的帖底下发这种 \n我说你给我一千万我马上不抑郁了\n呃啊烦死了真的\n和我妈一个样 啊对对对 我抑郁不好一定是因为我懒不出去晒太阳对对对\n呃我爸的话 直接懒得跟我说话 一天不是上班睡觉蹲马桶就是刷短剧呃啊看着这个当自己是皇帝的就烦 https://t.co/aMuxnmiUYG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052701561298518018",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHypMb8WgAI5X4U.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052701561298518018"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2052701578583236918",
+        "created_at": "2026-05-08T10:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052701578583236918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aMuxnmiUYG",
+              "end": 155,
+              "expanded_url": "https://x.com/sophhhsama/status/2052701578583236918/photo/1",
+              "media_key": "3_2052701561298518018",
+              "start": 132,
+              "url": "https://t.co/aMuxnmiUYG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052701578583236918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊谁家下头狗到处在说想重开的帖底下发这种 \n我说你给我一千万我马上不抑郁了\n呃啊烦死了真的\n和我妈一个样 啊对对对 我抑郁不好一定是因为我懒不出去晒太阳对对对\n呃我爸的话 直接懒得跟我说话 一天不是上班睡觉蹲马桶就是刷短剧呃啊看着这个当自己是皇帝的就烦 https://t.co/aMuxnmiUYG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 好朋友萌 @slclst @Cheeseduck111 @djzi237149 超可爱的花花 @YMKxxxxxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "djzi237149"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YMKxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 348,
+          "like_count": 17876,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 2550
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

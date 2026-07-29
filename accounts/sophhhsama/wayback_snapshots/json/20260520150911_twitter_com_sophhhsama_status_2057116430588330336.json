@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056555322559627264"
+      ],
+      "media_source_tweet_id": [
+        "2056555408354140266"
+      ]
+    },
+    "author_id": "1223415775278428160",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2057116430588330336",
+    "created_at": "2026-05-20T15:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057116430588330336"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "wlw"
+        },
+        {
+          "end": 76,
+          "start": 72,
+          "tag": "les"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "928582655360167936",
+          "start": 3,
+          "username": "Jiejie5kepd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hewt9etIJk",
+          "end": 100,
+          "expanded_url": "https://x.com/Jiejie5kepd/status/2056555408354140266/video/1",
+          "media_key": "13_2056555322559627264",
+          "start": 77,
+          "url": "https://t.co/Hewt9etIJk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057116430588330336",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 258
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056555408354140266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jiejie5kepd: Two brides in love &gt;&gt;&gt; everything else.\n\n#wlw #les https://t.co/Hewt9etIJk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39033,
+        "height": 1024,
+        "media_key": "13_2056555322559627264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056555322559627264/img/c8JZ2uvR_BtSf2yK.jpg",
+        "public_metrics": {
+          "view_count": 12520
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056555322559627264/vid/avc1/320x568/tN2BamV7JsFeAG5J.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056555322559627264/vid/avc1/480x852/fdQeoqw5N5tLCgYt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056555322559627264/vid/avc1/576x1024/fnbqxVe_KGA-0i7t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056555322559627264/pl/hoGovTCw1apFfNu6.m3u8?v=b64"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056555322559627264"
+          ],
+          "media_source_tweet_id": [
+            "2056555408354140266"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057116430588330336",
+        "created_at": "2026-05-20T15:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057116430588330336"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "wlw"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "les"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "928582655360167936",
+              "start": 3,
+              "username": "Jiejie5kepd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hewt9etIJk",
+              "end": 100,
+              "expanded_url": "https://x.com/Jiejie5kepd/status/2056555408354140266/video/1",
+              "media_key": "13_2056555322559627264",
+              "start": 77,
+              "url": "https://t.co/Hewt9etIJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057116430588330336",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 258
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056555408354140266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jiejie5kepd: Two brides in love &gt;&gt;&gt; everything else.\n\n#wlw #les https://t.co/Hewt9etIJk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056555322559627264"
+          ]
+        },
+        "author_id": "928582655360167936",
+        "conversation_id": "2056555408354140266",
+        "created_at": "2026-05-19T01:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056555408354140266"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "wlw"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "les"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hewt9etIJk",
+              "end": 83,
+              "expanded_url": "https://x.com/Jiejie5kepd/status/2056555408354140266/video/1",
+              "media_key": "13_2056555322559627264",
+              "start": 60,
+              "url": "https://t.co/Hewt9etIJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056555408354140266",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 188,
+          "impression_count": 36314,
+          "like_count": 3122,
+          "quote_count": 10,
+          "reply_count": 5,
+          "retweet_count": 258
+        },
+        "reply_settings": "everyone",
+        "text": "Two brides in love &gt;&gt;&gt; everything else.\n\n#wlw #les https://t.co/Hewt9etIJk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2048491297531437511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 354,
+          "like_count": 20291,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 2832
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-09T11:18:52.000Z",
+        "description": "©️®️ to the right owner / I like women & cats",
+        "id": "928582655360167936",
+        "name": "Jiejie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047973039086997504/-jFz-dko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 1,
+          "like_count": 133,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 37
+        },
+        "username": "Jiejie5kepd",
+        "verified": false
+      }
+    ]
+  }
+}
