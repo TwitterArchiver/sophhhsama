@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2090038581868064907",
+    "created_at": "2026-08-19T13:47:29.000Z",
+    "display_text_range": [
+      10,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090073165779046860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2041687695424950273",
+          "start": 0,
+          "username": "ccshuile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090073165779046860",
+    "in_reply_to_user_id": "2041687695424950273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090038581868064907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccshuile 呜啊啊啊啊啊\ncc七夕快乐！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090038572892196864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFPAjAakAAQABF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2090038581868064907",
+        "created_at": "2026-08-19T13:47:29.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090073165779046860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2041687695424950273",
+              "start": 0,
+              "username": "ccshuile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090073165779046860",
+        "in_reply_to_user_id": "2041687695424950273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090038581868064907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccshuile 呜啊啊啊啊啊\ncc七夕快乐！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090038572892196864"
+          ]
+        },
+        "author_id": "2041687695424950273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2090038581868064907",
+        "created_at": "2026-08-19T11:30:03.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090038581868064907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vhZZWc9hw",
+              "end": 50,
+              "expanded_url": "https://x.com/ccshuile/status/2090038581868064907/photo/1",
+              "media_key": "3_2090038572892196864",
+              "start": 27,
+              "url": "https://t.co/5vhZZWc9hw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090038581868064907",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090038572892196864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七夕收到了花花 ˃̶͈ ꇴ ˂̶͈ 大家七夕快乐呀～ https://t.co/5vhZZWc9hw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "is_identity_verified": false,
+        "location": "喵星",
+        "most_recent_tweet_id": "2090073165779046860",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223415775278428160/1777204060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 477,
+          "like_count": 29617,
+          "listed_count": 2,
+          "media_count": 386,
+          "tweet_count": 3644
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T01:21:03.000Z",
+        "description": "我不要再喜欢任何人了",
+        "id": "2041687695424950273",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090072653638062394",
+        "name": "cc🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041687695424950273/1776058992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041688275296120832/e5yGXjI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 32,
+          "like_count": 2330,
+          "listed_count": 7,
+          "media_count": 68,
+          "tweet_count": 443
+        },
+        "url": "",
+        "username": "ccshuile",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

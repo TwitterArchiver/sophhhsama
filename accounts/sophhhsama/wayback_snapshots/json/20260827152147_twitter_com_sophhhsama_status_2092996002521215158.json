@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2091610736002806215",
+    "created_at": "2026-08-27T15:21:47.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T16:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092996002521215158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708116381005434880",
+          "start": 0,
+          "username": "origamicmic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092996002521215158",
+    "in_reply_to_user_id": "1708116381005434880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092956998388392367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@origamicmic 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2091610736002806215",
+        "created_at": "2026-08-27T15:21:47.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092996002521215158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708116381005434880",
+              "start": 0,
+              "username": "origamicmic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092996002521215158",
+        "in_reply_to_user_id": "1708116381005434880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092956998388392367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@origamicmic 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708116381005434880",
+        "conversation_id": "2091610736002806215",
+        "created_at": "2026-08-27T12:46:48.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092956998388392367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223415775278428160",
+              "start": 0,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092956998388392367",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091610736002806215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophhhsama 抱抱喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtf\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "is_identity_verified": false,
+        "location": "喵星",
+        "most_recent_tweet_id": "2092996002521215158",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223415775278428160/1777204060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 480,
+          "like_count": 29918,
+          "listed_count": 2,
+          "media_count": 386,
+          "tweet_count": 3670
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-30T13:47:44.000Z",
+        "description": "■学中|■■抑■■虑■ADH■｜双■｜■■■■|■■｜■■■■■|■■■■■■■■",
+        "id": "1708116381005434880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092964109910217009",
+        "name": "𝕜𝕪𝕦𝕜𝕪𝕦（淡淡淡淡淡淡推",
+        "pinned_tweet_id": "2070524498177396743",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708116381005434880/1758910574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050554628711100417/WCMTkF4N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 472,
+          "like_count": 25687,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 1660
+        },
+        "url": "",
+        "username": "origamicmic",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

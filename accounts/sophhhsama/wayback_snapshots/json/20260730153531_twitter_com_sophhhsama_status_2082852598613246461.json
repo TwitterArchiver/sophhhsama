@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2082852598613246461",
+    "created_at": "2026-07-30T15:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082852598613246461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 34,
+          "id": "1720665183188922368",
+          "start": 29,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/shioochic_xyn/…",
+          "end": 149,
+          "expanded_url": "https://twitter.com/shioochic_xyn/status/2082845161978257602",
+          "start": 126,
+          "url": "https://t.co/cuTj0Q4ntL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082852598613246461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082845161978257602",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在我经常互动的粉丝中，告诉我符合的人  \n好好想想再做啊\n@grok  \n\n父亲:  \n母亲:  \n哥哥:  \n弟弟:  \n姐姐:  \n妹妹:  \n闺蜜:  \n朋友:  \n前辈:  \n后辈:  \n女朋友:  \n邻家哥哥:  \n邻家姐姐:  \n跟踪狂: https://t.co/cuTj0Q4ntL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2082852598613246461",
+        "created_at": "2026-07-30T15:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082852598613246461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1720665183188922368",
+              "start": 29,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/shioochic_xyn/…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/shioochic_xyn/status/2082845161978257602",
+              "start": 126,
+              "url": "https://t.co/cuTj0Q4ntL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082852598613246461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082845161978257602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我经常互动的粉丝中，告诉我符合的人  \n好好想想再做啊\n@grok  \n\n父亲:  \n母亲:  \n哥哥:  \n弟弟:  \n姐姐:  \n妹妹:  \n闺蜜:  \n朋友:  \n前辈:  \n后辈:  \n女朋友:  \n邻家哥哥:  \n邻家姐姐:  \n跟踪狂: https://t.co/cuTj0Q4ntL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033160782687731712",
+        "conversation_id": "2082845161978257602",
+        "created_at": "2026-07-30T15:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082845161978257602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1720665183188922368",
+              "start": 29,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/wuyuandev/stat…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/wuyuandev/status/2082797365854109771",
+              "start": 133,
+              "url": "https://t.co/PRogOfCQQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082845161978257602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082797365854109771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我经常互动的粉丝中，告诉我符合的人  \n好好想想再做啊\n@grok  \n\n父亲:  \n母亲:  \n哥哥:  \n弟弟:  \n姐姐:  \n妹妹:  \n闺蜜:  \n朋友:  \n前辈:  \n后辈:  \n男朋友:  \n女朋友:  \n邻家哥哥:  \n邻家姐姐:  \n跟踪狂: https://t.co/PRogOfCQQe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 470,
+          "like_count": 28455,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 3581
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8887665,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7241,
+          "media_count": 9201086,
+          "tweet_count": 132876964
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期 09 04 08｜hrt 25 07 20🍥｜小证 26 01 17｜ADHD｜choose life ?!｜抢🐔姐@hiotemaron41774｜友情链接:https://t.co/iIABjp0PAw（这并非我本人的博客）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hiotemaron41774"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 117,
+                "expanded_url": "https://whatasiger.xyz",
+                "start": 94,
+                "url": "https://t.co/iIABjp0PAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落 shio",
+        "pinned_tweet_id": "2061461592559239417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4387,
+          "following_count": 2182,
+          "like_count": 8543,
+          "listed_count": 7,
+          "media_count": 1031,
+          "tweet_count": 6871
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}
