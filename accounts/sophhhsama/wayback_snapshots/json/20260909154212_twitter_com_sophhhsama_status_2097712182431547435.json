@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2097673012808196482",
+    "created_at": "2026-09-09T15:42:12.000Z",
+    "display_text_range": [
+      10,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T16:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097712182431547435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1452537509875834880",
+          "start": 0,
+          "username": "kkggxxyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097712182431547435",
+    "in_reply_to_user_id": "1452537509875834880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097673012808196482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkggxxyy 有什么要求QAQ 要开证嘛还是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2097673012808196482",
+        "created_at": "2026-09-09T15:42:12.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097712182431547435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1452537509875834880",
+              "start": 0,
+              "username": "kkggxxyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097712182431547435",
+        "in_reply_to_user_id": "1452537509875834880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097673012808196482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkggxxyy 有什么要求QAQ 要开证嘛还是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452537509875834880",
+        "conversation_id": "2097673012808196482",
+        "created_at": "2026-09-09T13:06:33.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097673012808196482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097673012808196482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "韩国正规整形科切除睾丸比国内黑切便宜…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtf\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "is_identity_verified": false,
+        "location": "喵星",
+        "most_recent_tweet_id": "2097712182431547435",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223415775278428160/1777204060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 489,
+          "like_count": 30597,
+          "listed_count": 2,
+          "media_count": 390,
+          "tweet_count": 3715
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-25T07:28:33.000Z",
+        "description": "不可结缘",
+        "id": "1452537509875834880",
+        "is_identity_verified": false,
+        "location": "大象鼻子",
+        "most_recent_tweet_id": "2097673012808196482",
+        "name": "하나나",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1452537509875834880/1734359512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043310679210569728/ph6qicjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 245,
+          "like_count": 7301,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 6926
+        },
+        "url": "",
+        "username": "kkggxxyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

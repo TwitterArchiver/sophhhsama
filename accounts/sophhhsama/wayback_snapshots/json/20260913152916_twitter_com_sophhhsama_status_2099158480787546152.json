@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2099129151986729015",
+    "created_at": "2026-09-13T15:29:16.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T16:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099158480787546152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1991306862038544384",
+          "start": 0,
+          "username": "Wanda12300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099158480787546152",
+    "in_reply_to_user_id": "1991306862038544384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099129151986729015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wanda12300 羡慕？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2099129151986729015",
+        "created_at": "2026-09-13T15:29:16.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T16:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099158480787546152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1991306862038544384",
+              "start": 0,
+              "username": "Wanda12300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099158480787546152",
+        "in_reply_to_user_id": "1991306862038544384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099129151986729015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanda12300 羡慕？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991306862038544384",
+        "conversation_id": "2099129151986729015",
+        "created_at": "2026-09-13T13:32:44.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099129151986729015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099129151986729015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 532,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好消息：之前买的内衣穿不了了，太紧了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtf\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "is_identity_verified": false,
+        "location": "喵星",
+        "most_recent_tweet_id": "2099158480787546152",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223415775278428160/1777204060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 489,
+          "like_count": 30920,
+          "listed_count": 2,
+          "media_count": 390,
+          "tweet_count": 3724
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-20T00:45:48.000Z",
+        "description": "185+超大只废物天残党/家长党MtF，已出柜，不pass，攒钱SRS中...\n梦想是出门会被当成女孩子\n出厂日期：2006.10.26 HRT时间：2026.4.1\n搞黄色的不要加我，欢迎同类互fo，私信可能来不及回复，抱歉喵\n我的GitHub(正在建设)：https://t.co/kdNOs6e4qZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Wanda12300",
+                "end": 153,
+                "expanded_url": "https://github.com/Wanda12300",
+                "start": 130,
+                "url": "https://t.co/kdNOs6e4qZ"
+              }
+            ]
+          }
+        },
+        "id": "1991306862038544384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099156155545047161",
+        "name": "🍥柔情猫娘QAQ🍥",
+        "pinned_tweet_id": "2092199790276669858",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991306862038544384/1779329289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098796457037864970/gkjAh4z9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 1268,
+          "like_count": 1135,
+          "listed_count": 5,
+          "media_count": 28,
+          "tweet_count": 597
+        },
+        "url": "",
+        "username": "Wanda12300",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

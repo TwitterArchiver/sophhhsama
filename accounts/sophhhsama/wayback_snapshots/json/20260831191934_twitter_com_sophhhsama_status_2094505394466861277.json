@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2094379046742409372",
+    "created_at": "2026-08-31T19:19:34.000Z",
+    "display_text_range": [
+      29,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T20:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094505394466861277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2023256339363856384",
+          "start": 0,
+          "username": "Yumeoibito76"
+        },
+        {
+          "end": 28,
+          "id": "1904731881817735168",
+          "start": 14,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094505394466861277",
+    "in_reply_to_user_id": "2023256339363856384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094379046742409372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yumeoibito76 @3e1diei0_oi7y 抱紧紧紧紧的 辛苦宝宝惹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2094378981915262976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRC6lmoagAAASes.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2094379001972506624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRC6mxWbwAA8szX.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2094379023464091648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRC6oBabUAAkWch.jpg",
+        "width": 4096
+      },
+      {
+        "height": 991,
+        "media_key": "3_2094379039884804096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRC6o-lbgAA17tw.jpg",
+        "width": 991
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2094379046742409372",
+        "created_at": "2026-08-31T19:19:34.000Z",
+        "display_text_range": [
+          29,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T20:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094505394466861277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            },
+            {
+              "end": 28,
+              "id": "1904731881817735168",
+              "start": 14,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094505394466861277",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094379046742409372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 @3e1diei0_oi7y 抱紧紧紧紧的 辛苦宝宝惹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094378981915262976",
+            "3_2094379001972506624",
+            "3_2094379023464091648",
+            "3_2094379039884804096"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2094379046742409372",
+        "created_at": "2026-08-31T10:57:31.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094379046742409372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k7RPAHnJhv",
+              "end": 144,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2094379046742409372/photo/1",
+              "media_key": "3_2094378981915262976",
+              "start": 121,
+              "url": "https://t.co/k7RPAHnJhv"
+            },
+            {
+              "display_url": "pic.x.com/k7RPAHnJhv",
+              "end": 144,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2094379046742409372/photo/1",
+              "media_key": "3_2094379001972506624",
+              "start": 121,
+              "url": "https://t.co/k7RPAHnJhv"
+            },
+            {
+              "display_url": "pic.x.com/k7RPAHnJhv",
+              "end": 144,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2094379046742409372/photo/1",
+              "media_key": "3_2094379023464091648",
+              "start": 121,
+              "url": "https://t.co/k7RPAHnJhv"
+            },
+            {
+              "display_url": "pic.x.com/k7RPAHnJhv",
+              "end": 144,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2094379046742409372/photo/1",
+              "media_key": "3_2094379039884804096",
+              "start": 121,
+              "url": "https://t.co/k7RPAHnJhv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094379046742409372",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094378981915262976"
+          },
+          {
+            "media_key": "3_2094379001972506624"
+          },
+          {
+            "media_key": "3_2094379023464091648"
+          },
+          {
+            "media_key": "3_2094379039884804096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1999,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)爸爸妈妈已经在借钱交住院费了，大家可以先帮我们吃上饭吗，谢谢大家了，真的很抱歉\n如果有知道我具体位置的请暂时不要来看我…我身边一直有监护人在守着，现在暂时能拿到手机，但是不确保什么时候又会被收喵 https://t.co/k7RPAHnJhv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtf\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "is_identity_verified": false,
+        "location": "喵星",
+        "most_recent_tweet_id": "2094505394466861277",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223415775278428160/1777204060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 478,
+          "like_count": 30087,
+          "listed_count": 2,
+          "media_count": 386,
+          "tweet_count": 3685
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵\n我有在努力成为一个好孩子 但到底什么是好孩子呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2094414588166955370",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 368,
+          "like_count": 5894,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 593
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094417072558326141",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904731881817735168/1784026484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 771,
+          "like_count": 38784,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 1641
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
