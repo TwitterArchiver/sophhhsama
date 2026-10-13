@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2102706085668999679",
+    "created_at": "2026-09-23T13:13:51.000Z",
+    "display_text_range": [
+      17,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T14:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102748279981167101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1182696599216103425",
+          "start": 0,
+          "username": "Abubaka43311470"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102748279981167101",
+    "in_reply_to_user_id": "1182696599216103425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102706085668999679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Abubaka43311470 这个男的不会哄哄人呀…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2102706076735225857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5QCULbwAE59fV.jpg",
+        "width": 741
+      },
+      {
+        "height": 1266,
+        "media_key": "3_2102706076722585600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5QCUIa4AANmAY.jpg",
+        "width": 866
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2102706076760371200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5QCURbcAAaNIN.jpg",
+        "width": 836
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2102706076735127552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5QCULaQAArgWc.jpg",
+        "width": 654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2102706085668999679",
+        "created_at": "2026-09-23T13:13:51.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T14:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102748279981167101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1182696599216103425",
+              "start": 0,
+              "username": "Abubaka43311470"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102748279981167101",
+        "in_reply_to_user_id": "1182696599216103425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102706085668999679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Abubaka43311470 这个男的不会哄哄人呀…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102706076735225857",
+            "3_2102706076722585600",
+            "3_2102706076760371200",
+            "3_2102706076735127552"
+          ]
+        },
+        "author_id": "1182696599216103425",
+        "conversation_id": "2102706085668999679",
+        "created_at": "2026-09-23T10:26:11.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102706085668999679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iiuIDNtxuk",
+              "end": 41,
+              "expanded_url": "https://x.com/Abubaka43311470/status/2102706085668999679/photo/1",
+              "media_key": "3_2102706076735225857",
+              "start": 18,
+              "url": "https://t.co/iiuIDNtxuk"
+            },
+            {
+              "display_url": "pic.x.com/iiuIDNtxuk",
+              "end": 41,
+              "expanded_url": "https://x.com/Abubaka43311470/status/2102706085668999679/photo/1",
+              "media_key": "3_2102706076722585600",
+              "start": 18,
+              "url": "https://t.co/iiuIDNtxuk"
+            },
+            {
+              "display_url": "pic.x.com/iiuIDNtxuk",
+              "end": 41,
+              "expanded_url": "https://x.com/Abubaka43311470/status/2102706085668999679/photo/1",
+              "media_key": "3_2102706076760371200",
+              "start": 18,
+              "url": "https://t.co/iiuIDNtxuk"
+            },
+            {
+              "display_url": "pic.x.com/iiuIDNtxuk",
+              "end": 41,
+              "expanded_url": "https://x.com/Abubaka43311470/status/2102706085668999679/photo/1",
+              "media_key": "3_2102706076735127552",
+              "start": 18,
+              "url": "https://t.co/iiuIDNtxuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102706085668999679",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102706076735225857"
+          },
+          {
+            "media_key": "3_2102706076722585600"
+          },
+          {
+            "media_key": "3_2102706076760371200"
+          },
+          {
+            "media_key": "3_2102706076735127552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "被我养了四个月的男朋友这样跟我说话\n\n说一下我们的情况，我俩都是硕士在读，研一在一起的，现在谈了快两年了。我是双，我在他之前都是跟女生谈，没有在开智以后跟男生在一起过。他家条件很一般，我好像看到过他的助学贷款，谈了快两年了我也不知道他父母是干嘛的，因为我觉得有体面或者还不错的工作是会主动说的，没说就是没有。所以我没问过，怕他觉得尴尬。我家条件还可以，至少跟他比是这样。不过大家都是学生，也没有收入，都是靠着父母给的生活费和家教兼职赚点小钱。\n我没有怎么和男生在一起过，刚在一起的时候，觉得大家都在读书，谁钱多谁就多花一点。我们在学校外面租了房子，房租两个人aa，水电平摊。平时出门吃饭或者玩的开销是一人请一次的来，虽然话是这样说，但体感上是我出的更多。他不仅有时不会主动付钱，还会跟我说，他没付钱，让我去扫。\n他把我跟他的开销分的很开，我说喜欢什么东西，想吃什么，他从来不会主动给我买，他说，你喜欢就自己买呀。出去逛街，我很想买某个东西，他让我回去淘宝识图买，他说网上的更便宜。前两天跟直女朋友聊天才知道，一般出去逛街，男生会主动给女生买喜欢的东西，她身边谈恋爱的人也都是这样。\n说到我们住的房子。我们的生活用品，小到纸巾，大到电饭煲，锅，都是我买的。平时东西没有了，我也会提前续上。（购买记录可查）生活用品这方面，他买的很少。他觉得我们俩虽然住一起了，但很多东西他都不需要，因为我注重生活品质，他只要活着就好。我们经常开玩笑说，如果我们分手了，我把东西搬走，他就剩一个行李箱和衣服，还只能睡床板，因为被子也是我买的。\n他平时虽然不会主动给我花钱，但是却总是主动让我给他买东西。比如去网吧的时候让我给他点奶茶，或者让我请他吃饭。我觉得这没什么，顺手就点了。\n我们俩平时会在家里做饭，不过是他做的更多。一般是我买菜他做饭，他会在做饭之前让我买食材，调料。我去年美团和淘宝的年度账单比他多一倍，这里面包括了生鲜食材类。\n我们在一起快两年了，前段时间我才觉得在钱的问题上我感受到了不舒服。我们6月份就计划好了8月要去云南玩。两个人都往支付宝小荷包里存了2k，但是中途他把他的钱取出了1k，我没过问，因为我觉得既然说好了存钱去旅游，那他肯定会补上的。结果旅游出发前几天，他告诉我，他把他的钱全借给他朋友了。我当时很生气，我不知道人怎么能干出这种事？他是不是觉得反正我不会缺钱花，就算旅游花销大我也不至于没钱，所以这么有恃无恐？要是我跟他装穷，他是不是就不会这样？但后来他承认错误了，并且态度很好，说以后绝对不向别人借钱，我就没提过这茬了。但我们去云南的几乎所有开销都是我一个人承担的，他说之后还我。\n在我们去云南之前，我已经一个人承担了3个月房租了，他说他没钱，让我先交着，之后就全部他来交。但我不知道他哪来的钱交，他读研课题组老师一学期就给1k劳务费，平时自己也不去兼职。前几天，我又一个人交了9月的房租。我也是学生，我也只有生活费而已，只是比较够花，我觉得他是不是在欺负我？\n今天我们吵架了，我因为一些事情不开心，他问我怎么了，我说没事，因为不想因为一些小事吵起来，我一会情绪就下去了。他就开始说，他做了一天实验，回到家感觉好压抑，也开始闹情绪。我们就吵起来了，我不想跟他待在一起，7点多的时候就直接下楼了。他发现我一个人走了，说了（p1)那样的话。\n过后我回家拿东西，想回我自己家（我在本地读研），我们又吵了一架。吵架时，他见我不顺着他的逻辑来，就直接说，你想怎样就怎样吧，然后把我一个人放在那。我拿着包就走了。就出现了p234的对话。\n我不知道在情绪上头的时候提分手对不对，但是真的特别难受。还想提问：跟男生谈恋爱，正常的开销应该是怎样的？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 16700,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 46,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "被我养了四个月的男朋友这样跟我说话 https://t.co/iiuIDNtxuk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtf\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "is_identity_verified": false,
+        "location": "喵星",
+        "most_recent_tweet_id": "2102748279981167101",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223415775278428160/1777204060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 505,
+          "like_count": 32092,
+          "listed_count": 2,
+          "media_count": 391,
+          "tweet_count": 3761
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-11T16:37:21.000Z",
+        "description": "『解答心事小问题·分享网友真实小故事·树洞知心姐姐』\n希望大家在X上开心冲浪，有事就来倾诉～",
+        "id": "1182696599216103425",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102747913936060678",
+        "name": "十一姐",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1182696599216103425/1776177534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095867124417990656/rdLlglp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106725,
+          "following_count": 1343,
+          "like_count": 1052,
+          "listed_count": 183,
+          "media_count": 323,
+          "tweet_count": 825
+        },
+        "url": "",
+        "username": "Abubaka43311470",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

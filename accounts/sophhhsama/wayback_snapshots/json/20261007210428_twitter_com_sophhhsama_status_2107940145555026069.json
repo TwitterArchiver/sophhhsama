@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2107934279586201941",
+    "created_at": "2026-10-07T21:04:28.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T22:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107940145555026069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1954816894441238528",
+          "start": 0,
+          "username": "_FishCrumb_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107940145555026069",
+    "in_reply_to_user_id": "1954816894441238528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107934279586201941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FishCrumb_ 呜—— 小咪豪"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7966,
+        "height": 1080,
+        "media_key": "13_2107934172052672512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107934172052672512/img/B9OqqIbN14njtM9P.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107934172052672512/vid/avc1/1280x720/lR2lJMGyocq99A8e.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107934172052672512/vid/avc1/1920x1080/zyJ4_fACh_S_IDZN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107934172052672512/pl/-r21dds90Vbq9uC4.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107934172052672512/vid/avc1/480x270/gnoDwa904gl4V1Rw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107934172052672512/vid/avc1/640x360/U8N-hXKJwcx8xxmb.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2107934279586201941",
+        "created_at": "2026-10-07T21:04:28.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T22:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107940145555026069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1954816894441238528",
+              "start": 0,
+              "username": "_FishCrumb_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107940145555026069",
+        "in_reply_to_user_id": "1954816894441238528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107934279586201941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FishCrumb_ 呜—— 小咪豪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107934172052672512"
+          ]
+        },
+        "author_id": "1954816894441238528",
+        "conversation_id": "2107934279586201941",
+        "created_at": "2026-10-07T20:41:10.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T21:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107934279586201941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5muuuE3Qm",
+              "end": 33,
+              "expanded_url": "https://x.com/_FishCrumb_/status/2107934279586201941/video/1",
+              "media_key": "13_2107934172052672512",
+              "start": 10,
+              "url": "https://t.co/n5muuuE3Qm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107934279586201941",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107934172052672512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人，别哭了 踩踩你 https://t.co/n5muuuE3Qm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtf\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "is_identity_verified": false,
+        "location": "喵星",
+        "most_recent_tweet_id": "2107940145555026069",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223415775278428160/1777204060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 517,
+          "like_count": 33921,
+          "listed_count": 1,
+          "media_count": 393,
+          "tweet_count": 3862
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-11T08:07:34.000Z",
+        "description": "Mtfx | 叫我魚就好\n备用X:@Fish_Crumb\nTelegram:https://t.co/zmN6Ol0ogD\nGitHub:https://t.co/JKEAM4kM8Y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Fish_Crumb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/fishcrumb520",
+                "end": 61,
+                "expanded_url": "https://t.me/fishcrumb520",
+                "start": 38,
+                "url": "https://t.co/zmN6Ol0ogD"
+              },
+              {
+                "display_url": "github.com/FishCrumb",
+                "end": 92,
+                "expanded_url": "http://github.com/FishCrumb",
+                "start": 69,
+                "url": "https://t.co/JKEAM4kM8Y"
+              }
+            ]
+          }
+        },
+        "id": "1954816894441238528",
+        "is_identity_verified": false,
+        "location": "In Dream🦈",
+        "most_recent_tweet_id": "2107934279586201941",
+        "name": "FishCrumb",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954816894441238528/1791292077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107467540423413760/Kl13BRZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 202,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "_FishCrumb_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

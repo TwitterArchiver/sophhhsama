@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1223415775278428160",
+    "conversation_id": "2108937612484563263",
+    "created_at": "2026-10-10T16:53:42.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T17:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108964198365659170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2095883239982534657",
+          "start": 0,
+          "username": "StrawMono_001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108964198365659170",
+    "in_reply_to_user_id": "2095883239982534657",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108937612484563263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StrawMono_001 🫂🫂🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2108937590363803648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HURzkJcaUAA0Aln.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2108937612484563263",
+        "created_at": "2026-10-10T16:53:42.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T17:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108964198365659170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2095883239982534657",
+              "start": 0,
+              "username": "StrawMono_001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108964198365659170",
+        "in_reply_to_user_id": "2095883239982534657",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108937612484563263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StrawMono_001 🫂🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108937590363803648"
+          ]
+        },
+        "author_id": "2095883239982534657",
+        "conversation_id": "2108937612484563263",
+        "created_at": "2026-10-10T15:08:03.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T16:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108937612484563263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/plENBUglCN",
+              "end": 33,
+              "expanded_url": "https://x.com/StrawMono_001/status/2108937612484563263/photo/1",
+              "media_key": "3_2108937590363803648",
+              "start": 10,
+              "url": "https://t.co/plENBUglCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108937612484563263",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108937590363803648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 381,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没招了\n住院……唉 https://t.co/plENBUglCN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtf\n可以叫我小猫\n避難垢はこちら @sophhhsama2 \n超级可爱的花花 @YMKxxxxxxxx\n好姐姐 @tingxinzhongyu 好朋友萌@Cheeseduck111 @djzi237149",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "YMKxxxxxxxx"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "Cheeseduck111"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "djzi237149"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "is_identity_verified": false,
+        "location": "喵星",
+        "most_recent_tweet_id": "2108964198365659170",
+        "name": "ニャンコ",
+        "pinned_tweet_id": "2061010761254641719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223415775278428160/1777204060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053204084505673730/deX_uL2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 523,
+          "like_count": 34120,
+          "listed_count": 1,
+          "media_count": 393,
+          "tweet_count": 3871
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-04T14:35:45.000Z",
+        "description": "前世@StrawMono_\nmtf / hrt 26.08.06 / 无证含糖 / 家长党 / 不od不zc不键证 / 心理委员喵，随时欢迎来倾诉\n最爱的老公@H1kar1_KNO3\n\n匿名提问 https://t.co/naLX6dPWm0\n群组 Mono酱的樱花小镇 http://t.co/fhmUptWCxj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "StrawMono_"
+              },
+              {
+                "end": 91,
+                "start": 79,
+                "username": "H1kar1_KNO3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/strawmono",
+                "end": 121,
+                "expanded_url": "http://ngl.link/strawmono",
+                "start": 98,
+                "url": "https://t.co/naLX6dPWm0"
+              },
+              {
+                "display_url": "t.me/MonoTransTown",
+                "end": 158,
+                "expanded_url": "http://t.me/MonoTransTown",
+                "start": 136,
+                "url": "http://t.co/fhmUptWCxj"
+              }
+            ]
+          }
+        },
+        "id": "2095883239982534657",
+        "is_identity_verified": false,
+        "location": "t.me/StrawMono",
+        "most_recent_tweet_id": "2108937612484563263",
+        "name": "草莓味精StrawMono🏳️‍⚧️🍥(二代目)",
+        "pinned_tweet_id": "2097354273860534535",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095883239982534657/1788533025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095883636847554560/jpKQhp6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 304,
+          "like_count": 736,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "StrawMono_001",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
